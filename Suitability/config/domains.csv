@@ -1,0 +1,7 @@
+﻿Number,Type,Sub-types,Acronym
+1,Manual-physical,Warehouse or logistics,WL
+2,Manual-physical,"Manufacture, maintenance, or repair",MMR
+3,Computer-digital,"Numerical, data, or programming",NDP
+4,Computer-office,"Admin, organisational, or planning",AOP
+5,Computer-office,"Customer service, marketing or HR",CMH
+6,Face-to-face,"Hospitality, sales, or client care",HSC

@@ -1,0 +1,6 @@
+,Causal Reasoning,Cognitive Flexibility,Emotion Perception and Empathy,Episodic Memory,Functional Perception,Attention and Inhibitory Control,Language,Mental Simulation,Metacognition,Object Permanence,Perception and Pattern Recognition,Planning,Procedural Memory,Prospective Memory,Semantic Memory,Spatial Reasoning and Navigation,Theory of Mind,Working Memory
+strong_generalist,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+weak_generalist,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5,1.5
+social_specialist,1.0,1.0,1.0,1.0,1.0,1.0,5.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,5.0,1.0
+strategic_specialist,1.0,1.0,1.0,1.0,1.0,1.0,1.0,5.0,1.0,1.0,1.0,5.0,1.0,1.0,1.0,1.0,1.0,1.0
+physical_specialist,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,5.0,1.0,1.0,5.0,1.0,1.0

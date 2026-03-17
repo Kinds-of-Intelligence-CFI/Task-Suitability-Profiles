@@ -1,0 +1,19 @@
+﻿Number,Task,Example,Heading
+1,Finding out information,"learning about latest developments, researching a product or client",Researching
+2,Checking quality,"inspecting products or documents, interviewing staff or reviewing their performance, ensuring compliance with regulations or guidelines",Checking
+3,Making decisions,"deciding project goals, choosing between different plans or options",Decision making
+4,Solving problems,"finding ways to overcome roadblocks, fix issues in software or machines, or resolve conflict",Problem solving
+5,Thinking creatively,"coming up with new ideas for products or marketing, innovating ",Creative thinking
+6,Long-term planning,"considering the overall goals for a project, setting objectives, strategising",LT planning
+7,Short-term planning,"scheduling your time, deciding which tasks are most important and the order they should be completed",ST planning
+8,Working with tools or materials,"using physical tools or machines, using your hands to move, alter or affect physical objects",Tool use
+9,Using computer software,"interacting with computer software, email or apps to communicate or complete a task",Computer use
+10,Writing code ,"creating programmes or interacting with a computer using a programming language, instead of a user interface",Coding
+11,Manipulating or organising data,"structuring, processing or cleaning data for storage or later use",Data manipulation
+12,Interpreting or analysing data,"running statistical tests, consulting graphs, drawing insights",Analysing data
+13,Communicating ideas or instructions to others,"speaking to colleagues, writing articles, delivering a sales pitch",Communicating
+14,Interpreting ideas or instructions communicated by others,"taking instructions, reading documents, listening to feedback",Listening
+15,Developing relationships with others,"developing rapport with clients or colleagues, nurturing existing relationships",Building rapport
+16,Managing others,"training new or junior staff, delivering advice, supervising, mentoring",Managing people
+17,Managing resources,"monitoring expenses, working within a budget, ensuring adequate supplies",Managing resources
+18,Documenting information,"keeping records on what was said or done or how resources were used, cataloguing",Admin

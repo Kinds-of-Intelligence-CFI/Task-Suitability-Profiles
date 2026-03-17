@@ -1,0 +1,151 @@
+dataset name,sample id,primary_capability,primary_d_level,Causal Reasoning,Cognitive Flexibility,Episodic Memory,Functional Perception,Inhibitory Control,Language,Mental Simulation,Metacognition,Perception and Pattern Recognition,Planning,Procedural Memory,Semantic Memory,Spatial Reasoning and Navigation,Theory of Mind,Working Memory
+BigToM,4098,Causal Reasoning,1,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0
+INTUIT,3979,Causal Reasoning,1,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+EmoBench,ea_105_zh,Causal Reasoning,2,2.0,0.0,0.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,0.0,2.0,0.0,1.0,1.0
+Plan_Bench,blocksworld_task_8_2_full_to_partial_403,Causal Reasoning,2,2.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,0.0,2.0,2.0,1.0,2.0,0.0,2.0
+Plan_Bench,mystery_blocksworld_3_task_8_3_partial_to_full_49,Causal Reasoning,3,3.0,3.0,0.0,3.0,3.0,2.0,2.0,3.0,3.0,2.0,3.0,0.0,0.0,0.0,3.0
+AGIEval_mcq,3239,Causal Reasoning,3,3.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,0.0,1.0,0.0,0.0,2.0
+Crow,677,Causal Reasoning,4,4.0,2.0,0.0,1.0,3.0,2.0,1.0,3.0,2.0,0.0,0.0,3.0,0.0,2.0,2.0
+Crow,1183,Causal Reasoning,4,4.0,4.0,0.0,2.0,2.0,3.0,3.0,4.0,4.0,0.0,0.0,3.0,0.0,2.0,2.0
+INTUIT,1560,Causal Reasoning,1,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0
+INTUIT,1901,Causal Reasoning,1,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+Fantom,1518,Cognitive Flexibility,2,1.0,2.0,0.0,1.0,1.0,1.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+INTUIT,5221,Cognitive Flexibility,2,1.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,1.0,2.0
+StepGame,stepgame_40af0a3f,Cognitive Flexibility,3,0.0,3.0,0.0,2.0,1.0,2.0,2.0,3.0,3.0,1.0,2.0,2.0,3.0,0.0,3.0
+LLM_BabyBench_plan,babybench_plan_a969ada5,Cognitive Flexibility,3,1.0,3.0,0.0,2.0,2.0,1.0,2.0,3.0,3.0,2.0,3.0,2.0,3.0,0.0,3.0
+Plan_Bench,logistics_task_8_2_full_to_partial_32,Cognitive Flexibility,4,1.0,4.0,3.0,3.0,1.0,0.0,3.0,3.0,2.0,3.0,4.0,3.0,3.0,0.0,4.0
+MetaMedQA,metamedqa_b65bcc33,Cognitive Flexibility,4,3.0,4.0,0.0,2.0,3.0,2.0,0.0,3.0,3.0,1.0,4.0,4.0,0.0,0.0,3.0
+Plan_Bench,mystery_blocksworld_task_6_replanning_226,Cognitive Flexibility,5,2.0,5.0,3.0,3.0,3.0,3.0,3.0,3.0,4.0,3.0,4.0,0.0,0.0,0.0,4.0
+Plan_Bench,mystery_blocksworld_task_6_replanning_328,Cognitive Flexibility,5,3.0,5.0,2.0,3.0,3.0,3.0,2.0,4.0,3.0,3.0,3.0,2.0,0.0,0.0,4.0
+INTUIT,5056,Episodic Memory,1,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+OpenTOM,11269,Episodic Memory,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0
+EmoBench,eu_cause_77_zh,Episodic Memory,2,1.0,0.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0,1.0
+Fantom,1407,Episodic Memory,2,1.0,1.0,2.0,2.0,2.0,2.0,0.0,2.0,1.0,1.0,1.0,2.0,0.0,2.0,2.0
+StepGame,stepgame_b270fbde,Cognitive Flexibility,3,0.0,3.0,3.0,3.0,3.0,2.0,1.0,3.0,3.0,2.0,0.0,0.0,2.0,0.0,3.0
+INTUIT,5703,Episodic Memory,3,1.0,2.0,3.0,2.0,2.0,3.0,1.0,2.0,2.0,1.0,0.0,2.0,1.0,3.0,3.0
+StepGame,stepgame_043b0487,Episodic Memory,4,0.0,3.0,4.0,3.0,3.0,2.0,2.0,3.0,3.0,2.0,3.0,1.0,4.0,0.0,4.0
+StepGame,stepgame_3ba07fb5,Cognitive Flexibility,4,0.0,4.0,4.0,1.0,3.0,3.0,2.0,3.0,3.0,1.0,3.0,2.0,3.0,0.0,4.0
+Fantom,531,Causal Reasoning,1,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+CoQA,3hfnh7hemhei4jimtkd1pojg5i6qgk_4,Functional Perception,1,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+Crow,8293,Functional Perception,2,1.0,0.0,0.0,2.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+Fantom,3707,Functional Perception,2,0.0,0.0,1.0,2.0,2.0,2.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,2.0,2.0
+Text_Navigation,957,Functional Perception,3,0.0,2.0,0.0,3.0,2.0,0.0,1.0,3.0,2.0,2.0,3.0,1.0,2.0,0.0,3.0
+MacGyver,769,Cognitive Flexibility,3,1.0,3.0,0.0,3.0,1.0,2.0,2.0,2.0,2.0,1.0,2.0,3.0,2.0,0.0,2.0
+MacGyver,1229,Functional Perception,4,2.0,3.0,2.0,4.0,2.0,2.0,2.0,3.0,3.0,2.0,2.0,3.0,2.0,0.0,3.0
+MacGyver,1417,Functional Perception,4,1.0,0.0,0.0,4.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,0.0,1.0
+MacGyver,1152,Functional Perception,5,2.0,4.0,0.0,5.0,1.0,2.0,2.0,4.0,3.0,2.0,3.0,2.0,3.0,0.0,3.0
+MacGyver,272,Functional Perception,5,2.0,3.0,0.0,5.0,3.0,2.0,2.0,3.0,3.0,2.0,3.0,4.0,2.0,0.0,4.0
+EmoBench,eu_emo_160_en,Causal Reasoning,1,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+BigBenchHard,1197,Functional Perception,1,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+BigToM,1335,Inhibitory Control,2,1.0,0.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,2.0,1.0
+Fantom,3381,Inhibitory Control,2,0.0,1.0,1.0,0.0,2.0,2.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+MetaMedQA,metamedqa_212d079a,Functional Perception,3,2.0,1.0,0.0,3.0,3.0,3.0,0.0,2.0,3.0,0.0,1.0,3.0,0.0,0.0,3.0
+StepGame,stepgame_470df64a,Inhibitory Control,3,0.0,2.0,1.0,2.0,3.0,2.0,1.0,3.0,3.0,1.0,2.0,2.0,2.0,0.0,3.0
+EmoBench,ea_114_zh,Cognitive Flexibility,4,1.0,4.0,0.0,3.0,4.0,2.0,2.0,3.0,1.0,2.0,0.0,3.0,0.0,3.0,1.0
+Plan_Bench,mystery_blocksworld_task_7_plan_execution_335,Cognitive Flexibility,4,2.0,4.0,2.0,3.0,4.0,2.0,3.0,3.0,3.0,2.0,3.0,0.0,0.0,0.0,3.0
+MetaMedQA,metamedqa_9edab9ff,Inhibitory Control,5,3.0,1.0,0.0,3.0,5.0,3.0,3.0,4.0,3.0,0.0,3.0,4.0,0.0,3.0,4.0
+Crow,8342,Inhibitory Control,5,1.0,0.0,0.0,1.0,5.0,1.0,1.0,4.0,0.0,0.0,1.0,2.0,1.0,1.0,0.0
+OpenTOM,2818,Causal Reasoning,1,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+EWoK,ewok_24d9aed2_1,Causal Reasoning,1,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+Fantom,732,Episodic Memory,2,0.0,1.0,2.0,1.0,2.0,2.0,0.0,2.0,1.0,0.0,0.0,2.0,0.0,2.0,2.0
+BigToM,1137,Language,2,1.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0,0.0
+Crow,11375,Language,3,0.0,1.0,0.0,2.0,1.0,3.0,0.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,1.0
+Fantom,905,Episodic Memory,3,1.0,2.0,3.0,3.0,2.0,3.0,1.0,3.0,2.0,0.0,2.0,2.0,0.0,3.0,2.0
+AGIEval_mcq,5105,Language,4,3.0,2.0,0.0,3.0,3.0,4.0,0.0,3.0,3.0,0.0,2.0,3.0,0.0,1.0,2.0
+MetaMedQA,metamedqa_8fe4aa74,Functional Perception,4,3.0,2.0,0.0,4.0,1.0,4.0,0.0,2.0,4.0,0.0,0.0,4.0,0.0,0.0,3.0
+Crow,8197,Causal Reasoning,1,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0
+Crow,3542,Causal Reasoning,1,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+MacGyver,69,Cognitive Flexibility,2,1.0,2.0,0.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,1.0,0.0,2.0
+LLM_BabyBench_predict,babybench_predict_7f3b895c,Mental Simulation,2,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0
+Plan_Bench,blocksworld_task_6_replanning_364,Cognitive Flexibility,3,2.0,3.0,2.0,3.0,2.0,3.0,3.0,3.0,3.0,2.0,3.0,1.0,3.0,0.0,3.0
+Text_Navigation,614,Functional Perception,3,0.0,0.0,0.0,3.0,0.0,1.0,3.0,1.0,2.0,2.0,1.0,2.0,2.0,0.0,3.0
+Plan_Bench,logistics_task_8_1_goal_shuffling_175,Cognitive Flexibility,4,2.0,4.0,2.0,3.0,3.0,1.0,4.0,4.0,3.0,3.0,4.0,3.0,4.0,0.0,4.0
+Plan_Bench,obfuscated_deceptive_logistics_task_2_plan_optimality_103,Cognitive Flexibility,4,3.0,4.0,2.0,3.0,3.0,3.0,4.0,4.0,3.0,3.0,4.0,0.0,0.0,0.0,4.0
+SocialNorm,socialnorm_0e408e66,Functional Perception,1,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+Crow,8097,Causal Reasoning,1,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+Crow,2237,Inhibitory Control,2,1.0,0.0,1.0,1.0,2.0,1.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0
+Fantom,2565,Language,2,0.0,0.0,1.0,1.0,1.0,2.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,2.0,1.0
+Text_Navigation,349,Episodic Memory,3,0.0,2.0,3.0,3.0,0.0,1.0,2.0,3.0,1.0,1.0,3.0,1.0,3.0,0.0,3.0
+BigBenchHard,881,Metacognition,3,0.0,0.0,0.0,0.0,2.0,2.0,2.0,3.0,3.0,1.0,2.0,1.0,3.0,0.0,3.0
+Plan_Bench,obfuscated_deceptive_logistics_task_2_plan_optimality_191,Cognitive Flexibility,4,2.0,4.0,3.0,3.0,3.0,1.0,3.0,4.0,3.0,3.0,4.0,3.0,0.0,0.0,3.0
+AGIEval_freeform,123,Metacognition,4,0.0,3.0,0.0,3.0,3.0,1.0,3.0,4.0,3.0,2.0,3.0,3.0,3.0,0.0,4.0
+Plan_Bench,obfuscated_deceptive_logistics_task_1_plan_generation_41,Metacognition,5,2.0,4.0,3.0,3.0,3.0,3.0,3.0,5.0,3.0,3.0,4.0,0.0,2.0,0.0,4.0
+Plan_Bench,obfuscated_deceptive_logistics_task_1_plan_generation_96,Metacognition,5,2.0,3.0,0.0,3.0,2.0,1.0,3.0,5.0,4.0,3.0,3.0,2.0,0.0,0.0,4.0
+INTUIT,3734,Causal Reasoning,1,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+EWoK,ewok_8c01f914_2,Causal Reasoning,1,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0
+Fantom,305,Cognitive Flexibility,2,1.0,2.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,2.0,2.0
+INTUIT,2770,Episodic Memory,2,1.0,0.0,2.0,1.0,1.0,2.0,0.0,1.0,2.0,0.0,0.0,2.0,0.0,1.0,2.0
+MetaMedQA,metamedqa_b4e0ba92,Cognitive Flexibility,3,2.0,3.0,0.0,3.0,2.0,2.0,0.0,3.0,3.0,0.0,1.0,3.0,0.0,0.0,3.0
+MetaMedQA,metamedqa_00a9a016,Inhibitory Control,3,2.0,1.0,0.0,2.0,3.0,3.0,0.0,3.0,3.0,0.0,0.0,3.0,0.0,0.0,2.0
+MetaMedQA,metamedqa_453842aa,Perception and Pattern Recognition,4,3.0,3.0,3.0,3.0,3.0,3.0,2.0,3.0,4.0,0.0,0.0,3.0,0.0,0.0,4.0
+LLM_BabyBench_decompose,babybench_decompose_936aec4e,Inhibitory Control,4,1.0,3.0,3.0,3.0,4.0,2.0,3.0,3.0,4.0,2.0,3.0,0.0,3.0,0.0,4.0
+Crow,6190,Causal Reasoning,1,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Crow,9416,Causal Reasoning,1,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+LLM_BabyBench_plan,babybench_plan_5483dd4c,Functional Perception,2,1.0,0.0,0.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,0.0,2.0
+Plan_Bench,logistics_task_8_2_full_to_partial_9,Episodic Memory,2,1.0,1.0,2.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,0.0,2.0
+LLM_BabyBench_plan,babybench_plan_218dd0bd,Cognitive Flexibility,3,1.0,3.0,1.0,2.0,2.0,1.0,2.0,3.0,3.0,3.0,3.0,1.0,3.0,0.0,3.0
+Text_Navigation,622,Metacognition,3,0.0,2.0,0.0,0.0,1.0,0.0,1.0,3.0,2.0,3.0,3.0,0.0,3.0,0.0,3.0
+Plan_Bench,logistics_task_6_replanning_224,Cognitive Flexibility,4,2.0,4.0,0.0,3.0,3.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,0.0,4.0
+Plan_Bench,obfuscated_deceptive_logistics_task_1_plan_generation_265,Causal Reasoning,4,4.0,3.0,4.0,3.0,3.0,2.0,3.0,3.0,3.0,4.0,4.0,0.0,2.0,0.0,3.0
+BigBenchHard,272,Inhibitory Control,1,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0
+Crow,7137,Causal Reasoning,1,1.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+BigBenchHard,5659,Cognitive Flexibility,2,0.0,2.0,0.0,0.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,0.0,2.0
+AGIEval_freeform,846,Procedural Memory,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,2.0,2.0,0.0,0.0,1.0
+Plan_Bench,blocksworld_task_3_plan_verification_143,Inhibitory Control,3,2.0,0.0,2.0,2.0,3.0,2.0,2.0,3.0,3.0,2.0,3.0,2.0,2.0,0.0,3.0
+Plan_Bench,blocksworld_task_8_1_goal_shuffling_366,Functional Perception,3,1.0,0.0,1.0,3.0,1.0,1.0,2.0,1.0,2.0,2.0,3.0,1.0,2.0,0.0,2.0
+Plan_Bench,depots_task_1_plan_generation_88,Cognitive Flexibility,4,2.0,4.0,1.0,3.0,2.0,2.0,3.0,3.0,3.0,2.0,4.0,3.0,3.0,0.0,3.0
+Plan_Bench,depots_task_1_plan_generation_198,Procedural Memory,4,2.0,3.0,0.0,3.0,1.0,2.0,3.0,3.0,3.0,2.0,4.0,2.0,3.0,0.0,4.0
+Plan_Bench,mystery_blocksworld_task_6_replanning_251,Procedural Memory,5,2.0,4.0,2.0,3.0,2.0,2.0,3.0,3.0,3.0,3.0,5.0,1.0,1.0,0.0,4.0
+Plan_Bench,logistics_task_1_plan_generation_283,Procedural Memory,5,2.0,4.0,3.0,3.0,3.0,2.0,3.0,3.0,3.0,3.0,5.0,2.0,4.0,0.0,4.0
+OpenTOM,3940,Causal Reasoning,1,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+Crow,1426,Causal Reasoning,1,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+MacGyver,1387,Functional Perception,2,1.0,0.0,0.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,2.0,1.0,0.0,2.0
+CoQA,3s96kq6i9m4skf0n8y6oo8r6cu4dtk_4,Semantic Memory,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,0.0,2.0
+Abstract_Narrative_Understanding,920,Semantic Memory,3,1.0,1.0,0.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,3.0,0.0,1.0,2.0
+Crow,3850,Language,3,1.0,0.0,1.0,2.0,0.0,3.0,0.0,1.0,1.0,0.0,0.0,3.0,1.0,2.0,3.0
+Crow,11607,Semantic Memory,4,1.0,2.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,4.0,0.0,0.0,1.0
+MetaMedQA,metamedqa_804937b6,Semantic Memory,4,2.0,3.0,0.0,2.0,3.0,3.0,0.0,2.0,3.0,1.0,0.0,4.0,0.0,0.0,3.0
+MetaMedQA,metamedqa_c121c9d7,Semantic Memory,5,3.0,3.0,0.0,4.0,1.0,3.0,0.0,4.0,4.0,2.0,0.0,5.0,0.0,0.0,4.0
+MetaMedQA,metamedqa_f3cbe40d,Semantic Memory,5,1.0,3.0,0.0,3.0,3.0,2.0,0.0,4.0,1.0,0.0,0.0,5.0,0.0,0.0,2.0
+INTUIT,2889,Episodic Memory,1,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0
+INTUIT,3000,Causal Reasoning,1,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+INTUIT,3335,Causal Reasoning,2,2.0,2.0,0.0,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0
+OpenTOM,11750,Spatial Reasoning and Navigation,2,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,2.0,2.0,1.0
+AGIEval_mcq,901,Cognitive Flexibility,3,2.0,3.0,0.0,3.0,3.0,2.0,3.0,3.0,3.0,2.0,3.0,0.0,3.0,0.0,3.0
+Plan_Bench,logistics_task_1_plan_generation_4,Functional Perception,3,1.0,2.0,2.0,3.0,1.0,2.0,2.0,3.0,3.0,2.0,3.0,2.0,3.0,0.0,3.0
+LLM_BabyBench_predict,babybench_predict_e7f5b41c,Spatial Reasoning and Navigation,4,1.0,3.0,3.0,1.0,1.0,2.0,3.0,2.0,3.0,3.0,3.0,1.0,4.0,0.0,4.0
+StepGame,stepgame_ad4f5334,Spatial Reasoning and Navigation,4,0.0,2.0,3.0,3.0,2.0,2.0,3.0,3.0,3.0,2.0,3.0,2.0,4.0,0.0,4.0
+INTUIT,272,Functional Perception,1,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Crow,7703,Functional Perception,1,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Crow,3552,Metacognition,2,0.0,0.0,0.0,1.0,0.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,0.0,2.0,2.0
+OpenTOM,8220,Theory of Mind,2,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,2.0,1.0
+BigToM,3265,Functional Perception,3,1.0,1.0,1.0,3.0,2.0,1.0,1.0,2.0,2.0,0.0,0.0,1.0,0.0,3.0,1.0
+OpenTOM,11327,Semantic Memory,3,1.0,0.0,2.0,0.0,1.0,2.0,1.0,0.0,2.0,0.0,0.0,3.0,2.0,3.0,2.0
+BigBenchHard,2521,Theory of Mind,4,1.0,2.0,0.0,0.0,2.0,2.0,2.0,3.0,3.0,1.0,3.0,0.0,0.0,4.0,3.0
+BigBenchHard,2664,Theory of Mind,4,2.0,2.0,0.0,0.0,1.0,2.0,2.0,3.0,1.0,0.0,3.0,0.0,0.0,4.0,3.0
+BigBenchHard,2593,Theory of Mind,5,1.0,2.0,0.0,3.0,2.0,2.0,2.0,3.0,3.0,1.0,3.0,0.0,0.0,5.0,3.0
+BigBenchHard,2456,Theory of Mind,5,1.0,2.0,0.0,0.0,1.0,1.0,2.0,3.0,2.0,0.0,2.0,1.0,0.0,5.0,3.0
+CoQA,3sb4ce2tjvv13p6vtygjna464i1axu_20,Episodic Memory,1,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+Crow,3865,Episodic Memory,1,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+Fantom,2764,Episodic Memory,2,1.0,1.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0
+Fantom,3101,Language,2,0.0,0.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0
+AGIEval_mcq,478,Metacognition,3,0.0,2.0,0.0,1.0,1.0,2.0,0.0,3.0,3.0,2.0,3.0,3.0,1.0,0.0,3.0
+Text_Navigation,1168,Procedural Memory,3,0.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,3.0,1.0,3.0,0.0,3.0
+LLM_BabyBench_predict,babybench_predict_f4b41066,Perception and Pattern Recognition,4,2.0,3.0,3.0,2.0,3.0,2.0,3.0,3.0,4.0,3.0,4.0,1.0,3.0,0.0,4.0
+Plan_Bench,logistics_task_3_plan_verification_208,Cognitive Flexibility,4,3.0,4.0,3.0,3.0,2.0,2.0,2.0,3.0,2.0,3.0,4.0,2.0,3.0,0.0,4.0
+StepGame,stepgame_b9fcc06e,Working Memory,5,0.0,4.0,2.0,2.0,3.0,2.0,2.0,3.0,3.0,2.0,3.0,2.0,4.0,0.0,5.0
+Plan_Bench,obfuscated_deceptive_logistics_task_1_plan_generation_175,Working Memory,5,2.0,3.0,3.0,3.0,2.0,2.0,3.0,4.0,4.0,3.0,4.0,2.0,3.0,0.0,5.0
+AGIEval_freeform,424,Semantic Memory,4,0.0,0.0,0.0,0.0,0.0,3.0,0.0,3.0,3.0,2.0,3.0,4.0,0.0,0.0,0.0
+Plan_Bench,mystery_blocksworld_task_3_plan_verification_394,Working Memory,4,2.0,3.0,0.0,3.0,2.0,3.0,3.0,3.0,1.0,3.0,3.0,3.0,0.0,0.0,4.0
+AGIEval_freeform,725,Perception and Pattern Recognition,4,0.0,0.0,0.0,2.0,2.0,0.0,0.0,3.0,4.0,0.0,3.0,4.0,0.0,0.0,3.0
+EmoBench,ea_163_en,Inhibitory Control,3,1.0,0.0,0.0,2.0,3.0,1.0,1.0,1.0,2.0,2.0,0.0,2.0,0.0,2.0,0.0
+Crow,290,Mental Simulation,4,3.0,3.0,0.0,3.0,1.0,2.0,4.0,3.0,3.0,0.0,1.0,3.0,0.0,1.0,0.0
+MetaMedQA,metamedqa_c55af53e,Cognitive Flexibility,5,0.0,5.0,0.0,3.0,3.0,3.0,2.0,2.0,0.0,0.0,0.0,4.0,0.0,0.0,3.0
+INTUIT,5154,Cognitive Flexibility,3,0.0,3.0,0.0,1.0,2.0,1.0,0.0,0.0,2.0,0.0,1.0,2.0,0.0,1.0,0.0
+Crow,3506,Language,3,1.0,1.0,2.0,2.0,0.0,3.0,2.0,2.0,1.0,3.0,0.0,3.0,0.0,2.0,2.0
+MetaMedQA,metamedqa_8b3eb439,Semantic Memory,5,3.0,0.0,0.0,3.0,1.0,4.0,4.0,4.0,4.0,0.0,0.0,5.0,0.0,0.0,4.0
+MetaMedQA,metamedqa_90f47715,Perception and Pattern Recognition,4,3.0,0.0,0.0,2.0,2.0,1.0,0.0,1.0,4.0,0.0,0.0,4.0,0.0,0.0,4.0
+AGIEval_freeform,767,Cognitive Flexibility,3,0.0,3.0,0.0,2.0,2.0,0.0,2.0,3.0,3.0,0.0,3.0,3.0,0.0,0.0,3.0
+Plan_Bench,logistics_task_1_plan_generation_150,Procedural Memory,4,2.0,2.0,3.0,2.0,1.0,2.0,3.0,3.0,0.0,2.0,4.0,2.0,4.0,0.0,4.0
+BigToM,3661,Procedural Memory,4,1.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,4.0,1.0,2.0,1.0,0.0
+StepGame,stepgame_38977733,Working Memory,4,0.0,2.0,0.0,1.0,2.0,2.0,2.0,1.0,1.0,2.0,3.0,1.0,1.0,0.0,4.0
