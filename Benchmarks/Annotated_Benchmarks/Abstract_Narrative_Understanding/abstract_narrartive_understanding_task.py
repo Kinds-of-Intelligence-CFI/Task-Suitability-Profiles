@@ -9,7 +9,7 @@ from inspect_ai.scorer import choice
 from inspect_ai.solver import Choices, multiple_choice
 from inspect_ai._util.answer import answer_character, answer_index
 
-from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations, versioned_output_path, DEFAULT_MODEL
 from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 SINGLE_ANSWER_TEMPLATE_COT = r"""
@@ -114,7 +114,7 @@ def convert_input_to_string(dataset: Dataset) -> Dataset:
 
     return dataset
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = ""):
     dataset_path = os.path.join(Path(__file__).parent, "abstract_narrative_understanding.json")
     output_path = os.path.join(Path(__file__).parent, "abstract_narrative_understanding_annotations.csv")
     dataset = custom_loader(dataset_path=dataset_path)
@@ -139,8 +139,10 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
         dataset = dataset[:num_samples]
 
     annotation_task = annotate_task(dataset)
-    log = eval(annotation_task, model="openai/azure/gpt-4o" )
-    extract_annotations(log[0], output_path, mode)
+    log = eval(annotation_task, model=model)
+    if timestamp:
+        output_path = versioned_output_path(output_path, model, timestamp)
+    extract_annotations(log[0], output_path, "overwrite" if timestamp else mode)
 
 if __name__ == "__main__":
     annotate()

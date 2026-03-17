@@ -12,6 +12,27 @@ from inspect_ai.solver import system_message
 
 from Benchmarks.Annotations.annotation_agent import annotation_agent
 
+DEFAULT_MODEL = "openai/azure/gpt-4o"
+
+
+def sanitize_model_name(model: str) -> str:
+    """Replace slashes with double underscores for filesystem safety."""
+    return model.replace("/", "__")
+
+
+def versioned_output_path(base_output_path: str, model: str, timestamp: str) -> str:
+    """Compute a versioned output path in an annotations/ subfolder.
+
+    Given base_output_path like '.../BigBenchHard/bigbenchhard_annotations.csv',
+    returns '.../BigBenchHard/annotations/bigbenchhard_annotations_openai__azure__gpt-4o_20260317_143022.csv'
+    """
+    parent_dir = os.path.dirname(base_output_path)
+    base_name = os.path.splitext(os.path.basename(base_output_path))[0]
+    safe_model = sanitize_model_name(model)
+    annotations_dir = os.path.join(parent_dir, "annotations")
+    os.makedirs(annotations_dir, exist_ok=True)
+    return os.path.join(annotations_dir, f"{base_name}_{safe_model}_{timestamp}.csv")
+
 DEFAULT_SYSTEM_MESSAGE = """You are an excellent annotation agent that labels benchmark instances using the instructions and rubric (if provided). Your goal is to assign a single integer score that reflects the dimension being evaluated (e.g., capability demand, factuality, ambiguity).
 
 Reason through the instructions, the benchmark instance and the rubric (if provided) before deciding on a score.

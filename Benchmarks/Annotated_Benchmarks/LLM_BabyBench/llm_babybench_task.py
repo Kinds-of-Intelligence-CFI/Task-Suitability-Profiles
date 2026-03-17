@@ -8,7 +8,7 @@ from inspect_ai.scorer import Score, Scorer, Target, accuracy, choice, includes,
 from inspect_ai.solver import Choices, TaskState, basic_agent, generate, multiple_choice
 from inspect_ai._util.answer import answer_character
 
-from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations, versioned_output_path, DEFAULT_MODEL
 from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 from Benchmarks.Annotated_Benchmarks.LLM_BabyBench.decompose import DecomposeEvaluator
 from Benchmarks.Annotated_Benchmarks.LLM_BabyBench.plan import PlanEvaluator
@@ -198,7 +198,7 @@ def decompose_task() -> Task:
                 )
 
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = ""):
     # Annotate predict task
     output_path_predict = os.path.join(Path(__file__).parent, "llm_babybench_predict_annotations.csv")
     dataset_predict = hf_dataset("salem-mbzuai/LLM-BabyBench",
@@ -222,14 +222,16 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
             # Take only what we need
             dataset_predict = dataset_predict[:min(num_samples, remaining_samples)]
             annotation_task = annotate_task(dataset_predict)
-            log = eval(annotation_task, model="openai/azure/gpt-4o")
-            extract_annotations(log[0], output_path_predict, mode)
+            log = eval(annotation_task, model=model)
+            predict_out = versioned_output_path(output_path_predict, model, timestamp) if timestamp else output_path_predict
+            extract_annotations(log[0], predict_out, "overwrite" if timestamp else mode)
     else:
         # Overwrite mode - take first num_samples after shuffle
         dataset_predict = dataset_predict[:num_samples]
         annotation_task = annotate_task(dataset_predict)
-        log = eval(annotation_task, model="openai/azure/gpt-4o")
-        extract_annotations(log[0], output_path_predict, mode)
+        log = eval(annotation_task, model=model)
+        predict_out = versioned_output_path(output_path_predict, model, timestamp) if timestamp else output_path_predict
+        extract_annotations(log[0], predict_out, "overwrite" if timestamp else mode)
 
     # Annotate plan task
     output_path_plan = os.path.join(Path(__file__).parent, "llm_babybench_plan_annotations.csv")
@@ -254,14 +256,16 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
             # Take only what we need
             dataset_plan = dataset_plan[:min(num_samples, remaining_samples_plan)]
             annotation_task = annotate_task(dataset_plan)
-            log = eval(annotation_task, model="openai/azure/gpt-4o")
-            extract_annotations(log[0], output_path_plan, mode)
+            log = eval(annotation_task, model=model)
+            plan_out = versioned_output_path(output_path_plan, model, timestamp) if timestamp else output_path_plan
+            extract_annotations(log[0], plan_out, "overwrite" if timestamp else mode)
     else:
         # Overwrite mode - take first num_samples after shuffle
         dataset_plan = dataset_plan[:num_samples]
         annotation_task = annotate_task(dataset_plan)
-        log = eval(annotation_task, model="openai/azure/gpt-4o")
-        extract_annotations(log[0], output_path_plan, mode)
+        log = eval(annotation_task, model=model)
+        plan_out = versioned_output_path(output_path_plan, model, timestamp) if timestamp else output_path_plan
+        extract_annotations(log[0], plan_out, "overwrite" if timestamp else mode)
 
     # Annotate decompose task
     output_path_decompose = os.path.join(Path(__file__).parent, "llm_babybench_decompose_annotations.csv")
@@ -286,14 +290,16 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
             # Take only what we need
             dataset_decompose = dataset_decompose[:min(num_samples, remaining_samples_decompose)]
             annotation_task = annotate_task(dataset_decompose)
-            log = eval(annotation_task, model="openai/azure/gpt-4o")
-            extract_annotations(log[0], output_path_decompose, mode)
+            log = eval(annotation_task, model=model)
+            decompose_out = versioned_output_path(output_path_decompose, model, timestamp) if timestamp else output_path_decompose
+            extract_annotations(log[0], decompose_out, "overwrite" if timestamp else mode)
     else:
         # Overwrite mode - take first num_samples after shuffle
         dataset_decompose = dataset_decompose[:num_samples]
         annotation_task = annotate_task(dataset_decompose)
-        log = eval(annotation_task, model="openai/azure/gpt-4o")
-        extract_annotations(log[0], output_path_decompose, mode)
+        log = eval(annotation_task, model=model)
+        decompose_out = versioned_output_path(output_path_decompose, model, timestamp) if timestamp else output_path_decompose
+        extract_annotations(log[0], decompose_out, "overwrite" if timestamp else mode)
 
 
 if __name__ == "__main__":

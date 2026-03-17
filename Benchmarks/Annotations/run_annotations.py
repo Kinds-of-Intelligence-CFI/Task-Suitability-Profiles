@@ -14,10 +14,12 @@ import os
 import subprocess
 import sys
 import time
+from datetime import datetime
 from pathlib import Path
 from typing import List, Optional
 
 from Benchmarks.Annotations.convert_rubrics import convert_rubrics_to_json
+from Benchmarks.Annotations.annotate_tasks import DEFAULT_MODEL
 
 DEFAULT_NUM_SAMPLES = 10
 
@@ -125,7 +127,7 @@ def get_task_name(task_file: str) -> str:
     return os.path.basename(os.path.dirname(task_file))
 
 
-def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = False, num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite") -> bool:
+def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = False, num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = "") -> bool:
     """
     Run a single task file and return True if successful.
 
@@ -135,18 +137,20 @@ def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = Fals
         verbose: If True, show live output from the subprocess
         num_samples: Number of samples to use for annotation
         mode: Annotation mode - "overwrite" or "append"
+        model: Model to use for annotation
+        timestamp: Shared timestamp for this annotation run
 
     Returns:
         True if the task completed successfully, False otherwise
     """
     task_name = get_task_name(task_file)
-    print(f"[{task_name}] Starting annotation task (mode: {mode}, samples: {num_samples})...")
+    print(f"[{task_name}] Starting annotation task (mode: {mode}, model: {model}, samples: {num_samples})...")
 
     start_time = time.time()
 
     # Create the command to import the module and call annotate()
     module_name = os.path.splitext(os.path.basename(task_file))[0]
-    import_cmd = f"import sys; sys.path.insert(0, '.'); from {module_name} import annotate; annotate({num_samples}, '{mode}')"
+    import_cmd = f"import sys; sys.path.insert(0, '.'); from {module_name} import annotate; annotate({num_samples}, '{mode}', '{model}', '{timestamp}')"
 
     try:
         if verbose:
@@ -249,6 +253,11 @@ Examples:
         default="overwrite",
         help="Annotation mode: 'overwrite' replaces existing annotations, 'append' adds only new annotations (default: overwrite)"
     )
+    parser.add_argument(
+        "--model",
+        default=DEFAULT_MODEL,
+        help=f"Model to use for annotation (default: {DEFAULT_MODEL})"
+    )
 
     args = parser.parse_args()
 
@@ -299,8 +308,12 @@ Examples:
         print("\nDry run complete. Use --help for more options.")
         return 0
 
+    # Generate a single timestamp shared across all tasks in this run
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+
     timeout_msg = f" with {args.timeout}s timeout per task" if args.timeout else ""
-    print(f"\nStarting annotation tasks{timeout_msg}...\n")
+    print(f"\nStarting annotation tasks{timeout_msg}...")
+    print(f"Model: {args.model}, Timestamp: {timestamp}\n")
 
     # Run tasks
     successful = 0
@@ -311,7 +324,7 @@ Examples:
         target_samples = get_target_sample_count(task_name, allocations)
         print(f"[{i}/{len(filtered_tasks)}] Running {task_name}")
 
-        if run_task(task_file, args.timeout, args.verbose, target_samples, args.mode):
+        if run_task(task_file, args.timeout, args.verbose, target_samples, args.mode, args.model, timestamp):
             successful += 1
         else:
             failed += 1

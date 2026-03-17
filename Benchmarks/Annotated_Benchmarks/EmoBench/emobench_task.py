@@ -9,7 +9,7 @@ from inspect_ai.scorer import choice, model_graded_qa
 from inspect_ai.solver import Choices, basic_agent, multiple_choice, system_message
 from inspect_ai._util.answer import answer_character, answer_index
 
-from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations, versioned_output_path, DEFAULT_MODEL
 from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 SYSTEM_PROMPT = "In this task, you are presented with a scenario, a question, and multiple choices. Carefully analyze the scenario and take the perspective of the individual involved.Then, select the option that best reflects their perspective or emotional response."
@@ -189,7 +189,7 @@ def convert_input_to_string(dataset: Dataset) -> Dataset:
 
     return dataset
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = ""):
     dataset_dir = os.path.join(Path(__file__).parent)
     output_path = os.path.join(Path(__file__).parent, "emobench_annotations.csv")
     dataset = custom_loader(dataset_dir=dataset_dir)
@@ -214,8 +214,10 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
         dataset = dataset[:num_samples]
 
     annotation_task = annotate_task(dataset)
-    log = eval(annotation_task, model="openai/azure/gpt-4o" )
-    extract_annotations(log[0], output_path, mode)
+    log = eval(annotation_task, model=model)
+    if timestamp:
+        output_path = versioned_output_path(output_path, model, timestamp)
+    extract_annotations(log[0], output_path, "overwrite" if timestamp else mode)
 
 
 if __name__ == "__main__":

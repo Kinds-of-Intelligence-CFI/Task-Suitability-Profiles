@@ -9,7 +9,7 @@ from inspect_ai.scorer import choice, model_graded_qa
 from inspect_ai.solver import Choices, basic_agent, multiple_choice
 from inspect_ai._util.answer import answer_character, answer_index
 
-from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations, versioned_output_path, DEFAULT_MODEL
 from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 SINGLE_ANSWER_TEMPLATE_COT = r"""
@@ -154,7 +154,7 @@ def convert_input_to_string(dataset: Dataset) -> Dataset:
 
     return dataset
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = ""):
     dataset_dir = os.path.join(Path(__file__).parent, "v1_1")
     output_path_mcq = os.path.join(Path(__file__).parent, "agieval_mcq_annotations.csv")
     dataset_mcq = custom_loader(dataset_dir=dataset_dir, mcq=True)
@@ -175,14 +175,16 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
             # Take only what we need
             dataset_mcq = dataset_mcq[:min(num_samples, remaining_samples)]
             annotation_task = annotate_task(dataset_mcq)
-            log = eval(annotation_task, model="openai/azure/gpt-4o" )
-            extract_annotations(log[0], output_path_mcq, mode)
+            log = eval(annotation_task, model=model)
+            mcq_out = versioned_output_path(output_path_mcq, model, timestamp) if timestamp else output_path_mcq
+            extract_annotations(log[0], mcq_out, "overwrite" if timestamp else mode)
     else:
         # Overwrite mode - take first num_samples after shuffle
         dataset_mcq = dataset_mcq[:num_samples]
         annotation_task = annotate_task(dataset_mcq)
-        log = eval(annotation_task, model="openai/azure/gpt-4o" )
-        extract_annotations(log[0], output_path_mcq, mode)
+        log = eval(annotation_task, model=model)
+        mcq_out = versioned_output_path(output_path_mcq, model, timestamp) if timestamp else output_path_mcq
+        extract_annotations(log[0], mcq_out, "overwrite" if timestamp else mode)
 
 
     output_path_freeform = os.path.join(Path(__file__).parent, "agieval_freeform_annotations.csv")
@@ -209,8 +211,9 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
         dataset_freeform = dataset_freeform[:num_samples]
 
     annotation_task = annotate_task(dataset_freeform)
-    log = eval(annotation_task, model="openai/azure/gpt-4o" )
-    extract_annotations(log[0], output_path_freeform, mode)
+    log = eval(annotation_task, model=model)
+    freeform_out = versioned_output_path(output_path_freeform, model, timestamp) if timestamp else output_path_freeform
+    extract_annotations(log[0], freeform_out, "overwrite" if timestamp else mode)
 
 
 if __name__ == "__main__":

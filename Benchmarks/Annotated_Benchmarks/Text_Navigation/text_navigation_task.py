@@ -15,7 +15,7 @@ from inspect_ai.tool import Tool, tool
 from inspect_ai.util import StoreModel, message_limit, store_as
 from pydantic import Field
 
-from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations, versioned_output_path, DEFAULT_MODEL
 from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 from Benchmarks.Annotated_Benchmarks.Text_Navigation.maze import maze_game
 
@@ -123,7 +123,7 @@ def text_navigation_task() -> Task:
 
 
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = ""):
     output_path = os.path.join(Path(__file__).parent, "text_navigation_annotations.csv")
 
     if mode == "append":
@@ -155,8 +155,10 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
     dataset = MemoryDataset(samples=samples, name="text_navigation")
 
     annotation_task = annotate_task(dataset)
-    log = eval(annotation_task, model="openai/azure/gpt-4o" )
-    extract_annotations(log[0], output_path, mode)
+    log = eval(annotation_task, model=model)
+    if timestamp:
+        output_path = versioned_output_path(output_path, model, timestamp)
+    extract_annotations(log[0], output_path, "overwrite" if timestamp else mode)
 
 if __name__ == "__main__":
     annotate()
