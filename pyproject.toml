@@ -1,0 +1,22 @@
+[project]
+name = "task-suitability-profiles"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "arviz>=0.23.4",
+    "dill>=0.4.1",
+    "gymnasium>=1.2.3",
+    "inspect-ai>=0.3.197",
+    "matplotlib>=3.10.8",
+    "minigrid>=3.0.0",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "pydantic>=2.12.5",
+    "pymc>=5.25.1",
+    "pytensor>=2.31.7",
+    "scipy>=1.15.3",
+    "seaborn>=0.13.2",
+    "typing-extensions>=4.15.0",
+]
