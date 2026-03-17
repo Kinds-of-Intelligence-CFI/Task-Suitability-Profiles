@@ -13,8 +13,8 @@ from inspect_ai.scorer import Metric, SampleScore, Score, Scorer, Target, accura
 from inspect_ai.solver import Generate, Solver, TaskState, solver
 import numpy as np
 
-from Annotations.annotate_tasks import annotate_task, extract_annotations
-from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 
 def get_annotated_sample_ids(annotation_csv_path: str) -> Set[str]:

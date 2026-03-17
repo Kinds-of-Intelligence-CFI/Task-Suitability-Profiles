@@ -8,8 +8,8 @@ from inspect_ai.scorer import choice, includes
 from inspect_ai.solver import Choices, basic_agent, multiple_choice
 from inspect_ai._util.answer import answer_character
 
-from Annotations.annotate_tasks import annotate_task, extract_annotations
-from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 current_hashes = []
 

@@ -9,8 +9,8 @@ from inspect_ai.scorer import choice, model_graded_qa
 from inspect_ai.solver import Choices, basic_agent, multiple_choice, system_message
 from inspect_ai._util.answer import answer_character, answer_index
 
-from Annotations.annotate_tasks import annotate_task, extract_annotations
-from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 SYSTEM_PROMPT = "In this task, you are presented with a scenario, a question, and multiple choices. Carefully analyze the scenario and take the perspective of the individual involved.Then, select the option that best reflects their perspective or emotional response."
 

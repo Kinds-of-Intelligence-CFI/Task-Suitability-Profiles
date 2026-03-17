@@ -9,8 +9,8 @@ from inspect_ai.scorer import choice, model_graded_qa
 from inspect_ai.solver import Choices, basic_agent, generate, multiple_choice
 from inspect_ai._util.answer import answer_character, answer_index
 
-from Annotations.annotate_tasks import annotate_task, extract_annotations
-from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 DIALOGUE_INSTRUCTIONS = "You are a helpful assistant for dialogue understanding. Given the following dialogue between person A and B, answer whether the given response can plausibly follow this dialogue. Answer only 'Yes' or 'No'."
 

@@ -5,8 +5,8 @@ from copy import deepcopy
 from typing import Any, Optional, Tuple, List, Dict
 
 
-from Annotated_Benchmarks.LLM_BabyBench.babyaibot import BabyAIBot
-from Annotated_Benchmarks.LLM_BabyBench.utils import parse_str_subgoals, instantiate_subgoals
+from Benchmarks.Annotated_Benchmarks.LLM_BabyBench.babyaibot import BabyAIBot
+from Benchmarks.Annotated_Benchmarks.LLM_BabyBench.utils import parse_str_subgoals, instantiate_subgoals
 
 MAX_HELP = 30 # from running 1000 seeds on all unbugged environments, the maximum help needed was 27
 

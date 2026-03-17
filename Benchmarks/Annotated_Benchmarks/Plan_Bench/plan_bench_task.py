@@ -10,8 +10,8 @@ from inspect_ai.scorer import Score, Scorer, Target, accuracy, choice, model_gra
 from inspect_ai.solver import Choices, TaskState, basic_agent, multiple_choice
 from inspect_ai._util.answer import answer_character
 
-from Annotations.annotate_tasks import annotate_task, extract_annotations
-from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 TRANSLATION_PROMPT = """
 Extract the plan from the text below and convert it to a PDDL plan.

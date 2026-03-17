@@ -1,5 +1,5 @@
-"""TIger_MMLU evaluation task."""
+"""NEWTON evaluation task."""
 
-from .tiger_mmlu_task import  tiger_mmlu_task
+from .newton_task import newton_task
 
-__all__ = ["tiger_mmlu_task"]
+__all__ = ["newton_task"]

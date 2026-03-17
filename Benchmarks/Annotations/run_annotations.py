@@ -17,7 +17,7 @@ import time
 from pathlib import Path
 from typing import List, Optional
 
-from Annotations.convert_rubrics import convert_rubrics_to_json
+from Benchmarks.Annotations.convert_rubrics import convert_rubrics_to_json
 
 DEFAULT_NUM_SAMPLES = 10
 

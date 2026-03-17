@@ -11,8 +11,8 @@ from inspect_ai.scorer import choice, match, model_graded_qa
 from inspect_ai.solver import Choices, basic_agent, generate, multiple_choice, system_message
 from inspect_ai._util.answer import answer_character, answer_index
 
-from Annotations.annotate_tasks import annotate_task, extract_annotations
-from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 
 def get_annotated_sample_ids(annotation_csv_path: str) -> Set[int]:

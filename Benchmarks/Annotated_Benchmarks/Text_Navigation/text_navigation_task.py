@@ -15,9 +15,9 @@ from inspect_ai.tool import Tool, tool
 from inspect_ai.util import StoreModel, message_limit, store_as
 from pydantic import Field
 
-from Annotations.annotate_tasks import annotate_task, extract_annotations
-from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
-from Annotated_Benchmarks.Text_Navigation.maze import maze_game
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
+from Benchmarks.Annotated_Benchmarks.Text_Navigation.maze import maze_game
 
 
 def get_annotated_sample_ids(annotation_csv_path: str) -> Set[int]:

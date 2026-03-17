@@ -8,11 +8,11 @@ from inspect_ai.scorer import Score, Scorer, Target, accuracy, choice, includes,
 from inspect_ai.solver import Choices, TaskState, basic_agent, generate, multiple_choice
 from inspect_ai._util.answer import answer_character
 
-from Annotations.annotate_tasks import annotate_task, extract_annotations
-from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
-from Annotated_Benchmarks.LLM_BabyBench.decompose import DecomposeEvaluator
-from Annotated_Benchmarks.LLM_BabyBench.plan import PlanEvaluator
-from Annotated_Benchmarks.LLM_BabyBench.register import register_envs
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
+from Benchmarks.Annotated_Benchmarks.LLM_BabyBench.decompose import DecomposeEvaluator
+from Benchmarks.Annotated_Benchmarks.LLM_BabyBench.plan import PlanEvaluator
+from Benchmarks.Annotated_Benchmarks.LLM_BabyBench.register import register_envs
 import gymnasium as gym
 from gymnasium import Env
 

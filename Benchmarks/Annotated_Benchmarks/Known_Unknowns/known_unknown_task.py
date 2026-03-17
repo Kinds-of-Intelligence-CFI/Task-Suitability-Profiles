@@ -9,8 +9,8 @@ from inspect_ai.scorer import choice
 from inspect_ai.solver import Choices, multiple_choice
 from inspect_ai._util.answer import answer_character, answer_index
 
-from Annotations.annotate_tasks import annotate_task, extract_annotations
-from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations
+from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 SINGLE_ANSWER_TEMPLATE_COT = r"""
 Answer the following multiple choice question. The last line of your response should be of the following format: 'ANSWER: $LETTER' (without quotes) where LETTER is one of {letters}. Think step by step before answering.

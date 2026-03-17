@@ -10,7 +10,7 @@ from inspect_ai.dataset import Dataset, MemoryDataset, Sample
 from inspect_ai.log import EvalLog
 from inspect_ai.solver import system_message
 
-from Annotations.annotation_agent import annotation_agent
+from Benchmarks.Annotations.annotation_agent import annotation_agent
 
 DEFAULT_SYSTEM_MESSAGE = """You are an excellent annotation agent that labels benchmark instances using the instructions and rubric (if provided). Your goal is to assign a single integer score that reflects the dimension being evaluated (e.g., capability demand, factuality, ambiguity).
 
