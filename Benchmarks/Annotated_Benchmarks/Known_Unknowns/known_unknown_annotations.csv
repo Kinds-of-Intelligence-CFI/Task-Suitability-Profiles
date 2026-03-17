@@ -1,0 +1,921 @@
+dataset name,sample id,dimension,score
+known_unknows_task,0,Causal Reasoning,0
+known_unknows_task,0,Cognitive Flexibility,0
+known_unknows_task,0,Emotion Perception and Empathy,0
+known_unknows_task,0,Episodic Memory,0
+known_unknows_task,0,Functional Perception,0
+known_unknows_task,0,Inhibitory Control,1
+known_unknows_task,0,Language,1
+known_unknows_task,0,Mental Simulation,0
+known_unknows_task,0,Metacognition,1
+known_unknows_task,0,Object Permanence,0
+known_unknows_task,0,Perception and Pattern Recognition,0
+known_unknows_task,0,Planning,0
+known_unknows_task,0,Procedural Memory,0
+known_unknows_task,0,Prospective Memory,0
+known_unknows_task,0,Semantic Memory,1
+known_unknows_task,0,Spatial Reasoning and Navigation,0
+known_unknows_task,0,Theory of Mind,0
+known_unknows_task,0,Working Memory,0
+known_unknows_task,0,ambiguity,4
+known_unknows_task,0,factuality,5
+known_unknows_task,10,Causal Reasoning,0
+known_unknows_task,10,Cognitive Flexibility,0
+known_unknows_task,10,Emotion Perception and Empathy,0
+known_unknows_task,10,Episodic Memory,0
+known_unknows_task,10,Functional Perception,0
+known_unknows_task,10,Inhibitory Control,0
+known_unknows_task,10,Language,1
+known_unknows_task,10,Mental Simulation,0
+known_unknows_task,10,Metacognition,1
+known_unknows_task,10,Object Permanence,0
+known_unknows_task,10,Perception and Pattern Recognition,0
+known_unknows_task,10,Planning,0
+known_unknows_task,10,Procedural Memory,0
+known_unknows_task,10,Prospective Memory,0
+known_unknows_task,10,Semantic Memory,0
+known_unknows_task,10,Spatial Reasoning and Navigation,0
+known_unknows_task,10,Theory of Mind,0
+known_unknows_task,10,Working Memory,0
+known_unknows_task,10,ambiguity,4
+known_unknows_task,10,factuality,5
+known_unknows_task,11,Causal Reasoning,0
+known_unknows_task,11,Cognitive Flexibility,0
+known_unknows_task,11,Emotion Perception and Empathy,0
+known_unknows_task,11,Episodic Memory,0
+known_unknows_task,11,Functional Perception,0
+known_unknows_task,11,Inhibitory Control,0
+known_unknows_task,11,Language,1
+known_unknows_task,11,Mental Simulation,0
+known_unknows_task,11,Metacognition,1
+known_unknows_task,11,Object Permanence,0
+known_unknows_task,11,Perception and Pattern Recognition,0
+known_unknows_task,11,Planning,0
+known_unknows_task,11,Procedural Memory,0
+known_unknows_task,11,Prospective Memory,0
+known_unknows_task,11,Semantic Memory,1
+known_unknows_task,11,Spatial Reasoning and Navigation,0
+known_unknows_task,11,Theory of Mind,0
+known_unknows_task,11,Working Memory,0
+known_unknows_task,11,ambiguity,5
+known_unknows_task,11,factuality,5
+known_unknows_task,12,Causal Reasoning,0
+known_unknows_task,12,Cognitive Flexibility,0
+known_unknows_task,12,Emotion Perception and Empathy,0
+known_unknows_task,12,Episodic Memory,0
+known_unknows_task,12,Functional Perception,0
+known_unknows_task,12,Inhibitory Control,1
+known_unknows_task,12,Language,1
+known_unknows_task,12,Mental Simulation,1
+known_unknows_task,12,Metacognition,2
+known_unknows_task,12,Object Permanence,0
+known_unknows_task,12,Perception and Pattern Recognition,0
+known_unknows_task,12,Planning,0
+known_unknows_task,12,Procedural Memory,0
+known_unknows_task,12,Prospective Memory,0
+known_unknows_task,12,Semantic Memory,1
+known_unknows_task,12,Spatial Reasoning and Navigation,0
+known_unknows_task,12,Theory of Mind,0
+known_unknows_task,12,Working Memory,0
+known_unknows_task,12,ambiguity,2
+known_unknows_task,12,factuality,5
+known_unknows_task,13,Causal Reasoning,0
+known_unknows_task,13,Cognitive Flexibility,0
+known_unknows_task,13,Emotion Perception and Empathy,0
+known_unknows_task,13,Episodic Memory,1
+known_unknows_task,13,Functional Perception,0
+known_unknows_task,13,Inhibitory Control,1
+known_unknows_task,13,Language,1
+known_unknows_task,13,Mental Simulation,0
+known_unknows_task,13,Metacognition,1
+known_unknows_task,13,Object Permanence,0
+known_unknows_task,13,Perception and Pattern Recognition,0
+known_unknows_task,13,Planning,0
+known_unknows_task,13,Procedural Memory,0
+known_unknows_task,13,Prospective Memory,0
+known_unknows_task,13,Semantic Memory,2
+known_unknows_task,13,Spatial Reasoning and Navigation,0
+known_unknows_task,13,Theory of Mind,0
+known_unknows_task,13,Working Memory,0
+known_unknows_task,13,ambiguity,3
+known_unknows_task,13,factuality,5
+known_unknows_task,14,Causal Reasoning,0
+known_unknows_task,14,Cognitive Flexibility,0
+known_unknows_task,14,Emotion Perception and Empathy,0
+known_unknows_task,14,Episodic Memory,0
+known_unknows_task,14,Functional Perception,0
+known_unknows_task,14,Inhibitory Control,1
+known_unknows_task,14,Language,1
+known_unknows_task,14,Mental Simulation,0
+known_unknows_task,14,Metacognition,1
+known_unknows_task,14,Object Permanence,0
+known_unknows_task,14,Perception and Pattern Recognition,1
+known_unknows_task,14,Planning,0
+known_unknows_task,14,Procedural Memory,0
+known_unknows_task,14,Prospective Memory,0
+known_unknows_task,14,Semantic Memory,1
+known_unknows_task,14,Spatial Reasoning and Navigation,0
+known_unknows_task,14,Theory of Mind,0
+known_unknows_task,14,Working Memory,0
+known_unknows_task,14,ambiguity,3
+known_unknows_task,14,factuality,5
+known_unknows_task,15,Causal Reasoning,0
+known_unknows_task,15,Cognitive Flexibility,0
+known_unknows_task,15,Emotion Perception and Empathy,0
+known_unknows_task,15,Episodic Memory,0
+known_unknows_task,15,Functional Perception,0
+known_unknows_task,15,Inhibitory Control,0
+known_unknows_task,15,Language,1
+known_unknows_task,15,Mental Simulation,0
+known_unknows_task,15,Metacognition,1
+known_unknows_task,15,Object Permanence,0
+known_unknows_task,15,Perception and Pattern Recognition,1
+known_unknows_task,15,Planning,0
+known_unknows_task,15,Procedural Memory,0
+known_unknows_task,15,Prospective Memory,0
+known_unknows_task,15,Semantic Memory,2
+known_unknows_task,15,Spatial Reasoning and Navigation,0
+known_unknows_task,15,Theory of Mind,0
+known_unknows_task,15,Working Memory,0
+known_unknows_task,15,ambiguity,5
+known_unknows_task,15,factuality,5
+known_unknows_task,16,Causal Reasoning,0
+known_unknows_task,16,Cognitive Flexibility,0
+known_unknows_task,16,Emotion Perception and Empathy,0
+known_unknows_task,16,Episodic Memory,0
+known_unknows_task,16,Functional Perception,0
+known_unknows_task,16,Inhibitory Control,1
+known_unknows_task,16,Language,1
+known_unknows_task,16,Mental Simulation,0
+known_unknows_task,16,Metacognition,1
+known_unknows_task,16,Object Permanence,0
+known_unknows_task,16,Perception and Pattern Recognition,1
+known_unknows_task,16,Planning,0
+known_unknows_task,16,Procedural Memory,0
+known_unknows_task,16,Prospective Memory,0
+known_unknows_task,16,Semantic Memory,3
+known_unknows_task,16,Spatial Reasoning and Navigation,0
+known_unknows_task,16,Theory of Mind,0
+known_unknows_task,16,Working Memory,0
+known_unknows_task,16,ambiguity,2
+known_unknows_task,16,factuality,5
+known_unknows_task,17,Causal Reasoning,0
+known_unknows_task,17,Cognitive Flexibility,0
+known_unknows_task,17,Emotion Perception and Empathy,0
+known_unknows_task,17,Episodic Memory,0
+known_unknows_task,17,Functional Perception,0
+known_unknows_task,17,Inhibitory Control,1
+known_unknows_task,17,Language,1
+known_unknows_task,17,Mental Simulation,0
+known_unknows_task,17,Metacognition,0
+known_unknows_task,17,Object Permanence,0
+known_unknows_task,17,Perception and Pattern Recognition,0
+known_unknows_task,17,Planning,0
+known_unknows_task,17,Procedural Memory,0
+known_unknows_task,17,Prospective Memory,0
+known_unknows_task,17,Semantic Memory,3
+known_unknows_task,17,Spatial Reasoning and Navigation,0
+known_unknows_task,17,Theory of Mind,0
+known_unknows_task,17,Working Memory,0
+known_unknows_task,17,ambiguity,3
+known_unknows_task,17,factuality,3
+known_unknows_task,18,Causal Reasoning,0
+known_unknows_task,18,Cognitive Flexibility,0
+known_unknows_task,18,Emotion Perception and Empathy,0
+known_unknows_task,18,Episodic Memory,0
+known_unknows_task,18,Functional Perception,0
+known_unknows_task,18,Inhibitory Control,0
+known_unknows_task,18,Language,1
+known_unknows_task,18,Mental Simulation,0
+known_unknows_task,18,Metacognition,1
+known_unknows_task,18,Object Permanence,0
+known_unknows_task,18,Perception and Pattern Recognition,1
+known_unknows_task,18,Planning,0
+known_unknows_task,18,Procedural Memory,0
+known_unknows_task,18,Prospective Memory,0
+known_unknows_task,18,Semantic Memory,1
+known_unknows_task,18,Spatial Reasoning and Navigation,0
+known_unknows_task,18,Theory of Mind,0
+known_unknows_task,18,Working Memory,0
+known_unknows_task,18,ambiguity,2
+known_unknows_task,18,factuality,5
+known_unknows_task,19,Causal Reasoning,0
+known_unknows_task,19,Cognitive Flexibility,0
+known_unknows_task,19,Emotion Perception and Empathy,0
+known_unknows_task,19,Episodic Memory,0
+known_unknows_task,19,Functional Perception,0
+known_unknows_task,19,Inhibitory Control,0
+known_unknows_task,19,Language,1
+known_unknows_task,19,Mental Simulation,0
+known_unknows_task,19,Metacognition,1
+known_unknows_task,19,Object Permanence,0
+known_unknows_task,19,Perception and Pattern Recognition,0
+known_unknows_task,19,Planning,0
+known_unknows_task,19,Procedural Memory,0
+known_unknows_task,19,Prospective Memory,0
+known_unknows_task,19,Semantic Memory,2
+known_unknows_task,19,Spatial Reasoning and Navigation,0
+known_unknows_task,19,Theory of Mind,0
+known_unknows_task,19,Working Memory,0
+known_unknows_task,19,ambiguity,5
+known_unknows_task,19,factuality,5
+known_unknows_task,1,Causal Reasoning,0
+known_unknows_task,1,Cognitive Flexibility,0
+known_unknows_task,1,Emotion Perception and Empathy,0
+known_unknows_task,1,Episodic Memory,0
+known_unknows_task,1,Functional Perception,0
+known_unknows_task,1,Inhibitory Control,0
+known_unknows_task,1,Language,1
+known_unknows_task,1,Mental Simulation,0
+known_unknows_task,1,Metacognition,1
+known_unknows_task,1,Object Permanence,0
+known_unknows_task,1,Perception and Pattern Recognition,0
+known_unknows_task,1,Planning,0
+known_unknows_task,1,Procedural Memory,0
+known_unknows_task,1,Prospective Memory,0
+known_unknows_task,1,Semantic Memory,2
+known_unknows_task,1,Spatial Reasoning and Navigation,0
+known_unknows_task,1,Theory of Mind,0
+known_unknows_task,1,Working Memory,0
+known_unknows_task,1,ambiguity,5
+known_unknows_task,1,factuality,5
+known_unknows_task,20,Causal Reasoning,0
+known_unknows_task,20,Cognitive Flexibility,0
+known_unknows_task,20,Emotion Perception and Empathy,0
+known_unknows_task,20,Episodic Memory,0
+known_unknows_task,20,Functional Perception,0
+known_unknows_task,20,Inhibitory Control,0
+known_unknows_task,20,Language,1
+known_unknows_task,20,Mental Simulation,0
+known_unknows_task,20,Metacognition,1
+known_unknows_task,20,Object Permanence,0
+known_unknows_task,20,Perception and Pattern Recognition,1
+known_unknows_task,20,Planning,0
+known_unknows_task,20,Procedural Memory,0
+known_unknows_task,20,Prospective Memory,0
+known_unknows_task,20,Semantic Memory,1
+known_unknows_task,20,Spatial Reasoning and Navigation,0
+known_unknows_task,20,Theory of Mind,0
+known_unknows_task,20,Working Memory,0
+known_unknows_task,20,ambiguity,4
+known_unknows_task,20,factuality,5
+known_unknows_task,21,Causal Reasoning,0
+known_unknows_task,21,Cognitive Flexibility,0
+known_unknows_task,21,Emotion Perception and Empathy,0
+known_unknows_task,21,Episodic Memory,0
+known_unknows_task,21,Functional Perception,0
+known_unknows_task,21,Inhibitory Control,0
+known_unknows_task,21,Language,1
+known_unknows_task,21,Mental Simulation,0
+known_unknows_task,21,Metacognition,1
+known_unknows_task,21,Object Permanence,0
+known_unknows_task,21,Perception and Pattern Recognition,0
+known_unknows_task,21,Planning,0
+known_unknows_task,21,Procedural Memory,0
+known_unknows_task,21,Prospective Memory,0
+known_unknows_task,21,Semantic Memory,3
+known_unknows_task,21,Spatial Reasoning and Navigation,0
+known_unknows_task,21,Theory of Mind,0
+known_unknows_task,21,Working Memory,0
+known_unknows_task,21,ambiguity,5
+known_unknows_task,21,factuality,5
+known_unknows_task,22,Causal Reasoning,0
+known_unknows_task,22,Cognitive Flexibility,0
+known_unknows_task,22,Emotion Perception and Empathy,0
+known_unknows_task,22,Episodic Memory,0
+known_unknows_task,22,Functional Perception,0
+known_unknows_task,22,Inhibitory Control,1
+known_unknows_task,22,Language,1
+known_unknows_task,22,Mental Simulation,0
+known_unknows_task,22,Metacognition,1
+known_unknows_task,22,Object Permanence,0
+known_unknows_task,22,Perception and Pattern Recognition,0
+known_unknows_task,22,Planning,0
+known_unknows_task,22,Procedural Memory,0
+known_unknows_task,22,Prospective Memory,0
+known_unknows_task,22,Semantic Memory,0
+known_unknows_task,22,Spatial Reasoning and Navigation,0
+known_unknows_task,22,Theory of Mind,0
+known_unknows_task,22,Working Memory,0
+known_unknows_task,22,ambiguity,3
+known_unknows_task,22,factuality,5
+known_unknows_task,23,Causal Reasoning,0
+known_unknows_task,23,Cognitive Flexibility,0
+known_unknows_task,23,Emotion Perception and Empathy,0
+known_unknows_task,23,Episodic Memory,0
+known_unknows_task,23,Functional Perception,0
+known_unknows_task,23,Inhibitory Control,1
+known_unknows_task,23,Language,1
+known_unknows_task,23,Mental Simulation,0
+known_unknows_task,23,Metacognition,1
+known_unknows_task,23,Object Permanence,0
+known_unknows_task,23,Perception and Pattern Recognition,1
+known_unknows_task,23,Planning,0
+known_unknows_task,23,Procedural Memory,0
+known_unknows_task,23,Prospective Memory,0
+known_unknows_task,23,Semantic Memory,2
+known_unknows_task,23,Spatial Reasoning and Navigation,0
+known_unknows_task,23,Theory of Mind,0
+known_unknows_task,23,Working Memory,1
+known_unknows_task,23,ambiguity,5
+known_unknows_task,23,factuality,5
+known_unknows_task,24,Causal Reasoning,0
+known_unknows_task,24,Cognitive Flexibility,0
+known_unknows_task,24,Emotion Perception and Empathy,0
+known_unknows_task,24,Episodic Memory,0
+known_unknows_task,24,Functional Perception,0
+known_unknows_task,24,Inhibitory Control,1
+known_unknows_task,24,Language,1
+known_unknows_task,24,Mental Simulation,0
+known_unknows_task,24,Metacognition,1
+known_unknows_task,24,Object Permanence,0
+known_unknows_task,24,Perception and Pattern Recognition,0
+known_unknows_task,24,Planning,0
+known_unknows_task,24,Procedural Memory,0
+known_unknows_task,24,Prospective Memory,0
+known_unknows_task,24,Semantic Memory,0
+known_unknows_task,24,Spatial Reasoning and Navigation,0
+known_unknows_task,24,Theory of Mind,0
+known_unknows_task,24,Working Memory,0
+known_unknows_task,24,ambiguity,4
+known_unknows_task,24,factuality,5
+known_unknows_task,25,Causal Reasoning,0
+known_unknows_task,25,Cognitive Flexibility,0
+known_unknows_task,25,Emotion Perception and Empathy,0
+known_unknows_task,25,Episodic Memory,0
+known_unknows_task,25,Functional Perception,0
+known_unknows_task,25,Inhibitory Control,0
+known_unknows_task,25,Language,1
+known_unknows_task,25,Mental Simulation,0
+known_unknows_task,25,Metacognition,1
+known_unknows_task,25,Object Permanence,0
+known_unknows_task,25,Perception and Pattern Recognition,0
+known_unknows_task,25,Planning,0
+known_unknows_task,25,Procedural Memory,0
+known_unknows_task,25,Prospective Memory,0
+known_unknows_task,25,Semantic Memory,2
+known_unknows_task,25,Spatial Reasoning and Navigation,0
+known_unknows_task,25,Theory of Mind,0
+known_unknows_task,25,Working Memory,0
+known_unknows_task,25,ambiguity,3
+known_unknows_task,25,factuality,1
+known_unknows_task,26,Causal Reasoning,0
+known_unknows_task,26,Cognitive Flexibility,0
+known_unknows_task,26,Emotion Perception and Empathy,0
+known_unknows_task,26,Episodic Memory,0
+known_unknows_task,26,Functional Perception,0
+known_unknows_task,26,Inhibitory Control,1
+known_unknows_task,26,Language,1
+known_unknows_task,26,Mental Simulation,0
+known_unknows_task,26,Metacognition,1
+known_unknows_task,26,Object Permanence,0
+known_unknows_task,26,Perception and Pattern Recognition,0
+known_unknows_task,26,Planning,0
+known_unknows_task,26,Procedural Memory,0
+known_unknows_task,26,Prospective Memory,0
+known_unknows_task,26,Semantic Memory,0
+known_unknows_task,26,Spatial Reasoning and Navigation,0
+known_unknows_task,26,Theory of Mind,0
+known_unknows_task,26,Working Memory,0
+known_unknows_task,26,ambiguity,3
+known_unknows_task,26,factuality,5
+known_unknows_task,27,Causal Reasoning,0
+known_unknows_task,27,Cognitive Flexibility,0
+known_unknows_task,27,Emotion Perception and Empathy,0
+known_unknows_task,27,Episodic Memory,0
+known_unknows_task,27,Functional Perception,0
+known_unknows_task,27,Inhibitory Control,0
+known_unknows_task,27,Language,1
+known_unknows_task,27,Mental Simulation,0
+known_unknows_task,27,Metacognition,1
+known_unknows_task,27,Object Permanence,0
+known_unknows_task,27,Perception and Pattern Recognition,0
+known_unknows_task,27,Planning,0
+known_unknows_task,27,Procedural Memory,0
+known_unknows_task,27,Prospective Memory,0
+known_unknows_task,27,Semantic Memory,2
+known_unknows_task,27,Spatial Reasoning and Navigation,0
+known_unknows_task,27,Theory of Mind,0
+known_unknows_task,27,Working Memory,0
+known_unknows_task,27,ambiguity,4
+known_unknows_task,27,factuality,5
+known_unknows_task,28,Causal Reasoning,0
+known_unknows_task,28,Cognitive Flexibility,0
+known_unknows_task,28,Emotion Perception and Empathy,0
+known_unknows_task,28,Episodic Memory,0
+known_unknows_task,28,Functional Perception,0
+known_unknows_task,28,Inhibitory Control,0
+known_unknows_task,28,Language,1
+known_unknows_task,28,Mental Simulation,0
+known_unknows_task,28,Metacognition,2
+known_unknows_task,28,Object Permanence,0
+known_unknows_task,28,Perception and Pattern Recognition,0
+known_unknows_task,28,Planning,0
+known_unknows_task,28,Procedural Memory,0
+known_unknows_task,28,Prospective Memory,0
+known_unknows_task,28,Semantic Memory,1
+known_unknows_task,28,Spatial Reasoning and Navigation,0
+known_unknows_task,28,Theory of Mind,0
+known_unknows_task,28,Working Memory,0
+known_unknows_task,28,ambiguity,4
+known_unknows_task,28,factuality,5
+known_unknows_task,29,Causal Reasoning,0
+known_unknows_task,29,Cognitive Flexibility,0
+known_unknows_task,29,Emotion Perception and Empathy,0
+known_unknows_task,29,Episodic Memory,0
+known_unknows_task,29,Functional Perception,0
+known_unknows_task,29,Inhibitory Control,0
+known_unknows_task,29,Language,1
+known_unknows_task,29,Mental Simulation,0
+known_unknows_task,29,Metacognition,1
+known_unknows_task,29,Object Permanence,0
+known_unknows_task,29,Perception and Pattern Recognition,0
+known_unknows_task,29,Planning,0
+known_unknows_task,29,Procedural Memory,0
+known_unknows_task,29,Prospective Memory,0
+known_unknows_task,29,Semantic Memory,2
+known_unknows_task,29,Spatial Reasoning and Navigation,0
+known_unknows_task,29,Theory of Mind,0
+known_unknows_task,29,Working Memory,0
+known_unknows_task,29,ambiguity,5
+known_unknows_task,29,factuality,5
+known_unknows_task,2,Causal Reasoning,0
+known_unknows_task,2,Cognitive Flexibility,0
+known_unknows_task,2,Emotion Perception and Empathy,0
+known_unknows_task,2,Episodic Memory,0
+known_unknows_task,2,Functional Perception,0
+known_unknows_task,2,Inhibitory Control,1
+known_unknows_task,2,Language,0
+known_unknows_task,2,Mental Simulation,0
+known_unknows_task,2,Metacognition,1
+known_unknows_task,2,Object Permanence,0
+known_unknows_task,2,Perception and Pattern Recognition,0
+known_unknows_task,2,Planning,0
+known_unknows_task,2,Procedural Memory,0
+known_unknows_task,2,Prospective Memory,0
+known_unknows_task,2,Semantic Memory,0
+known_unknows_task,2,Spatial Reasoning and Navigation,0
+known_unknows_task,2,Theory of Mind,0
+known_unknows_task,2,Working Memory,0
+known_unknows_task,2,ambiguity,4
+known_unknows_task,2,factuality,5
+known_unknows_task,30,Causal Reasoning,0
+known_unknows_task,30,Cognitive Flexibility,0
+known_unknows_task,30,Emotion Perception and Empathy,0
+known_unknows_task,30,Episodic Memory,0
+known_unknows_task,30,Functional Perception,0
+known_unknows_task,30,Inhibitory Control,0
+known_unknows_task,30,Language,1
+known_unknows_task,30,Mental Simulation,0
+known_unknows_task,30,Metacognition,2
+known_unknows_task,30,Object Permanence,0
+known_unknows_task,30,Perception and Pattern Recognition,0
+known_unknows_task,30,Planning,0
+known_unknows_task,30,Procedural Memory,0
+known_unknows_task,30,Prospective Memory,0
+known_unknows_task,30,Semantic Memory,1
+known_unknows_task,30,Spatial Reasoning and Navigation,0
+known_unknows_task,30,Theory of Mind,0
+known_unknows_task,30,Working Memory,0
+known_unknows_task,30,ambiguity,2
+known_unknows_task,30,factuality,5
+known_unknows_task,31,Causal Reasoning,0
+known_unknows_task,31,Cognitive Flexibility,0
+known_unknows_task,31,Emotion Perception and Empathy,0
+known_unknows_task,31,Episodic Memory,0
+known_unknows_task,31,Functional Perception,0
+known_unknows_task,31,Inhibitory Control,0
+known_unknows_task,31,Language,1
+known_unknows_task,31,Mental Simulation,0
+known_unknows_task,31,Metacognition,1
+known_unknows_task,31,Object Permanence,0
+known_unknows_task,31,Perception and Pattern Recognition,0
+known_unknows_task,31,Planning,0
+known_unknows_task,31,Procedural Memory,0
+known_unknows_task,31,Prospective Memory,0
+known_unknows_task,31,Semantic Memory,1
+known_unknows_task,31,Spatial Reasoning and Navigation,0
+known_unknows_task,31,Theory of Mind,0
+known_unknows_task,31,Working Memory,0
+known_unknows_task,31,ambiguity,5
+known_unknows_task,31,factuality,5
+known_unknows_task,32,Causal Reasoning,0
+known_unknows_task,32,Cognitive Flexibility,0
+known_unknows_task,32,Emotion Perception and Empathy,0
+known_unknows_task,32,Episodic Memory,0
+known_unknows_task,32,Functional Perception,0
+known_unknows_task,32,Inhibitory Control,2
+known_unknows_task,32,Language,1
+known_unknows_task,32,Mental Simulation,0
+known_unknows_task,32,Metacognition,1
+known_unknows_task,32,Object Permanence,0
+known_unknows_task,32,Perception and Pattern Recognition,1
+known_unknows_task,32,Planning,0
+known_unknows_task,32,Procedural Memory,0
+known_unknows_task,32,Prospective Memory,0
+known_unknows_task,32,Semantic Memory,0
+known_unknows_task,32,Spatial Reasoning and Navigation,0
+known_unknows_task,32,Theory of Mind,0
+known_unknows_task,32,Working Memory,0
+known_unknows_task,32,ambiguity,2
+known_unknows_task,32,factuality,5
+known_unknows_task,33,Causal Reasoning,0
+known_unknows_task,33,Cognitive Flexibility,0
+known_unknows_task,33,Emotion Perception and Empathy,0
+known_unknows_task,33,Episodic Memory,0
+known_unknows_task,33,Functional Perception,0
+known_unknows_task,33,Inhibitory Control,0
+known_unknows_task,33,Language,1
+known_unknows_task,33,Mental Simulation,0
+known_unknows_task,33,Metacognition,1
+known_unknows_task,33,Object Permanence,0
+known_unknows_task,33,Perception and Pattern Recognition,0
+known_unknows_task,33,Planning,0
+known_unknows_task,33,Procedural Memory,0
+known_unknows_task,33,Prospective Memory,0
+known_unknows_task,33,Semantic Memory,2
+known_unknows_task,33,Spatial Reasoning and Navigation,0
+known_unknows_task,33,Theory of Mind,0
+known_unknows_task,33,Working Memory,0
+known_unknows_task,33,ambiguity,5
+known_unknows_task,33,factuality,5
+known_unknows_task,34,Causal Reasoning,0
+known_unknows_task,34,Cognitive Flexibility,0
+known_unknows_task,34,Emotion Perception and Empathy,0
+known_unknows_task,34,Episodic Memory,0
+known_unknows_task,34,Functional Perception,0
+known_unknows_task,34,Inhibitory Control,1
+known_unknows_task,34,Language,1
+known_unknows_task,34,Mental Simulation,0
+known_unknows_task,34,Metacognition,2
+known_unknows_task,34,Object Permanence,0
+known_unknows_task,34,Perception and Pattern Recognition,0
+known_unknows_task,34,Planning,0
+known_unknows_task,34,Procedural Memory,0
+known_unknows_task,34,Prospective Memory,0
+known_unknows_task,34,Semantic Memory,0
+known_unknows_task,34,Spatial Reasoning and Navigation,0
+known_unknows_task,34,Theory of Mind,0
+known_unknows_task,34,Working Memory,0
+known_unknows_task,34,ambiguity,1
+known_unknows_task,34,factuality,5
+known_unknows_task,35,Causal Reasoning,0
+known_unknows_task,35,Cognitive Flexibility,0
+known_unknows_task,35,Emotion Perception and Empathy,0
+known_unknows_task,35,Episodic Memory,0
+known_unknows_task,35,Functional Perception,0
+known_unknows_task,35,Inhibitory Control,0
+known_unknows_task,35,Language,1
+known_unknows_task,35,Mental Simulation,0
+known_unknows_task,35,Metacognition,0
+known_unknows_task,35,Object Permanence,0
+known_unknows_task,35,Perception and Pattern Recognition,0
+known_unknows_task,35,Planning,0
+known_unknows_task,35,Procedural Memory,0
+known_unknows_task,35,Prospective Memory,0
+known_unknows_task,35,Semantic Memory,1
+known_unknows_task,35,Spatial Reasoning and Navigation,0
+known_unknows_task,35,Theory of Mind,0
+known_unknows_task,35,Working Memory,0
+known_unknows_task,35,ambiguity,5
+known_unknows_task,35,factuality,5
+known_unknows_task,36,Causal Reasoning,0
+known_unknows_task,36,Cognitive Flexibility,0
+known_unknows_task,36,Emotion Perception and Empathy,0
+known_unknows_task,36,Episodic Memory,0
+known_unknows_task,36,Functional Perception,0
+known_unknows_task,36,Inhibitory Control,0
+known_unknows_task,36,Language,1
+known_unknows_task,36,Mental Simulation,0
+known_unknows_task,36,Metacognition,1
+known_unknows_task,36,Object Permanence,0
+known_unknows_task,36,Perception and Pattern Recognition,0
+known_unknows_task,36,Planning,0
+known_unknows_task,36,Procedural Memory,0
+known_unknows_task,36,Prospective Memory,0
+known_unknows_task,36,Semantic Memory,0
+known_unknows_task,36,Spatial Reasoning and Navigation,0
+known_unknows_task,36,Theory of Mind,0
+known_unknows_task,36,Working Memory,0
+known_unknows_task,36,ambiguity,3
+known_unknows_task,36,factuality,5
+known_unknows_task,37,Causal Reasoning,0
+known_unknows_task,37,Cognitive Flexibility,0
+known_unknows_task,37,Emotion Perception and Empathy,0
+known_unknows_task,37,Episodic Memory,0
+known_unknows_task,37,Functional Perception,0
+known_unknows_task,37,Inhibitory Control,0
+known_unknows_task,37,Language,1
+known_unknows_task,37,Mental Simulation,0
+known_unknows_task,37,Metacognition,0
+known_unknows_task,37,Object Permanence,0
+known_unknows_task,37,Perception and Pattern Recognition,1
+known_unknows_task,37,Planning,0
+known_unknows_task,37,Procedural Memory,0
+known_unknows_task,37,Prospective Memory,0
+known_unknows_task,37,Semantic Memory,2
+known_unknows_task,37,Spatial Reasoning and Navigation,0
+known_unknows_task,37,Theory of Mind,0
+known_unknows_task,37,Working Memory,0
+known_unknows_task,37,ambiguity,5
+known_unknows_task,37,factuality,5
+known_unknows_task,38,Causal Reasoning,0
+known_unknows_task,38,Cognitive Flexibility,0
+known_unknows_task,38,Emotion Perception and Empathy,0
+known_unknows_task,38,Episodic Memory,0
+known_unknows_task,38,Functional Perception,0
+known_unknows_task,38,Inhibitory Control,0
+known_unknows_task,38,Language,1
+known_unknows_task,38,Mental Simulation,0
+known_unknows_task,38,Metacognition,1
+known_unknows_task,38,Object Permanence,0
+known_unknows_task,38,Perception and Pattern Recognition,0
+known_unknows_task,38,Planning,0
+known_unknows_task,38,Procedural Memory,0
+known_unknows_task,38,Prospective Memory,0
+known_unknows_task,38,Semantic Memory,1
+known_unknows_task,38,Spatial Reasoning and Navigation,0
+known_unknows_task,38,Theory of Mind,0
+known_unknows_task,38,Working Memory,0
+known_unknows_task,38,ambiguity,1
+known_unknows_task,38,factuality,5
+known_unknows_task,39,Causal Reasoning,0
+known_unknows_task,39,Cognitive Flexibility,0
+known_unknows_task,39,Emotion Perception and Empathy,0
+known_unknows_task,39,Episodic Memory,0
+known_unknows_task,39,Functional Perception,0
+known_unknows_task,39,Inhibitory Control,0
+known_unknows_task,39,Language,1
+known_unknows_task,39,Mental Simulation,0
+known_unknows_task,39,Metacognition,1
+known_unknows_task,39,Object Permanence,0
+known_unknows_task,39,Perception and Pattern Recognition,0
+known_unknows_task,39,Planning,0
+known_unknows_task,39,Procedural Memory,0
+known_unknows_task,39,Prospective Memory,0
+known_unknows_task,39,Semantic Memory,3
+known_unknows_task,39,Spatial Reasoning and Navigation,0
+known_unknows_task,39,Theory of Mind,0
+known_unknows_task,39,Working Memory,0
+known_unknows_task,39,ambiguity,5
+known_unknows_task,39,factuality,5
+known_unknows_task,3,Causal Reasoning,0
+known_unknows_task,3,Cognitive Flexibility,0
+known_unknows_task,3,Emotion Perception and Empathy,0
+known_unknows_task,3,Episodic Memory,1
+known_unknows_task,3,Functional Perception,0
+known_unknows_task,3,Inhibitory Control,0
+known_unknows_task,3,Language,1
+known_unknows_task,3,Mental Simulation,0
+known_unknows_task,3,Metacognition,1
+known_unknows_task,3,Object Permanence,0
+known_unknows_task,3,Perception and Pattern Recognition,0
+known_unknows_task,3,Planning,0
+known_unknows_task,3,Procedural Memory,0
+known_unknows_task,3,Prospective Memory,0
+known_unknows_task,3,Semantic Memory,4
+known_unknows_task,3,Spatial Reasoning and Navigation,0
+known_unknows_task,3,Theory of Mind,1
+known_unknows_task,3,Working Memory,0
+known_unknows_task,3,ambiguity,3
+known_unknows_task,3,factuality,2
+known_unknows_task,40,Causal Reasoning,0
+known_unknows_task,40,Cognitive Flexibility,0
+known_unknows_task,40,Emotion Perception and Empathy,0
+known_unknows_task,40,Episodic Memory,0
+known_unknows_task,40,Functional Perception,0
+known_unknows_task,40,Inhibitory Control,0
+known_unknows_task,40,Language,1
+known_unknows_task,40,Mental Simulation,0
+known_unknows_task,40,Metacognition,1
+known_unknows_task,40,Object Permanence,0
+known_unknows_task,40,Perception and Pattern Recognition,0
+known_unknows_task,40,Planning,0
+known_unknows_task,40,Procedural Memory,0
+known_unknows_task,40,Prospective Memory,0
+known_unknows_task,40,Semantic Memory,1
+known_unknows_task,40,Spatial Reasoning and Navigation,0
+known_unknows_task,40,Theory of Mind,0
+known_unknows_task,40,Working Memory,0
+known_unknows_task,40,ambiguity,2
+known_unknows_task,40,factuality,5
+known_unknows_task,41,Causal Reasoning,0
+known_unknows_task,41,Cognitive Flexibility,0
+known_unknows_task,41,Emotion Perception and Empathy,0
+known_unknows_task,41,Episodic Memory,0
+known_unknows_task,41,Functional Perception,1
+known_unknows_task,41,Inhibitory Control,0
+known_unknows_task,41,Language,1
+known_unknows_task,41,Mental Simulation,0
+known_unknows_task,41,Metacognition,0
+known_unknows_task,41,Object Permanence,0
+known_unknows_task,41,Perception and Pattern Recognition,1
+known_unknows_task,41,Planning,0
+known_unknows_task,41,Procedural Memory,0
+known_unknows_task,41,Prospective Memory,0
+known_unknows_task,41,Semantic Memory,2
+known_unknows_task,41,Spatial Reasoning and Navigation,0
+known_unknows_task,41,Theory of Mind,0
+known_unknows_task,41,Working Memory,0
+known_unknows_task,41,ambiguity,5
+known_unknows_task,41,factuality,5
+known_unknows_task,42,Causal Reasoning,0
+known_unknows_task,42,Cognitive Flexibility,0
+known_unknows_task,42,Emotion Perception and Empathy,0
+known_unknows_task,42,Episodic Memory,0
+known_unknows_task,42,Functional Perception,0
+known_unknows_task,42,Inhibitory Control,0
+known_unknows_task,42,Language,1
+known_unknows_task,42,Mental Simulation,0
+known_unknows_task,42,Metacognition,1
+known_unknows_task,42,Object Permanence,0
+known_unknows_task,42,Perception and Pattern Recognition,1
+known_unknows_task,42,Planning,0
+known_unknows_task,42,Procedural Memory,0
+known_unknows_task,42,Prospective Memory,0
+known_unknows_task,42,Semantic Memory,1
+known_unknows_task,42,Spatial Reasoning and Navigation,0
+known_unknows_task,42,Theory of Mind,0
+known_unknows_task,42,Working Memory,0
+known_unknows_task,42,ambiguity,5
+known_unknows_task,42,factuality,5
+known_unknows_task,43,Causal Reasoning,0
+known_unknows_task,43,Cognitive Flexibility,0
+known_unknows_task,43,Emotion Perception and Empathy,0
+known_unknows_task,43,Episodic Memory,0
+known_unknows_task,43,Functional Perception,0
+known_unknows_task,43,Inhibitory Control,0
+known_unknows_task,43,Language,1
+known_unknows_task,43,Mental Simulation,0
+known_unknows_task,43,Metacognition,1
+known_unknows_task,43,Object Permanence,0
+known_unknows_task,43,Perception and Pattern Recognition,0
+known_unknows_task,43,Planning,0
+known_unknows_task,43,Procedural Memory,0
+known_unknows_task,43,Prospective Memory,0
+known_unknows_task,43,Semantic Memory,2
+known_unknows_task,43,Spatial Reasoning and Navigation,0
+known_unknows_task,43,Theory of Mind,0
+known_unknows_task,43,Working Memory,0
+known_unknows_task,43,ambiguity,3
+known_unknows_task,43,factuality,5
+known_unknows_task,44,Causal Reasoning,0
+known_unknows_task,44,Cognitive Flexibility,0
+known_unknows_task,44,Emotion Perception and Empathy,0
+known_unknows_task,44,Episodic Memory,0
+known_unknows_task,44,Functional Perception,0
+known_unknows_task,44,Inhibitory Control,1
+known_unknows_task,44,Language,1
+known_unknows_task,44,Mental Simulation,0
+known_unknows_task,44,Metacognition,1
+known_unknows_task,44,Object Permanence,0
+known_unknows_task,44,Perception and Pattern Recognition,0
+known_unknows_task,44,Planning,0
+known_unknows_task,44,Procedural Memory,0
+known_unknows_task,44,Prospective Memory,0
+known_unknows_task,44,Semantic Memory,1
+known_unknows_task,44,Spatial Reasoning and Navigation,0
+known_unknows_task,44,Theory of Mind,0
+known_unknows_task,44,Working Memory,0
+known_unknows_task,44,ambiguity,1
+known_unknows_task,44,factuality,5
+known_unknows_task,45,Causal Reasoning,0
+known_unknows_task,45,Cognitive Flexibility,0
+known_unknows_task,45,Emotion Perception and Empathy,0
+known_unknows_task,45,Episodic Memory,0
+known_unknows_task,45,Functional Perception,0
+known_unknows_task,45,Inhibitory Control,0
+known_unknows_task,45,Language,1
+known_unknows_task,45,Mental Simulation,0
+known_unknows_task,45,Metacognition,0
+known_unknows_task,45,Object Permanence,0
+known_unknows_task,45,Perception and Pattern Recognition,1
+known_unknows_task,45,Planning,0
+known_unknows_task,45,Procedural Memory,0
+known_unknows_task,45,Prospective Memory,0
+known_unknows_task,45,Semantic Memory,1
+known_unknows_task,45,Spatial Reasoning and Navigation,0
+known_unknows_task,45,Theory of Mind,0
+known_unknows_task,45,Working Memory,0
+known_unknows_task,45,ambiguity,5
+known_unknows_task,45,factuality,5
+known_unknows_task,4,Causal Reasoning,0
+known_unknows_task,4,Cognitive Flexibility,0
+known_unknows_task,4,Emotion Perception and Empathy,0
+known_unknows_task,4,Episodic Memory,0
+known_unknows_task,4,Functional Perception,0
+known_unknows_task,4,Inhibitory Control,0
+known_unknows_task,4,Language,1
+known_unknows_task,4,Mental Simulation,0
+known_unknows_task,4,Metacognition,1
+known_unknows_task,4,Object Permanence,0
+known_unknows_task,4,Perception and Pattern Recognition,0
+known_unknows_task,4,Planning,0
+known_unknows_task,4,Procedural Memory,0
+known_unknows_task,4,Prospective Memory,0
+known_unknows_task,4,Semantic Memory,1
+known_unknows_task,4,Spatial Reasoning and Navigation,0
+known_unknows_task,4,Theory of Mind,0
+known_unknows_task,4,Working Memory,0
+known_unknows_task,4,ambiguity,2
+known_unknows_task,4,factuality,5
+known_unknows_task,5,Causal Reasoning,0
+known_unknows_task,5,Cognitive Flexibility,0
+known_unknows_task,5,Emotion Perception and Empathy,0
+known_unknows_task,5,Episodic Memory,1
+known_unknows_task,5,Functional Perception,0
+known_unknows_task,5,Inhibitory Control,0
+known_unknows_task,5,Language,1
+known_unknows_task,5,Mental Simulation,0
+known_unknows_task,5,Metacognition,2
+known_unknows_task,5,Object Permanence,0
+known_unknows_task,5,Perception and Pattern Recognition,1
+known_unknows_task,5,Planning,0
+known_unknows_task,5,Procedural Memory,0
+known_unknows_task,5,Prospective Memory,0
+known_unknows_task,5,Semantic Memory,2
+known_unknows_task,5,Spatial Reasoning and Navigation,0
+known_unknows_task,5,Theory of Mind,0
+known_unknows_task,5,Working Memory,0
+known_unknows_task,5,ambiguity,3
+known_unknows_task,5,factuality,2
+known_unknows_task,6,Causal Reasoning,0
+known_unknows_task,6,Cognitive Flexibility,0
+known_unknows_task,6,Emotion Perception and Empathy,0
+known_unknows_task,6,Episodic Memory,0
+known_unknows_task,6,Functional Perception,0
+known_unknows_task,6,Inhibitory Control,1
+known_unknows_task,6,Language,1
+known_unknows_task,6,Mental Simulation,0
+known_unknows_task,6,Metacognition,1
+known_unknows_task,6,Object Permanence,0
+known_unknows_task,6,Perception and Pattern Recognition,0
+known_unknows_task,6,Planning,0
+known_unknows_task,6,Procedural Memory,0
+known_unknows_task,6,Prospective Memory,0
+known_unknows_task,6,Semantic Memory,1
+known_unknows_task,6,Spatial Reasoning and Navigation,0
+known_unknows_task,6,Theory of Mind,0
+known_unknows_task,6,Working Memory,0
+known_unknows_task,6,ambiguity,4
+known_unknows_task,6,factuality,5
+known_unknows_task,7,Causal Reasoning,0
+known_unknows_task,7,Cognitive Flexibility,0
+known_unknows_task,7,Emotion Perception and Empathy,0
+known_unknows_task,7,Episodic Memory,0
+known_unknows_task,7,Functional Perception,0
+known_unknows_task,7,Inhibitory Control,1
+known_unknows_task,7,Language,1
+known_unknows_task,7,Mental Simulation,0
+known_unknows_task,7,Metacognition,1
+known_unknows_task,7,Object Permanence,0
+known_unknows_task,7,Perception and Pattern Recognition,0
+known_unknows_task,7,Planning,0
+known_unknows_task,7,Procedural Memory,0
+known_unknows_task,7,Prospective Memory,0
+known_unknows_task,7,Semantic Memory,1
+known_unknows_task,7,Spatial Reasoning and Navigation,0
+known_unknows_task,7,Theory of Mind,0
+known_unknows_task,7,Working Memory,1
+known_unknows_task,7,ambiguity,4
+known_unknows_task,7,factuality,5
+known_unknows_task,8,Causal Reasoning,0
+known_unknows_task,8,Cognitive Flexibility,0
+known_unknows_task,8,Emotion Perception and Empathy,0
+known_unknows_task,8,Episodic Memory,0
+known_unknows_task,8,Functional Perception,0
+known_unknows_task,8,Inhibitory Control,1
+known_unknows_task,8,Language,1
+known_unknows_task,8,Mental Simulation,0
+known_unknows_task,8,Metacognition,1
+known_unknows_task,8,Object Permanence,0
+known_unknows_task,8,Perception and Pattern Recognition,0
+known_unknows_task,8,Planning,0
+known_unknows_task,8,Procedural Memory,0
+known_unknows_task,8,Prospective Memory,0
+known_unknows_task,8,Semantic Memory,1
+known_unknows_task,8,Spatial Reasoning and Navigation,0
+known_unknows_task,8,Theory of Mind,0
+known_unknows_task,8,Working Memory,0
+known_unknows_task,8,ambiguity,3
+known_unknows_task,8,factuality,5
+known_unknows_task,9,Causal Reasoning,0
+known_unknows_task,9,Cognitive Flexibility,0
+known_unknows_task,9,Emotion Perception and Empathy,0
+known_unknows_task,9,Episodic Memory,0
+known_unknows_task,9,Functional Perception,0
+known_unknows_task,9,Inhibitory Control,1
+known_unknows_task,9,Language,1
+known_unknows_task,9,Mental Simulation,0
+known_unknows_task,9,Metacognition,0
+known_unknows_task,9,Object Permanence,0
+known_unknows_task,9,Perception and Pattern Recognition,1
+known_unknows_task,9,Planning,0
+known_unknows_task,9,Procedural Memory,0
+known_unknows_task,9,Prospective Memory,0
+known_unknows_task,9,Semantic Memory,2
+known_unknows_task,9,Spatial Reasoning and Navigation,0
+known_unknows_task,9,Theory of Mind,0
+known_unknows_task,9,Working Memory,0
+known_unknows_task,9,ambiguity,5
+known_unknows_task,9,factuality,5

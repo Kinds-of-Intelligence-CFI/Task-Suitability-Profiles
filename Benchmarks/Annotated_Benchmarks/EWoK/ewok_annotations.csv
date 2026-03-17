@@ -1,0 +1,4201 @@
+dataset name,sample id,dimension,score
+ewok_task,ewok_00d40b84_1,Causal Reasoning,1
+ewok_task,ewok_00d40b84_1,Cognitive Flexibility,0
+ewok_task,ewok_00d40b84_1,Emotion Perception and Empathy,0
+ewok_task,ewok_00d40b84_1,Episodic Memory,0
+ewok_task,ewok_00d40b84_1,Functional Perception,1
+ewok_task,ewok_00d40b84_1,Inhibitory Control,0
+ewok_task,ewok_00d40b84_1,Language,1
+ewok_task,ewok_00d40b84_1,Mental Simulation,0
+ewok_task,ewok_00d40b84_1,Metacognition,1
+ewok_task,ewok_00d40b84_1,Object Permanence,0
+ewok_task,ewok_00d40b84_1,Perception and Pattern Recognition,1
+ewok_task,ewok_00d40b84_1,Planning,0
+ewok_task,ewok_00d40b84_1,Procedural Memory,0
+ewok_task,ewok_00d40b84_1,Prospective Memory,0
+ewok_task,ewok_00d40b84_1,Semantic Memory,1
+ewok_task,ewok_00d40b84_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_00d40b84_1,Theory of Mind,0
+ewok_task,ewok_00d40b84_1,Working Memory,1
+ewok_task,ewok_00d40b84_1,ambiguity,5
+ewok_task,ewok_00d40b84_1,factuality,5
+ewok_task,ewok_01a14f98_2,Causal Reasoning,0
+ewok_task,ewok_01a14f98_2,Cognitive Flexibility,0
+ewok_task,ewok_01a14f98_2,Emotion Perception and Empathy,0
+ewok_task,ewok_01a14f98_2,Episodic Memory,0
+ewok_task,ewok_01a14f98_2,Functional Perception,1
+ewok_task,ewok_01a14f98_2,Inhibitory Control,1
+ewok_task,ewok_01a14f98_2,Language,1
+ewok_task,ewok_01a14f98_2,Mental Simulation,0
+ewok_task,ewok_01a14f98_2,Metacognition,1
+ewok_task,ewok_01a14f98_2,Object Permanence,0
+ewok_task,ewok_01a14f98_2,Perception and Pattern Recognition,1
+ewok_task,ewok_01a14f98_2,Planning,0
+ewok_task,ewok_01a14f98_2,Procedural Memory,0
+ewok_task,ewok_01a14f98_2,Prospective Memory,0
+ewok_task,ewok_01a14f98_2,Semantic Memory,1
+ewok_task,ewok_01a14f98_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_01a14f98_2,Theory of Mind,0
+ewok_task,ewok_01a14f98_2,Working Memory,2
+ewok_task,ewok_01a14f98_2,ambiguity,5
+ewok_task,ewok_01a14f98_2,factuality,5
+ewok_task,ewok_021d516a_2,Causal Reasoning,0
+ewok_task,ewok_021d516a_2,Cognitive Flexibility,0
+ewok_task,ewok_021d516a_2,Emotion Perception and Empathy,0
+ewok_task,ewok_021d516a_2,Episodic Memory,0
+ewok_task,ewok_021d516a_2,Functional Perception,1
+ewok_task,ewok_021d516a_2,Inhibitory Control,1
+ewok_task,ewok_021d516a_2,Language,2
+ewok_task,ewok_021d516a_2,Mental Simulation,0
+ewok_task,ewok_021d516a_2,Metacognition,1
+ewok_task,ewok_021d516a_2,Object Permanence,0
+ewok_task,ewok_021d516a_2,Perception and Pattern Recognition,1
+ewok_task,ewok_021d516a_2,Planning,0
+ewok_task,ewok_021d516a_2,Procedural Memory,0
+ewok_task,ewok_021d516a_2,Prospective Memory,0
+ewok_task,ewok_021d516a_2,Semantic Memory,1
+ewok_task,ewok_021d516a_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_021d516a_2,Theory of Mind,2
+ewok_task,ewok_021d516a_2,Working Memory,2
+ewok_task,ewok_021d516a_2,ambiguity,5
+ewok_task,ewok_021d516a_2,factuality,5
+ewok_task,ewok_03fda09b_2,Causal Reasoning,1
+ewok_task,ewok_03fda09b_2,Cognitive Flexibility,0
+ewok_task,ewok_03fda09b_2,Emotion Perception and Empathy,0
+ewok_task,ewok_03fda09b_2,Episodic Memory,0
+ewok_task,ewok_03fda09b_2,Functional Perception,1
+ewok_task,ewok_03fda09b_2,Inhibitory Control,1
+ewok_task,ewok_03fda09b_2,Language,1
+ewok_task,ewok_03fda09b_2,Mental Simulation,1
+ewok_task,ewok_03fda09b_2,Metacognition,0
+ewok_task,ewok_03fda09b_2,Object Permanence,0
+ewok_task,ewok_03fda09b_2,Perception and Pattern Recognition,1
+ewok_task,ewok_03fda09b_2,Planning,0
+ewok_task,ewok_03fda09b_2,Procedural Memory,0
+ewok_task,ewok_03fda09b_2,Prospective Memory,0
+ewok_task,ewok_03fda09b_2,Semantic Memory,1
+ewok_task,ewok_03fda09b_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_03fda09b_2,Theory of Mind,0
+ewok_task,ewok_03fda09b_2,Working Memory,1
+ewok_task,ewok_03fda09b_2,ambiguity,5
+ewok_task,ewok_03fda09b_2,factuality,5
+ewok_task,ewok_05c8f38e_1,Causal Reasoning,1
+ewok_task,ewok_05c8f38e_1,Cognitive Flexibility,0
+ewok_task,ewok_05c8f38e_1,Emotion Perception and Empathy,0
+ewok_task,ewok_05c8f38e_1,Episodic Memory,0
+ewok_task,ewok_05c8f38e_1,Functional Perception,1
+ewok_task,ewok_05c8f38e_1,Inhibitory Control,1
+ewok_task,ewok_05c8f38e_1,Language,1
+ewok_task,ewok_05c8f38e_1,Mental Simulation,1
+ewok_task,ewok_05c8f38e_1,Metacognition,1
+ewok_task,ewok_05c8f38e_1,Object Permanence,0
+ewok_task,ewok_05c8f38e_1,Perception and Pattern Recognition,1
+ewok_task,ewok_05c8f38e_1,Planning,0
+ewok_task,ewok_05c8f38e_1,Procedural Memory,0
+ewok_task,ewok_05c8f38e_1,Prospective Memory,0
+ewok_task,ewok_05c8f38e_1,Semantic Memory,1
+ewok_task,ewok_05c8f38e_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_05c8f38e_1,Theory of Mind,0
+ewok_task,ewok_05c8f38e_1,Working Memory,2
+ewok_task,ewok_05c8f38e_1,ambiguity,5
+ewok_task,ewok_05c8f38e_1,factuality,5
+ewok_task,ewok_06af9f87_1,Causal Reasoning,1
+ewok_task,ewok_06af9f87_1,Cognitive Flexibility,0
+ewok_task,ewok_06af9f87_1,Emotion Perception and Empathy,0
+ewok_task,ewok_06af9f87_1,Episodic Memory,0
+ewok_task,ewok_06af9f87_1,Functional Perception,1
+ewok_task,ewok_06af9f87_1,Inhibitory Control,1
+ewok_task,ewok_06af9f87_1,Language,1
+ewok_task,ewok_06af9f87_1,Mental Simulation,1
+ewok_task,ewok_06af9f87_1,Metacognition,1
+ewok_task,ewok_06af9f87_1,Object Permanence,0
+ewok_task,ewok_06af9f87_1,Perception and Pattern Recognition,1
+ewok_task,ewok_06af9f87_1,Planning,0
+ewok_task,ewok_06af9f87_1,Procedural Memory,0
+ewok_task,ewok_06af9f87_1,Prospective Memory,0
+ewok_task,ewok_06af9f87_1,Semantic Memory,1
+ewok_task,ewok_06af9f87_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_06af9f87_1,Theory of Mind,0
+ewok_task,ewok_06af9f87_1,Working Memory,0
+ewok_task,ewok_06af9f87_1,ambiguity,5
+ewok_task,ewok_06af9f87_1,factuality,5
+ewok_task,ewok_083f0568_2,Causal Reasoning,1
+ewok_task,ewok_083f0568_2,Cognitive Flexibility,0
+ewok_task,ewok_083f0568_2,Emotion Perception and Empathy,0
+ewok_task,ewok_083f0568_2,Episodic Memory,0
+ewok_task,ewok_083f0568_2,Functional Perception,1
+ewok_task,ewok_083f0568_2,Inhibitory Control,0
+ewok_task,ewok_083f0568_2,Language,1
+ewok_task,ewok_083f0568_2,Mental Simulation,1
+ewok_task,ewok_083f0568_2,Metacognition,1
+ewok_task,ewok_083f0568_2,Object Permanence,0
+ewok_task,ewok_083f0568_2,Perception and Pattern Recognition,1
+ewok_task,ewok_083f0568_2,Planning,0
+ewok_task,ewok_083f0568_2,Procedural Memory,0
+ewok_task,ewok_083f0568_2,Prospective Memory,0
+ewok_task,ewok_083f0568_2,Semantic Memory,1
+ewok_task,ewok_083f0568_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_083f0568_2,Theory of Mind,1
+ewok_task,ewok_083f0568_2,Working Memory,1
+ewok_task,ewok_083f0568_2,ambiguity,5
+ewok_task,ewok_083f0568_2,factuality,5
+ewok_task,ewok_09314453_1,Causal Reasoning,1
+ewok_task,ewok_09314453_1,Cognitive Flexibility,0
+ewok_task,ewok_09314453_1,Emotion Perception and Empathy,0
+ewok_task,ewok_09314453_1,Episodic Memory,0
+ewok_task,ewok_09314453_1,Functional Perception,1
+ewok_task,ewok_09314453_1,Inhibitory Control,1
+ewok_task,ewok_09314453_1,Language,1
+ewok_task,ewok_09314453_1,Mental Simulation,1
+ewok_task,ewok_09314453_1,Metacognition,1
+ewok_task,ewok_09314453_1,Object Permanence,0
+ewok_task,ewok_09314453_1,Perception and Pattern Recognition,1
+ewok_task,ewok_09314453_1,Planning,0
+ewok_task,ewok_09314453_1,Procedural Memory,0
+ewok_task,ewok_09314453_1,Prospective Memory,0
+ewok_task,ewok_09314453_1,Semantic Memory,2
+ewok_task,ewok_09314453_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_09314453_1,Theory of Mind,0
+ewok_task,ewok_09314453_1,Working Memory,1
+ewok_task,ewok_09314453_1,ambiguity,5
+ewok_task,ewok_09314453_1,factuality,5
+ewok_task,ewok_0c3d627d_2,Causal Reasoning,1
+ewok_task,ewok_0c3d627d_2,Cognitive Flexibility,0
+ewok_task,ewok_0c3d627d_2,Emotion Perception and Empathy,0
+ewok_task,ewok_0c3d627d_2,Episodic Memory,0
+ewok_task,ewok_0c3d627d_2,Functional Perception,1
+ewok_task,ewok_0c3d627d_2,Inhibitory Control,1
+ewok_task,ewok_0c3d627d_2,Language,1
+ewok_task,ewok_0c3d627d_2,Mental Simulation,0
+ewok_task,ewok_0c3d627d_2,Metacognition,0
+ewok_task,ewok_0c3d627d_2,Object Permanence,0
+ewok_task,ewok_0c3d627d_2,Perception and Pattern Recognition,1
+ewok_task,ewok_0c3d627d_2,Planning,0
+ewok_task,ewok_0c3d627d_2,Procedural Memory,0
+ewok_task,ewok_0c3d627d_2,Prospective Memory,0
+ewok_task,ewok_0c3d627d_2,Semantic Memory,1
+ewok_task,ewok_0c3d627d_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_0c3d627d_2,Theory of Mind,0
+ewok_task,ewok_0c3d627d_2,Working Memory,1
+ewok_task,ewok_0c3d627d_2,ambiguity,5
+ewok_task,ewok_0c3d627d_2,factuality,5
+ewok_task,ewok_0e7c2eee_1,Causal Reasoning,1
+ewok_task,ewok_0e7c2eee_1,Cognitive Flexibility,0
+ewok_task,ewok_0e7c2eee_1,Emotion Perception and Empathy,0
+ewok_task,ewok_0e7c2eee_1,Episodic Memory,0
+ewok_task,ewok_0e7c2eee_1,Functional Perception,1
+ewok_task,ewok_0e7c2eee_1,Inhibitory Control,1
+ewok_task,ewok_0e7c2eee_1,Language,1
+ewok_task,ewok_0e7c2eee_1,Mental Simulation,1
+ewok_task,ewok_0e7c2eee_1,Metacognition,0
+ewok_task,ewok_0e7c2eee_1,Object Permanence,0
+ewok_task,ewok_0e7c2eee_1,Perception and Pattern Recognition,1
+ewok_task,ewok_0e7c2eee_1,Planning,0
+ewok_task,ewok_0e7c2eee_1,Procedural Memory,0
+ewok_task,ewok_0e7c2eee_1,Prospective Memory,0
+ewok_task,ewok_0e7c2eee_1,Semantic Memory,1
+ewok_task,ewok_0e7c2eee_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_0e7c2eee_1,Theory of Mind,0
+ewok_task,ewok_0e7c2eee_1,Working Memory,2
+ewok_task,ewok_0e7c2eee_1,ambiguity,5
+ewok_task,ewok_0e7c2eee_1,factuality,5
+ewok_task,ewok_0eef002e_1,Causal Reasoning,1
+ewok_task,ewok_0eef002e_1,Cognitive Flexibility,0
+ewok_task,ewok_0eef002e_1,Emotion Perception and Empathy,0
+ewok_task,ewok_0eef002e_1,Episodic Memory,0
+ewok_task,ewok_0eef002e_1,Functional Perception,2
+ewok_task,ewok_0eef002e_1,Inhibitory Control,1
+ewok_task,ewok_0eef002e_1,Language,2
+ewok_task,ewok_0eef002e_1,Mental Simulation,1
+ewok_task,ewok_0eef002e_1,Metacognition,1
+ewok_task,ewok_0eef002e_1,Object Permanence,0
+ewok_task,ewok_0eef002e_1,Perception and Pattern Recognition,1
+ewok_task,ewok_0eef002e_1,Planning,0
+ewok_task,ewok_0eef002e_1,Procedural Memory,0
+ewok_task,ewok_0eef002e_1,Prospective Memory,0
+ewok_task,ewok_0eef002e_1,Semantic Memory,1
+ewok_task,ewok_0eef002e_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_0eef002e_1,Theory of Mind,0
+ewok_task,ewok_0eef002e_1,Working Memory,0
+ewok_task,ewok_0eef002e_1,ambiguity,5
+ewok_task,ewok_0eef002e_1,factuality,5
+ewok_task,ewok_1500dd09_2,Causal Reasoning,1
+ewok_task,ewok_1500dd09_2,Cognitive Flexibility,0
+ewok_task,ewok_1500dd09_2,Emotion Perception and Empathy,0
+ewok_task,ewok_1500dd09_2,Episodic Memory,0
+ewok_task,ewok_1500dd09_2,Functional Perception,1
+ewok_task,ewok_1500dd09_2,Inhibitory Control,1
+ewok_task,ewok_1500dd09_2,Language,1
+ewok_task,ewok_1500dd09_2,Mental Simulation,0
+ewok_task,ewok_1500dd09_2,Metacognition,1
+ewok_task,ewok_1500dd09_2,Object Permanence,0
+ewok_task,ewok_1500dd09_2,Perception and Pattern Recognition,1
+ewok_task,ewok_1500dd09_2,Planning,0
+ewok_task,ewok_1500dd09_2,Procedural Memory,0
+ewok_task,ewok_1500dd09_2,Prospective Memory,0
+ewok_task,ewok_1500dd09_2,Semantic Memory,1
+ewok_task,ewok_1500dd09_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_1500dd09_2,Theory of Mind,0
+ewok_task,ewok_1500dd09_2,Working Memory,1
+ewok_task,ewok_1500dd09_2,ambiguity,5
+ewok_task,ewok_1500dd09_2,factuality,5
+ewok_task,ewok_15537902_1,Causal Reasoning,1
+ewok_task,ewok_15537902_1,Cognitive Flexibility,0
+ewok_task,ewok_15537902_1,Emotion Perception and Empathy,0
+ewok_task,ewok_15537902_1,Episodic Memory,0
+ewok_task,ewok_15537902_1,Functional Perception,1
+ewok_task,ewok_15537902_1,Inhibitory Control,1
+ewok_task,ewok_15537902_1,Language,1
+ewok_task,ewok_15537902_1,Mental Simulation,1
+ewok_task,ewok_15537902_1,Metacognition,1
+ewok_task,ewok_15537902_1,Object Permanence,0
+ewok_task,ewok_15537902_1,Perception and Pattern Recognition,1
+ewok_task,ewok_15537902_1,Planning,0
+ewok_task,ewok_15537902_1,Procedural Memory,0
+ewok_task,ewok_15537902_1,Prospective Memory,0
+ewok_task,ewok_15537902_1,Semantic Memory,2
+ewok_task,ewok_15537902_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_15537902_1,Theory of Mind,0
+ewok_task,ewok_15537902_1,Working Memory,0
+ewok_task,ewok_15537902_1,ambiguity,5
+ewok_task,ewok_15537902_1,factuality,5
+ewok_task,ewok_18298efc_2,Causal Reasoning,1
+ewok_task,ewok_18298efc_2,Cognitive Flexibility,0
+ewok_task,ewok_18298efc_2,Emotion Perception and Empathy,0
+ewok_task,ewok_18298efc_2,Episodic Memory,0
+ewok_task,ewok_18298efc_2,Functional Perception,1
+ewok_task,ewok_18298efc_2,Inhibitory Control,1
+ewok_task,ewok_18298efc_2,Language,1
+ewok_task,ewok_18298efc_2,Mental Simulation,0
+ewok_task,ewok_18298efc_2,Metacognition,1
+ewok_task,ewok_18298efc_2,Object Permanence,0
+ewok_task,ewok_18298efc_2,Perception and Pattern Recognition,1
+ewok_task,ewok_18298efc_2,Planning,0
+ewok_task,ewok_18298efc_2,Procedural Memory,0
+ewok_task,ewok_18298efc_2,Prospective Memory,0
+ewok_task,ewok_18298efc_2,Semantic Memory,1
+ewok_task,ewok_18298efc_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_18298efc_2,Theory of Mind,1
+ewok_task,ewok_18298efc_2,Working Memory,2
+ewok_task,ewok_18298efc_2,ambiguity,5
+ewok_task,ewok_18298efc_2,factuality,5
+ewok_task,ewok_1af5e04b_1,Causal Reasoning,1
+ewok_task,ewok_1af5e04b_1,Cognitive Flexibility,0
+ewok_task,ewok_1af5e04b_1,Emotion Perception and Empathy,0
+ewok_task,ewok_1af5e04b_1,Episodic Memory,0
+ewok_task,ewok_1af5e04b_1,Functional Perception,1
+ewok_task,ewok_1af5e04b_1,Inhibitory Control,1
+ewok_task,ewok_1af5e04b_1,Language,1
+ewok_task,ewok_1af5e04b_1,Mental Simulation,0
+ewok_task,ewok_1af5e04b_1,Metacognition,1
+ewok_task,ewok_1af5e04b_1,Object Permanence,0
+ewok_task,ewok_1af5e04b_1,Perception and Pattern Recognition,1
+ewok_task,ewok_1af5e04b_1,Planning,0
+ewok_task,ewok_1af5e04b_1,Procedural Memory,0
+ewok_task,ewok_1af5e04b_1,Prospective Memory,0
+ewok_task,ewok_1af5e04b_1,Semantic Memory,2
+ewok_task,ewok_1af5e04b_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_1af5e04b_1,Theory of Mind,0
+ewok_task,ewok_1af5e04b_1,Working Memory,1
+ewok_task,ewok_1af5e04b_1,ambiguity,5
+ewok_task,ewok_1af5e04b_1,factuality,5
+ewok_task,ewok_1b779309_2,Causal Reasoning,1
+ewok_task,ewok_1b779309_2,Cognitive Flexibility,0
+ewok_task,ewok_1b779309_2,Emotion Perception and Empathy,0
+ewok_task,ewok_1b779309_2,Episodic Memory,0
+ewok_task,ewok_1b779309_2,Functional Perception,1
+ewok_task,ewok_1b779309_2,Inhibitory Control,1
+ewok_task,ewok_1b779309_2,Language,1
+ewok_task,ewok_1b779309_2,Mental Simulation,1
+ewok_task,ewok_1b779309_2,Metacognition,0
+ewok_task,ewok_1b779309_2,Object Permanence,0
+ewok_task,ewok_1b779309_2,Perception and Pattern Recognition,1
+ewok_task,ewok_1b779309_2,Planning,0
+ewok_task,ewok_1b779309_2,Procedural Memory,1
+ewok_task,ewok_1b779309_2,Prospective Memory,0
+ewok_task,ewok_1b779309_2,Semantic Memory,2
+ewok_task,ewok_1b779309_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_1b779309_2,Theory of Mind,0
+ewok_task,ewok_1b779309_2,Working Memory,1
+ewok_task,ewok_1b779309_2,ambiguity,5
+ewok_task,ewok_1b779309_2,factuality,5
+ewok_task,ewok_1d5910e9_1,Causal Reasoning,1
+ewok_task,ewok_1d5910e9_1,Cognitive Flexibility,0
+ewok_task,ewok_1d5910e9_1,Emotion Perception and Empathy,0
+ewok_task,ewok_1d5910e9_1,Episodic Memory,0
+ewok_task,ewok_1d5910e9_1,Functional Perception,1
+ewok_task,ewok_1d5910e9_1,Inhibitory Control,1
+ewok_task,ewok_1d5910e9_1,Language,1
+ewok_task,ewok_1d5910e9_1,Mental Simulation,0
+ewok_task,ewok_1d5910e9_1,Metacognition,0
+ewok_task,ewok_1d5910e9_1,Object Permanence,0
+ewok_task,ewok_1d5910e9_1,Perception and Pattern Recognition,2
+ewok_task,ewok_1d5910e9_1,Planning,0
+ewok_task,ewok_1d5910e9_1,Procedural Memory,0
+ewok_task,ewok_1d5910e9_1,Prospective Memory,0
+ewok_task,ewok_1d5910e9_1,Semantic Memory,1
+ewok_task,ewok_1d5910e9_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_1d5910e9_1,Theory of Mind,1
+ewok_task,ewok_1d5910e9_1,Working Memory,2
+ewok_task,ewok_1d5910e9_1,ambiguity,5
+ewok_task,ewok_1d5910e9_1,factuality,5
+ewok_task,ewok_1ec03b76_1,Causal Reasoning,1
+ewok_task,ewok_1ec03b76_1,Cognitive Flexibility,0
+ewok_task,ewok_1ec03b76_1,Emotion Perception and Empathy,0
+ewok_task,ewok_1ec03b76_1,Episodic Memory,0
+ewok_task,ewok_1ec03b76_1,Functional Perception,1
+ewok_task,ewok_1ec03b76_1,Inhibitory Control,1
+ewok_task,ewok_1ec03b76_1,Language,1
+ewok_task,ewok_1ec03b76_1,Mental Simulation,1
+ewok_task,ewok_1ec03b76_1,Metacognition,1
+ewok_task,ewok_1ec03b76_1,Object Permanence,0
+ewok_task,ewok_1ec03b76_1,Perception and Pattern Recognition,1
+ewok_task,ewok_1ec03b76_1,Planning,0
+ewok_task,ewok_1ec03b76_1,Procedural Memory,0
+ewok_task,ewok_1ec03b76_1,Prospective Memory,0
+ewok_task,ewok_1ec03b76_1,Semantic Memory,1
+ewok_task,ewok_1ec03b76_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_1ec03b76_1,Theory of Mind,1
+ewok_task,ewok_1ec03b76_1,Working Memory,2
+ewok_task,ewok_1ec03b76_1,ambiguity,5
+ewok_task,ewok_1ec03b76_1,factuality,5
+ewok_task,ewok_1ee102fa_2,Causal Reasoning,1
+ewok_task,ewok_1ee102fa_2,Cognitive Flexibility,0
+ewok_task,ewok_1ee102fa_2,Emotion Perception and Empathy,0
+ewok_task,ewok_1ee102fa_2,Episodic Memory,0
+ewok_task,ewok_1ee102fa_2,Functional Perception,1
+ewok_task,ewok_1ee102fa_2,Inhibitory Control,1
+ewok_task,ewok_1ee102fa_2,Language,1
+ewok_task,ewok_1ee102fa_2,Mental Simulation,1
+ewok_task,ewok_1ee102fa_2,Metacognition,1
+ewok_task,ewok_1ee102fa_2,Object Permanence,0
+ewok_task,ewok_1ee102fa_2,Perception and Pattern Recognition,1
+ewok_task,ewok_1ee102fa_2,Planning,0
+ewok_task,ewok_1ee102fa_2,Procedural Memory,0
+ewok_task,ewok_1ee102fa_2,Prospective Memory,0
+ewok_task,ewok_1ee102fa_2,Semantic Memory,1
+ewok_task,ewok_1ee102fa_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_1ee102fa_2,Theory of Mind,0
+ewok_task,ewok_1ee102fa_2,Working Memory,2
+ewok_task,ewok_1ee102fa_2,ambiguity,5
+ewok_task,ewok_1ee102fa_2,factuality,5
+ewok_task,ewok_1eebb498_2,Causal Reasoning,1
+ewok_task,ewok_1eebb498_2,Cognitive Flexibility,0
+ewok_task,ewok_1eebb498_2,Emotion Perception and Empathy,0
+ewok_task,ewok_1eebb498_2,Episodic Memory,0
+ewok_task,ewok_1eebb498_2,Functional Perception,2
+ewok_task,ewok_1eebb498_2,Inhibitory Control,0
+ewok_task,ewok_1eebb498_2,Language,1
+ewok_task,ewok_1eebb498_2,Mental Simulation,0
+ewok_task,ewok_1eebb498_2,Metacognition,0
+ewok_task,ewok_1eebb498_2,Object Permanence,0
+ewok_task,ewok_1eebb498_2,Perception and Pattern Recognition,1
+ewok_task,ewok_1eebb498_2,Planning,0
+ewok_task,ewok_1eebb498_2,Procedural Memory,0
+ewok_task,ewok_1eebb498_2,Prospective Memory,0
+ewok_task,ewok_1eebb498_2,Semantic Memory,1
+ewok_task,ewok_1eebb498_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_1eebb498_2,Theory of Mind,0
+ewok_task,ewok_1eebb498_2,Working Memory,1
+ewok_task,ewok_1eebb498_2,ambiguity,5
+ewok_task,ewok_1eebb498_2,factuality,5
+ewok_task,ewok_1face017_2,Causal Reasoning,1
+ewok_task,ewok_1face017_2,Cognitive Flexibility,0
+ewok_task,ewok_1face017_2,Emotion Perception and Empathy,0
+ewok_task,ewok_1face017_2,Episodic Memory,0
+ewok_task,ewok_1face017_2,Functional Perception,1
+ewok_task,ewok_1face017_2,Inhibitory Control,0
+ewok_task,ewok_1face017_2,Language,1
+ewok_task,ewok_1face017_2,Mental Simulation,0
+ewok_task,ewok_1face017_2,Metacognition,0
+ewok_task,ewok_1face017_2,Object Permanence,0
+ewok_task,ewok_1face017_2,Perception and Pattern Recognition,1
+ewok_task,ewok_1face017_2,Planning,0
+ewok_task,ewok_1face017_2,Procedural Memory,0
+ewok_task,ewok_1face017_2,Prospective Memory,0
+ewok_task,ewok_1face017_2,Semantic Memory,2
+ewok_task,ewok_1face017_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_1face017_2,Theory of Mind,0
+ewok_task,ewok_1face017_2,Working Memory,1
+ewok_task,ewok_1face017_2,ambiguity,5
+ewok_task,ewok_1face017_2,factuality,5
+ewok_task,ewok_1fee123c_2,Causal Reasoning,1
+ewok_task,ewok_1fee123c_2,Cognitive Flexibility,0
+ewok_task,ewok_1fee123c_2,Emotion Perception and Empathy,0
+ewok_task,ewok_1fee123c_2,Episodic Memory,0
+ewok_task,ewok_1fee123c_2,Functional Perception,1
+ewok_task,ewok_1fee123c_2,Inhibitory Control,0
+ewok_task,ewok_1fee123c_2,Language,1
+ewok_task,ewok_1fee123c_2,Mental Simulation,1
+ewok_task,ewok_1fee123c_2,Metacognition,0
+ewok_task,ewok_1fee123c_2,Object Permanence,0
+ewok_task,ewok_1fee123c_2,Perception and Pattern Recognition,1
+ewok_task,ewok_1fee123c_2,Planning,0
+ewok_task,ewok_1fee123c_2,Procedural Memory,0
+ewok_task,ewok_1fee123c_2,Prospective Memory,0
+ewok_task,ewok_1fee123c_2,Semantic Memory,1
+ewok_task,ewok_1fee123c_2,Spatial Reasoning and Navigation,2
+ewok_task,ewok_1fee123c_2,Theory of Mind,0
+ewok_task,ewok_1fee123c_2,Working Memory,1
+ewok_task,ewok_1fee123c_2,ambiguity,5
+ewok_task,ewok_1fee123c_2,factuality,5
+ewok_task,ewok_21f383e7_2,Causal Reasoning,1
+ewok_task,ewok_21f383e7_2,Cognitive Flexibility,0
+ewok_task,ewok_21f383e7_2,Emotion Perception and Empathy,0
+ewok_task,ewok_21f383e7_2,Episodic Memory,0
+ewok_task,ewok_21f383e7_2,Functional Perception,1
+ewok_task,ewok_21f383e7_2,Inhibitory Control,0
+ewok_task,ewok_21f383e7_2,Language,1
+ewok_task,ewok_21f383e7_2,Mental Simulation,1
+ewok_task,ewok_21f383e7_2,Metacognition,1
+ewok_task,ewok_21f383e7_2,Object Permanence,0
+ewok_task,ewok_21f383e7_2,Perception and Pattern Recognition,1
+ewok_task,ewok_21f383e7_2,Planning,0
+ewok_task,ewok_21f383e7_2,Procedural Memory,0
+ewok_task,ewok_21f383e7_2,Prospective Memory,0
+ewok_task,ewok_21f383e7_2,Semantic Memory,1
+ewok_task,ewok_21f383e7_2,Spatial Reasoning and Navigation,2
+ewok_task,ewok_21f383e7_2,Theory of Mind,0
+ewok_task,ewok_21f383e7_2,Working Memory,2
+ewok_task,ewok_21f383e7_2,ambiguity,5
+ewok_task,ewok_21f383e7_2,factuality,5
+ewok_task,ewok_237c0464_1,Causal Reasoning,1
+ewok_task,ewok_237c0464_1,Cognitive Flexibility,0
+ewok_task,ewok_237c0464_1,Emotion Perception and Empathy,0
+ewok_task,ewok_237c0464_1,Episodic Memory,0
+ewok_task,ewok_237c0464_1,Functional Perception,2
+ewok_task,ewok_237c0464_1,Inhibitory Control,1
+ewok_task,ewok_237c0464_1,Language,1
+ewok_task,ewok_237c0464_1,Mental Simulation,1
+ewok_task,ewok_237c0464_1,Metacognition,1
+ewok_task,ewok_237c0464_1,Object Permanence,0
+ewok_task,ewok_237c0464_1,Perception and Pattern Recognition,1
+ewok_task,ewok_237c0464_1,Planning,0
+ewok_task,ewok_237c0464_1,Procedural Memory,0
+ewok_task,ewok_237c0464_1,Prospective Memory,0
+ewok_task,ewok_237c0464_1,Semantic Memory,1
+ewok_task,ewok_237c0464_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_237c0464_1,Theory of Mind,1
+ewok_task,ewok_237c0464_1,Working Memory,2
+ewok_task,ewok_237c0464_1,ambiguity,5
+ewok_task,ewok_237c0464_1,factuality,5
+ewok_task,ewok_248e75bc_2,Causal Reasoning,1
+ewok_task,ewok_248e75bc_2,Cognitive Flexibility,0
+ewok_task,ewok_248e75bc_2,Emotion Perception and Empathy,0
+ewok_task,ewok_248e75bc_2,Episodic Memory,0
+ewok_task,ewok_248e75bc_2,Functional Perception,1
+ewok_task,ewok_248e75bc_2,Inhibitory Control,1
+ewok_task,ewok_248e75bc_2,Language,2
+ewok_task,ewok_248e75bc_2,Mental Simulation,1
+ewok_task,ewok_248e75bc_2,Metacognition,1
+ewok_task,ewok_248e75bc_2,Object Permanence,0
+ewok_task,ewok_248e75bc_2,Perception and Pattern Recognition,1
+ewok_task,ewok_248e75bc_2,Planning,0
+ewok_task,ewok_248e75bc_2,Procedural Memory,0
+ewok_task,ewok_248e75bc_2,Prospective Memory,0
+ewok_task,ewok_248e75bc_2,Semantic Memory,1
+ewok_task,ewok_248e75bc_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_248e75bc_2,Theory of Mind,2
+ewok_task,ewok_248e75bc_2,Working Memory,2
+ewok_task,ewok_248e75bc_2,ambiguity,5
+ewok_task,ewok_248e75bc_2,factuality,5
+ewok_task,ewok_24997e97_1,Causal Reasoning,1
+ewok_task,ewok_24997e97_1,Cognitive Flexibility,0
+ewok_task,ewok_24997e97_1,Emotion Perception and Empathy,0
+ewok_task,ewok_24997e97_1,Episodic Memory,0
+ewok_task,ewok_24997e97_1,Functional Perception,1
+ewok_task,ewok_24997e97_1,Inhibitory Control,1
+ewok_task,ewok_24997e97_1,Language,1
+ewok_task,ewok_24997e97_1,Mental Simulation,1
+ewok_task,ewok_24997e97_1,Metacognition,1
+ewok_task,ewok_24997e97_1,Object Permanence,0
+ewok_task,ewok_24997e97_1,Perception and Pattern Recognition,1
+ewok_task,ewok_24997e97_1,Planning,0
+ewok_task,ewok_24997e97_1,Procedural Memory,0
+ewok_task,ewok_24997e97_1,Prospective Memory,0
+ewok_task,ewok_24997e97_1,Semantic Memory,1
+ewok_task,ewok_24997e97_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_24997e97_1,Theory of Mind,0
+ewok_task,ewok_24997e97_1,Working Memory,2
+ewok_task,ewok_24997e97_1,ambiguity,5
+ewok_task,ewok_24997e97_1,factuality,5
+ewok_task,ewok_24d9aed2_1,Causal Reasoning,1
+ewok_task,ewok_24d9aed2_1,Cognitive Flexibility,0
+ewok_task,ewok_24d9aed2_1,Emotion Perception and Empathy,0
+ewok_task,ewok_24d9aed2_1,Episodic Memory,0
+ewok_task,ewok_24d9aed2_1,Functional Perception,1
+ewok_task,ewok_24d9aed2_1,Inhibitory Control,1
+ewok_task,ewok_24d9aed2_1,Language,1
+ewok_task,ewok_24d9aed2_1,Mental Simulation,0
+ewok_task,ewok_24d9aed2_1,Metacognition,1
+ewok_task,ewok_24d9aed2_1,Object Permanence,0
+ewok_task,ewok_24d9aed2_1,Perception and Pattern Recognition,1
+ewok_task,ewok_24d9aed2_1,Planning,0
+ewok_task,ewok_24d9aed2_1,Procedural Memory,0
+ewok_task,ewok_24d9aed2_1,Prospective Memory,0
+ewok_task,ewok_24d9aed2_1,Semantic Memory,1
+ewok_task,ewok_24d9aed2_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_24d9aed2_1,Theory of Mind,0
+ewok_task,ewok_24d9aed2_1,Working Memory,1
+ewok_task,ewok_24d9aed2_1,ambiguity,5
+ewok_task,ewok_24d9aed2_1,factuality,5
+ewok_task,ewok_2598d321_1,Causal Reasoning,0
+ewok_task,ewok_2598d321_1,Cognitive Flexibility,0
+ewok_task,ewok_2598d321_1,Emotion Perception and Empathy,0
+ewok_task,ewok_2598d321_1,Episodic Memory,0
+ewok_task,ewok_2598d321_1,Functional Perception,1
+ewok_task,ewok_2598d321_1,Inhibitory Control,1
+ewok_task,ewok_2598d321_1,Language,1
+ewok_task,ewok_2598d321_1,Mental Simulation,1
+ewok_task,ewok_2598d321_1,Metacognition,1
+ewok_task,ewok_2598d321_1,Object Permanence,0
+ewok_task,ewok_2598d321_1,Perception and Pattern Recognition,1
+ewok_task,ewok_2598d321_1,Planning,0
+ewok_task,ewok_2598d321_1,Procedural Memory,0
+ewok_task,ewok_2598d321_1,Prospective Memory,0
+ewok_task,ewok_2598d321_1,Semantic Memory,1
+ewok_task,ewok_2598d321_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_2598d321_1,Theory of Mind,0
+ewok_task,ewok_2598d321_1,Working Memory,0
+ewok_task,ewok_2598d321_1,ambiguity,5
+ewok_task,ewok_2598d321_1,factuality,5
+ewok_task,ewok_2733224f_1,Causal Reasoning,1
+ewok_task,ewok_2733224f_1,Cognitive Flexibility,0
+ewok_task,ewok_2733224f_1,Emotion Perception and Empathy,0
+ewok_task,ewok_2733224f_1,Episodic Memory,0
+ewok_task,ewok_2733224f_1,Functional Perception,1
+ewok_task,ewok_2733224f_1,Inhibitory Control,1
+ewok_task,ewok_2733224f_1,Language,1
+ewok_task,ewok_2733224f_1,Mental Simulation,1
+ewok_task,ewok_2733224f_1,Metacognition,1
+ewok_task,ewok_2733224f_1,Object Permanence,0
+ewok_task,ewok_2733224f_1,Perception and Pattern Recognition,1
+ewok_task,ewok_2733224f_1,Planning,0
+ewok_task,ewok_2733224f_1,Procedural Memory,0
+ewok_task,ewok_2733224f_1,Prospective Memory,0
+ewok_task,ewok_2733224f_1,Semantic Memory,2
+ewok_task,ewok_2733224f_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_2733224f_1,Theory of Mind,1
+ewok_task,ewok_2733224f_1,Working Memory,0
+ewok_task,ewok_2733224f_1,ambiguity,4
+ewok_task,ewok_2733224f_1,factuality,5
+ewok_task,ewok_2ac6517e_2,Causal Reasoning,1
+ewok_task,ewok_2ac6517e_2,Cognitive Flexibility,0
+ewok_task,ewok_2ac6517e_2,Emotion Perception and Empathy,0
+ewok_task,ewok_2ac6517e_2,Episodic Memory,0
+ewok_task,ewok_2ac6517e_2,Functional Perception,1
+ewok_task,ewok_2ac6517e_2,Inhibitory Control,1
+ewok_task,ewok_2ac6517e_2,Language,1
+ewok_task,ewok_2ac6517e_2,Mental Simulation,1
+ewok_task,ewok_2ac6517e_2,Metacognition,1
+ewok_task,ewok_2ac6517e_2,Object Permanence,0
+ewok_task,ewok_2ac6517e_2,Perception and Pattern Recognition,1
+ewok_task,ewok_2ac6517e_2,Planning,0
+ewok_task,ewok_2ac6517e_2,Procedural Memory,0
+ewok_task,ewok_2ac6517e_2,Prospective Memory,0
+ewok_task,ewok_2ac6517e_2,Semantic Memory,2
+ewok_task,ewok_2ac6517e_2,Spatial Reasoning and Navigation,2
+ewok_task,ewok_2ac6517e_2,Theory of Mind,0
+ewok_task,ewok_2ac6517e_2,Working Memory,2
+ewok_task,ewok_2ac6517e_2,ambiguity,5
+ewok_task,ewok_2ac6517e_2,factuality,1
+ewok_task,ewok_2bdeb0ae_1,Causal Reasoning,1
+ewok_task,ewok_2bdeb0ae_1,Cognitive Flexibility,0
+ewok_task,ewok_2bdeb0ae_1,Emotion Perception and Empathy,0
+ewok_task,ewok_2bdeb0ae_1,Episodic Memory,0
+ewok_task,ewok_2bdeb0ae_1,Functional Perception,1
+ewok_task,ewok_2bdeb0ae_1,Inhibitory Control,1
+ewok_task,ewok_2bdeb0ae_1,Language,2
+ewok_task,ewok_2bdeb0ae_1,Mental Simulation,1
+ewok_task,ewok_2bdeb0ae_1,Metacognition,1
+ewok_task,ewok_2bdeb0ae_1,Object Permanence,0
+ewok_task,ewok_2bdeb0ae_1,Perception and Pattern Recognition,1
+ewok_task,ewok_2bdeb0ae_1,Planning,0
+ewok_task,ewok_2bdeb0ae_1,Procedural Memory,0
+ewok_task,ewok_2bdeb0ae_1,Prospective Memory,0
+ewok_task,ewok_2bdeb0ae_1,Semantic Memory,1
+ewok_task,ewok_2bdeb0ae_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_2bdeb0ae_1,Theory of Mind,1
+ewok_task,ewok_2bdeb0ae_1,Working Memory,1
+ewok_task,ewok_2bdeb0ae_1,ambiguity,5
+ewok_task,ewok_2bdeb0ae_1,factuality,5
+ewok_task,ewok_2bfaea32_2,Causal Reasoning,1
+ewok_task,ewok_2bfaea32_2,Cognitive Flexibility,0
+ewok_task,ewok_2bfaea32_2,Emotion Perception and Empathy,0
+ewok_task,ewok_2bfaea32_2,Episodic Memory,0
+ewok_task,ewok_2bfaea32_2,Functional Perception,1
+ewok_task,ewok_2bfaea32_2,Inhibitory Control,0
+ewok_task,ewok_2bfaea32_2,Language,1
+ewok_task,ewok_2bfaea32_2,Mental Simulation,0
+ewok_task,ewok_2bfaea32_2,Metacognition,0
+ewok_task,ewok_2bfaea32_2,Object Permanence,0
+ewok_task,ewok_2bfaea32_2,Perception and Pattern Recognition,1
+ewok_task,ewok_2bfaea32_2,Planning,0
+ewok_task,ewok_2bfaea32_2,Procedural Memory,0
+ewok_task,ewok_2bfaea32_2,Prospective Memory,0
+ewok_task,ewok_2bfaea32_2,Semantic Memory,1
+ewok_task,ewok_2bfaea32_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_2bfaea32_2,Theory of Mind,1
+ewok_task,ewok_2bfaea32_2,Working Memory,1
+ewok_task,ewok_2bfaea32_2,ambiguity,5
+ewok_task,ewok_2bfaea32_2,factuality,5
+ewok_task,ewok_2df4acab_1,Causal Reasoning,1
+ewok_task,ewok_2df4acab_1,Cognitive Flexibility,0
+ewok_task,ewok_2df4acab_1,Emotion Perception and Empathy,0
+ewok_task,ewok_2df4acab_1,Episodic Memory,0
+ewok_task,ewok_2df4acab_1,Functional Perception,1
+ewok_task,ewok_2df4acab_1,Inhibitory Control,0
+ewok_task,ewok_2df4acab_1,Language,1
+ewok_task,ewok_2df4acab_1,Mental Simulation,0
+ewok_task,ewok_2df4acab_1,Metacognition,0
+ewok_task,ewok_2df4acab_1,Object Permanence,0
+ewok_task,ewok_2df4acab_1,Perception and Pattern Recognition,1
+ewok_task,ewok_2df4acab_1,Planning,0
+ewok_task,ewok_2df4acab_1,Procedural Memory,0
+ewok_task,ewok_2df4acab_1,Prospective Memory,0
+ewok_task,ewok_2df4acab_1,Semantic Memory,2
+ewok_task,ewok_2df4acab_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_2df4acab_1,Theory of Mind,0
+ewok_task,ewok_2df4acab_1,Working Memory,2
+ewok_task,ewok_2df4acab_1,ambiguity,5
+ewok_task,ewok_2df4acab_1,factuality,5
+ewok_task,ewok_2e2260d2_1,Causal Reasoning,1
+ewok_task,ewok_2e2260d2_1,Cognitive Flexibility,0
+ewok_task,ewok_2e2260d2_1,Emotion Perception and Empathy,0
+ewok_task,ewok_2e2260d2_1,Episodic Memory,0
+ewok_task,ewok_2e2260d2_1,Functional Perception,1
+ewok_task,ewok_2e2260d2_1,Inhibitory Control,0
+ewok_task,ewok_2e2260d2_1,Language,1
+ewok_task,ewok_2e2260d2_1,Mental Simulation,1
+ewok_task,ewok_2e2260d2_1,Metacognition,1
+ewok_task,ewok_2e2260d2_1,Object Permanence,0
+ewok_task,ewok_2e2260d2_1,Perception and Pattern Recognition,2
+ewok_task,ewok_2e2260d2_1,Planning,0
+ewok_task,ewok_2e2260d2_1,Procedural Memory,0
+ewok_task,ewok_2e2260d2_1,Prospective Memory,0
+ewok_task,ewok_2e2260d2_1,Semantic Memory,2
+ewok_task,ewok_2e2260d2_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_2e2260d2_1,Theory of Mind,0
+ewok_task,ewok_2e2260d2_1,Working Memory,0
+ewok_task,ewok_2e2260d2_1,ambiguity,5
+ewok_task,ewok_2e2260d2_1,factuality,5
+ewok_task,ewok_2ea04919_1,Causal Reasoning,0
+ewok_task,ewok_2ea04919_1,Cognitive Flexibility,0
+ewok_task,ewok_2ea04919_1,Emotion Perception and Empathy,0
+ewok_task,ewok_2ea04919_1,Episodic Memory,0
+ewok_task,ewok_2ea04919_1,Functional Perception,1
+ewok_task,ewok_2ea04919_1,Inhibitory Control,1
+ewok_task,ewok_2ea04919_1,Language,1
+ewok_task,ewok_2ea04919_1,Mental Simulation,0
+ewok_task,ewok_2ea04919_1,Metacognition,1
+ewok_task,ewok_2ea04919_1,Object Permanence,0
+ewok_task,ewok_2ea04919_1,Perception and Pattern Recognition,1
+ewok_task,ewok_2ea04919_1,Planning,0
+ewok_task,ewok_2ea04919_1,Procedural Memory,0
+ewok_task,ewok_2ea04919_1,Prospective Memory,0
+ewok_task,ewok_2ea04919_1,Semantic Memory,1
+ewok_task,ewok_2ea04919_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_2ea04919_1,Theory of Mind,0
+ewok_task,ewok_2ea04919_1,Working Memory,1
+ewok_task,ewok_2ea04919_1,ambiguity,5
+ewok_task,ewok_2ea04919_1,factuality,5
+ewok_task,ewok_2ea04919_2,Causal Reasoning,0
+ewok_task,ewok_2ea04919_2,Cognitive Flexibility,0
+ewok_task,ewok_2ea04919_2,Emotion Perception and Empathy,0
+ewok_task,ewok_2ea04919_2,Episodic Memory,0
+ewok_task,ewok_2ea04919_2,Functional Perception,1
+ewok_task,ewok_2ea04919_2,Inhibitory Control,1
+ewok_task,ewok_2ea04919_2,Language,1
+ewok_task,ewok_2ea04919_2,Mental Simulation,0
+ewok_task,ewok_2ea04919_2,Metacognition,1
+ewok_task,ewok_2ea04919_2,Object Permanence,0
+ewok_task,ewok_2ea04919_2,Perception and Pattern Recognition,1
+ewok_task,ewok_2ea04919_2,Planning,0
+ewok_task,ewok_2ea04919_2,Procedural Memory,0
+ewok_task,ewok_2ea04919_2,Prospective Memory,0
+ewok_task,ewok_2ea04919_2,Semantic Memory,1
+ewok_task,ewok_2ea04919_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_2ea04919_2,Theory of Mind,0
+ewok_task,ewok_2ea04919_2,Working Memory,1
+ewok_task,ewok_2ea04919_2,ambiguity,5
+ewok_task,ewok_2ea04919_2,factuality,5
+ewok_task,ewok_2f193112_1,Causal Reasoning,1
+ewok_task,ewok_2f193112_1,Cognitive Flexibility,0
+ewok_task,ewok_2f193112_1,Emotion Perception and Empathy,0
+ewok_task,ewok_2f193112_1,Episodic Memory,0
+ewok_task,ewok_2f193112_1,Functional Perception,1
+ewok_task,ewok_2f193112_1,Inhibitory Control,1
+ewok_task,ewok_2f193112_1,Language,1
+ewok_task,ewok_2f193112_1,Mental Simulation,0
+ewok_task,ewok_2f193112_1,Metacognition,0
+ewok_task,ewok_2f193112_1,Object Permanence,0
+ewok_task,ewok_2f193112_1,Perception and Pattern Recognition,1
+ewok_task,ewok_2f193112_1,Planning,0
+ewok_task,ewok_2f193112_1,Procedural Memory,0
+ewok_task,ewok_2f193112_1,Prospective Memory,0
+ewok_task,ewok_2f193112_1,Semantic Memory,2
+ewok_task,ewok_2f193112_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_2f193112_1,Theory of Mind,0
+ewok_task,ewok_2f193112_1,Working Memory,1
+ewok_task,ewok_2f193112_1,ambiguity,5
+ewok_task,ewok_2f193112_1,factuality,5
+ewok_task,ewok_2f1f1874_1,Causal Reasoning,1
+ewok_task,ewok_2f1f1874_1,Cognitive Flexibility,0
+ewok_task,ewok_2f1f1874_1,Emotion Perception and Empathy,0
+ewok_task,ewok_2f1f1874_1,Episodic Memory,0
+ewok_task,ewok_2f1f1874_1,Functional Perception,2
+ewok_task,ewok_2f1f1874_1,Inhibitory Control,1
+ewok_task,ewok_2f1f1874_1,Language,2
+ewok_task,ewok_2f1f1874_1,Mental Simulation,0
+ewok_task,ewok_2f1f1874_1,Metacognition,0
+ewok_task,ewok_2f1f1874_1,Object Permanence,0
+ewok_task,ewok_2f1f1874_1,Perception and Pattern Recognition,2
+ewok_task,ewok_2f1f1874_1,Planning,0
+ewok_task,ewok_2f1f1874_1,Procedural Memory,0
+ewok_task,ewok_2f1f1874_1,Prospective Memory,0
+ewok_task,ewok_2f1f1874_1,Semantic Memory,2
+ewok_task,ewok_2f1f1874_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_2f1f1874_1,Theory of Mind,2
+ewok_task,ewok_2f1f1874_1,Working Memory,2
+ewok_task,ewok_2f1f1874_1,ambiguity,5
+ewok_task,ewok_2f1f1874_1,factuality,5
+ewok_task,ewok_336022c7_1,Causal Reasoning,1
+ewok_task,ewok_336022c7_1,Cognitive Flexibility,0
+ewok_task,ewok_336022c7_1,Emotion Perception and Empathy,0
+ewok_task,ewok_336022c7_1,Episodic Memory,0
+ewok_task,ewok_336022c7_1,Functional Perception,1
+ewok_task,ewok_336022c7_1,Inhibitory Control,1
+ewok_task,ewok_336022c7_1,Language,1
+ewok_task,ewok_336022c7_1,Mental Simulation,0
+ewok_task,ewok_336022c7_1,Metacognition,0
+ewok_task,ewok_336022c7_1,Object Permanence,0
+ewok_task,ewok_336022c7_1,Perception and Pattern Recognition,1
+ewok_task,ewok_336022c7_1,Planning,0
+ewok_task,ewok_336022c7_1,Procedural Memory,0
+ewok_task,ewok_336022c7_1,Prospective Memory,0
+ewok_task,ewok_336022c7_1,Semantic Memory,1
+ewok_task,ewok_336022c7_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_336022c7_1,Theory of Mind,0
+ewok_task,ewok_336022c7_1,Working Memory,2
+ewok_task,ewok_336022c7_1,ambiguity,5
+ewok_task,ewok_336022c7_1,factuality,5
+ewok_task,ewok_350d096d_2,Causal Reasoning,1
+ewok_task,ewok_350d096d_2,Cognitive Flexibility,0
+ewok_task,ewok_350d096d_2,Emotion Perception and Empathy,0
+ewok_task,ewok_350d096d_2,Episodic Memory,0
+ewok_task,ewok_350d096d_2,Functional Perception,1
+ewok_task,ewok_350d096d_2,Inhibitory Control,1
+ewok_task,ewok_350d096d_2,Language,1
+ewok_task,ewok_350d096d_2,Mental Simulation,1
+ewok_task,ewok_350d096d_2,Metacognition,1
+ewok_task,ewok_350d096d_2,Object Permanence,0
+ewok_task,ewok_350d096d_2,Perception and Pattern Recognition,1
+ewok_task,ewok_350d096d_2,Planning,0
+ewok_task,ewok_350d096d_2,Procedural Memory,0
+ewok_task,ewok_350d096d_2,Prospective Memory,0
+ewok_task,ewok_350d096d_2,Semantic Memory,1
+ewok_task,ewok_350d096d_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_350d096d_2,Theory of Mind,2
+ewok_task,ewok_350d096d_2,Working Memory,2
+ewok_task,ewok_350d096d_2,ambiguity,5
+ewok_task,ewok_350d096d_2,factuality,1
+ewok_task,ewok_3631d252_1,Causal Reasoning,0
+ewok_task,ewok_3631d252_1,Cognitive Flexibility,0
+ewok_task,ewok_3631d252_1,Emotion Perception and Empathy,0
+ewok_task,ewok_3631d252_1,Episodic Memory,0
+ewok_task,ewok_3631d252_1,Functional Perception,0
+ewok_task,ewok_3631d252_1,Inhibitory Control,1
+ewok_task,ewok_3631d252_1,Language,1
+ewok_task,ewok_3631d252_1,Mental Simulation,0
+ewok_task,ewok_3631d252_1,Metacognition,0
+ewok_task,ewok_3631d252_1,Object Permanence,0
+ewok_task,ewok_3631d252_1,Perception and Pattern Recognition,0
+ewok_task,ewok_3631d252_1,Planning,0
+ewok_task,ewok_3631d252_1,Procedural Memory,0
+ewok_task,ewok_3631d252_1,Prospective Memory,0
+ewok_task,ewok_3631d252_1,Semantic Memory,1
+ewok_task,ewok_3631d252_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_3631d252_1,Theory of Mind,0
+ewok_task,ewok_3631d252_1,Working Memory,1
+ewok_task,ewok_3631d252_1,ambiguity,2
+ewok_task,ewok_3631d252_1,factuality,3
+ewok_task,ewok_3854cde2_1,Causal Reasoning,1
+ewok_task,ewok_3854cde2_1,Cognitive Flexibility,0
+ewok_task,ewok_3854cde2_1,Emotion Perception and Empathy,1
+ewok_task,ewok_3854cde2_1,Episodic Memory,0
+ewok_task,ewok_3854cde2_1,Functional Perception,1
+ewok_task,ewok_3854cde2_1,Inhibitory Control,1
+ewok_task,ewok_3854cde2_1,Language,1
+ewok_task,ewok_3854cde2_1,Mental Simulation,0
+ewok_task,ewok_3854cde2_1,Metacognition,1
+ewok_task,ewok_3854cde2_1,Object Permanence,0
+ewok_task,ewok_3854cde2_1,Perception and Pattern Recognition,1
+ewok_task,ewok_3854cde2_1,Planning,0
+ewok_task,ewok_3854cde2_1,Procedural Memory,0
+ewok_task,ewok_3854cde2_1,Prospective Memory,0
+ewok_task,ewok_3854cde2_1,Semantic Memory,2
+ewok_task,ewok_3854cde2_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_3854cde2_1,Theory of Mind,1
+ewok_task,ewok_3854cde2_1,Working Memory,0
+ewok_task,ewok_3854cde2_1,ambiguity,5
+ewok_task,ewok_3854cde2_1,factuality,5
+ewok_task,ewok_3a680764_2,Causal Reasoning,1
+ewok_task,ewok_3a680764_2,Cognitive Flexibility,0
+ewok_task,ewok_3a680764_2,Emotion Perception and Empathy,0
+ewok_task,ewok_3a680764_2,Episodic Memory,0
+ewok_task,ewok_3a680764_2,Functional Perception,1
+ewok_task,ewok_3a680764_2,Inhibitory Control,0
+ewok_task,ewok_3a680764_2,Language,1
+ewok_task,ewok_3a680764_2,Mental Simulation,1
+ewok_task,ewok_3a680764_2,Metacognition,1
+ewok_task,ewok_3a680764_2,Object Permanence,0
+ewok_task,ewok_3a680764_2,Perception and Pattern Recognition,1
+ewok_task,ewok_3a680764_2,Planning,0
+ewok_task,ewok_3a680764_2,Procedural Memory,0
+ewok_task,ewok_3a680764_2,Prospective Memory,0
+ewok_task,ewok_3a680764_2,Semantic Memory,2
+ewok_task,ewok_3a680764_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_3a680764_2,Theory of Mind,0
+ewok_task,ewok_3a680764_2,Working Memory,1
+ewok_task,ewok_3a680764_2,ambiguity,5
+ewok_task,ewok_3a680764_2,factuality,5
+ewok_task,ewok_3bf8bef9_1,Causal Reasoning,1
+ewok_task,ewok_3bf8bef9_1,Cognitive Flexibility,0
+ewok_task,ewok_3bf8bef9_1,Emotion Perception and Empathy,0
+ewok_task,ewok_3bf8bef9_1,Episodic Memory,0
+ewok_task,ewok_3bf8bef9_1,Functional Perception,1
+ewok_task,ewok_3bf8bef9_1,Inhibitory Control,1
+ewok_task,ewok_3bf8bef9_1,Language,1
+ewok_task,ewok_3bf8bef9_1,Mental Simulation,0
+ewok_task,ewok_3bf8bef9_1,Metacognition,0
+ewok_task,ewok_3bf8bef9_1,Object Permanence,0
+ewok_task,ewok_3bf8bef9_1,Perception and Pattern Recognition,1
+ewok_task,ewok_3bf8bef9_1,Planning,0
+ewok_task,ewok_3bf8bef9_1,Procedural Memory,0
+ewok_task,ewok_3bf8bef9_1,Prospective Memory,0
+ewok_task,ewok_3bf8bef9_1,Semantic Memory,1
+ewok_task,ewok_3bf8bef9_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_3bf8bef9_1,Theory of Mind,1
+ewok_task,ewok_3bf8bef9_1,Working Memory,2
+ewok_task,ewok_3bf8bef9_1,ambiguity,5
+ewok_task,ewok_3bf8bef9_1,factuality,5
+ewok_task,ewok_3cb5dcb2_1,Causal Reasoning,1
+ewok_task,ewok_3cb5dcb2_1,Cognitive Flexibility,0
+ewok_task,ewok_3cb5dcb2_1,Emotion Perception and Empathy,0
+ewok_task,ewok_3cb5dcb2_1,Episodic Memory,0
+ewok_task,ewok_3cb5dcb2_1,Functional Perception,1
+ewok_task,ewok_3cb5dcb2_1,Inhibitory Control,1
+ewok_task,ewok_3cb5dcb2_1,Language,1
+ewok_task,ewok_3cb5dcb2_1,Mental Simulation,1
+ewok_task,ewok_3cb5dcb2_1,Metacognition,1
+ewok_task,ewok_3cb5dcb2_1,Object Permanence,0
+ewok_task,ewok_3cb5dcb2_1,Perception and Pattern Recognition,1
+ewok_task,ewok_3cb5dcb2_1,Planning,0
+ewok_task,ewok_3cb5dcb2_1,Procedural Memory,0
+ewok_task,ewok_3cb5dcb2_1,Prospective Memory,0
+ewok_task,ewok_3cb5dcb2_1,Semantic Memory,2
+ewok_task,ewok_3cb5dcb2_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_3cb5dcb2_1,Theory of Mind,0
+ewok_task,ewok_3cb5dcb2_1,Working Memory,1
+ewok_task,ewok_3cb5dcb2_1,ambiguity,3
+ewok_task,ewok_3cb5dcb2_1,factuality,5
+ewok_task,ewok_3e3c2160_1,Causal Reasoning,1
+ewok_task,ewok_3e3c2160_1,Cognitive Flexibility,0
+ewok_task,ewok_3e3c2160_1,Emotion Perception and Empathy,0
+ewok_task,ewok_3e3c2160_1,Episodic Memory,0
+ewok_task,ewok_3e3c2160_1,Functional Perception,1
+ewok_task,ewok_3e3c2160_1,Inhibitory Control,1
+ewok_task,ewok_3e3c2160_1,Language,1
+ewok_task,ewok_3e3c2160_1,Mental Simulation,1
+ewok_task,ewok_3e3c2160_1,Metacognition,1
+ewok_task,ewok_3e3c2160_1,Object Permanence,1
+ewok_task,ewok_3e3c2160_1,Perception and Pattern Recognition,1
+ewok_task,ewok_3e3c2160_1,Planning,0
+ewok_task,ewok_3e3c2160_1,Procedural Memory,0
+ewok_task,ewok_3e3c2160_1,Prospective Memory,0
+ewok_task,ewok_3e3c2160_1,Semantic Memory,1
+ewok_task,ewok_3e3c2160_1,Spatial Reasoning and Navigation,2
+ewok_task,ewok_3e3c2160_1,Theory of Mind,0
+ewok_task,ewok_3e3c2160_1,Working Memory,2
+ewok_task,ewok_3e3c2160_1,ambiguity,5
+ewok_task,ewok_3e3c2160_1,factuality,5
+ewok_task,ewok_4030713a_1,Causal Reasoning,1
+ewok_task,ewok_4030713a_1,Cognitive Flexibility,0
+ewok_task,ewok_4030713a_1,Emotion Perception and Empathy,0
+ewok_task,ewok_4030713a_1,Episodic Memory,0
+ewok_task,ewok_4030713a_1,Functional Perception,1
+ewok_task,ewok_4030713a_1,Inhibitory Control,1
+ewok_task,ewok_4030713a_1,Language,1
+ewok_task,ewok_4030713a_1,Mental Simulation,1
+ewok_task,ewok_4030713a_1,Metacognition,0
+ewok_task,ewok_4030713a_1,Object Permanence,0
+ewok_task,ewok_4030713a_1,Perception and Pattern Recognition,1
+ewok_task,ewok_4030713a_1,Planning,0
+ewok_task,ewok_4030713a_1,Procedural Memory,0
+ewok_task,ewok_4030713a_1,Prospective Memory,0
+ewok_task,ewok_4030713a_1,Semantic Memory,1
+ewok_task,ewok_4030713a_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_4030713a_1,Theory of Mind,0
+ewok_task,ewok_4030713a_1,Working Memory,1
+ewok_task,ewok_4030713a_1,ambiguity,5
+ewok_task,ewok_4030713a_1,factuality,5
+ewok_task,ewok_44a52146_2,Causal Reasoning,1
+ewok_task,ewok_44a52146_2,Cognitive Flexibility,0
+ewok_task,ewok_44a52146_2,Emotion Perception and Empathy,1
+ewok_task,ewok_44a52146_2,Episodic Memory,0
+ewok_task,ewok_44a52146_2,Functional Perception,1
+ewok_task,ewok_44a52146_2,Inhibitory Control,0
+ewok_task,ewok_44a52146_2,Language,1
+ewok_task,ewok_44a52146_2,Mental Simulation,1
+ewok_task,ewok_44a52146_2,Metacognition,0
+ewok_task,ewok_44a52146_2,Object Permanence,0
+ewok_task,ewok_44a52146_2,Perception and Pattern Recognition,1
+ewok_task,ewok_44a52146_2,Planning,0
+ewok_task,ewok_44a52146_2,Procedural Memory,0
+ewok_task,ewok_44a52146_2,Prospective Memory,0
+ewok_task,ewok_44a52146_2,Semantic Memory,2
+ewok_task,ewok_44a52146_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_44a52146_2,Theory of Mind,1
+ewok_task,ewok_44a52146_2,Working Memory,2
+ewok_task,ewok_44a52146_2,ambiguity,5
+ewok_task,ewok_44a52146_2,factuality,5
+ewok_task,ewok_474a6923_1,Causal Reasoning,1
+ewok_task,ewok_474a6923_1,Cognitive Flexibility,0
+ewok_task,ewok_474a6923_1,Emotion Perception and Empathy,0
+ewok_task,ewok_474a6923_1,Episodic Memory,0
+ewok_task,ewok_474a6923_1,Functional Perception,1
+ewok_task,ewok_474a6923_1,Inhibitory Control,1
+ewok_task,ewok_474a6923_1,Language,1
+ewok_task,ewok_474a6923_1,Mental Simulation,0
+ewok_task,ewok_474a6923_1,Metacognition,0
+ewok_task,ewok_474a6923_1,Object Permanence,0
+ewok_task,ewok_474a6923_1,Perception and Pattern Recognition,1
+ewok_task,ewok_474a6923_1,Planning,0
+ewok_task,ewok_474a6923_1,Procedural Memory,0
+ewok_task,ewok_474a6923_1,Prospective Memory,0
+ewok_task,ewok_474a6923_1,Semantic Memory,1
+ewok_task,ewok_474a6923_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_474a6923_1,Theory of Mind,1
+ewok_task,ewok_474a6923_1,Working Memory,1
+ewok_task,ewok_474a6923_1,ambiguity,5
+ewok_task,ewok_474a6923_1,factuality,5
+ewok_task,ewok_497fb958_1,Causal Reasoning,1
+ewok_task,ewok_497fb958_1,Cognitive Flexibility,0
+ewok_task,ewok_497fb958_1,Emotion Perception and Empathy,0
+ewok_task,ewok_497fb958_1,Episodic Memory,0
+ewok_task,ewok_497fb958_1,Functional Perception,1
+ewok_task,ewok_497fb958_1,Inhibitory Control,1
+ewok_task,ewok_497fb958_1,Language,1
+ewok_task,ewok_497fb958_1,Mental Simulation,0
+ewok_task,ewok_497fb958_1,Metacognition,0
+ewok_task,ewok_497fb958_1,Object Permanence,0
+ewok_task,ewok_497fb958_1,Perception and Pattern Recognition,1
+ewok_task,ewok_497fb958_1,Planning,0
+ewok_task,ewok_497fb958_1,Procedural Memory,0
+ewok_task,ewok_497fb958_1,Prospective Memory,0
+ewok_task,ewok_497fb958_1,Semantic Memory,1
+ewok_task,ewok_497fb958_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_497fb958_1,Theory of Mind,0
+ewok_task,ewok_497fb958_1,Working Memory,1
+ewok_task,ewok_497fb958_1,ambiguity,5
+ewok_task,ewok_497fb958_1,factuality,5
+ewok_task,ewok_4a25ae92_1,Causal Reasoning,1
+ewok_task,ewok_4a25ae92_1,Cognitive Flexibility,0
+ewok_task,ewok_4a25ae92_1,Emotion Perception and Empathy,0
+ewok_task,ewok_4a25ae92_1,Episodic Memory,0
+ewok_task,ewok_4a25ae92_1,Functional Perception,1
+ewok_task,ewok_4a25ae92_1,Inhibitory Control,1
+ewok_task,ewok_4a25ae92_1,Language,1
+ewok_task,ewok_4a25ae92_1,Mental Simulation,1
+ewok_task,ewok_4a25ae92_1,Metacognition,0
+ewok_task,ewok_4a25ae92_1,Object Permanence,0
+ewok_task,ewok_4a25ae92_1,Perception and Pattern Recognition,2
+ewok_task,ewok_4a25ae92_1,Planning,0
+ewok_task,ewok_4a25ae92_1,Procedural Memory,0
+ewok_task,ewok_4a25ae92_1,Prospective Memory,0
+ewok_task,ewok_4a25ae92_1,Semantic Memory,2
+ewok_task,ewok_4a25ae92_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_4a25ae92_1,Theory of Mind,0
+ewok_task,ewok_4a25ae92_1,Working Memory,1
+ewok_task,ewok_4a25ae92_1,ambiguity,5
+ewok_task,ewok_4a25ae92_1,factuality,5
+ewok_task,ewok_4a7dc33f_2,Causal Reasoning,1
+ewok_task,ewok_4a7dc33f_2,Cognitive Flexibility,0
+ewok_task,ewok_4a7dc33f_2,Emotion Perception and Empathy,0
+ewok_task,ewok_4a7dc33f_2,Episodic Memory,0
+ewok_task,ewok_4a7dc33f_2,Functional Perception,1
+ewok_task,ewok_4a7dc33f_2,Inhibitory Control,0
+ewok_task,ewok_4a7dc33f_2,Language,1
+ewok_task,ewok_4a7dc33f_2,Mental Simulation,0
+ewok_task,ewok_4a7dc33f_2,Metacognition,0
+ewok_task,ewok_4a7dc33f_2,Object Permanence,0
+ewok_task,ewok_4a7dc33f_2,Perception and Pattern Recognition,1
+ewok_task,ewok_4a7dc33f_2,Planning,0
+ewok_task,ewok_4a7dc33f_2,Procedural Memory,0
+ewok_task,ewok_4a7dc33f_2,Prospective Memory,0
+ewok_task,ewok_4a7dc33f_2,Semantic Memory,2
+ewok_task,ewok_4a7dc33f_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_4a7dc33f_2,Theory of Mind,1
+ewok_task,ewok_4a7dc33f_2,Working Memory,0
+ewok_task,ewok_4a7dc33f_2,ambiguity,5
+ewok_task,ewok_4a7dc33f_2,factuality,5
+ewok_task,ewok_4da4e2a1_2,Causal Reasoning,1
+ewok_task,ewok_4da4e2a1_2,Cognitive Flexibility,0
+ewok_task,ewok_4da4e2a1_2,Emotion Perception and Empathy,0
+ewok_task,ewok_4da4e2a1_2,Episodic Memory,0
+ewok_task,ewok_4da4e2a1_2,Functional Perception,1
+ewok_task,ewok_4da4e2a1_2,Inhibitory Control,1
+ewok_task,ewok_4da4e2a1_2,Language,1
+ewok_task,ewok_4da4e2a1_2,Mental Simulation,1
+ewok_task,ewok_4da4e2a1_2,Metacognition,1
+ewok_task,ewok_4da4e2a1_2,Object Permanence,0
+ewok_task,ewok_4da4e2a1_2,Perception and Pattern Recognition,1
+ewok_task,ewok_4da4e2a1_2,Planning,0
+ewok_task,ewok_4da4e2a1_2,Procedural Memory,0
+ewok_task,ewok_4da4e2a1_2,Prospective Memory,0
+ewok_task,ewok_4da4e2a1_2,Semantic Memory,2
+ewok_task,ewok_4da4e2a1_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_4da4e2a1_2,Theory of Mind,0
+ewok_task,ewok_4da4e2a1_2,Working Memory,1
+ewok_task,ewok_4da4e2a1_2,ambiguity,5
+ewok_task,ewok_4da4e2a1_2,factuality,5
+ewok_task,ewok_5041a887_1,Causal Reasoning,1
+ewok_task,ewok_5041a887_1,Cognitive Flexibility,0
+ewok_task,ewok_5041a887_1,Emotion Perception and Empathy,0
+ewok_task,ewok_5041a887_1,Episodic Memory,0
+ewok_task,ewok_5041a887_1,Functional Perception,1
+ewok_task,ewok_5041a887_1,Inhibitory Control,1
+ewok_task,ewok_5041a887_1,Language,2
+ewok_task,ewok_5041a887_1,Mental Simulation,1
+ewok_task,ewok_5041a887_1,Metacognition,2
+ewok_task,ewok_5041a887_1,Object Permanence,0
+ewok_task,ewok_5041a887_1,Perception and Pattern Recognition,1
+ewok_task,ewok_5041a887_1,Planning,0
+ewok_task,ewok_5041a887_1,Procedural Memory,0
+ewok_task,ewok_5041a887_1,Prospective Memory,0
+ewok_task,ewok_5041a887_1,Semantic Memory,2
+ewok_task,ewok_5041a887_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_5041a887_1,Theory of Mind,2
+ewok_task,ewok_5041a887_1,Working Memory,1
+ewok_task,ewok_5041a887_1,ambiguity,5
+ewok_task,ewok_5041a887_1,factuality,5
+ewok_task,ewok_51f84908_2,Causal Reasoning,1
+ewok_task,ewok_51f84908_2,Cognitive Flexibility,0
+ewok_task,ewok_51f84908_2,Emotion Perception and Empathy,0
+ewok_task,ewok_51f84908_2,Episodic Memory,0
+ewok_task,ewok_51f84908_2,Functional Perception,1
+ewok_task,ewok_51f84908_2,Inhibitory Control,1
+ewok_task,ewok_51f84908_2,Language,1
+ewok_task,ewok_51f84908_2,Mental Simulation,0
+ewok_task,ewok_51f84908_2,Metacognition,1
+ewok_task,ewok_51f84908_2,Object Permanence,0
+ewok_task,ewok_51f84908_2,Perception and Pattern Recognition,2
+ewok_task,ewok_51f84908_2,Planning,0
+ewok_task,ewok_51f84908_2,Procedural Memory,0
+ewok_task,ewok_51f84908_2,Prospective Memory,0
+ewok_task,ewok_51f84908_2,Semantic Memory,2
+ewok_task,ewok_51f84908_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_51f84908_2,Theory of Mind,1
+ewok_task,ewok_51f84908_2,Working Memory,2
+ewok_task,ewok_51f84908_2,ambiguity,5
+ewok_task,ewok_51f84908_2,factuality,5
+ewok_task,ewok_53535c0a_2,Causal Reasoning,1
+ewok_task,ewok_53535c0a_2,Cognitive Flexibility,0
+ewok_task,ewok_53535c0a_2,Emotion Perception and Empathy,0
+ewok_task,ewok_53535c0a_2,Episodic Memory,0
+ewok_task,ewok_53535c0a_2,Functional Perception,1
+ewok_task,ewok_53535c0a_2,Inhibitory Control,1
+ewok_task,ewok_53535c0a_2,Language,1
+ewok_task,ewok_53535c0a_2,Mental Simulation,1
+ewok_task,ewok_53535c0a_2,Metacognition,1
+ewok_task,ewok_53535c0a_2,Object Permanence,0
+ewok_task,ewok_53535c0a_2,Perception and Pattern Recognition,1
+ewok_task,ewok_53535c0a_2,Planning,0
+ewok_task,ewok_53535c0a_2,Procedural Memory,1
+ewok_task,ewok_53535c0a_2,Prospective Memory,0
+ewok_task,ewok_53535c0a_2,Semantic Memory,1
+ewok_task,ewok_53535c0a_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_53535c0a_2,Theory of Mind,1
+ewok_task,ewok_53535c0a_2,Working Memory,1
+ewok_task,ewok_53535c0a_2,ambiguity,5
+ewok_task,ewok_53535c0a_2,factuality,5
+ewok_task,ewok_54ab577d_1,Causal Reasoning,1
+ewok_task,ewok_54ab577d_1,Cognitive Flexibility,0
+ewok_task,ewok_54ab577d_1,Emotion Perception and Empathy,0
+ewok_task,ewok_54ab577d_1,Episodic Memory,0
+ewok_task,ewok_54ab577d_1,Functional Perception,1
+ewok_task,ewok_54ab577d_1,Inhibitory Control,1
+ewok_task,ewok_54ab577d_1,Language,1
+ewok_task,ewok_54ab577d_1,Mental Simulation,1
+ewok_task,ewok_54ab577d_1,Metacognition,1
+ewok_task,ewok_54ab577d_1,Object Permanence,0
+ewok_task,ewok_54ab577d_1,Perception and Pattern Recognition,1
+ewok_task,ewok_54ab577d_1,Planning,0
+ewok_task,ewok_54ab577d_1,Procedural Memory,0
+ewok_task,ewok_54ab577d_1,Prospective Memory,0
+ewok_task,ewok_54ab577d_1,Semantic Memory,1
+ewok_task,ewok_54ab577d_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_54ab577d_1,Theory of Mind,1
+ewok_task,ewok_54ab577d_1,Working Memory,1
+ewok_task,ewok_54ab577d_1,ambiguity,5
+ewok_task,ewok_54ab577d_1,factuality,5
+ewok_task,ewok_54c92a49_2,Causal Reasoning,1
+ewok_task,ewok_54c92a49_2,Cognitive Flexibility,0
+ewok_task,ewok_54c92a49_2,Emotion Perception and Empathy,0
+ewok_task,ewok_54c92a49_2,Episodic Memory,0
+ewok_task,ewok_54c92a49_2,Functional Perception,2
+ewok_task,ewok_54c92a49_2,Inhibitory Control,1
+ewok_task,ewok_54c92a49_2,Language,1
+ewok_task,ewok_54c92a49_2,Mental Simulation,1
+ewok_task,ewok_54c92a49_2,Metacognition,1
+ewok_task,ewok_54c92a49_2,Object Permanence,0
+ewok_task,ewok_54c92a49_2,Perception and Pattern Recognition,2
+ewok_task,ewok_54c92a49_2,Planning,0
+ewok_task,ewok_54c92a49_2,Procedural Memory,0
+ewok_task,ewok_54c92a49_2,Prospective Memory,0
+ewok_task,ewok_54c92a49_2,Semantic Memory,2
+ewok_task,ewok_54c92a49_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_54c92a49_2,Theory of Mind,0
+ewok_task,ewok_54c92a49_2,Working Memory,1
+ewok_task,ewok_54c92a49_2,ambiguity,5
+ewok_task,ewok_54c92a49_2,factuality,5
+ewok_task,ewok_54d0c62b_1,Causal Reasoning,0
+ewok_task,ewok_54d0c62b_1,Cognitive Flexibility,0
+ewok_task,ewok_54d0c62b_1,Emotion Perception and Empathy,0
+ewok_task,ewok_54d0c62b_1,Episodic Memory,0
+ewok_task,ewok_54d0c62b_1,Functional Perception,0
+ewok_task,ewok_54d0c62b_1,Inhibitory Control,0
+ewok_task,ewok_54d0c62b_1,Language,1
+ewok_task,ewok_54d0c62b_1,Mental Simulation,0
+ewok_task,ewok_54d0c62b_1,Metacognition,0
+ewok_task,ewok_54d0c62b_1,Object Permanence,0
+ewok_task,ewok_54d0c62b_1,Perception and Pattern Recognition,1
+ewok_task,ewok_54d0c62b_1,Planning,0
+ewok_task,ewok_54d0c62b_1,Procedural Memory,0
+ewok_task,ewok_54d0c62b_1,Prospective Memory,0
+ewok_task,ewok_54d0c62b_1,Semantic Memory,1
+ewok_task,ewok_54d0c62b_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_54d0c62b_1,Theory of Mind,0
+ewok_task,ewok_54d0c62b_1,Working Memory,0
+ewok_task,ewok_54d0c62b_1,ambiguity,5
+ewok_task,ewok_54d0c62b_1,factuality,5
+ewok_task,ewok_54ea97af_1,Causal Reasoning,1
+ewok_task,ewok_54ea97af_1,Cognitive Flexibility,1
+ewok_task,ewok_54ea97af_1,Emotion Perception and Empathy,0
+ewok_task,ewok_54ea97af_1,Episodic Memory,0
+ewok_task,ewok_54ea97af_1,Functional Perception,1
+ewok_task,ewok_54ea97af_1,Inhibitory Control,0
+ewok_task,ewok_54ea97af_1,Language,1
+ewok_task,ewok_54ea97af_1,Mental Simulation,0
+ewok_task,ewok_54ea97af_1,Metacognition,1
+ewok_task,ewok_54ea97af_1,Object Permanence,0
+ewok_task,ewok_54ea97af_1,Perception and Pattern Recognition,1
+ewok_task,ewok_54ea97af_1,Planning,0
+ewok_task,ewok_54ea97af_1,Procedural Memory,0
+ewok_task,ewok_54ea97af_1,Prospective Memory,0
+ewok_task,ewok_54ea97af_1,Semantic Memory,0
+ewok_task,ewok_54ea97af_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_54ea97af_1,Theory of Mind,1
+ewok_task,ewok_54ea97af_1,Working Memory,1
+ewok_task,ewok_54ea97af_1,ambiguity,5
+ewok_task,ewok_54ea97af_1,factuality,5
+ewok_task,ewok_5737857c_1,Causal Reasoning,1
+ewok_task,ewok_5737857c_1,Cognitive Flexibility,0
+ewok_task,ewok_5737857c_1,Emotion Perception and Empathy,0
+ewok_task,ewok_5737857c_1,Episodic Memory,0
+ewok_task,ewok_5737857c_1,Functional Perception,1
+ewok_task,ewok_5737857c_1,Inhibitory Control,1
+ewok_task,ewok_5737857c_1,Language,1
+ewok_task,ewok_5737857c_1,Mental Simulation,1
+ewok_task,ewok_5737857c_1,Metacognition,0
+ewok_task,ewok_5737857c_1,Object Permanence,0
+ewok_task,ewok_5737857c_1,Perception and Pattern Recognition,2
+ewok_task,ewok_5737857c_1,Planning,0
+ewok_task,ewok_5737857c_1,Procedural Memory,0
+ewok_task,ewok_5737857c_1,Prospective Memory,0
+ewok_task,ewok_5737857c_1,Semantic Memory,2
+ewok_task,ewok_5737857c_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_5737857c_1,Theory of Mind,0
+ewok_task,ewok_5737857c_1,Working Memory,1
+ewok_task,ewok_5737857c_1,ambiguity,5
+ewok_task,ewok_5737857c_1,factuality,5
+ewok_task,ewok_574bd0c9_1,Causal Reasoning,1
+ewok_task,ewok_574bd0c9_1,Cognitive Flexibility,0
+ewok_task,ewok_574bd0c9_1,Emotion Perception and Empathy,0
+ewok_task,ewok_574bd0c9_1,Episodic Memory,0
+ewok_task,ewok_574bd0c9_1,Functional Perception,1
+ewok_task,ewok_574bd0c9_1,Inhibitory Control,0
+ewok_task,ewok_574bd0c9_1,Language,1
+ewok_task,ewok_574bd0c9_1,Mental Simulation,0
+ewok_task,ewok_574bd0c9_1,Metacognition,1
+ewok_task,ewok_574bd0c9_1,Object Permanence,0
+ewok_task,ewok_574bd0c9_1,Perception and Pattern Recognition,1
+ewok_task,ewok_574bd0c9_1,Planning,0
+ewok_task,ewok_574bd0c9_1,Procedural Memory,0
+ewok_task,ewok_574bd0c9_1,Prospective Memory,0
+ewok_task,ewok_574bd0c9_1,Semantic Memory,1
+ewok_task,ewok_574bd0c9_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_574bd0c9_1,Theory of Mind,1
+ewok_task,ewok_574bd0c9_1,Working Memory,1
+ewok_task,ewok_574bd0c9_1,ambiguity,5
+ewok_task,ewok_574bd0c9_1,factuality,5
+ewok_task,ewok_5832e783_1,Causal Reasoning,1
+ewok_task,ewok_5832e783_1,Cognitive Flexibility,0
+ewok_task,ewok_5832e783_1,Emotion Perception and Empathy,0
+ewok_task,ewok_5832e783_1,Episodic Memory,0
+ewok_task,ewok_5832e783_1,Functional Perception,1
+ewok_task,ewok_5832e783_1,Inhibitory Control,0
+ewok_task,ewok_5832e783_1,Language,1
+ewok_task,ewok_5832e783_1,Mental Simulation,1
+ewok_task,ewok_5832e783_1,Metacognition,1
+ewok_task,ewok_5832e783_1,Object Permanence,0
+ewok_task,ewok_5832e783_1,Perception and Pattern Recognition,1
+ewok_task,ewok_5832e783_1,Planning,0
+ewok_task,ewok_5832e783_1,Procedural Memory,0
+ewok_task,ewok_5832e783_1,Prospective Memory,0
+ewok_task,ewok_5832e783_1,Semantic Memory,1
+ewok_task,ewok_5832e783_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_5832e783_1,Theory of Mind,1
+ewok_task,ewok_5832e783_1,Working Memory,2
+ewok_task,ewok_5832e783_1,ambiguity,5
+ewok_task,ewok_5832e783_1,factuality,5
+ewok_task,ewok_59bab477_2,Causal Reasoning,1
+ewok_task,ewok_59bab477_2,Cognitive Flexibility,2
+ewok_task,ewok_59bab477_2,Emotion Perception and Empathy,0
+ewok_task,ewok_59bab477_2,Episodic Memory,0
+ewok_task,ewok_59bab477_2,Functional Perception,1
+ewok_task,ewok_59bab477_2,Inhibitory Control,1
+ewok_task,ewok_59bab477_2,Language,1
+ewok_task,ewok_59bab477_2,Mental Simulation,1
+ewok_task,ewok_59bab477_2,Metacognition,1
+ewok_task,ewok_59bab477_2,Object Permanence,0
+ewok_task,ewok_59bab477_2,Perception and Pattern Recognition,2
+ewok_task,ewok_59bab477_2,Planning,0
+ewok_task,ewok_59bab477_2,Procedural Memory,0
+ewok_task,ewok_59bab477_2,Prospective Memory,0
+ewok_task,ewok_59bab477_2,Semantic Memory,1
+ewok_task,ewok_59bab477_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_59bab477_2,Theory of Mind,2
+ewok_task,ewok_59bab477_2,Working Memory,1
+ewok_task,ewok_59bab477_2,ambiguity,5
+ewok_task,ewok_59bab477_2,factuality,5
+ewok_task,ewok_5abdcea3_1,Causal Reasoning,0
+ewok_task,ewok_5abdcea3_1,Cognitive Flexibility,0
+ewok_task,ewok_5abdcea3_1,Emotion Perception and Empathy,0
+ewok_task,ewok_5abdcea3_1,Episodic Memory,0
+ewok_task,ewok_5abdcea3_1,Functional Perception,0
+ewok_task,ewok_5abdcea3_1,Inhibitory Control,1
+ewok_task,ewok_5abdcea3_1,Language,1
+ewok_task,ewok_5abdcea3_1,Mental Simulation,0
+ewok_task,ewok_5abdcea3_1,Metacognition,0
+ewok_task,ewok_5abdcea3_1,Object Permanence,0
+ewok_task,ewok_5abdcea3_1,Perception and Pattern Recognition,1
+ewok_task,ewok_5abdcea3_1,Planning,0
+ewok_task,ewok_5abdcea3_1,Procedural Memory,0
+ewok_task,ewok_5abdcea3_1,Prospective Memory,0
+ewok_task,ewok_5abdcea3_1,Semantic Memory,1
+ewok_task,ewok_5abdcea3_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_5abdcea3_1,Theory of Mind,0
+ewok_task,ewok_5abdcea3_1,Working Memory,0
+ewok_task,ewok_5abdcea3_1,ambiguity,5
+ewok_task,ewok_5abdcea3_1,factuality,5
+ewok_task,ewok_5ad90a30_1,Causal Reasoning,1
+ewok_task,ewok_5ad90a30_1,Cognitive Flexibility,0
+ewok_task,ewok_5ad90a30_1,Emotion Perception and Empathy,0
+ewok_task,ewok_5ad90a30_1,Episodic Memory,0
+ewok_task,ewok_5ad90a30_1,Functional Perception,2
+ewok_task,ewok_5ad90a30_1,Inhibitory Control,1
+ewok_task,ewok_5ad90a30_1,Language,1
+ewok_task,ewok_5ad90a30_1,Mental Simulation,0
+ewok_task,ewok_5ad90a30_1,Metacognition,1
+ewok_task,ewok_5ad90a30_1,Object Permanence,0
+ewok_task,ewok_5ad90a30_1,Perception and Pattern Recognition,1
+ewok_task,ewok_5ad90a30_1,Planning,0
+ewok_task,ewok_5ad90a30_1,Procedural Memory,0
+ewok_task,ewok_5ad90a30_1,Prospective Memory,0
+ewok_task,ewok_5ad90a30_1,Semantic Memory,1
+ewok_task,ewok_5ad90a30_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_5ad90a30_1,Theory of Mind,0
+ewok_task,ewok_5ad90a30_1,Working Memory,1
+ewok_task,ewok_5ad90a30_1,ambiguity,5
+ewok_task,ewok_5ad90a30_1,factuality,5
+ewok_task,ewok_5c66a6e6_2,Causal Reasoning,1
+ewok_task,ewok_5c66a6e6_2,Cognitive Flexibility,1
+ewok_task,ewok_5c66a6e6_2,Emotion Perception and Empathy,0
+ewok_task,ewok_5c66a6e6_2,Episodic Memory,0
+ewok_task,ewok_5c66a6e6_2,Functional Perception,1
+ewok_task,ewok_5c66a6e6_2,Inhibitory Control,1
+ewok_task,ewok_5c66a6e6_2,Language,1
+ewok_task,ewok_5c66a6e6_2,Mental Simulation,0
+ewok_task,ewok_5c66a6e6_2,Metacognition,1
+ewok_task,ewok_5c66a6e6_2,Object Permanence,0
+ewok_task,ewok_5c66a6e6_2,Perception and Pattern Recognition,1
+ewok_task,ewok_5c66a6e6_2,Planning,0
+ewok_task,ewok_5c66a6e6_2,Procedural Memory,0
+ewok_task,ewok_5c66a6e6_2,Prospective Memory,0
+ewok_task,ewok_5c66a6e6_2,Semantic Memory,1
+ewok_task,ewok_5c66a6e6_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_5c66a6e6_2,Theory of Mind,1
+ewok_task,ewok_5c66a6e6_2,Working Memory,1
+ewok_task,ewok_5c66a6e6_2,ambiguity,5
+ewok_task,ewok_5c66a6e6_2,factuality,5
+ewok_task,ewok_5eeb3961_2,Causal Reasoning,1
+ewok_task,ewok_5eeb3961_2,Cognitive Flexibility,0
+ewok_task,ewok_5eeb3961_2,Emotion Perception and Empathy,0
+ewok_task,ewok_5eeb3961_2,Episodic Memory,0
+ewok_task,ewok_5eeb3961_2,Functional Perception,0
+ewok_task,ewok_5eeb3961_2,Inhibitory Control,1
+ewok_task,ewok_5eeb3961_2,Language,2
+ewok_task,ewok_5eeb3961_2,Mental Simulation,1
+ewok_task,ewok_5eeb3961_2,Metacognition,1
+ewok_task,ewok_5eeb3961_2,Object Permanence,0
+ewok_task,ewok_5eeb3961_2,Perception and Pattern Recognition,1
+ewok_task,ewok_5eeb3961_2,Planning,0
+ewok_task,ewok_5eeb3961_2,Procedural Memory,0
+ewok_task,ewok_5eeb3961_2,Prospective Memory,0
+ewok_task,ewok_5eeb3961_2,Semantic Memory,1
+ewok_task,ewok_5eeb3961_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_5eeb3961_2,Theory of Mind,1
+ewok_task,ewok_5eeb3961_2,Working Memory,2
+ewok_task,ewok_5eeb3961_2,ambiguity,5
+ewok_task,ewok_5eeb3961_2,factuality,5
+ewok_task,ewok_5f8140d1_1,Causal Reasoning,1
+ewok_task,ewok_5f8140d1_1,Cognitive Flexibility,0
+ewok_task,ewok_5f8140d1_1,Emotion Perception and Empathy,1
+ewok_task,ewok_5f8140d1_1,Episodic Memory,0
+ewok_task,ewok_5f8140d1_1,Functional Perception,1
+ewok_task,ewok_5f8140d1_1,Inhibitory Control,0
+ewok_task,ewok_5f8140d1_1,Language,1
+ewok_task,ewok_5f8140d1_1,Mental Simulation,1
+ewok_task,ewok_5f8140d1_1,Metacognition,1
+ewok_task,ewok_5f8140d1_1,Object Permanence,0
+ewok_task,ewok_5f8140d1_1,Perception and Pattern Recognition,1
+ewok_task,ewok_5f8140d1_1,Planning,0
+ewok_task,ewok_5f8140d1_1,Procedural Memory,0
+ewok_task,ewok_5f8140d1_1,Prospective Memory,0
+ewok_task,ewok_5f8140d1_1,Semantic Memory,1
+ewok_task,ewok_5f8140d1_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_5f8140d1_1,Theory of Mind,1
+ewok_task,ewok_5f8140d1_1,Working Memory,2
+ewok_task,ewok_5f8140d1_1,ambiguity,5
+ewok_task,ewok_5f8140d1_1,factuality,5
+ewok_task,ewok_60b2944e_1,Causal Reasoning,0
+ewok_task,ewok_60b2944e_1,Cognitive Flexibility,0
+ewok_task,ewok_60b2944e_1,Emotion Perception and Empathy,0
+ewok_task,ewok_60b2944e_1,Episodic Memory,0
+ewok_task,ewok_60b2944e_1,Functional Perception,1
+ewok_task,ewok_60b2944e_1,Inhibitory Control,1
+ewok_task,ewok_60b2944e_1,Language,1
+ewok_task,ewok_60b2944e_1,Mental Simulation,0
+ewok_task,ewok_60b2944e_1,Metacognition,0
+ewok_task,ewok_60b2944e_1,Object Permanence,0
+ewok_task,ewok_60b2944e_1,Perception and Pattern Recognition,1
+ewok_task,ewok_60b2944e_1,Planning,0
+ewok_task,ewok_60b2944e_1,Procedural Memory,0
+ewok_task,ewok_60b2944e_1,Prospective Memory,0
+ewok_task,ewok_60b2944e_1,Semantic Memory,1
+ewok_task,ewok_60b2944e_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_60b2944e_1,Theory of Mind,0
+ewok_task,ewok_60b2944e_1,Working Memory,1
+ewok_task,ewok_60b2944e_1,ambiguity,5
+ewok_task,ewok_60b2944e_1,factuality,5
+ewok_task,ewok_60fe03e8_1,Causal Reasoning,1
+ewok_task,ewok_60fe03e8_1,Cognitive Flexibility,0
+ewok_task,ewok_60fe03e8_1,Emotion Perception and Empathy,0
+ewok_task,ewok_60fe03e8_1,Episodic Memory,0
+ewok_task,ewok_60fe03e8_1,Functional Perception,2
+ewok_task,ewok_60fe03e8_1,Inhibitory Control,1
+ewok_task,ewok_60fe03e8_1,Language,2
+ewok_task,ewok_60fe03e8_1,Mental Simulation,1
+ewok_task,ewok_60fe03e8_1,Metacognition,1
+ewok_task,ewok_60fe03e8_1,Object Permanence,0
+ewok_task,ewok_60fe03e8_1,Perception and Pattern Recognition,2
+ewok_task,ewok_60fe03e8_1,Planning,0
+ewok_task,ewok_60fe03e8_1,Procedural Memory,0
+ewok_task,ewok_60fe03e8_1,Prospective Memory,0
+ewok_task,ewok_60fe03e8_1,Semantic Memory,2
+ewok_task,ewok_60fe03e8_1,Spatial Reasoning and Navigation,2
+ewok_task,ewok_60fe03e8_1,Theory of Mind,0
+ewok_task,ewok_60fe03e8_1,Working Memory,2
+ewok_task,ewok_60fe03e8_1,ambiguity,5
+ewok_task,ewok_60fe03e8_1,factuality,5
+ewok_task,ewok_611b146f_1,Causal Reasoning,1
+ewok_task,ewok_611b146f_1,Cognitive Flexibility,0
+ewok_task,ewok_611b146f_1,Emotion Perception and Empathy,0
+ewok_task,ewok_611b146f_1,Episodic Memory,0
+ewok_task,ewok_611b146f_1,Functional Perception,1
+ewok_task,ewok_611b146f_1,Inhibitory Control,1
+ewok_task,ewok_611b146f_1,Language,1
+ewok_task,ewok_611b146f_1,Mental Simulation,1
+ewok_task,ewok_611b146f_1,Metacognition,0
+ewok_task,ewok_611b146f_1,Object Permanence,0
+ewok_task,ewok_611b146f_1,Perception and Pattern Recognition,1
+ewok_task,ewok_611b146f_1,Planning,0
+ewok_task,ewok_611b146f_1,Procedural Memory,0
+ewok_task,ewok_611b146f_1,Prospective Memory,0
+ewok_task,ewok_611b146f_1,Semantic Memory,2
+ewok_task,ewok_611b146f_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_611b146f_1,Theory of Mind,0
+ewok_task,ewok_611b146f_1,Working Memory,2
+ewok_task,ewok_611b146f_1,ambiguity,5
+ewok_task,ewok_611b146f_1,factuality,5
+ewok_task,ewok_62e1b638_1,Causal Reasoning,1
+ewok_task,ewok_62e1b638_1,Cognitive Flexibility,0
+ewok_task,ewok_62e1b638_1,Emotion Perception and Empathy,0
+ewok_task,ewok_62e1b638_1,Episodic Memory,0
+ewok_task,ewok_62e1b638_1,Functional Perception,1
+ewok_task,ewok_62e1b638_1,Inhibitory Control,1
+ewok_task,ewok_62e1b638_1,Language,1
+ewok_task,ewok_62e1b638_1,Mental Simulation,1
+ewok_task,ewok_62e1b638_1,Metacognition,1
+ewok_task,ewok_62e1b638_1,Object Permanence,0
+ewok_task,ewok_62e1b638_1,Perception and Pattern Recognition,1
+ewok_task,ewok_62e1b638_1,Planning,0
+ewok_task,ewok_62e1b638_1,Procedural Memory,0
+ewok_task,ewok_62e1b638_1,Prospective Memory,0
+ewok_task,ewok_62e1b638_1,Semantic Memory,1
+ewok_task,ewok_62e1b638_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_62e1b638_1,Theory of Mind,0
+ewok_task,ewok_62e1b638_1,Working Memory,0
+ewok_task,ewok_62e1b638_1,ambiguity,5
+ewok_task,ewok_62e1b638_1,factuality,5
+ewok_task,ewok_6350249b_2,Causal Reasoning,1
+ewok_task,ewok_6350249b_2,Cognitive Flexibility,1
+ewok_task,ewok_6350249b_2,Emotion Perception and Empathy,0
+ewok_task,ewok_6350249b_2,Episodic Memory,0
+ewok_task,ewok_6350249b_2,Functional Perception,1
+ewok_task,ewok_6350249b_2,Inhibitory Control,1
+ewok_task,ewok_6350249b_2,Language,1
+ewok_task,ewok_6350249b_2,Mental Simulation,0
+ewok_task,ewok_6350249b_2,Metacognition,0
+ewok_task,ewok_6350249b_2,Object Permanence,0
+ewok_task,ewok_6350249b_2,Perception and Pattern Recognition,1
+ewok_task,ewok_6350249b_2,Planning,0
+ewok_task,ewok_6350249b_2,Procedural Memory,0
+ewok_task,ewok_6350249b_2,Prospective Memory,0
+ewok_task,ewok_6350249b_2,Semantic Memory,1
+ewok_task,ewok_6350249b_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_6350249b_2,Theory of Mind,0
+ewok_task,ewok_6350249b_2,Working Memory,1
+ewok_task,ewok_6350249b_2,ambiguity,5
+ewok_task,ewok_6350249b_2,factuality,1
+ewok_task,ewok_63d4343b_2,Causal Reasoning,1
+ewok_task,ewok_63d4343b_2,Cognitive Flexibility,0
+ewok_task,ewok_63d4343b_2,Emotion Perception and Empathy,0
+ewok_task,ewok_63d4343b_2,Episodic Memory,0
+ewok_task,ewok_63d4343b_2,Functional Perception,1
+ewok_task,ewok_63d4343b_2,Inhibitory Control,1
+ewok_task,ewok_63d4343b_2,Language,1
+ewok_task,ewok_63d4343b_2,Mental Simulation,1
+ewok_task,ewok_63d4343b_2,Metacognition,1
+ewok_task,ewok_63d4343b_2,Object Permanence,0
+ewok_task,ewok_63d4343b_2,Perception and Pattern Recognition,1
+ewok_task,ewok_63d4343b_2,Planning,0
+ewok_task,ewok_63d4343b_2,Procedural Memory,0
+ewok_task,ewok_63d4343b_2,Prospective Memory,0
+ewok_task,ewok_63d4343b_2,Semantic Memory,1
+ewok_task,ewok_63d4343b_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_63d4343b_2,Theory of Mind,1
+ewok_task,ewok_63d4343b_2,Working Memory,1
+ewok_task,ewok_63d4343b_2,ambiguity,5
+ewok_task,ewok_63d4343b_2,factuality,5
+ewok_task,ewok_6488e692_2,Causal Reasoning,1
+ewok_task,ewok_6488e692_2,Cognitive Flexibility,0
+ewok_task,ewok_6488e692_2,Emotion Perception and Empathy,0
+ewok_task,ewok_6488e692_2,Episodic Memory,0
+ewok_task,ewok_6488e692_2,Functional Perception,1
+ewok_task,ewok_6488e692_2,Inhibitory Control,1
+ewok_task,ewok_6488e692_2,Language,1
+ewok_task,ewok_6488e692_2,Mental Simulation,0
+ewok_task,ewok_6488e692_2,Metacognition,1
+ewok_task,ewok_6488e692_2,Object Permanence,0
+ewok_task,ewok_6488e692_2,Perception and Pattern Recognition,1
+ewok_task,ewok_6488e692_2,Planning,0
+ewok_task,ewok_6488e692_2,Procedural Memory,0
+ewok_task,ewok_6488e692_2,Prospective Memory,0
+ewok_task,ewok_6488e692_2,Semantic Memory,1
+ewok_task,ewok_6488e692_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_6488e692_2,Theory of Mind,0
+ewok_task,ewok_6488e692_2,Working Memory,2
+ewok_task,ewok_6488e692_2,ambiguity,5
+ewok_task,ewok_6488e692_2,factuality,5
+ewok_task,ewok_654b3dbb_1,Causal Reasoning,1
+ewok_task,ewok_654b3dbb_1,Cognitive Flexibility,1
+ewok_task,ewok_654b3dbb_1,Emotion Perception and Empathy,0
+ewok_task,ewok_654b3dbb_1,Episodic Memory,0
+ewok_task,ewok_654b3dbb_1,Functional Perception,1
+ewok_task,ewok_654b3dbb_1,Inhibitory Control,0
+ewok_task,ewok_654b3dbb_1,Language,1
+ewok_task,ewok_654b3dbb_1,Mental Simulation,1
+ewok_task,ewok_654b3dbb_1,Metacognition,1
+ewok_task,ewok_654b3dbb_1,Object Permanence,0
+ewok_task,ewok_654b3dbb_1,Perception and Pattern Recognition,1
+ewok_task,ewok_654b3dbb_1,Planning,0
+ewok_task,ewok_654b3dbb_1,Procedural Memory,0
+ewok_task,ewok_654b3dbb_1,Prospective Memory,0
+ewok_task,ewok_654b3dbb_1,Semantic Memory,1
+ewok_task,ewok_654b3dbb_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_654b3dbb_1,Theory of Mind,1
+ewok_task,ewok_654b3dbb_1,Working Memory,1
+ewok_task,ewok_654b3dbb_1,ambiguity,5
+ewok_task,ewok_654b3dbb_1,factuality,5
+ewok_task,ewok_65c6d4f1_1,Causal Reasoning,1
+ewok_task,ewok_65c6d4f1_1,Cognitive Flexibility,0
+ewok_task,ewok_65c6d4f1_1,Emotion Perception and Empathy,0
+ewok_task,ewok_65c6d4f1_1,Episodic Memory,0
+ewok_task,ewok_65c6d4f1_1,Functional Perception,1
+ewok_task,ewok_65c6d4f1_1,Inhibitory Control,1
+ewok_task,ewok_65c6d4f1_1,Language,1
+ewok_task,ewok_65c6d4f1_1,Mental Simulation,1
+ewok_task,ewok_65c6d4f1_1,Metacognition,0
+ewok_task,ewok_65c6d4f1_1,Object Permanence,0
+ewok_task,ewok_65c6d4f1_1,Perception and Pattern Recognition,1
+ewok_task,ewok_65c6d4f1_1,Planning,0
+ewok_task,ewok_65c6d4f1_1,Procedural Memory,0
+ewok_task,ewok_65c6d4f1_1,Prospective Memory,0
+ewok_task,ewok_65c6d4f1_1,Semantic Memory,1
+ewok_task,ewok_65c6d4f1_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_65c6d4f1_1,Theory of Mind,0
+ewok_task,ewok_65c6d4f1_1,Working Memory,1
+ewok_task,ewok_65c6d4f1_1,ambiguity,5
+ewok_task,ewok_65c6d4f1_1,factuality,5
+ewok_task,ewok_6683d417_1,Causal Reasoning,1
+ewok_task,ewok_6683d417_1,Cognitive Flexibility,0
+ewok_task,ewok_6683d417_1,Emotion Perception and Empathy,0
+ewok_task,ewok_6683d417_1,Episodic Memory,0
+ewok_task,ewok_6683d417_1,Functional Perception,1
+ewok_task,ewok_6683d417_1,Inhibitory Control,0
+ewok_task,ewok_6683d417_1,Language,2
+ewok_task,ewok_6683d417_1,Mental Simulation,1
+ewok_task,ewok_6683d417_1,Metacognition,0
+ewok_task,ewok_6683d417_1,Object Permanence,0
+ewok_task,ewok_6683d417_1,Perception and Pattern Recognition,2
+ewok_task,ewok_6683d417_1,Planning,0
+ewok_task,ewok_6683d417_1,Procedural Memory,0
+ewok_task,ewok_6683d417_1,Prospective Memory,0
+ewok_task,ewok_6683d417_1,Semantic Memory,2
+ewok_task,ewok_6683d417_1,Spatial Reasoning and Navigation,2
+ewok_task,ewok_6683d417_1,Theory of Mind,0
+ewok_task,ewok_6683d417_1,Working Memory,2
+ewok_task,ewok_6683d417_1,ambiguity,5
+ewok_task,ewok_6683d417_1,factuality,5
+ewok_task,ewok_6879b822_1,Causal Reasoning,1
+ewok_task,ewok_6879b822_1,Cognitive Flexibility,0
+ewok_task,ewok_6879b822_1,Emotion Perception and Empathy,0
+ewok_task,ewok_6879b822_1,Episodic Memory,0
+ewok_task,ewok_6879b822_1,Functional Perception,1
+ewok_task,ewok_6879b822_1,Inhibitory Control,0
+ewok_task,ewok_6879b822_1,Language,1
+ewok_task,ewok_6879b822_1,Mental Simulation,1
+ewok_task,ewok_6879b822_1,Metacognition,1
+ewok_task,ewok_6879b822_1,Object Permanence,0
+ewok_task,ewok_6879b822_1,Perception and Pattern Recognition,1
+ewok_task,ewok_6879b822_1,Planning,0
+ewok_task,ewok_6879b822_1,Procedural Memory,0
+ewok_task,ewok_6879b822_1,Prospective Memory,0
+ewok_task,ewok_6879b822_1,Semantic Memory,1
+ewok_task,ewok_6879b822_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_6879b822_1,Theory of Mind,0
+ewok_task,ewok_6879b822_1,Working Memory,2
+ewok_task,ewok_6879b822_1,ambiguity,4
+ewok_task,ewok_6879b822_1,factuality,5
+ewok_task,ewok_6879b822_2,Causal Reasoning,0
+ewok_task,ewok_6879b822_2,Cognitive Flexibility,0
+ewok_task,ewok_6879b822_2,Emotion Perception and Empathy,0
+ewok_task,ewok_6879b822_2,Episodic Memory,0
+ewok_task,ewok_6879b822_2,Functional Perception,1
+ewok_task,ewok_6879b822_2,Inhibitory Control,1
+ewok_task,ewok_6879b822_2,Language,1
+ewok_task,ewok_6879b822_2,Mental Simulation,0
+ewok_task,ewok_6879b822_2,Metacognition,1
+ewok_task,ewok_6879b822_2,Object Permanence,0
+ewok_task,ewok_6879b822_2,Perception and Pattern Recognition,1
+ewok_task,ewok_6879b822_2,Planning,0
+ewok_task,ewok_6879b822_2,Procedural Memory,0
+ewok_task,ewok_6879b822_2,Prospective Memory,0
+ewok_task,ewok_6879b822_2,Semantic Memory,1
+ewok_task,ewok_6879b822_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_6879b822_2,Theory of Mind,0
+ewok_task,ewok_6879b822_2,Working Memory,2
+ewok_task,ewok_6879b822_2,ambiguity,4
+ewok_task,ewok_6879b822_2,factuality,5
+ewok_task,ewok_688f4da0_2,Causal Reasoning,1
+ewok_task,ewok_688f4da0_2,Cognitive Flexibility,1
+ewok_task,ewok_688f4da0_2,Emotion Perception and Empathy,0
+ewok_task,ewok_688f4da0_2,Episodic Memory,0
+ewok_task,ewok_688f4da0_2,Functional Perception,1
+ewok_task,ewok_688f4da0_2,Inhibitory Control,1
+ewok_task,ewok_688f4da0_2,Language,1
+ewok_task,ewok_688f4da0_2,Mental Simulation,0
+ewok_task,ewok_688f4da0_2,Metacognition,1
+ewok_task,ewok_688f4da0_2,Object Permanence,0
+ewok_task,ewok_688f4da0_2,Perception and Pattern Recognition,1
+ewok_task,ewok_688f4da0_2,Planning,0
+ewok_task,ewok_688f4da0_2,Procedural Memory,0
+ewok_task,ewok_688f4da0_2,Prospective Memory,0
+ewok_task,ewok_688f4da0_2,Semantic Memory,1
+ewok_task,ewok_688f4da0_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_688f4da0_2,Theory of Mind,0
+ewok_task,ewok_688f4da0_2,Working Memory,1
+ewok_task,ewok_688f4da0_2,ambiguity,5
+ewok_task,ewok_688f4da0_2,factuality,5
+ewok_task,ewok_691f1ccc_1,Causal Reasoning,0
+ewok_task,ewok_691f1ccc_1,Cognitive Flexibility,0
+ewok_task,ewok_691f1ccc_1,Emotion Perception and Empathy,1
+ewok_task,ewok_691f1ccc_1,Episodic Memory,0
+ewok_task,ewok_691f1ccc_1,Functional Perception,1
+ewok_task,ewok_691f1ccc_1,Inhibitory Control,1
+ewok_task,ewok_691f1ccc_1,Language,1
+ewok_task,ewok_691f1ccc_1,Mental Simulation,1
+ewok_task,ewok_691f1ccc_1,Metacognition,1
+ewok_task,ewok_691f1ccc_1,Object Permanence,0
+ewok_task,ewok_691f1ccc_1,Perception and Pattern Recognition,1
+ewok_task,ewok_691f1ccc_1,Planning,0
+ewok_task,ewok_691f1ccc_1,Procedural Memory,0
+ewok_task,ewok_691f1ccc_1,Prospective Memory,0
+ewok_task,ewok_691f1ccc_1,Semantic Memory,1
+ewok_task,ewok_691f1ccc_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_691f1ccc_1,Theory of Mind,1
+ewok_task,ewok_691f1ccc_1,Working Memory,1
+ewok_task,ewok_691f1ccc_1,ambiguity,5
+ewok_task,ewok_691f1ccc_1,factuality,5
+ewok_task,ewok_69e2d3ad_2,Causal Reasoning,1
+ewok_task,ewok_69e2d3ad_2,Cognitive Flexibility,0
+ewok_task,ewok_69e2d3ad_2,Emotion Perception and Empathy,0
+ewok_task,ewok_69e2d3ad_2,Episodic Memory,0
+ewok_task,ewok_69e2d3ad_2,Functional Perception,1
+ewok_task,ewok_69e2d3ad_2,Inhibitory Control,0
+ewok_task,ewok_69e2d3ad_2,Language,1
+ewok_task,ewok_69e2d3ad_2,Mental Simulation,0
+ewok_task,ewok_69e2d3ad_2,Metacognition,1
+ewok_task,ewok_69e2d3ad_2,Object Permanence,0
+ewok_task,ewok_69e2d3ad_2,Perception and Pattern Recognition,1
+ewok_task,ewok_69e2d3ad_2,Planning,0
+ewok_task,ewok_69e2d3ad_2,Procedural Memory,0
+ewok_task,ewok_69e2d3ad_2,Prospective Memory,0
+ewok_task,ewok_69e2d3ad_2,Semantic Memory,2
+ewok_task,ewok_69e2d3ad_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_69e2d3ad_2,Theory of Mind,0
+ewok_task,ewok_69e2d3ad_2,Working Memory,1
+ewok_task,ewok_69e2d3ad_2,ambiguity,5
+ewok_task,ewok_69e2d3ad_2,factuality,5
+ewok_task,ewok_70ab244b_2,Causal Reasoning,1
+ewok_task,ewok_70ab244b_2,Cognitive Flexibility,0
+ewok_task,ewok_70ab244b_2,Emotion Perception and Empathy,0
+ewok_task,ewok_70ab244b_2,Episodic Memory,0
+ewok_task,ewok_70ab244b_2,Functional Perception,1
+ewok_task,ewok_70ab244b_2,Inhibitory Control,1
+ewok_task,ewok_70ab244b_2,Language,2
+ewok_task,ewok_70ab244b_2,Mental Simulation,1
+ewok_task,ewok_70ab244b_2,Metacognition,1
+ewok_task,ewok_70ab244b_2,Object Permanence,0
+ewok_task,ewok_70ab244b_2,Perception and Pattern Recognition,0
+ewok_task,ewok_70ab244b_2,Planning,0
+ewok_task,ewok_70ab244b_2,Procedural Memory,0
+ewok_task,ewok_70ab244b_2,Prospective Memory,0
+ewok_task,ewok_70ab244b_2,Semantic Memory,1
+ewok_task,ewok_70ab244b_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_70ab244b_2,Theory of Mind,0
+ewok_task,ewok_70ab244b_2,Working Memory,1
+ewok_task,ewok_70ab244b_2,ambiguity,5
+ewok_task,ewok_70ab244b_2,factuality,5
+ewok_task,ewok_70d4f1e7_1,Causal Reasoning,1
+ewok_task,ewok_70d4f1e7_1,Cognitive Flexibility,0
+ewok_task,ewok_70d4f1e7_1,Emotion Perception and Empathy,0
+ewok_task,ewok_70d4f1e7_1,Episodic Memory,0
+ewok_task,ewok_70d4f1e7_1,Functional Perception,1
+ewok_task,ewok_70d4f1e7_1,Inhibitory Control,0
+ewok_task,ewok_70d4f1e7_1,Language,1
+ewok_task,ewok_70d4f1e7_1,Mental Simulation,1
+ewok_task,ewok_70d4f1e7_1,Metacognition,0
+ewok_task,ewok_70d4f1e7_1,Object Permanence,0
+ewok_task,ewok_70d4f1e7_1,Perception and Pattern Recognition,1
+ewok_task,ewok_70d4f1e7_1,Planning,0
+ewok_task,ewok_70d4f1e7_1,Procedural Memory,0
+ewok_task,ewok_70d4f1e7_1,Prospective Memory,0
+ewok_task,ewok_70d4f1e7_1,Semantic Memory,1
+ewok_task,ewok_70d4f1e7_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_70d4f1e7_1,Theory of Mind,0
+ewok_task,ewok_70d4f1e7_1,Working Memory,2
+ewok_task,ewok_70d4f1e7_1,ambiguity,5
+ewok_task,ewok_70d4f1e7_1,factuality,5
+ewok_task,ewok_71500db9_2,Causal Reasoning,1
+ewok_task,ewok_71500db9_2,Cognitive Flexibility,0
+ewok_task,ewok_71500db9_2,Emotion Perception and Empathy,0
+ewok_task,ewok_71500db9_2,Episodic Memory,0
+ewok_task,ewok_71500db9_2,Functional Perception,1
+ewok_task,ewok_71500db9_2,Inhibitory Control,1
+ewok_task,ewok_71500db9_2,Language,1
+ewok_task,ewok_71500db9_2,Mental Simulation,1
+ewok_task,ewok_71500db9_2,Metacognition,1
+ewok_task,ewok_71500db9_2,Object Permanence,0
+ewok_task,ewok_71500db9_2,Perception and Pattern Recognition,2
+ewok_task,ewok_71500db9_2,Planning,0
+ewok_task,ewok_71500db9_2,Procedural Memory,0
+ewok_task,ewok_71500db9_2,Prospective Memory,0
+ewok_task,ewok_71500db9_2,Semantic Memory,1
+ewok_task,ewok_71500db9_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_71500db9_2,Theory of Mind,2
+ewok_task,ewok_71500db9_2,Working Memory,1
+ewok_task,ewok_71500db9_2,ambiguity,5
+ewok_task,ewok_71500db9_2,factuality,5
+ewok_task,ewok_7188d6f1_1,Causal Reasoning,1
+ewok_task,ewok_7188d6f1_1,Cognitive Flexibility,0
+ewok_task,ewok_7188d6f1_1,Emotion Perception and Empathy,0
+ewok_task,ewok_7188d6f1_1,Episodic Memory,0
+ewok_task,ewok_7188d6f1_1,Functional Perception,1
+ewok_task,ewok_7188d6f1_1,Inhibitory Control,0
+ewok_task,ewok_7188d6f1_1,Language,1
+ewok_task,ewok_7188d6f1_1,Mental Simulation,1
+ewok_task,ewok_7188d6f1_1,Metacognition,1
+ewok_task,ewok_7188d6f1_1,Object Permanence,0
+ewok_task,ewok_7188d6f1_1,Perception and Pattern Recognition,1
+ewok_task,ewok_7188d6f1_1,Planning,0
+ewok_task,ewok_7188d6f1_1,Procedural Memory,0
+ewok_task,ewok_7188d6f1_1,Prospective Memory,0
+ewok_task,ewok_7188d6f1_1,Semantic Memory,1
+ewok_task,ewok_7188d6f1_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_7188d6f1_1,Theory of Mind,0
+ewok_task,ewok_7188d6f1_1,Working Memory,1
+ewok_task,ewok_7188d6f1_1,ambiguity,5
+ewok_task,ewok_7188d6f1_1,factuality,5
+ewok_task,ewok_74dd23be_1,Causal Reasoning,1
+ewok_task,ewok_74dd23be_1,Cognitive Flexibility,0
+ewok_task,ewok_74dd23be_1,Emotion Perception and Empathy,0
+ewok_task,ewok_74dd23be_1,Episodic Memory,0
+ewok_task,ewok_74dd23be_1,Functional Perception,1
+ewok_task,ewok_74dd23be_1,Inhibitory Control,1
+ewok_task,ewok_74dd23be_1,Language,1
+ewok_task,ewok_74dd23be_1,Mental Simulation,1
+ewok_task,ewok_74dd23be_1,Metacognition,1
+ewok_task,ewok_74dd23be_1,Object Permanence,1
+ewok_task,ewok_74dd23be_1,Perception and Pattern Recognition,1
+ewok_task,ewok_74dd23be_1,Planning,0
+ewok_task,ewok_74dd23be_1,Procedural Memory,0
+ewok_task,ewok_74dd23be_1,Prospective Memory,0
+ewok_task,ewok_74dd23be_1,Semantic Memory,2
+ewok_task,ewok_74dd23be_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_74dd23be_1,Theory of Mind,0
+ewok_task,ewok_74dd23be_1,Working Memory,2
+ewok_task,ewok_74dd23be_1,ambiguity,5
+ewok_task,ewok_74dd23be_1,factuality,5
+ewok_task,ewok_77c01669_1,Causal Reasoning,0
+ewok_task,ewok_77c01669_1,Cognitive Flexibility,0
+ewok_task,ewok_77c01669_1,Emotion Perception and Empathy,0
+ewok_task,ewok_77c01669_1,Episodic Memory,0
+ewok_task,ewok_77c01669_1,Functional Perception,1
+ewok_task,ewok_77c01669_1,Inhibitory Control,1
+ewok_task,ewok_77c01669_1,Language,1
+ewok_task,ewok_77c01669_1,Mental Simulation,1
+ewok_task,ewok_77c01669_1,Metacognition,0
+ewok_task,ewok_77c01669_1,Object Permanence,0
+ewok_task,ewok_77c01669_1,Perception and Pattern Recognition,1
+ewok_task,ewok_77c01669_1,Planning,0
+ewok_task,ewok_77c01669_1,Procedural Memory,0
+ewok_task,ewok_77c01669_1,Prospective Memory,0
+ewok_task,ewok_77c01669_1,Semantic Memory,1
+ewok_task,ewok_77c01669_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_77c01669_1,Theory of Mind,0
+ewok_task,ewok_77c01669_1,Working Memory,1
+ewok_task,ewok_77c01669_1,ambiguity,5
+ewok_task,ewok_77c01669_1,factuality,2
+ewok_task,ewok_789a7c5e_2,Causal Reasoning,1
+ewok_task,ewok_789a7c5e_2,Cognitive Flexibility,0
+ewok_task,ewok_789a7c5e_2,Emotion Perception and Empathy,0
+ewok_task,ewok_789a7c5e_2,Episodic Memory,0
+ewok_task,ewok_789a7c5e_2,Functional Perception,1
+ewok_task,ewok_789a7c5e_2,Inhibitory Control,0
+ewok_task,ewok_789a7c5e_2,Language,1
+ewok_task,ewok_789a7c5e_2,Mental Simulation,0
+ewok_task,ewok_789a7c5e_2,Metacognition,0
+ewok_task,ewok_789a7c5e_2,Object Permanence,0
+ewok_task,ewok_789a7c5e_2,Perception and Pattern Recognition,1
+ewok_task,ewok_789a7c5e_2,Planning,0
+ewok_task,ewok_789a7c5e_2,Procedural Memory,0
+ewok_task,ewok_789a7c5e_2,Prospective Memory,0
+ewok_task,ewok_789a7c5e_2,Semantic Memory,2
+ewok_task,ewok_789a7c5e_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_789a7c5e_2,Theory of Mind,1
+ewok_task,ewok_789a7c5e_2,Working Memory,0
+ewok_task,ewok_789a7c5e_2,ambiguity,5
+ewok_task,ewok_789a7c5e_2,factuality,5
+ewok_task,ewok_79fbdadd_2,Causal Reasoning,1
+ewok_task,ewok_79fbdadd_2,Cognitive Flexibility,0
+ewok_task,ewok_79fbdadd_2,Emotion Perception and Empathy,0
+ewok_task,ewok_79fbdadd_2,Episodic Memory,0
+ewok_task,ewok_79fbdadd_2,Functional Perception,1
+ewok_task,ewok_79fbdadd_2,Inhibitory Control,1
+ewok_task,ewok_79fbdadd_2,Language,1
+ewok_task,ewok_79fbdadd_2,Mental Simulation,0
+ewok_task,ewok_79fbdadd_2,Metacognition,1
+ewok_task,ewok_79fbdadd_2,Object Permanence,0
+ewok_task,ewok_79fbdadd_2,Perception and Pattern Recognition,1
+ewok_task,ewok_79fbdadd_2,Planning,0
+ewok_task,ewok_79fbdadd_2,Procedural Memory,0
+ewok_task,ewok_79fbdadd_2,Prospective Memory,0
+ewok_task,ewok_79fbdadd_2,Semantic Memory,1
+ewok_task,ewok_79fbdadd_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_79fbdadd_2,Theory of Mind,0
+ewok_task,ewok_79fbdadd_2,Working Memory,1
+ewok_task,ewok_79fbdadd_2,ambiguity,5
+ewok_task,ewok_79fbdadd_2,factuality,5
+ewok_task,ewok_7ae8febe_2,Causal Reasoning,1
+ewok_task,ewok_7ae8febe_2,Cognitive Flexibility,0
+ewok_task,ewok_7ae8febe_2,Emotion Perception and Empathy,0
+ewok_task,ewok_7ae8febe_2,Episodic Memory,0
+ewok_task,ewok_7ae8febe_2,Functional Perception,1
+ewok_task,ewok_7ae8febe_2,Inhibitory Control,1
+ewok_task,ewok_7ae8febe_2,Language,1
+ewok_task,ewok_7ae8febe_2,Mental Simulation,0
+ewok_task,ewok_7ae8febe_2,Metacognition,0
+ewok_task,ewok_7ae8febe_2,Object Permanence,0
+ewok_task,ewok_7ae8febe_2,Perception and Pattern Recognition,1
+ewok_task,ewok_7ae8febe_2,Planning,0
+ewok_task,ewok_7ae8febe_2,Procedural Memory,0
+ewok_task,ewok_7ae8febe_2,Prospective Memory,0
+ewok_task,ewok_7ae8febe_2,Semantic Memory,1
+ewok_task,ewok_7ae8febe_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_7ae8febe_2,Theory of Mind,0
+ewok_task,ewok_7ae8febe_2,Working Memory,1
+ewok_task,ewok_7ae8febe_2,ambiguity,5
+ewok_task,ewok_7ae8febe_2,factuality,5
+ewok_task,ewok_7b011157_2,Causal Reasoning,0
+ewok_task,ewok_7b011157_2,Cognitive Flexibility,0
+ewok_task,ewok_7b011157_2,Emotion Perception and Empathy,0
+ewok_task,ewok_7b011157_2,Episodic Memory,0
+ewok_task,ewok_7b011157_2,Functional Perception,1
+ewok_task,ewok_7b011157_2,Inhibitory Control,1
+ewok_task,ewok_7b011157_2,Language,1
+ewok_task,ewok_7b011157_2,Mental Simulation,0
+ewok_task,ewok_7b011157_2,Metacognition,1
+ewok_task,ewok_7b011157_2,Object Permanence,0
+ewok_task,ewok_7b011157_2,Perception and Pattern Recognition,1
+ewok_task,ewok_7b011157_2,Planning,0
+ewok_task,ewok_7b011157_2,Procedural Memory,0
+ewok_task,ewok_7b011157_2,Prospective Memory,0
+ewok_task,ewok_7b011157_2,Semantic Memory,1
+ewok_task,ewok_7b011157_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_7b011157_2,Theory of Mind,0
+ewok_task,ewok_7b011157_2,Working Memory,1
+ewok_task,ewok_7b011157_2,ambiguity,5
+ewok_task,ewok_7b011157_2,factuality,5
+ewok_task,ewok_7cb0e7ac_2,Causal Reasoning,1
+ewok_task,ewok_7cb0e7ac_2,Cognitive Flexibility,0
+ewok_task,ewok_7cb0e7ac_2,Emotion Perception and Empathy,0
+ewok_task,ewok_7cb0e7ac_2,Episodic Memory,0
+ewok_task,ewok_7cb0e7ac_2,Functional Perception,1
+ewok_task,ewok_7cb0e7ac_2,Inhibitory Control,1
+ewok_task,ewok_7cb0e7ac_2,Language,1
+ewok_task,ewok_7cb0e7ac_2,Mental Simulation,0
+ewok_task,ewok_7cb0e7ac_2,Metacognition,1
+ewok_task,ewok_7cb0e7ac_2,Object Permanence,0
+ewok_task,ewok_7cb0e7ac_2,Perception and Pattern Recognition,1
+ewok_task,ewok_7cb0e7ac_2,Planning,0
+ewok_task,ewok_7cb0e7ac_2,Procedural Memory,0
+ewok_task,ewok_7cb0e7ac_2,Prospective Memory,0
+ewok_task,ewok_7cb0e7ac_2,Semantic Memory,1
+ewok_task,ewok_7cb0e7ac_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_7cb0e7ac_2,Theory of Mind,0
+ewok_task,ewok_7cb0e7ac_2,Working Memory,1
+ewok_task,ewok_7cb0e7ac_2,ambiguity,5
+ewok_task,ewok_7cb0e7ac_2,factuality,5
+ewok_task,ewok_7d0b0243_1,Causal Reasoning,1
+ewok_task,ewok_7d0b0243_1,Cognitive Flexibility,0
+ewok_task,ewok_7d0b0243_1,Emotion Perception and Empathy,0
+ewok_task,ewok_7d0b0243_1,Episodic Memory,0
+ewok_task,ewok_7d0b0243_1,Functional Perception,1
+ewok_task,ewok_7d0b0243_1,Inhibitory Control,1
+ewok_task,ewok_7d0b0243_1,Language,1
+ewok_task,ewok_7d0b0243_1,Mental Simulation,0
+ewok_task,ewok_7d0b0243_1,Metacognition,1
+ewok_task,ewok_7d0b0243_1,Object Permanence,0
+ewok_task,ewok_7d0b0243_1,Perception and Pattern Recognition,1
+ewok_task,ewok_7d0b0243_1,Planning,0
+ewok_task,ewok_7d0b0243_1,Procedural Memory,0
+ewok_task,ewok_7d0b0243_1,Prospective Memory,0
+ewok_task,ewok_7d0b0243_1,Semantic Memory,1
+ewok_task,ewok_7d0b0243_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_7d0b0243_1,Theory of Mind,0
+ewok_task,ewok_7d0b0243_1,Working Memory,1
+ewok_task,ewok_7d0b0243_1,ambiguity,5
+ewok_task,ewok_7d0b0243_1,factuality,5
+ewok_task,ewok_7d26b194_2,Causal Reasoning,1
+ewok_task,ewok_7d26b194_2,Cognitive Flexibility,0
+ewok_task,ewok_7d26b194_2,Emotion Perception and Empathy,0
+ewok_task,ewok_7d26b194_2,Episodic Memory,0
+ewok_task,ewok_7d26b194_2,Functional Perception,1
+ewok_task,ewok_7d26b194_2,Inhibitory Control,1
+ewok_task,ewok_7d26b194_2,Language,1
+ewok_task,ewok_7d26b194_2,Mental Simulation,0
+ewok_task,ewok_7d26b194_2,Metacognition,1
+ewok_task,ewok_7d26b194_2,Object Permanence,0
+ewok_task,ewok_7d26b194_2,Perception and Pattern Recognition,1
+ewok_task,ewok_7d26b194_2,Planning,0
+ewok_task,ewok_7d26b194_2,Procedural Memory,0
+ewok_task,ewok_7d26b194_2,Prospective Memory,0
+ewok_task,ewok_7d26b194_2,Semantic Memory,2
+ewok_task,ewok_7d26b194_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_7d26b194_2,Theory of Mind,1
+ewok_task,ewok_7d26b194_2,Working Memory,0
+ewok_task,ewok_7d26b194_2,ambiguity,5
+ewok_task,ewok_7d26b194_2,factuality,5
+ewok_task,ewok_80a579b0_1,Causal Reasoning,1
+ewok_task,ewok_80a579b0_1,Cognitive Flexibility,0
+ewok_task,ewok_80a579b0_1,Emotion Perception and Empathy,0
+ewok_task,ewok_80a579b0_1,Episodic Memory,0
+ewok_task,ewok_80a579b0_1,Functional Perception,1
+ewok_task,ewok_80a579b0_1,Inhibitory Control,0
+ewok_task,ewok_80a579b0_1,Language,1
+ewok_task,ewok_80a579b0_1,Mental Simulation,0
+ewok_task,ewok_80a579b0_1,Metacognition,1
+ewok_task,ewok_80a579b0_1,Object Permanence,0
+ewok_task,ewok_80a579b0_1,Perception and Pattern Recognition,1
+ewok_task,ewok_80a579b0_1,Planning,0
+ewok_task,ewok_80a579b0_1,Procedural Memory,0
+ewok_task,ewok_80a579b0_1,Prospective Memory,0
+ewok_task,ewok_80a579b0_1,Semantic Memory,1
+ewok_task,ewok_80a579b0_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_80a579b0_1,Theory of Mind,1
+ewok_task,ewok_80a579b0_1,Working Memory,0
+ewok_task,ewok_80a579b0_1,ambiguity,5
+ewok_task,ewok_80a579b0_1,factuality,5
+ewok_task,ewok_81d5fc2c_2,Causal Reasoning,1
+ewok_task,ewok_81d5fc2c_2,Cognitive Flexibility,0
+ewok_task,ewok_81d5fc2c_2,Emotion Perception and Empathy,0
+ewok_task,ewok_81d5fc2c_2,Episodic Memory,0
+ewok_task,ewok_81d5fc2c_2,Functional Perception,1
+ewok_task,ewok_81d5fc2c_2,Inhibitory Control,0
+ewok_task,ewok_81d5fc2c_2,Language,2
+ewok_task,ewok_81d5fc2c_2,Mental Simulation,1
+ewok_task,ewok_81d5fc2c_2,Metacognition,1
+ewok_task,ewok_81d5fc2c_2,Object Permanence,0
+ewok_task,ewok_81d5fc2c_2,Perception and Pattern Recognition,2
+ewok_task,ewok_81d5fc2c_2,Planning,0
+ewok_task,ewok_81d5fc2c_2,Procedural Memory,0
+ewok_task,ewok_81d5fc2c_2,Prospective Memory,0
+ewok_task,ewok_81d5fc2c_2,Semantic Memory,1
+ewok_task,ewok_81d5fc2c_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_81d5fc2c_2,Theory of Mind,1
+ewok_task,ewok_81d5fc2c_2,Working Memory,0
+ewok_task,ewok_81d5fc2c_2,ambiguity,5
+ewok_task,ewok_81d5fc2c_2,factuality,1
+ewok_task,ewok_823f6348_2,Causal Reasoning,1
+ewok_task,ewok_823f6348_2,Cognitive Flexibility,0
+ewok_task,ewok_823f6348_2,Emotion Perception and Empathy,0
+ewok_task,ewok_823f6348_2,Episodic Memory,0
+ewok_task,ewok_823f6348_2,Functional Perception,1
+ewok_task,ewok_823f6348_2,Inhibitory Control,0
+ewok_task,ewok_823f6348_2,Language,1
+ewok_task,ewok_823f6348_2,Mental Simulation,1
+ewok_task,ewok_823f6348_2,Metacognition,0
+ewok_task,ewok_823f6348_2,Object Permanence,0
+ewok_task,ewok_823f6348_2,Perception and Pattern Recognition,1
+ewok_task,ewok_823f6348_2,Planning,0
+ewok_task,ewok_823f6348_2,Procedural Memory,0
+ewok_task,ewok_823f6348_2,Prospective Memory,0
+ewok_task,ewok_823f6348_2,Semantic Memory,1
+ewok_task,ewok_823f6348_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_823f6348_2,Theory of Mind,0
+ewok_task,ewok_823f6348_2,Working Memory,2
+ewok_task,ewok_823f6348_2,ambiguity,5
+ewok_task,ewok_823f6348_2,factuality,5
+ewok_task,ewok_82ea229b_1,Causal Reasoning,1
+ewok_task,ewok_82ea229b_1,Cognitive Flexibility,0
+ewok_task,ewok_82ea229b_1,Emotion Perception and Empathy,0
+ewok_task,ewok_82ea229b_1,Episodic Memory,0
+ewok_task,ewok_82ea229b_1,Functional Perception,1
+ewok_task,ewok_82ea229b_1,Inhibitory Control,1
+ewok_task,ewok_82ea229b_1,Language,1
+ewok_task,ewok_82ea229b_1,Mental Simulation,0
+ewok_task,ewok_82ea229b_1,Metacognition,1
+ewok_task,ewok_82ea229b_1,Object Permanence,0
+ewok_task,ewok_82ea229b_1,Perception and Pattern Recognition,1
+ewok_task,ewok_82ea229b_1,Planning,0
+ewok_task,ewok_82ea229b_1,Procedural Memory,0
+ewok_task,ewok_82ea229b_1,Prospective Memory,0
+ewok_task,ewok_82ea229b_1,Semantic Memory,1
+ewok_task,ewok_82ea229b_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_82ea229b_1,Theory of Mind,1
+ewok_task,ewok_82ea229b_1,Working Memory,0
+ewok_task,ewok_82ea229b_1,ambiguity,5
+ewok_task,ewok_82ea229b_1,factuality,5
+ewok_task,ewok_83c95767_2,Causal Reasoning,0
+ewok_task,ewok_83c95767_2,Cognitive Flexibility,0
+ewok_task,ewok_83c95767_2,Emotion Perception and Empathy,0
+ewok_task,ewok_83c95767_2,Episodic Memory,0
+ewok_task,ewok_83c95767_2,Functional Perception,1
+ewok_task,ewok_83c95767_2,Inhibitory Control,1
+ewok_task,ewok_83c95767_2,Language,1
+ewok_task,ewok_83c95767_2,Mental Simulation,1
+ewok_task,ewok_83c95767_2,Metacognition,0
+ewok_task,ewok_83c95767_2,Object Permanence,0
+ewok_task,ewok_83c95767_2,Perception and Pattern Recognition,1
+ewok_task,ewok_83c95767_2,Planning,0
+ewok_task,ewok_83c95767_2,Procedural Memory,0
+ewok_task,ewok_83c95767_2,Prospective Memory,0
+ewok_task,ewok_83c95767_2,Semantic Memory,1
+ewok_task,ewok_83c95767_2,Spatial Reasoning and Navigation,2
+ewok_task,ewok_83c95767_2,Theory of Mind,0
+ewok_task,ewok_83c95767_2,Working Memory,1
+ewok_task,ewok_83c95767_2,ambiguity,5
+ewok_task,ewok_83c95767_2,factuality,2
+ewok_task,ewok_83df13b7_2,Causal Reasoning,1
+ewok_task,ewok_83df13b7_2,Cognitive Flexibility,0
+ewok_task,ewok_83df13b7_2,Emotion Perception and Empathy,0
+ewok_task,ewok_83df13b7_2,Episodic Memory,0
+ewok_task,ewok_83df13b7_2,Functional Perception,1
+ewok_task,ewok_83df13b7_2,Inhibitory Control,0
+ewok_task,ewok_83df13b7_2,Language,1
+ewok_task,ewok_83df13b7_2,Mental Simulation,1
+ewok_task,ewok_83df13b7_2,Metacognition,1
+ewok_task,ewok_83df13b7_2,Object Permanence,0
+ewok_task,ewok_83df13b7_2,Perception and Pattern Recognition,1
+ewok_task,ewok_83df13b7_2,Planning,0
+ewok_task,ewok_83df13b7_2,Procedural Memory,0
+ewok_task,ewok_83df13b7_2,Prospective Memory,0
+ewok_task,ewok_83df13b7_2,Semantic Memory,1
+ewok_task,ewok_83df13b7_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_83df13b7_2,Theory of Mind,1
+ewok_task,ewok_83df13b7_2,Working Memory,1
+ewok_task,ewok_83df13b7_2,ambiguity,5
+ewok_task,ewok_83df13b7_2,factuality,5
+ewok_task,ewok_878d296f_1,Causal Reasoning,1
+ewok_task,ewok_878d296f_1,Cognitive Flexibility,0
+ewok_task,ewok_878d296f_1,Emotion Perception and Empathy,0
+ewok_task,ewok_878d296f_1,Episodic Memory,0
+ewok_task,ewok_878d296f_1,Functional Perception,1
+ewok_task,ewok_878d296f_1,Inhibitory Control,1
+ewok_task,ewok_878d296f_1,Language,1
+ewok_task,ewok_878d296f_1,Mental Simulation,1
+ewok_task,ewok_878d296f_1,Metacognition,0
+ewok_task,ewok_878d296f_1,Object Permanence,0
+ewok_task,ewok_878d296f_1,Perception and Pattern Recognition,1
+ewok_task,ewok_878d296f_1,Planning,0
+ewok_task,ewok_878d296f_1,Procedural Memory,0
+ewok_task,ewok_878d296f_1,Prospective Memory,0
+ewok_task,ewok_878d296f_1,Semantic Memory,1
+ewok_task,ewok_878d296f_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_878d296f_1,Theory of Mind,0
+ewok_task,ewok_878d296f_1,Working Memory,2
+ewok_task,ewok_878d296f_1,ambiguity,5
+ewok_task,ewok_878d296f_1,factuality,5
+ewok_task,ewok_883a8a12_2,Causal Reasoning,1
+ewok_task,ewok_883a8a12_2,Cognitive Flexibility,0
+ewok_task,ewok_883a8a12_2,Emotion Perception and Empathy,0
+ewok_task,ewok_883a8a12_2,Episodic Memory,0
+ewok_task,ewok_883a8a12_2,Functional Perception,1
+ewok_task,ewok_883a8a12_2,Inhibitory Control,1
+ewok_task,ewok_883a8a12_2,Language,1
+ewok_task,ewok_883a8a12_2,Mental Simulation,1
+ewok_task,ewok_883a8a12_2,Metacognition,1
+ewok_task,ewok_883a8a12_2,Object Permanence,0
+ewok_task,ewok_883a8a12_2,Perception and Pattern Recognition,1
+ewok_task,ewok_883a8a12_2,Planning,0
+ewok_task,ewok_883a8a12_2,Procedural Memory,0
+ewok_task,ewok_883a8a12_2,Prospective Memory,0
+ewok_task,ewok_883a8a12_2,Semantic Memory,1
+ewok_task,ewok_883a8a12_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_883a8a12_2,Theory of Mind,2
+ewok_task,ewok_883a8a12_2,Working Memory,2
+ewok_task,ewok_883a8a12_2,ambiguity,5
+ewok_task,ewok_883a8a12_2,factuality,5
+ewok_task,ewok_88efd7a8_2,Causal Reasoning,1
+ewok_task,ewok_88efd7a8_2,Cognitive Flexibility,0
+ewok_task,ewok_88efd7a8_2,Emotion Perception and Empathy,0
+ewok_task,ewok_88efd7a8_2,Episodic Memory,0
+ewok_task,ewok_88efd7a8_2,Functional Perception,1
+ewok_task,ewok_88efd7a8_2,Inhibitory Control,1
+ewok_task,ewok_88efd7a8_2,Language,1
+ewok_task,ewok_88efd7a8_2,Mental Simulation,0
+ewok_task,ewok_88efd7a8_2,Metacognition,1
+ewok_task,ewok_88efd7a8_2,Object Permanence,0
+ewok_task,ewok_88efd7a8_2,Perception and Pattern Recognition,1
+ewok_task,ewok_88efd7a8_2,Planning,0
+ewok_task,ewok_88efd7a8_2,Procedural Memory,0
+ewok_task,ewok_88efd7a8_2,Prospective Memory,0
+ewok_task,ewok_88efd7a8_2,Semantic Memory,1
+ewok_task,ewok_88efd7a8_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_88efd7a8_2,Theory of Mind,1
+ewok_task,ewok_88efd7a8_2,Working Memory,1
+ewok_task,ewok_88efd7a8_2,ambiguity,5
+ewok_task,ewok_88efd7a8_2,factuality,5
+ewok_task,ewok_89e08849_2,Causal Reasoning,1
+ewok_task,ewok_89e08849_2,Cognitive Flexibility,1
+ewok_task,ewok_89e08849_2,Emotion Perception and Empathy,0
+ewok_task,ewok_89e08849_2,Episodic Memory,0
+ewok_task,ewok_89e08849_2,Functional Perception,0
+ewok_task,ewok_89e08849_2,Inhibitory Control,1
+ewok_task,ewok_89e08849_2,Language,1
+ewok_task,ewok_89e08849_2,Mental Simulation,1
+ewok_task,ewok_89e08849_2,Metacognition,2
+ewok_task,ewok_89e08849_2,Object Permanence,0
+ewok_task,ewok_89e08849_2,Perception and Pattern Recognition,1
+ewok_task,ewok_89e08849_2,Planning,0
+ewok_task,ewok_89e08849_2,Procedural Memory,0
+ewok_task,ewok_89e08849_2,Prospective Memory,0
+ewok_task,ewok_89e08849_2,Semantic Memory,1
+ewok_task,ewok_89e08849_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_89e08849_2,Theory of Mind,2
+ewok_task,ewok_89e08849_2,Working Memory,1
+ewok_task,ewok_89e08849_2,ambiguity,5
+ewok_task,ewok_89e08849_2,factuality,5
+ewok_task,ewok_8a53b5c4_1,Causal Reasoning,1
+ewok_task,ewok_8a53b5c4_1,Cognitive Flexibility,0
+ewok_task,ewok_8a53b5c4_1,Emotion Perception and Empathy,0
+ewok_task,ewok_8a53b5c4_1,Episodic Memory,0
+ewok_task,ewok_8a53b5c4_1,Functional Perception,1
+ewok_task,ewok_8a53b5c4_1,Inhibitory Control,1
+ewok_task,ewok_8a53b5c4_1,Language,1
+ewok_task,ewok_8a53b5c4_1,Mental Simulation,0
+ewok_task,ewok_8a53b5c4_1,Metacognition,0
+ewok_task,ewok_8a53b5c4_1,Object Permanence,0
+ewok_task,ewok_8a53b5c4_1,Perception and Pattern Recognition,1
+ewok_task,ewok_8a53b5c4_1,Planning,0
+ewok_task,ewok_8a53b5c4_1,Procedural Memory,0
+ewok_task,ewok_8a53b5c4_1,Prospective Memory,0
+ewok_task,ewok_8a53b5c4_1,Semantic Memory,1
+ewok_task,ewok_8a53b5c4_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_8a53b5c4_1,Theory of Mind,0
+ewok_task,ewok_8a53b5c4_1,Working Memory,1
+ewok_task,ewok_8a53b5c4_1,ambiguity,5
+ewok_task,ewok_8a53b5c4_1,factuality,5
+ewok_task,ewok_8a5ef04c_1,Causal Reasoning,1
+ewok_task,ewok_8a5ef04c_1,Cognitive Flexibility,0
+ewok_task,ewok_8a5ef04c_1,Emotion Perception and Empathy,0
+ewok_task,ewok_8a5ef04c_1,Episodic Memory,0
+ewok_task,ewok_8a5ef04c_1,Functional Perception,1
+ewok_task,ewok_8a5ef04c_1,Inhibitory Control,1
+ewok_task,ewok_8a5ef04c_1,Language,1
+ewok_task,ewok_8a5ef04c_1,Mental Simulation,1
+ewok_task,ewok_8a5ef04c_1,Metacognition,1
+ewok_task,ewok_8a5ef04c_1,Object Permanence,0
+ewok_task,ewok_8a5ef04c_1,Perception and Pattern Recognition,1
+ewok_task,ewok_8a5ef04c_1,Planning,0
+ewok_task,ewok_8a5ef04c_1,Procedural Memory,0
+ewok_task,ewok_8a5ef04c_1,Prospective Memory,0
+ewok_task,ewok_8a5ef04c_1,Semantic Memory,1
+ewok_task,ewok_8a5ef04c_1,Spatial Reasoning and Navigation,2
+ewok_task,ewok_8a5ef04c_1,Theory of Mind,0
+ewok_task,ewok_8a5ef04c_1,Working Memory,2
+ewok_task,ewok_8a5ef04c_1,ambiguity,5
+ewok_task,ewok_8a5ef04c_1,factuality,5
+ewok_task,ewok_8a80a5d5_1,Causal Reasoning,1
+ewok_task,ewok_8a80a5d5_1,Cognitive Flexibility,0
+ewok_task,ewok_8a80a5d5_1,Emotion Perception and Empathy,0
+ewok_task,ewok_8a80a5d5_1,Episodic Memory,0
+ewok_task,ewok_8a80a5d5_1,Functional Perception,1
+ewok_task,ewok_8a80a5d5_1,Inhibitory Control,0
+ewok_task,ewok_8a80a5d5_1,Language,1
+ewok_task,ewok_8a80a5d5_1,Mental Simulation,0
+ewok_task,ewok_8a80a5d5_1,Metacognition,0
+ewok_task,ewok_8a80a5d5_1,Object Permanence,0
+ewok_task,ewok_8a80a5d5_1,Perception and Pattern Recognition,1
+ewok_task,ewok_8a80a5d5_1,Planning,0
+ewok_task,ewok_8a80a5d5_1,Procedural Memory,0
+ewok_task,ewok_8a80a5d5_1,Prospective Memory,0
+ewok_task,ewok_8a80a5d5_1,Semantic Memory,1
+ewok_task,ewok_8a80a5d5_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_8a80a5d5_1,Theory of Mind,1
+ewok_task,ewok_8a80a5d5_1,Working Memory,2
+ewok_task,ewok_8a80a5d5_1,ambiguity,5
+ewok_task,ewok_8a80a5d5_1,factuality,5
+ewok_task,ewok_8af0e46a_1,Causal Reasoning,1
+ewok_task,ewok_8af0e46a_1,Cognitive Flexibility,0
+ewok_task,ewok_8af0e46a_1,Emotion Perception and Empathy,0
+ewok_task,ewok_8af0e46a_1,Episodic Memory,0
+ewok_task,ewok_8af0e46a_1,Functional Perception,1
+ewok_task,ewok_8af0e46a_1,Inhibitory Control,0
+ewok_task,ewok_8af0e46a_1,Language,1
+ewok_task,ewok_8af0e46a_1,Mental Simulation,1
+ewok_task,ewok_8af0e46a_1,Metacognition,0
+ewok_task,ewok_8af0e46a_1,Object Permanence,0
+ewok_task,ewok_8af0e46a_1,Perception and Pattern Recognition,1
+ewok_task,ewok_8af0e46a_1,Planning,0
+ewok_task,ewok_8af0e46a_1,Procedural Memory,0
+ewok_task,ewok_8af0e46a_1,Prospective Memory,0
+ewok_task,ewok_8af0e46a_1,Semantic Memory,1
+ewok_task,ewok_8af0e46a_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_8af0e46a_1,Theory of Mind,0
+ewok_task,ewok_8af0e46a_1,Working Memory,1
+ewok_task,ewok_8af0e46a_1,ambiguity,5
+ewok_task,ewok_8af0e46a_1,factuality,5
+ewok_task,ewok_8bc64248_2,Causal Reasoning,1
+ewok_task,ewok_8bc64248_2,Cognitive Flexibility,0
+ewok_task,ewok_8bc64248_2,Emotion Perception and Empathy,0
+ewok_task,ewok_8bc64248_2,Episodic Memory,0
+ewok_task,ewok_8bc64248_2,Functional Perception,1
+ewok_task,ewok_8bc64248_2,Inhibitory Control,1
+ewok_task,ewok_8bc64248_2,Language,1
+ewok_task,ewok_8bc64248_2,Mental Simulation,1
+ewok_task,ewok_8bc64248_2,Metacognition,1
+ewok_task,ewok_8bc64248_2,Object Permanence,0
+ewok_task,ewok_8bc64248_2,Perception and Pattern Recognition,1
+ewok_task,ewok_8bc64248_2,Planning,0
+ewok_task,ewok_8bc64248_2,Procedural Memory,0
+ewok_task,ewok_8bc64248_2,Prospective Memory,0
+ewok_task,ewok_8bc64248_2,Semantic Memory,1
+ewok_task,ewok_8bc64248_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_8bc64248_2,Theory of Mind,0
+ewok_task,ewok_8bc64248_2,Working Memory,1
+ewok_task,ewok_8bc64248_2,ambiguity,5
+ewok_task,ewok_8bc64248_2,factuality,5
+ewok_task,ewok_8c01f914_2,Causal Reasoning,1
+ewok_task,ewok_8c01f914_2,Cognitive Flexibility,0
+ewok_task,ewok_8c01f914_2,Emotion Perception and Empathy,0
+ewok_task,ewok_8c01f914_2,Episodic Memory,0
+ewok_task,ewok_8c01f914_2,Functional Perception,1
+ewok_task,ewok_8c01f914_2,Inhibitory Control,0
+ewok_task,ewok_8c01f914_2,Language,1
+ewok_task,ewok_8c01f914_2,Mental Simulation,1
+ewok_task,ewok_8c01f914_2,Metacognition,0
+ewok_task,ewok_8c01f914_2,Object Permanence,0
+ewok_task,ewok_8c01f914_2,Perception and Pattern Recognition,1
+ewok_task,ewok_8c01f914_2,Planning,0
+ewok_task,ewok_8c01f914_2,Procedural Memory,0
+ewok_task,ewok_8c01f914_2,Prospective Memory,0
+ewok_task,ewok_8c01f914_2,Semantic Memory,1
+ewok_task,ewok_8c01f914_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_8c01f914_2,Theory of Mind,0
+ewok_task,ewok_8c01f914_2,Working Memory,1
+ewok_task,ewok_8c01f914_2,ambiguity,5
+ewok_task,ewok_8c01f914_2,factuality,5
+ewok_task,ewok_8d7f90f5_2,Causal Reasoning,0
+ewok_task,ewok_8d7f90f5_2,Cognitive Flexibility,0
+ewok_task,ewok_8d7f90f5_2,Emotion Perception and Empathy,0
+ewok_task,ewok_8d7f90f5_2,Episodic Memory,0
+ewok_task,ewok_8d7f90f5_2,Functional Perception,1
+ewok_task,ewok_8d7f90f5_2,Inhibitory Control,1
+ewok_task,ewok_8d7f90f5_2,Language,1
+ewok_task,ewok_8d7f90f5_2,Mental Simulation,0
+ewok_task,ewok_8d7f90f5_2,Metacognition,1
+ewok_task,ewok_8d7f90f5_2,Object Permanence,0
+ewok_task,ewok_8d7f90f5_2,Perception and Pattern Recognition,1
+ewok_task,ewok_8d7f90f5_2,Planning,0
+ewok_task,ewok_8d7f90f5_2,Procedural Memory,0
+ewok_task,ewok_8d7f90f5_2,Prospective Memory,0
+ewok_task,ewok_8d7f90f5_2,Semantic Memory,1
+ewok_task,ewok_8d7f90f5_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_8d7f90f5_2,Theory of Mind,0
+ewok_task,ewok_8d7f90f5_2,Working Memory,1
+ewok_task,ewok_8d7f90f5_2,ambiguity,5
+ewok_task,ewok_8d7f90f5_2,factuality,5
+ewok_task,ewok_8da4af0f_1,Causal Reasoning,1
+ewok_task,ewok_8da4af0f_1,Cognitive Flexibility,0
+ewok_task,ewok_8da4af0f_1,Emotion Perception and Empathy,0
+ewok_task,ewok_8da4af0f_1,Episodic Memory,0
+ewok_task,ewok_8da4af0f_1,Functional Perception,1
+ewok_task,ewok_8da4af0f_1,Inhibitory Control,0
+ewok_task,ewok_8da4af0f_1,Language,1
+ewok_task,ewok_8da4af0f_1,Mental Simulation,0
+ewok_task,ewok_8da4af0f_1,Metacognition,1
+ewok_task,ewok_8da4af0f_1,Object Permanence,0
+ewok_task,ewok_8da4af0f_1,Perception and Pattern Recognition,1
+ewok_task,ewok_8da4af0f_1,Planning,0
+ewok_task,ewok_8da4af0f_1,Procedural Memory,0
+ewok_task,ewok_8da4af0f_1,Prospective Memory,0
+ewok_task,ewok_8da4af0f_1,Semantic Memory,1
+ewok_task,ewok_8da4af0f_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_8da4af0f_1,Theory of Mind,0
+ewok_task,ewok_8da4af0f_1,Working Memory,1
+ewok_task,ewok_8da4af0f_1,ambiguity,5
+ewok_task,ewok_8da4af0f_1,factuality,5
+ewok_task,ewok_9087d613_2,Causal Reasoning,1
+ewok_task,ewok_9087d613_2,Cognitive Flexibility,0
+ewok_task,ewok_9087d613_2,Emotion Perception and Empathy,1
+ewok_task,ewok_9087d613_2,Episodic Memory,0
+ewok_task,ewok_9087d613_2,Functional Perception,1
+ewok_task,ewok_9087d613_2,Inhibitory Control,1
+ewok_task,ewok_9087d613_2,Language,1
+ewok_task,ewok_9087d613_2,Mental Simulation,0
+ewok_task,ewok_9087d613_2,Metacognition,1
+ewok_task,ewok_9087d613_2,Object Permanence,0
+ewok_task,ewok_9087d613_2,Perception and Pattern Recognition,1
+ewok_task,ewok_9087d613_2,Planning,1
+ewok_task,ewok_9087d613_2,Procedural Memory,0
+ewok_task,ewok_9087d613_2,Prospective Memory,0
+ewok_task,ewok_9087d613_2,Semantic Memory,1
+ewok_task,ewok_9087d613_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_9087d613_2,Theory of Mind,2
+ewok_task,ewok_9087d613_2,Working Memory,2
+ewok_task,ewok_9087d613_2,ambiguity,5
+ewok_task,ewok_9087d613_2,factuality,5
+ewok_task,ewok_967f6634_1,Causal Reasoning,1
+ewok_task,ewok_967f6634_1,Cognitive Flexibility,0
+ewok_task,ewok_967f6634_1,Emotion Perception and Empathy,0
+ewok_task,ewok_967f6634_1,Episodic Memory,0
+ewok_task,ewok_967f6634_1,Functional Perception,1
+ewok_task,ewok_967f6634_1,Inhibitory Control,1
+ewok_task,ewok_967f6634_1,Language,2
+ewok_task,ewok_967f6634_1,Mental Simulation,1
+ewok_task,ewok_967f6634_1,Metacognition,0
+ewok_task,ewok_967f6634_1,Object Permanence,0
+ewok_task,ewok_967f6634_1,Perception and Pattern Recognition,1
+ewok_task,ewok_967f6634_1,Planning,0
+ewok_task,ewok_967f6634_1,Procedural Memory,0
+ewok_task,ewok_967f6634_1,Prospective Memory,0
+ewok_task,ewok_967f6634_1,Semantic Memory,1
+ewok_task,ewok_967f6634_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_967f6634_1,Theory of Mind,0
+ewok_task,ewok_967f6634_1,Working Memory,1
+ewok_task,ewok_967f6634_1,ambiguity,5
+ewok_task,ewok_967f6634_1,factuality,5
+ewok_task,ewok_97022990_1,Causal Reasoning,1
+ewok_task,ewok_97022990_1,Cognitive Flexibility,0
+ewok_task,ewok_97022990_1,Emotion Perception and Empathy,0
+ewok_task,ewok_97022990_1,Episodic Memory,0
+ewok_task,ewok_97022990_1,Functional Perception,1
+ewok_task,ewok_97022990_1,Inhibitory Control,0
+ewok_task,ewok_97022990_1,Language,1
+ewok_task,ewok_97022990_1,Mental Simulation,1
+ewok_task,ewok_97022990_1,Metacognition,1
+ewok_task,ewok_97022990_1,Object Permanence,0
+ewok_task,ewok_97022990_1,Perception and Pattern Recognition,1
+ewok_task,ewok_97022990_1,Planning,0
+ewok_task,ewok_97022990_1,Procedural Memory,0
+ewok_task,ewok_97022990_1,Prospective Memory,0
+ewok_task,ewok_97022990_1,Semantic Memory,1
+ewok_task,ewok_97022990_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_97022990_1,Theory of Mind,1
+ewok_task,ewok_97022990_1,Working Memory,2
+ewok_task,ewok_97022990_1,ambiguity,5
+ewok_task,ewok_97022990_1,factuality,5
+ewok_task,ewok_98301943_1,Causal Reasoning,1
+ewok_task,ewok_98301943_1,Cognitive Flexibility,0
+ewok_task,ewok_98301943_1,Emotion Perception and Empathy,0
+ewok_task,ewok_98301943_1,Episodic Memory,0
+ewok_task,ewok_98301943_1,Functional Perception,1
+ewok_task,ewok_98301943_1,Inhibitory Control,0
+ewok_task,ewok_98301943_1,Language,1
+ewok_task,ewok_98301943_1,Mental Simulation,1
+ewok_task,ewok_98301943_1,Metacognition,1
+ewok_task,ewok_98301943_1,Object Permanence,0
+ewok_task,ewok_98301943_1,Perception and Pattern Recognition,1
+ewok_task,ewok_98301943_1,Planning,0
+ewok_task,ewok_98301943_1,Procedural Memory,0
+ewok_task,ewok_98301943_1,Prospective Memory,0
+ewok_task,ewok_98301943_1,Semantic Memory,1
+ewok_task,ewok_98301943_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_98301943_1,Theory of Mind,0
+ewok_task,ewok_98301943_1,Working Memory,1
+ewok_task,ewok_98301943_1,ambiguity,4
+ewok_task,ewok_98301943_1,factuality,5
+ewok_task,ewok_9aaa5fab_2,Causal Reasoning,1
+ewok_task,ewok_9aaa5fab_2,Cognitive Flexibility,0
+ewok_task,ewok_9aaa5fab_2,Emotion Perception and Empathy,1
+ewok_task,ewok_9aaa5fab_2,Episodic Memory,0
+ewok_task,ewok_9aaa5fab_2,Functional Perception,1
+ewok_task,ewok_9aaa5fab_2,Inhibitory Control,1
+ewok_task,ewok_9aaa5fab_2,Language,1
+ewok_task,ewok_9aaa5fab_2,Mental Simulation,1
+ewok_task,ewok_9aaa5fab_2,Metacognition,1
+ewok_task,ewok_9aaa5fab_2,Object Permanence,0
+ewok_task,ewok_9aaa5fab_2,Perception and Pattern Recognition,1
+ewok_task,ewok_9aaa5fab_2,Planning,0
+ewok_task,ewok_9aaa5fab_2,Procedural Memory,0
+ewok_task,ewok_9aaa5fab_2,Prospective Memory,0
+ewok_task,ewok_9aaa5fab_2,Semantic Memory,1
+ewok_task,ewok_9aaa5fab_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_9aaa5fab_2,Theory of Mind,1
+ewok_task,ewok_9aaa5fab_2,Working Memory,1
+ewok_task,ewok_9aaa5fab_2,ambiguity,5
+ewok_task,ewok_9aaa5fab_2,factuality,5
+ewok_task,ewok_9ca44069_1,Causal Reasoning,1
+ewok_task,ewok_9ca44069_1,Cognitive Flexibility,0
+ewok_task,ewok_9ca44069_1,Emotion Perception and Empathy,0
+ewok_task,ewok_9ca44069_1,Episodic Memory,0
+ewok_task,ewok_9ca44069_1,Functional Perception,1
+ewok_task,ewok_9ca44069_1,Inhibitory Control,1
+ewok_task,ewok_9ca44069_1,Language,1
+ewok_task,ewok_9ca44069_1,Mental Simulation,1
+ewok_task,ewok_9ca44069_1,Metacognition,1
+ewok_task,ewok_9ca44069_1,Object Permanence,0
+ewok_task,ewok_9ca44069_1,Perception and Pattern Recognition,1
+ewok_task,ewok_9ca44069_1,Planning,0
+ewok_task,ewok_9ca44069_1,Procedural Memory,0
+ewok_task,ewok_9ca44069_1,Prospective Memory,0
+ewok_task,ewok_9ca44069_1,Semantic Memory,1
+ewok_task,ewok_9ca44069_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_9ca44069_1,Theory of Mind,1
+ewok_task,ewok_9ca44069_1,Working Memory,1
+ewok_task,ewok_9ca44069_1,ambiguity,5
+ewok_task,ewok_9ca44069_1,factuality,5
+ewok_task,ewok_9f68529e_1,Causal Reasoning,1
+ewok_task,ewok_9f68529e_1,Cognitive Flexibility,0
+ewok_task,ewok_9f68529e_1,Emotion Perception and Empathy,0
+ewok_task,ewok_9f68529e_1,Episodic Memory,0
+ewok_task,ewok_9f68529e_1,Functional Perception,1
+ewok_task,ewok_9f68529e_1,Inhibitory Control,0
+ewok_task,ewok_9f68529e_1,Language,1
+ewok_task,ewok_9f68529e_1,Mental Simulation,1
+ewok_task,ewok_9f68529e_1,Metacognition,1
+ewok_task,ewok_9f68529e_1,Object Permanence,0
+ewok_task,ewok_9f68529e_1,Perception and Pattern Recognition,1
+ewok_task,ewok_9f68529e_1,Planning,0
+ewok_task,ewok_9f68529e_1,Procedural Memory,0
+ewok_task,ewok_9f68529e_1,Prospective Memory,0
+ewok_task,ewok_9f68529e_1,Semantic Memory,1
+ewok_task,ewok_9f68529e_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_9f68529e_1,Theory of Mind,0
+ewok_task,ewok_9f68529e_1,Working Memory,1
+ewok_task,ewok_9f68529e_1,ambiguity,5
+ewok_task,ewok_9f68529e_1,factuality,5
+ewok_task,ewok_a298c09f_2,Causal Reasoning,1
+ewok_task,ewok_a298c09f_2,Cognitive Flexibility,0
+ewok_task,ewok_a298c09f_2,Emotion Perception and Empathy,0
+ewok_task,ewok_a298c09f_2,Episodic Memory,0
+ewok_task,ewok_a298c09f_2,Functional Perception,1
+ewok_task,ewok_a298c09f_2,Inhibitory Control,1
+ewok_task,ewok_a298c09f_2,Language,1
+ewok_task,ewok_a298c09f_2,Mental Simulation,1
+ewok_task,ewok_a298c09f_2,Metacognition,1
+ewok_task,ewok_a298c09f_2,Object Permanence,0
+ewok_task,ewok_a298c09f_2,Perception and Pattern Recognition,1
+ewok_task,ewok_a298c09f_2,Planning,0
+ewok_task,ewok_a298c09f_2,Procedural Memory,0
+ewok_task,ewok_a298c09f_2,Prospective Memory,0
+ewok_task,ewok_a298c09f_2,Semantic Memory,1
+ewok_task,ewok_a298c09f_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_a298c09f_2,Theory of Mind,1
+ewok_task,ewok_a298c09f_2,Working Memory,2
+ewok_task,ewok_a298c09f_2,ambiguity,5
+ewok_task,ewok_a298c09f_2,factuality,5
+ewok_task,ewok_a2aade09_2,Causal Reasoning,1
+ewok_task,ewok_a2aade09_2,Cognitive Flexibility,0
+ewok_task,ewok_a2aade09_2,Emotion Perception and Empathy,0
+ewok_task,ewok_a2aade09_2,Episodic Memory,0
+ewok_task,ewok_a2aade09_2,Functional Perception,1
+ewok_task,ewok_a2aade09_2,Inhibitory Control,1
+ewok_task,ewok_a2aade09_2,Language,1
+ewok_task,ewok_a2aade09_2,Mental Simulation,0
+ewok_task,ewok_a2aade09_2,Metacognition,1
+ewok_task,ewok_a2aade09_2,Object Permanence,0
+ewok_task,ewok_a2aade09_2,Perception and Pattern Recognition,1
+ewok_task,ewok_a2aade09_2,Planning,0
+ewok_task,ewok_a2aade09_2,Procedural Memory,0
+ewok_task,ewok_a2aade09_2,Prospective Memory,0
+ewok_task,ewok_a2aade09_2,Semantic Memory,1
+ewok_task,ewok_a2aade09_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_a2aade09_2,Theory of Mind,0
+ewok_task,ewok_a2aade09_2,Working Memory,2
+ewok_task,ewok_a2aade09_2,ambiguity,5
+ewok_task,ewok_a2aade09_2,factuality,1
+ewok_task,ewok_a52bfa08_1,Causal Reasoning,1
+ewok_task,ewok_a52bfa08_1,Cognitive Flexibility,0
+ewok_task,ewok_a52bfa08_1,Emotion Perception and Empathy,1
+ewok_task,ewok_a52bfa08_1,Episodic Memory,0
+ewok_task,ewok_a52bfa08_1,Functional Perception,1
+ewok_task,ewok_a52bfa08_1,Inhibitory Control,0
+ewok_task,ewok_a52bfa08_1,Language,1
+ewok_task,ewok_a52bfa08_1,Mental Simulation,1
+ewok_task,ewok_a52bfa08_1,Metacognition,1
+ewok_task,ewok_a52bfa08_1,Object Permanence,0
+ewok_task,ewok_a52bfa08_1,Perception and Pattern Recognition,1
+ewok_task,ewok_a52bfa08_1,Planning,0
+ewok_task,ewok_a52bfa08_1,Procedural Memory,0
+ewok_task,ewok_a52bfa08_1,Prospective Memory,0
+ewok_task,ewok_a52bfa08_1,Semantic Memory,2
+ewok_task,ewok_a52bfa08_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_a52bfa08_1,Theory of Mind,1
+ewok_task,ewok_a52bfa08_1,Working Memory,1
+ewok_task,ewok_a52bfa08_1,ambiguity,5
+ewok_task,ewok_a52bfa08_1,factuality,5
+ewok_task,ewok_a574d44f_2,Causal Reasoning,1
+ewok_task,ewok_a574d44f_2,Cognitive Flexibility,0
+ewok_task,ewok_a574d44f_2,Emotion Perception and Empathy,0
+ewok_task,ewok_a574d44f_2,Episodic Memory,0
+ewok_task,ewok_a574d44f_2,Functional Perception,1
+ewok_task,ewok_a574d44f_2,Inhibitory Control,1
+ewok_task,ewok_a574d44f_2,Language,1
+ewok_task,ewok_a574d44f_2,Mental Simulation,0
+ewok_task,ewok_a574d44f_2,Metacognition,1
+ewok_task,ewok_a574d44f_2,Object Permanence,0
+ewok_task,ewok_a574d44f_2,Perception and Pattern Recognition,1
+ewok_task,ewok_a574d44f_2,Planning,0
+ewok_task,ewok_a574d44f_2,Procedural Memory,0
+ewok_task,ewok_a574d44f_2,Prospective Memory,0
+ewok_task,ewok_a574d44f_2,Semantic Memory,1
+ewok_task,ewok_a574d44f_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_a574d44f_2,Theory of Mind,1
+ewok_task,ewok_a574d44f_2,Working Memory,2
+ewok_task,ewok_a574d44f_2,ambiguity,5
+ewok_task,ewok_a574d44f_2,factuality,5
+ewok_task,ewok_a7e06877_1,Causal Reasoning,1
+ewok_task,ewok_a7e06877_1,Cognitive Flexibility,0
+ewok_task,ewok_a7e06877_1,Emotion Perception and Empathy,0
+ewok_task,ewok_a7e06877_1,Episodic Memory,0
+ewok_task,ewok_a7e06877_1,Functional Perception,1
+ewok_task,ewok_a7e06877_1,Inhibitory Control,0
+ewok_task,ewok_a7e06877_1,Language,1
+ewok_task,ewok_a7e06877_1,Mental Simulation,0
+ewok_task,ewok_a7e06877_1,Metacognition,0
+ewok_task,ewok_a7e06877_1,Object Permanence,0
+ewok_task,ewok_a7e06877_1,Perception and Pattern Recognition,1
+ewok_task,ewok_a7e06877_1,Planning,0
+ewok_task,ewok_a7e06877_1,Procedural Memory,0
+ewok_task,ewok_a7e06877_1,Prospective Memory,0
+ewok_task,ewok_a7e06877_1,Semantic Memory,2
+ewok_task,ewok_a7e06877_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_a7e06877_1,Theory of Mind,1
+ewok_task,ewok_a7e06877_1,Working Memory,1
+ewok_task,ewok_a7e06877_1,ambiguity,5
+ewok_task,ewok_a7e06877_1,factuality,5
+ewok_task,ewok_aa1008a3_1,Causal Reasoning,1
+ewok_task,ewok_aa1008a3_1,Cognitive Flexibility,0
+ewok_task,ewok_aa1008a3_1,Emotion Perception and Empathy,0
+ewok_task,ewok_aa1008a3_1,Episodic Memory,0
+ewok_task,ewok_aa1008a3_1,Functional Perception,1
+ewok_task,ewok_aa1008a3_1,Inhibitory Control,1
+ewok_task,ewok_aa1008a3_1,Language,2
+ewok_task,ewok_aa1008a3_1,Mental Simulation,1
+ewok_task,ewok_aa1008a3_1,Metacognition,1
+ewok_task,ewok_aa1008a3_1,Object Permanence,0
+ewok_task,ewok_aa1008a3_1,Perception and Pattern Recognition,1
+ewok_task,ewok_aa1008a3_1,Planning,0
+ewok_task,ewok_aa1008a3_1,Procedural Memory,0
+ewok_task,ewok_aa1008a3_1,Prospective Memory,0
+ewok_task,ewok_aa1008a3_1,Semantic Memory,1
+ewok_task,ewok_aa1008a3_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_aa1008a3_1,Theory of Mind,2
+ewok_task,ewok_aa1008a3_1,Working Memory,2
+ewok_task,ewok_aa1008a3_1,ambiguity,4
+ewok_task,ewok_aa1008a3_1,factuality,5
+ewok_task,ewok_ab2dfb78_2,Causal Reasoning,1
+ewok_task,ewok_ab2dfb78_2,Cognitive Flexibility,0
+ewok_task,ewok_ab2dfb78_2,Emotion Perception and Empathy,0
+ewok_task,ewok_ab2dfb78_2,Episodic Memory,0
+ewok_task,ewok_ab2dfb78_2,Functional Perception,1
+ewok_task,ewok_ab2dfb78_2,Inhibitory Control,0
+ewok_task,ewok_ab2dfb78_2,Language,1
+ewok_task,ewok_ab2dfb78_2,Mental Simulation,0
+ewok_task,ewok_ab2dfb78_2,Metacognition,0
+ewok_task,ewok_ab2dfb78_2,Object Permanence,0
+ewok_task,ewok_ab2dfb78_2,Perception and Pattern Recognition,1
+ewok_task,ewok_ab2dfb78_2,Planning,0
+ewok_task,ewok_ab2dfb78_2,Procedural Memory,0
+ewok_task,ewok_ab2dfb78_2,Prospective Memory,0
+ewok_task,ewok_ab2dfb78_2,Semantic Memory,1
+ewok_task,ewok_ab2dfb78_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_ab2dfb78_2,Theory of Mind,0
+ewok_task,ewok_ab2dfb78_2,Working Memory,1
+ewok_task,ewok_ab2dfb78_2,ambiguity,5
+ewok_task,ewok_ab2dfb78_2,factuality,5
+ewok_task,ewok_abeec181_2,Causal Reasoning,1
+ewok_task,ewok_abeec181_2,Cognitive Flexibility,0
+ewok_task,ewok_abeec181_2,Emotion Perception and Empathy,0
+ewok_task,ewok_abeec181_2,Episodic Memory,0
+ewok_task,ewok_abeec181_2,Functional Perception,1
+ewok_task,ewok_abeec181_2,Inhibitory Control,1
+ewok_task,ewok_abeec181_2,Language,1
+ewok_task,ewok_abeec181_2,Mental Simulation,1
+ewok_task,ewok_abeec181_2,Metacognition,1
+ewok_task,ewok_abeec181_2,Object Permanence,0
+ewok_task,ewok_abeec181_2,Perception and Pattern Recognition,1
+ewok_task,ewok_abeec181_2,Planning,0
+ewok_task,ewok_abeec181_2,Procedural Memory,0
+ewok_task,ewok_abeec181_2,Prospective Memory,0
+ewok_task,ewok_abeec181_2,Semantic Memory,2
+ewok_task,ewok_abeec181_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_abeec181_2,Theory of Mind,0
+ewok_task,ewok_abeec181_2,Working Memory,0
+ewok_task,ewok_abeec181_2,ambiguity,5
+ewok_task,ewok_abeec181_2,factuality,5
+ewok_task,ewok_ac446c81_2,Causal Reasoning,1
+ewok_task,ewok_ac446c81_2,Cognitive Flexibility,0
+ewok_task,ewok_ac446c81_2,Emotion Perception and Empathy,0
+ewok_task,ewok_ac446c81_2,Episodic Memory,0
+ewok_task,ewok_ac446c81_2,Functional Perception,1
+ewok_task,ewok_ac446c81_2,Inhibitory Control,0
+ewok_task,ewok_ac446c81_2,Language,1
+ewok_task,ewok_ac446c81_2,Mental Simulation,0
+ewok_task,ewok_ac446c81_2,Metacognition,1
+ewok_task,ewok_ac446c81_2,Object Permanence,0
+ewok_task,ewok_ac446c81_2,Perception and Pattern Recognition,1
+ewok_task,ewok_ac446c81_2,Planning,0
+ewok_task,ewok_ac446c81_2,Procedural Memory,0
+ewok_task,ewok_ac446c81_2,Prospective Memory,0
+ewok_task,ewok_ac446c81_2,Semantic Memory,1
+ewok_task,ewok_ac446c81_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_ac446c81_2,Theory of Mind,0
+ewok_task,ewok_ac446c81_2,Working Memory,1
+ewok_task,ewok_ac446c81_2,ambiguity,5
+ewok_task,ewok_ac446c81_2,factuality,5
+ewok_task,ewok_af96f7bb_1,Causal Reasoning,1
+ewok_task,ewok_af96f7bb_1,Cognitive Flexibility,0
+ewok_task,ewok_af96f7bb_1,Emotion Perception and Empathy,0
+ewok_task,ewok_af96f7bb_1,Episodic Memory,0
+ewok_task,ewok_af96f7bb_1,Functional Perception,1
+ewok_task,ewok_af96f7bb_1,Inhibitory Control,1
+ewok_task,ewok_af96f7bb_1,Language,1
+ewok_task,ewok_af96f7bb_1,Mental Simulation,0
+ewok_task,ewok_af96f7bb_1,Metacognition,1
+ewok_task,ewok_af96f7bb_1,Object Permanence,0
+ewok_task,ewok_af96f7bb_1,Perception and Pattern Recognition,1
+ewok_task,ewok_af96f7bb_1,Planning,0
+ewok_task,ewok_af96f7bb_1,Procedural Memory,0
+ewok_task,ewok_af96f7bb_1,Prospective Memory,0
+ewok_task,ewok_af96f7bb_1,Semantic Memory,1
+ewok_task,ewok_af96f7bb_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_af96f7bb_1,Theory of Mind,1
+ewok_task,ewok_af96f7bb_1,Working Memory,1
+ewok_task,ewok_af96f7bb_1,ambiguity,5
+ewok_task,ewok_af96f7bb_1,factuality,5
+ewok_task,ewok_b049bce3_2,Causal Reasoning,1
+ewok_task,ewok_b049bce3_2,Cognitive Flexibility,0
+ewok_task,ewok_b049bce3_2,Emotion Perception and Empathy,0
+ewok_task,ewok_b049bce3_2,Episodic Memory,0
+ewok_task,ewok_b049bce3_2,Functional Perception,1
+ewok_task,ewok_b049bce3_2,Inhibitory Control,0
+ewok_task,ewok_b049bce3_2,Language,1
+ewok_task,ewok_b049bce3_2,Mental Simulation,0
+ewok_task,ewok_b049bce3_2,Metacognition,1
+ewok_task,ewok_b049bce3_2,Object Permanence,0
+ewok_task,ewok_b049bce3_2,Perception and Pattern Recognition,1
+ewok_task,ewok_b049bce3_2,Planning,0
+ewok_task,ewok_b049bce3_2,Procedural Memory,1
+ewok_task,ewok_b049bce3_2,Prospective Memory,0
+ewok_task,ewok_b049bce3_2,Semantic Memory,1
+ewok_task,ewok_b049bce3_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_b049bce3_2,Theory of Mind,1
+ewok_task,ewok_b049bce3_2,Working Memory,1
+ewok_task,ewok_b049bce3_2,ambiguity,5
+ewok_task,ewok_b049bce3_2,factuality,5
+ewok_task,ewok_b12335aa_2,Causal Reasoning,1
+ewok_task,ewok_b12335aa_2,Cognitive Flexibility,0
+ewok_task,ewok_b12335aa_2,Emotion Perception and Empathy,0
+ewok_task,ewok_b12335aa_2,Episodic Memory,0
+ewok_task,ewok_b12335aa_2,Functional Perception,1
+ewok_task,ewok_b12335aa_2,Inhibitory Control,1
+ewok_task,ewok_b12335aa_2,Language,1
+ewok_task,ewok_b12335aa_2,Mental Simulation,0
+ewok_task,ewok_b12335aa_2,Metacognition,1
+ewok_task,ewok_b12335aa_2,Object Permanence,0
+ewok_task,ewok_b12335aa_2,Perception and Pattern Recognition,1
+ewok_task,ewok_b12335aa_2,Planning,0
+ewok_task,ewok_b12335aa_2,Procedural Memory,0
+ewok_task,ewok_b12335aa_2,Prospective Memory,0
+ewok_task,ewok_b12335aa_2,Semantic Memory,2
+ewok_task,ewok_b12335aa_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_b12335aa_2,Theory of Mind,0
+ewok_task,ewok_b12335aa_2,Working Memory,2
+ewok_task,ewok_b12335aa_2,ambiguity,5
+ewok_task,ewok_b12335aa_2,factuality,5
+ewok_task,ewok_b249b712_2,Causal Reasoning,1
+ewok_task,ewok_b249b712_2,Cognitive Flexibility,0
+ewok_task,ewok_b249b712_2,Emotion Perception and Empathy,0
+ewok_task,ewok_b249b712_2,Episodic Memory,0
+ewok_task,ewok_b249b712_2,Functional Perception,1
+ewok_task,ewok_b249b712_2,Inhibitory Control,1
+ewok_task,ewok_b249b712_2,Language,1
+ewok_task,ewok_b249b712_2,Mental Simulation,1
+ewok_task,ewok_b249b712_2,Metacognition,1
+ewok_task,ewok_b249b712_2,Object Permanence,0
+ewok_task,ewok_b249b712_2,Perception and Pattern Recognition,1
+ewok_task,ewok_b249b712_2,Planning,0
+ewok_task,ewok_b249b712_2,Procedural Memory,0
+ewok_task,ewok_b249b712_2,Prospective Memory,0
+ewok_task,ewok_b249b712_2,Semantic Memory,1
+ewok_task,ewok_b249b712_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_b249b712_2,Theory of Mind,0
+ewok_task,ewok_b249b712_2,Working Memory,2
+ewok_task,ewok_b249b712_2,ambiguity,5
+ewok_task,ewok_b249b712_2,factuality,5
+ewok_task,ewok_b304c7e7_2,Causal Reasoning,1
+ewok_task,ewok_b304c7e7_2,Cognitive Flexibility,0
+ewok_task,ewok_b304c7e7_2,Emotion Perception and Empathy,0
+ewok_task,ewok_b304c7e7_2,Episodic Memory,0
+ewok_task,ewok_b304c7e7_2,Functional Perception,1
+ewok_task,ewok_b304c7e7_2,Inhibitory Control,0
+ewok_task,ewok_b304c7e7_2,Language,1
+ewok_task,ewok_b304c7e7_2,Mental Simulation,0
+ewok_task,ewok_b304c7e7_2,Metacognition,1
+ewok_task,ewok_b304c7e7_2,Object Permanence,0
+ewok_task,ewok_b304c7e7_2,Perception and Pattern Recognition,1
+ewok_task,ewok_b304c7e7_2,Planning,0
+ewok_task,ewok_b304c7e7_2,Procedural Memory,0
+ewok_task,ewok_b304c7e7_2,Prospective Memory,0
+ewok_task,ewok_b304c7e7_2,Semantic Memory,1
+ewok_task,ewok_b304c7e7_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_b304c7e7_2,Theory of Mind,0
+ewok_task,ewok_b304c7e7_2,Working Memory,2
+ewok_task,ewok_b304c7e7_2,ambiguity,5
+ewok_task,ewok_b304c7e7_2,factuality,5
+ewok_task,ewok_b4259a4e_1,Causal Reasoning,1
+ewok_task,ewok_b4259a4e_1,Cognitive Flexibility,1
+ewok_task,ewok_b4259a4e_1,Emotion Perception and Empathy,0
+ewok_task,ewok_b4259a4e_1,Episodic Memory,0
+ewok_task,ewok_b4259a4e_1,Functional Perception,1
+ewok_task,ewok_b4259a4e_1,Inhibitory Control,1
+ewok_task,ewok_b4259a4e_1,Language,1
+ewok_task,ewok_b4259a4e_1,Mental Simulation,0
+ewok_task,ewok_b4259a4e_1,Metacognition,1
+ewok_task,ewok_b4259a4e_1,Object Permanence,0
+ewok_task,ewok_b4259a4e_1,Perception and Pattern Recognition,1
+ewok_task,ewok_b4259a4e_1,Planning,0
+ewok_task,ewok_b4259a4e_1,Procedural Memory,0
+ewok_task,ewok_b4259a4e_1,Prospective Memory,0
+ewok_task,ewok_b4259a4e_1,Semantic Memory,2
+ewok_task,ewok_b4259a4e_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_b4259a4e_1,Theory of Mind,0
+ewok_task,ewok_b4259a4e_1,Working Memory,1
+ewok_task,ewok_b4259a4e_1,ambiguity,5
+ewok_task,ewok_b4259a4e_1,factuality,5
+ewok_task,ewok_b44c6b7b_1,Causal Reasoning,1
+ewok_task,ewok_b44c6b7b_1,Cognitive Flexibility,0
+ewok_task,ewok_b44c6b7b_1,Emotion Perception and Empathy,0
+ewok_task,ewok_b44c6b7b_1,Episodic Memory,0
+ewok_task,ewok_b44c6b7b_1,Functional Perception,1
+ewok_task,ewok_b44c6b7b_1,Inhibitory Control,1
+ewok_task,ewok_b44c6b7b_1,Language,1
+ewok_task,ewok_b44c6b7b_1,Mental Simulation,0
+ewok_task,ewok_b44c6b7b_1,Metacognition,0
+ewok_task,ewok_b44c6b7b_1,Object Permanence,0
+ewok_task,ewok_b44c6b7b_1,Perception and Pattern Recognition,1
+ewok_task,ewok_b44c6b7b_1,Planning,0
+ewok_task,ewok_b44c6b7b_1,Procedural Memory,0
+ewok_task,ewok_b44c6b7b_1,Prospective Memory,0
+ewok_task,ewok_b44c6b7b_1,Semantic Memory,1
+ewok_task,ewok_b44c6b7b_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_b44c6b7b_1,Theory of Mind,1
+ewok_task,ewok_b44c6b7b_1,Working Memory,0
+ewok_task,ewok_b44c6b7b_1,ambiguity,5
+ewok_task,ewok_b44c6b7b_1,factuality,5
+ewok_task,ewok_b73dfdcf_2,Causal Reasoning,1
+ewok_task,ewok_b73dfdcf_2,Cognitive Flexibility,0
+ewok_task,ewok_b73dfdcf_2,Emotion Perception and Empathy,0
+ewok_task,ewok_b73dfdcf_2,Episodic Memory,0
+ewok_task,ewok_b73dfdcf_2,Functional Perception,1
+ewok_task,ewok_b73dfdcf_2,Inhibitory Control,1
+ewok_task,ewok_b73dfdcf_2,Language,1
+ewok_task,ewok_b73dfdcf_2,Mental Simulation,0
+ewok_task,ewok_b73dfdcf_2,Metacognition,1
+ewok_task,ewok_b73dfdcf_2,Object Permanence,0
+ewok_task,ewok_b73dfdcf_2,Perception and Pattern Recognition,1
+ewok_task,ewok_b73dfdcf_2,Planning,0
+ewok_task,ewok_b73dfdcf_2,Procedural Memory,0
+ewok_task,ewok_b73dfdcf_2,Prospective Memory,0
+ewok_task,ewok_b73dfdcf_2,Semantic Memory,1
+ewok_task,ewok_b73dfdcf_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_b73dfdcf_2,Theory of Mind,1
+ewok_task,ewok_b73dfdcf_2,Working Memory,2
+ewok_task,ewok_b73dfdcf_2,ambiguity,5
+ewok_task,ewok_b73dfdcf_2,factuality,5
+ewok_task,ewok_b7fccb25_2,Causal Reasoning,1
+ewok_task,ewok_b7fccb25_2,Cognitive Flexibility,0
+ewok_task,ewok_b7fccb25_2,Emotion Perception and Empathy,0
+ewok_task,ewok_b7fccb25_2,Episodic Memory,0
+ewok_task,ewok_b7fccb25_2,Functional Perception,1
+ewok_task,ewok_b7fccb25_2,Inhibitory Control,1
+ewok_task,ewok_b7fccb25_2,Language,1
+ewok_task,ewok_b7fccb25_2,Mental Simulation,1
+ewok_task,ewok_b7fccb25_2,Metacognition,1
+ewok_task,ewok_b7fccb25_2,Object Permanence,0
+ewok_task,ewok_b7fccb25_2,Perception and Pattern Recognition,1
+ewok_task,ewok_b7fccb25_2,Planning,0
+ewok_task,ewok_b7fccb25_2,Procedural Memory,0
+ewok_task,ewok_b7fccb25_2,Prospective Memory,0
+ewok_task,ewok_b7fccb25_2,Semantic Memory,2
+ewok_task,ewok_b7fccb25_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_b7fccb25_2,Theory of Mind,0
+ewok_task,ewok_b7fccb25_2,Working Memory,0
+ewok_task,ewok_b7fccb25_2,ambiguity,5
+ewok_task,ewok_b7fccb25_2,factuality,5
+ewok_task,ewok_b8aa2a44_2,Causal Reasoning,0
+ewok_task,ewok_b8aa2a44_2,Cognitive Flexibility,0
+ewok_task,ewok_b8aa2a44_2,Emotion Perception and Empathy,0
+ewok_task,ewok_b8aa2a44_2,Episodic Memory,0
+ewok_task,ewok_b8aa2a44_2,Functional Perception,1
+ewok_task,ewok_b8aa2a44_2,Inhibitory Control,0
+ewok_task,ewok_b8aa2a44_2,Language,1
+ewok_task,ewok_b8aa2a44_2,Mental Simulation,1
+ewok_task,ewok_b8aa2a44_2,Metacognition,1
+ewok_task,ewok_b8aa2a44_2,Object Permanence,0
+ewok_task,ewok_b8aa2a44_2,Perception and Pattern Recognition,1
+ewok_task,ewok_b8aa2a44_2,Planning,0
+ewok_task,ewok_b8aa2a44_2,Procedural Memory,0
+ewok_task,ewok_b8aa2a44_2,Prospective Memory,0
+ewok_task,ewok_b8aa2a44_2,Semantic Memory,1
+ewok_task,ewok_b8aa2a44_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_b8aa2a44_2,Theory of Mind,0
+ewok_task,ewok_b8aa2a44_2,Working Memory,2
+ewok_task,ewok_b8aa2a44_2,ambiguity,5
+ewok_task,ewok_b8aa2a44_2,factuality,5
+ewok_task,ewok_b9d42e2f_1,Causal Reasoning,1
+ewok_task,ewok_b9d42e2f_1,Cognitive Flexibility,0
+ewok_task,ewok_b9d42e2f_1,Emotion Perception and Empathy,0
+ewok_task,ewok_b9d42e2f_1,Episodic Memory,0
+ewok_task,ewok_b9d42e2f_1,Functional Perception,1
+ewok_task,ewok_b9d42e2f_1,Inhibitory Control,1
+ewok_task,ewok_b9d42e2f_1,Language,1
+ewok_task,ewok_b9d42e2f_1,Mental Simulation,1
+ewok_task,ewok_b9d42e2f_1,Metacognition,1
+ewok_task,ewok_b9d42e2f_1,Object Permanence,0
+ewok_task,ewok_b9d42e2f_1,Perception and Pattern Recognition,1
+ewok_task,ewok_b9d42e2f_1,Planning,0
+ewok_task,ewok_b9d42e2f_1,Procedural Memory,0
+ewok_task,ewok_b9d42e2f_1,Prospective Memory,0
+ewok_task,ewok_b9d42e2f_1,Semantic Memory,1
+ewok_task,ewok_b9d42e2f_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_b9d42e2f_1,Theory of Mind,1
+ewok_task,ewok_b9d42e2f_1,Working Memory,0
+ewok_task,ewok_b9d42e2f_1,ambiguity,5
+ewok_task,ewok_b9d42e2f_1,factuality,5
+ewok_task,ewok_ba1ab9a3_1,Causal Reasoning,1
+ewok_task,ewok_ba1ab9a3_1,Cognitive Flexibility,0
+ewok_task,ewok_ba1ab9a3_1,Emotion Perception and Empathy,0
+ewok_task,ewok_ba1ab9a3_1,Episodic Memory,0
+ewok_task,ewok_ba1ab9a3_1,Functional Perception,1
+ewok_task,ewok_ba1ab9a3_1,Inhibitory Control,1
+ewok_task,ewok_ba1ab9a3_1,Language,1
+ewok_task,ewok_ba1ab9a3_1,Mental Simulation,1
+ewok_task,ewok_ba1ab9a3_1,Metacognition,1
+ewok_task,ewok_ba1ab9a3_1,Object Permanence,0
+ewok_task,ewok_ba1ab9a3_1,Perception and Pattern Recognition,2
+ewok_task,ewok_ba1ab9a3_1,Planning,0
+ewok_task,ewok_ba1ab9a3_1,Procedural Memory,1
+ewok_task,ewok_ba1ab9a3_1,Prospective Memory,0
+ewok_task,ewok_ba1ab9a3_1,Semantic Memory,2
+ewok_task,ewok_ba1ab9a3_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_ba1ab9a3_1,Theory of Mind,1
+ewok_task,ewok_ba1ab9a3_1,Working Memory,2
+ewok_task,ewok_ba1ab9a3_1,ambiguity,5
+ewok_task,ewok_ba1ab9a3_1,factuality,1
+ewok_task,ewok_bae0e268_2,Causal Reasoning,1
+ewok_task,ewok_bae0e268_2,Cognitive Flexibility,0
+ewok_task,ewok_bae0e268_2,Emotion Perception and Empathy,1
+ewok_task,ewok_bae0e268_2,Episodic Memory,0
+ewok_task,ewok_bae0e268_2,Functional Perception,1
+ewok_task,ewok_bae0e268_2,Inhibitory Control,0
+ewok_task,ewok_bae0e268_2,Language,1
+ewok_task,ewok_bae0e268_2,Mental Simulation,1
+ewok_task,ewok_bae0e268_2,Metacognition,0
+ewok_task,ewok_bae0e268_2,Object Permanence,0
+ewok_task,ewok_bae0e268_2,Perception and Pattern Recognition,1
+ewok_task,ewok_bae0e268_2,Planning,0
+ewok_task,ewok_bae0e268_2,Procedural Memory,0
+ewok_task,ewok_bae0e268_2,Prospective Memory,0
+ewok_task,ewok_bae0e268_2,Semantic Memory,1
+ewok_task,ewok_bae0e268_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_bae0e268_2,Theory of Mind,0
+ewok_task,ewok_bae0e268_2,Working Memory,1
+ewok_task,ewok_bae0e268_2,ambiguity,5
+ewok_task,ewok_bae0e268_2,factuality,5
+ewok_task,ewok_bb5ad4e4_1,Causal Reasoning,1
+ewok_task,ewok_bb5ad4e4_1,Cognitive Flexibility,0
+ewok_task,ewok_bb5ad4e4_1,Emotion Perception and Empathy,0
+ewok_task,ewok_bb5ad4e4_1,Episodic Memory,0
+ewok_task,ewok_bb5ad4e4_1,Functional Perception,1
+ewok_task,ewok_bb5ad4e4_1,Inhibitory Control,1
+ewok_task,ewok_bb5ad4e4_1,Language,1
+ewok_task,ewok_bb5ad4e4_1,Mental Simulation,1
+ewok_task,ewok_bb5ad4e4_1,Metacognition,1
+ewok_task,ewok_bb5ad4e4_1,Object Permanence,0
+ewok_task,ewok_bb5ad4e4_1,Perception and Pattern Recognition,1
+ewok_task,ewok_bb5ad4e4_1,Planning,0
+ewok_task,ewok_bb5ad4e4_1,Procedural Memory,0
+ewok_task,ewok_bb5ad4e4_1,Prospective Memory,0
+ewok_task,ewok_bb5ad4e4_1,Semantic Memory,1
+ewok_task,ewok_bb5ad4e4_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_bb5ad4e4_1,Theory of Mind,0
+ewok_task,ewok_bb5ad4e4_1,Working Memory,1
+ewok_task,ewok_bb5ad4e4_1,ambiguity,5
+ewok_task,ewok_bb5ad4e4_1,factuality,5
+ewok_task,ewok_bc76b585_1,Causal Reasoning,1
+ewok_task,ewok_bc76b585_1,Cognitive Flexibility,0
+ewok_task,ewok_bc76b585_1,Emotion Perception and Empathy,0
+ewok_task,ewok_bc76b585_1,Episodic Memory,0
+ewok_task,ewok_bc76b585_1,Functional Perception,1
+ewok_task,ewok_bc76b585_1,Inhibitory Control,1
+ewok_task,ewok_bc76b585_1,Language,1
+ewok_task,ewok_bc76b585_1,Mental Simulation,1
+ewok_task,ewok_bc76b585_1,Metacognition,0
+ewok_task,ewok_bc76b585_1,Object Permanence,0
+ewok_task,ewok_bc76b585_1,Perception and Pattern Recognition,1
+ewok_task,ewok_bc76b585_1,Planning,0
+ewok_task,ewok_bc76b585_1,Procedural Memory,0
+ewok_task,ewok_bc76b585_1,Prospective Memory,0
+ewok_task,ewok_bc76b585_1,Semantic Memory,1
+ewok_task,ewok_bc76b585_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_bc76b585_1,Theory of Mind,1
+ewok_task,ewok_bc76b585_1,Working Memory,2
+ewok_task,ewok_bc76b585_1,ambiguity,5
+ewok_task,ewok_bc76b585_1,factuality,5
+ewok_task,ewok_bc8cf4fb_2,Causal Reasoning,1
+ewok_task,ewok_bc8cf4fb_2,Cognitive Flexibility,0
+ewok_task,ewok_bc8cf4fb_2,Emotion Perception and Empathy,0
+ewok_task,ewok_bc8cf4fb_2,Episodic Memory,0
+ewok_task,ewok_bc8cf4fb_2,Functional Perception,1
+ewok_task,ewok_bc8cf4fb_2,Inhibitory Control,1
+ewok_task,ewok_bc8cf4fb_2,Language,1
+ewok_task,ewok_bc8cf4fb_2,Mental Simulation,0
+ewok_task,ewok_bc8cf4fb_2,Metacognition,1
+ewok_task,ewok_bc8cf4fb_2,Object Permanence,0
+ewok_task,ewok_bc8cf4fb_2,Perception and Pattern Recognition,1
+ewok_task,ewok_bc8cf4fb_2,Planning,0
+ewok_task,ewok_bc8cf4fb_2,Procedural Memory,0
+ewok_task,ewok_bc8cf4fb_2,Prospective Memory,0
+ewok_task,ewok_bc8cf4fb_2,Semantic Memory,1
+ewok_task,ewok_bc8cf4fb_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_bc8cf4fb_2,Theory of Mind,1
+ewok_task,ewok_bc8cf4fb_2,Working Memory,1
+ewok_task,ewok_bc8cf4fb_2,ambiguity,5
+ewok_task,ewok_bc8cf4fb_2,factuality,5
+ewok_task,ewok_bcd4cf29_1,Causal Reasoning,1
+ewok_task,ewok_bcd4cf29_1,Cognitive Flexibility,0
+ewok_task,ewok_bcd4cf29_1,Emotion Perception and Empathy,0
+ewok_task,ewok_bcd4cf29_1,Episodic Memory,0
+ewok_task,ewok_bcd4cf29_1,Functional Perception,1
+ewok_task,ewok_bcd4cf29_1,Inhibitory Control,0
+ewok_task,ewok_bcd4cf29_1,Language,1
+ewok_task,ewok_bcd4cf29_1,Mental Simulation,0
+ewok_task,ewok_bcd4cf29_1,Metacognition,1
+ewok_task,ewok_bcd4cf29_1,Object Permanence,0
+ewok_task,ewok_bcd4cf29_1,Perception and Pattern Recognition,1
+ewok_task,ewok_bcd4cf29_1,Planning,0
+ewok_task,ewok_bcd4cf29_1,Procedural Memory,1
+ewok_task,ewok_bcd4cf29_1,Prospective Memory,0
+ewok_task,ewok_bcd4cf29_1,Semantic Memory,1
+ewok_task,ewok_bcd4cf29_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_bcd4cf29_1,Theory of Mind,0
+ewok_task,ewok_bcd4cf29_1,Working Memory,2
+ewok_task,ewok_bcd4cf29_1,ambiguity,5
+ewok_task,ewok_bcd4cf29_1,factuality,5
+ewok_task,ewok_bcf74228_2,Causal Reasoning,1
+ewok_task,ewok_bcf74228_2,Cognitive Flexibility,0
+ewok_task,ewok_bcf74228_2,Emotion Perception and Empathy,0
+ewok_task,ewok_bcf74228_2,Episodic Memory,0
+ewok_task,ewok_bcf74228_2,Functional Perception,1
+ewok_task,ewok_bcf74228_2,Inhibitory Control,0
+ewok_task,ewok_bcf74228_2,Language,1
+ewok_task,ewok_bcf74228_2,Mental Simulation,1
+ewok_task,ewok_bcf74228_2,Metacognition,2
+ewok_task,ewok_bcf74228_2,Object Permanence,0
+ewok_task,ewok_bcf74228_2,Perception and Pattern Recognition,2
+ewok_task,ewok_bcf74228_2,Planning,0
+ewok_task,ewok_bcf74228_2,Procedural Memory,0
+ewok_task,ewok_bcf74228_2,Prospective Memory,0
+ewok_task,ewok_bcf74228_2,Semantic Memory,2
+ewok_task,ewok_bcf74228_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_bcf74228_2,Theory of Mind,0
+ewok_task,ewok_bcf74228_2,Working Memory,2
+ewok_task,ewok_bcf74228_2,ambiguity,3
+ewok_task,ewok_bcf74228_2,factuality,5
+ewok_task,ewok_bd8266a9_2,Causal Reasoning,0
+ewok_task,ewok_bd8266a9_2,Cognitive Flexibility,0
+ewok_task,ewok_bd8266a9_2,Emotion Perception and Empathy,0
+ewok_task,ewok_bd8266a9_2,Episodic Memory,0
+ewok_task,ewok_bd8266a9_2,Functional Perception,1
+ewok_task,ewok_bd8266a9_2,Inhibitory Control,1
+ewok_task,ewok_bd8266a9_2,Language,1
+ewok_task,ewok_bd8266a9_2,Mental Simulation,1
+ewok_task,ewok_bd8266a9_2,Metacognition,1
+ewok_task,ewok_bd8266a9_2,Object Permanence,0
+ewok_task,ewok_bd8266a9_2,Perception and Pattern Recognition,1
+ewok_task,ewok_bd8266a9_2,Planning,0
+ewok_task,ewok_bd8266a9_2,Procedural Memory,0
+ewok_task,ewok_bd8266a9_2,Prospective Memory,0
+ewok_task,ewok_bd8266a9_2,Semantic Memory,2
+ewok_task,ewok_bd8266a9_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_bd8266a9_2,Theory of Mind,0
+ewok_task,ewok_bd8266a9_2,Working Memory,1
+ewok_task,ewok_bd8266a9_2,ambiguity,3
+ewok_task,ewok_bd8266a9_2,factuality,1
+ewok_task,ewok_bde4f50a_2,Causal Reasoning,1
+ewok_task,ewok_bde4f50a_2,Cognitive Flexibility,0
+ewok_task,ewok_bde4f50a_2,Emotion Perception and Empathy,0
+ewok_task,ewok_bde4f50a_2,Episodic Memory,0
+ewok_task,ewok_bde4f50a_2,Functional Perception,1
+ewok_task,ewok_bde4f50a_2,Inhibitory Control,1
+ewok_task,ewok_bde4f50a_2,Language,1
+ewok_task,ewok_bde4f50a_2,Mental Simulation,1
+ewok_task,ewok_bde4f50a_2,Metacognition,1
+ewok_task,ewok_bde4f50a_2,Object Permanence,0
+ewok_task,ewok_bde4f50a_2,Perception and Pattern Recognition,1
+ewok_task,ewok_bde4f50a_2,Planning,0
+ewok_task,ewok_bde4f50a_2,Procedural Memory,0
+ewok_task,ewok_bde4f50a_2,Prospective Memory,0
+ewok_task,ewok_bde4f50a_2,Semantic Memory,1
+ewok_task,ewok_bde4f50a_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_bde4f50a_2,Theory of Mind,1
+ewok_task,ewok_bde4f50a_2,Working Memory,1
+ewok_task,ewok_bde4f50a_2,ambiguity,5
+ewok_task,ewok_bde4f50a_2,factuality,5
+ewok_task,ewok_be599de4_1,Causal Reasoning,0
+ewok_task,ewok_be599de4_1,Cognitive Flexibility,0
+ewok_task,ewok_be599de4_1,Emotion Perception and Empathy,0
+ewok_task,ewok_be599de4_1,Episodic Memory,0
+ewok_task,ewok_be599de4_1,Functional Perception,0
+ewok_task,ewok_be599de4_1,Inhibitory Control,0
+ewok_task,ewok_be599de4_1,Language,1
+ewok_task,ewok_be599de4_1,Mental Simulation,0
+ewok_task,ewok_be599de4_1,Metacognition,0
+ewok_task,ewok_be599de4_1,Object Permanence,0
+ewok_task,ewok_be599de4_1,Perception and Pattern Recognition,1
+ewok_task,ewok_be599de4_1,Planning,0
+ewok_task,ewok_be599de4_1,Procedural Memory,0
+ewok_task,ewok_be599de4_1,Prospective Memory,0
+ewok_task,ewok_be599de4_1,Semantic Memory,1
+ewok_task,ewok_be599de4_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_be599de4_1,Theory of Mind,0
+ewok_task,ewok_be599de4_1,Working Memory,2
+ewok_task,ewok_be599de4_1,ambiguity,5
+ewok_task,ewok_be599de4_1,factuality,5
+ewok_task,ewok_bfb5ecff_2,Causal Reasoning,1
+ewok_task,ewok_bfb5ecff_2,Cognitive Flexibility,0
+ewok_task,ewok_bfb5ecff_2,Emotion Perception and Empathy,0
+ewok_task,ewok_bfb5ecff_2,Episodic Memory,0
+ewok_task,ewok_bfb5ecff_2,Functional Perception,1
+ewok_task,ewok_bfb5ecff_2,Inhibitory Control,0
+ewok_task,ewok_bfb5ecff_2,Language,2
+ewok_task,ewok_bfb5ecff_2,Mental Simulation,1
+ewok_task,ewok_bfb5ecff_2,Metacognition,1
+ewok_task,ewok_bfb5ecff_2,Object Permanence,0
+ewok_task,ewok_bfb5ecff_2,Perception and Pattern Recognition,2
+ewok_task,ewok_bfb5ecff_2,Planning,0
+ewok_task,ewok_bfb5ecff_2,Procedural Memory,0
+ewok_task,ewok_bfb5ecff_2,Prospective Memory,0
+ewok_task,ewok_bfb5ecff_2,Semantic Memory,1
+ewok_task,ewok_bfb5ecff_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_bfb5ecff_2,Theory of Mind,0
+ewok_task,ewok_bfb5ecff_2,Working Memory,2
+ewok_task,ewok_bfb5ecff_2,ambiguity,4
+ewok_task,ewok_bfb5ecff_2,factuality,5
+ewok_task,ewok_c2935b9b_1,Causal Reasoning,1
+ewok_task,ewok_c2935b9b_1,Cognitive Flexibility,0
+ewok_task,ewok_c2935b9b_1,Emotion Perception and Empathy,0
+ewok_task,ewok_c2935b9b_1,Episodic Memory,0
+ewok_task,ewok_c2935b9b_1,Functional Perception,1
+ewok_task,ewok_c2935b9b_1,Inhibitory Control,0
+ewok_task,ewok_c2935b9b_1,Language,1
+ewok_task,ewok_c2935b9b_1,Mental Simulation,0
+ewok_task,ewok_c2935b9b_1,Metacognition,1
+ewok_task,ewok_c2935b9b_1,Object Permanence,0
+ewok_task,ewok_c2935b9b_1,Perception and Pattern Recognition,1
+ewok_task,ewok_c2935b9b_1,Planning,0
+ewok_task,ewok_c2935b9b_1,Procedural Memory,0
+ewok_task,ewok_c2935b9b_1,Prospective Memory,0
+ewok_task,ewok_c2935b9b_1,Semantic Memory,1
+ewok_task,ewok_c2935b9b_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_c2935b9b_1,Theory of Mind,1
+ewok_task,ewok_c2935b9b_1,Working Memory,1
+ewok_task,ewok_c2935b9b_1,ambiguity,5
+ewok_task,ewok_c2935b9b_1,factuality,5
+ewok_task,ewok_c2a73e78_1,Causal Reasoning,1
+ewok_task,ewok_c2a73e78_1,Cognitive Flexibility,0
+ewok_task,ewok_c2a73e78_1,Emotion Perception and Empathy,0
+ewok_task,ewok_c2a73e78_1,Episodic Memory,0
+ewok_task,ewok_c2a73e78_1,Functional Perception,1
+ewok_task,ewok_c2a73e78_1,Inhibitory Control,1
+ewok_task,ewok_c2a73e78_1,Language,1
+ewok_task,ewok_c2a73e78_1,Mental Simulation,1
+ewok_task,ewok_c2a73e78_1,Metacognition,1
+ewok_task,ewok_c2a73e78_1,Object Permanence,0
+ewok_task,ewok_c2a73e78_1,Perception and Pattern Recognition,1
+ewok_task,ewok_c2a73e78_1,Planning,0
+ewok_task,ewok_c2a73e78_1,Procedural Memory,0
+ewok_task,ewok_c2a73e78_1,Prospective Memory,0
+ewok_task,ewok_c2a73e78_1,Semantic Memory,1
+ewok_task,ewok_c2a73e78_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_c2a73e78_1,Theory of Mind,1
+ewok_task,ewok_c2a73e78_1,Working Memory,1
+ewok_task,ewok_c2a73e78_1,ambiguity,5
+ewok_task,ewok_c2a73e78_1,factuality,5
+ewok_task,ewok_c2e16da1_1,Causal Reasoning,1
+ewok_task,ewok_c2e16da1_1,Cognitive Flexibility,0
+ewok_task,ewok_c2e16da1_1,Emotion Perception and Empathy,0
+ewok_task,ewok_c2e16da1_1,Episodic Memory,0
+ewok_task,ewok_c2e16da1_1,Functional Perception,1
+ewok_task,ewok_c2e16da1_1,Inhibitory Control,1
+ewok_task,ewok_c2e16da1_1,Language,1
+ewok_task,ewok_c2e16da1_1,Mental Simulation,1
+ewok_task,ewok_c2e16da1_1,Metacognition,0
+ewok_task,ewok_c2e16da1_1,Object Permanence,0
+ewok_task,ewok_c2e16da1_1,Perception and Pattern Recognition,1
+ewok_task,ewok_c2e16da1_1,Planning,0
+ewok_task,ewok_c2e16da1_1,Procedural Memory,2
+ewok_task,ewok_c2e16da1_1,Prospective Memory,0
+ewok_task,ewok_c2e16da1_1,Semantic Memory,1
+ewok_task,ewok_c2e16da1_1,Spatial Reasoning and Navigation,2
+ewok_task,ewok_c2e16da1_1,Theory of Mind,0
+ewok_task,ewok_c2e16da1_1,Working Memory,1
+ewok_task,ewok_c2e16da1_1,ambiguity,5
+ewok_task,ewok_c2e16da1_1,factuality,5
+ewok_task,ewok_c4062c3b_1,Causal Reasoning,1
+ewok_task,ewok_c4062c3b_1,Cognitive Flexibility,0
+ewok_task,ewok_c4062c3b_1,Emotion Perception and Empathy,0
+ewok_task,ewok_c4062c3b_1,Episodic Memory,0
+ewok_task,ewok_c4062c3b_1,Functional Perception,1
+ewok_task,ewok_c4062c3b_1,Inhibitory Control,0
+ewok_task,ewok_c4062c3b_1,Language,1
+ewok_task,ewok_c4062c3b_1,Mental Simulation,1
+ewok_task,ewok_c4062c3b_1,Metacognition,1
+ewok_task,ewok_c4062c3b_1,Object Permanence,0
+ewok_task,ewok_c4062c3b_1,Perception and Pattern Recognition,1
+ewok_task,ewok_c4062c3b_1,Planning,0
+ewok_task,ewok_c4062c3b_1,Procedural Memory,0
+ewok_task,ewok_c4062c3b_1,Prospective Memory,0
+ewok_task,ewok_c4062c3b_1,Semantic Memory,1
+ewok_task,ewok_c4062c3b_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_c4062c3b_1,Theory of Mind,3
+ewok_task,ewok_c4062c3b_1,Working Memory,2
+ewok_task,ewok_c4062c3b_1,ambiguity,5
+ewok_task,ewok_c4062c3b_1,factuality,5
+ewok_task,ewok_c47ae80e_1,Causal Reasoning,1
+ewok_task,ewok_c47ae80e_1,Cognitive Flexibility,0
+ewok_task,ewok_c47ae80e_1,Emotion Perception and Empathy,0
+ewok_task,ewok_c47ae80e_1,Episodic Memory,0
+ewok_task,ewok_c47ae80e_1,Functional Perception,1
+ewok_task,ewok_c47ae80e_1,Inhibitory Control,0
+ewok_task,ewok_c47ae80e_1,Language,1
+ewok_task,ewok_c47ae80e_1,Mental Simulation,1
+ewok_task,ewok_c47ae80e_1,Metacognition,0
+ewok_task,ewok_c47ae80e_1,Object Permanence,0
+ewok_task,ewok_c47ae80e_1,Perception and Pattern Recognition,1
+ewok_task,ewok_c47ae80e_1,Planning,0
+ewok_task,ewok_c47ae80e_1,Procedural Memory,0
+ewok_task,ewok_c47ae80e_1,Prospective Memory,0
+ewok_task,ewok_c47ae80e_1,Semantic Memory,1
+ewok_task,ewok_c47ae80e_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_c47ae80e_1,Theory of Mind,0
+ewok_task,ewok_c47ae80e_1,Working Memory,1
+ewok_task,ewok_c47ae80e_1,ambiguity,5
+ewok_task,ewok_c47ae80e_1,factuality,5
+ewok_task,ewok_c5b6f4b7_2,Causal Reasoning,1
+ewok_task,ewok_c5b6f4b7_2,Cognitive Flexibility,0
+ewok_task,ewok_c5b6f4b7_2,Emotion Perception and Empathy,0
+ewok_task,ewok_c5b6f4b7_2,Episodic Memory,0
+ewok_task,ewok_c5b6f4b7_2,Functional Perception,1
+ewok_task,ewok_c5b6f4b7_2,Inhibitory Control,0
+ewok_task,ewok_c5b6f4b7_2,Language,1
+ewok_task,ewok_c5b6f4b7_2,Mental Simulation,0
+ewok_task,ewok_c5b6f4b7_2,Metacognition,1
+ewok_task,ewok_c5b6f4b7_2,Object Permanence,0
+ewok_task,ewok_c5b6f4b7_2,Perception and Pattern Recognition,1
+ewok_task,ewok_c5b6f4b7_2,Planning,0
+ewok_task,ewok_c5b6f4b7_2,Procedural Memory,0
+ewok_task,ewok_c5b6f4b7_2,Prospective Memory,0
+ewok_task,ewok_c5b6f4b7_2,Semantic Memory,1
+ewok_task,ewok_c5b6f4b7_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_c5b6f4b7_2,Theory of Mind,0
+ewok_task,ewok_c5b6f4b7_2,Working Memory,2
+ewok_task,ewok_c5b6f4b7_2,ambiguity,5
+ewok_task,ewok_c5b6f4b7_2,factuality,5
+ewok_task,ewok_c7c63794_1,Causal Reasoning,1
+ewok_task,ewok_c7c63794_1,Cognitive Flexibility,0
+ewok_task,ewok_c7c63794_1,Emotion Perception and Empathy,1
+ewok_task,ewok_c7c63794_1,Episodic Memory,0
+ewok_task,ewok_c7c63794_1,Functional Perception,1
+ewok_task,ewok_c7c63794_1,Inhibitory Control,1
+ewok_task,ewok_c7c63794_1,Language,1
+ewok_task,ewok_c7c63794_1,Mental Simulation,1
+ewok_task,ewok_c7c63794_1,Metacognition,1
+ewok_task,ewok_c7c63794_1,Object Permanence,0
+ewok_task,ewok_c7c63794_1,Perception and Pattern Recognition,1
+ewok_task,ewok_c7c63794_1,Planning,0
+ewok_task,ewok_c7c63794_1,Procedural Memory,0
+ewok_task,ewok_c7c63794_1,Prospective Memory,0
+ewok_task,ewok_c7c63794_1,Semantic Memory,1
+ewok_task,ewok_c7c63794_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_c7c63794_1,Theory of Mind,2
+ewok_task,ewok_c7c63794_1,Working Memory,2
+ewok_task,ewok_c7c63794_1,ambiguity,5
+ewok_task,ewok_c7c63794_1,factuality,5
+ewok_task,ewok_c9977552_2,Causal Reasoning,1
+ewok_task,ewok_c9977552_2,Cognitive Flexibility,1
+ewok_task,ewok_c9977552_2,Emotion Perception and Empathy,0
+ewok_task,ewok_c9977552_2,Episodic Memory,0
+ewok_task,ewok_c9977552_2,Functional Perception,1
+ewok_task,ewok_c9977552_2,Inhibitory Control,0
+ewok_task,ewok_c9977552_2,Language,1
+ewok_task,ewok_c9977552_2,Mental Simulation,1
+ewok_task,ewok_c9977552_2,Metacognition,1
+ewok_task,ewok_c9977552_2,Object Permanence,0
+ewok_task,ewok_c9977552_2,Perception and Pattern Recognition,1
+ewok_task,ewok_c9977552_2,Planning,0
+ewok_task,ewok_c9977552_2,Procedural Memory,0
+ewok_task,ewok_c9977552_2,Prospective Memory,0
+ewok_task,ewok_c9977552_2,Semantic Memory,1
+ewok_task,ewok_c9977552_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_c9977552_2,Theory of Mind,0
+ewok_task,ewok_c9977552_2,Working Memory,1
+ewok_task,ewok_c9977552_2,ambiguity,5
+ewok_task,ewok_c9977552_2,factuality,5
+ewok_task,ewok_cb86c813_1,Causal Reasoning,1
+ewok_task,ewok_cb86c813_1,Cognitive Flexibility,0
+ewok_task,ewok_cb86c813_1,Emotion Perception and Empathy,0
+ewok_task,ewok_cb86c813_1,Episodic Memory,0
+ewok_task,ewok_cb86c813_1,Functional Perception,1
+ewok_task,ewok_cb86c813_1,Inhibitory Control,1
+ewok_task,ewok_cb86c813_1,Language,1
+ewok_task,ewok_cb86c813_1,Mental Simulation,0
+ewok_task,ewok_cb86c813_1,Metacognition,1
+ewok_task,ewok_cb86c813_1,Object Permanence,0
+ewok_task,ewok_cb86c813_1,Perception and Pattern Recognition,1
+ewok_task,ewok_cb86c813_1,Planning,0
+ewok_task,ewok_cb86c813_1,Procedural Memory,0
+ewok_task,ewok_cb86c813_1,Prospective Memory,0
+ewok_task,ewok_cb86c813_1,Semantic Memory,2
+ewok_task,ewok_cb86c813_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_cb86c813_1,Theory of Mind,0
+ewok_task,ewok_cb86c813_1,Working Memory,0
+ewok_task,ewok_cb86c813_1,ambiguity,5
+ewok_task,ewok_cb86c813_1,factuality,5
+ewok_task,ewok_cd06d10b_1,Causal Reasoning,0
+ewok_task,ewok_cd06d10b_1,Cognitive Flexibility,0
+ewok_task,ewok_cd06d10b_1,Emotion Perception and Empathy,0
+ewok_task,ewok_cd06d10b_1,Episodic Memory,0
+ewok_task,ewok_cd06d10b_1,Functional Perception,1
+ewok_task,ewok_cd06d10b_1,Inhibitory Control,0
+ewok_task,ewok_cd06d10b_1,Language,1
+ewok_task,ewok_cd06d10b_1,Mental Simulation,0
+ewok_task,ewok_cd06d10b_1,Metacognition,0
+ewok_task,ewok_cd06d10b_1,Object Permanence,0
+ewok_task,ewok_cd06d10b_1,Perception and Pattern Recognition,1
+ewok_task,ewok_cd06d10b_1,Planning,0
+ewok_task,ewok_cd06d10b_1,Procedural Memory,0
+ewok_task,ewok_cd06d10b_1,Prospective Memory,0
+ewok_task,ewok_cd06d10b_1,Semantic Memory,1
+ewok_task,ewok_cd06d10b_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_cd06d10b_1,Theory of Mind,0
+ewok_task,ewok_cd06d10b_1,Working Memory,1
+ewok_task,ewok_cd06d10b_1,ambiguity,5
+ewok_task,ewok_cd06d10b_1,factuality,5
+ewok_task,ewok_cdc6b6c3_1,Causal Reasoning,1
+ewok_task,ewok_cdc6b6c3_1,Cognitive Flexibility,0
+ewok_task,ewok_cdc6b6c3_1,Emotion Perception and Empathy,0
+ewok_task,ewok_cdc6b6c3_1,Episodic Memory,0
+ewok_task,ewok_cdc6b6c3_1,Functional Perception,1
+ewok_task,ewok_cdc6b6c3_1,Inhibitory Control,2
+ewok_task,ewok_cdc6b6c3_1,Language,1
+ewok_task,ewok_cdc6b6c3_1,Mental Simulation,1
+ewok_task,ewok_cdc6b6c3_1,Metacognition,1
+ewok_task,ewok_cdc6b6c3_1,Object Permanence,0
+ewok_task,ewok_cdc6b6c3_1,Perception and Pattern Recognition,1
+ewok_task,ewok_cdc6b6c3_1,Planning,0
+ewok_task,ewok_cdc6b6c3_1,Procedural Memory,0
+ewok_task,ewok_cdc6b6c3_1,Prospective Memory,0
+ewok_task,ewok_cdc6b6c3_1,Semantic Memory,1
+ewok_task,ewok_cdc6b6c3_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_cdc6b6c3_1,Theory of Mind,0
+ewok_task,ewok_cdc6b6c3_1,Working Memory,2
+ewok_task,ewok_cdc6b6c3_1,ambiguity,5
+ewok_task,ewok_cdc6b6c3_1,factuality,5
+ewok_task,ewok_ce7be38a_2,Causal Reasoning,1
+ewok_task,ewok_ce7be38a_2,Cognitive Flexibility,0
+ewok_task,ewok_ce7be38a_2,Emotion Perception and Empathy,0
+ewok_task,ewok_ce7be38a_2,Episodic Memory,0
+ewok_task,ewok_ce7be38a_2,Functional Perception,1
+ewok_task,ewok_ce7be38a_2,Inhibitory Control,1
+ewok_task,ewok_ce7be38a_2,Language,1
+ewok_task,ewok_ce7be38a_2,Mental Simulation,0
+ewok_task,ewok_ce7be38a_2,Metacognition,1
+ewok_task,ewok_ce7be38a_2,Object Permanence,0
+ewok_task,ewok_ce7be38a_2,Perception and Pattern Recognition,1
+ewok_task,ewok_ce7be38a_2,Planning,0
+ewok_task,ewok_ce7be38a_2,Procedural Memory,0
+ewok_task,ewok_ce7be38a_2,Prospective Memory,0
+ewok_task,ewok_ce7be38a_2,Semantic Memory,1
+ewok_task,ewok_ce7be38a_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_ce7be38a_2,Theory of Mind,1
+ewok_task,ewok_ce7be38a_2,Working Memory,2
+ewok_task,ewok_ce7be38a_2,ambiguity,5
+ewok_task,ewok_ce7be38a_2,factuality,5
+ewok_task,ewok_d238ce55_1,Causal Reasoning,1
+ewok_task,ewok_d238ce55_1,Cognitive Flexibility,0
+ewok_task,ewok_d238ce55_1,Emotion Perception and Empathy,0
+ewok_task,ewok_d238ce55_1,Episodic Memory,0
+ewok_task,ewok_d238ce55_1,Functional Perception,1
+ewok_task,ewok_d238ce55_1,Inhibitory Control,1
+ewok_task,ewok_d238ce55_1,Language,2
+ewok_task,ewok_d238ce55_1,Mental Simulation,0
+ewok_task,ewok_d238ce55_1,Metacognition,0
+ewok_task,ewok_d238ce55_1,Object Permanence,0
+ewok_task,ewok_d238ce55_1,Perception and Pattern Recognition,2
+ewok_task,ewok_d238ce55_1,Planning,0
+ewok_task,ewok_d238ce55_1,Procedural Memory,0
+ewok_task,ewok_d238ce55_1,Prospective Memory,0
+ewok_task,ewok_d238ce55_1,Semantic Memory,1
+ewok_task,ewok_d238ce55_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_d238ce55_1,Theory of Mind,1
+ewok_task,ewok_d238ce55_1,Working Memory,1
+ewok_task,ewok_d238ce55_1,ambiguity,3
+ewok_task,ewok_d238ce55_1,factuality,5
+ewok_task,ewok_d30aefc5_1,Causal Reasoning,1
+ewok_task,ewok_d30aefc5_1,Cognitive Flexibility,1
+ewok_task,ewok_d30aefc5_1,Emotion Perception and Empathy,1
+ewok_task,ewok_d30aefc5_1,Episodic Memory,0
+ewok_task,ewok_d30aefc5_1,Functional Perception,1
+ewok_task,ewok_d30aefc5_1,Inhibitory Control,1
+ewok_task,ewok_d30aefc5_1,Language,2
+ewok_task,ewok_d30aefc5_1,Mental Simulation,0
+ewok_task,ewok_d30aefc5_1,Metacognition,0
+ewok_task,ewok_d30aefc5_1,Object Permanence,0
+ewok_task,ewok_d30aefc5_1,Perception and Pattern Recognition,1
+ewok_task,ewok_d30aefc5_1,Planning,0
+ewok_task,ewok_d30aefc5_1,Procedural Memory,0
+ewok_task,ewok_d30aefc5_1,Prospective Memory,0
+ewok_task,ewok_d30aefc5_1,Semantic Memory,2
+ewok_task,ewok_d30aefc5_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_d30aefc5_1,Theory of Mind,1
+ewok_task,ewok_d30aefc5_1,Working Memory,1
+ewok_task,ewok_d30aefc5_1,ambiguity,5
+ewok_task,ewok_d30aefc5_1,factuality,5
+ewok_task,ewok_d3c652b1_1,Causal Reasoning,1
+ewok_task,ewok_d3c652b1_1,Cognitive Flexibility,0
+ewok_task,ewok_d3c652b1_1,Emotion Perception and Empathy,0
+ewok_task,ewok_d3c652b1_1,Episodic Memory,0
+ewok_task,ewok_d3c652b1_1,Functional Perception,1
+ewok_task,ewok_d3c652b1_1,Inhibitory Control,1
+ewok_task,ewok_d3c652b1_1,Language,1
+ewok_task,ewok_d3c652b1_1,Mental Simulation,1
+ewok_task,ewok_d3c652b1_1,Metacognition,1
+ewok_task,ewok_d3c652b1_1,Object Permanence,0
+ewok_task,ewok_d3c652b1_1,Perception and Pattern Recognition,1
+ewok_task,ewok_d3c652b1_1,Planning,0
+ewok_task,ewok_d3c652b1_1,Procedural Memory,0
+ewok_task,ewok_d3c652b1_1,Prospective Memory,0
+ewok_task,ewok_d3c652b1_1,Semantic Memory,1
+ewok_task,ewok_d3c652b1_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_d3c652b1_1,Theory of Mind,1
+ewok_task,ewok_d3c652b1_1,Working Memory,1
+ewok_task,ewok_d3c652b1_1,ambiguity,5
+ewok_task,ewok_d3c652b1_1,factuality,5
+ewok_task,ewok_d63c36bf_2,Causal Reasoning,1
+ewok_task,ewok_d63c36bf_2,Cognitive Flexibility,0
+ewok_task,ewok_d63c36bf_2,Emotion Perception and Empathy,0
+ewok_task,ewok_d63c36bf_2,Episodic Memory,0
+ewok_task,ewok_d63c36bf_2,Functional Perception,2
+ewok_task,ewok_d63c36bf_2,Inhibitory Control,1
+ewok_task,ewok_d63c36bf_2,Language,1
+ewok_task,ewok_d63c36bf_2,Mental Simulation,1
+ewok_task,ewok_d63c36bf_2,Metacognition,1
+ewok_task,ewok_d63c36bf_2,Object Permanence,0
+ewok_task,ewok_d63c36bf_2,Perception and Pattern Recognition,1
+ewok_task,ewok_d63c36bf_2,Planning,0
+ewok_task,ewok_d63c36bf_2,Procedural Memory,0
+ewok_task,ewok_d63c36bf_2,Prospective Memory,0
+ewok_task,ewok_d63c36bf_2,Semantic Memory,1
+ewok_task,ewok_d63c36bf_2,Spatial Reasoning and Navigation,2
+ewok_task,ewok_d63c36bf_2,Theory of Mind,0
+ewok_task,ewok_d63c36bf_2,Working Memory,3
+ewok_task,ewok_d63c36bf_2,ambiguity,5
+ewok_task,ewok_d63c36bf_2,factuality,5
+ewok_task,ewok_d68e2e12_2,Causal Reasoning,0
+ewok_task,ewok_d68e2e12_2,Cognitive Flexibility,0
+ewok_task,ewok_d68e2e12_2,Emotion Perception and Empathy,0
+ewok_task,ewok_d68e2e12_2,Episodic Memory,0
+ewok_task,ewok_d68e2e12_2,Functional Perception,1
+ewok_task,ewok_d68e2e12_2,Inhibitory Control,1
+ewok_task,ewok_d68e2e12_2,Language,1
+ewok_task,ewok_d68e2e12_2,Mental Simulation,0
+ewok_task,ewok_d68e2e12_2,Metacognition,1
+ewok_task,ewok_d68e2e12_2,Object Permanence,0
+ewok_task,ewok_d68e2e12_2,Perception and Pattern Recognition,1
+ewok_task,ewok_d68e2e12_2,Planning,0
+ewok_task,ewok_d68e2e12_2,Procedural Memory,0
+ewok_task,ewok_d68e2e12_2,Prospective Memory,0
+ewok_task,ewok_d68e2e12_2,Semantic Memory,1
+ewok_task,ewok_d68e2e12_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_d68e2e12_2,Theory of Mind,0
+ewok_task,ewok_d68e2e12_2,Working Memory,2
+ewok_task,ewok_d68e2e12_2,ambiguity,5
+ewok_task,ewok_d68e2e12_2,factuality,5
+ewok_task,ewok_d6b3ef71_2,Causal Reasoning,1
+ewok_task,ewok_d6b3ef71_2,Cognitive Flexibility,0
+ewok_task,ewok_d6b3ef71_2,Emotion Perception and Empathy,0
+ewok_task,ewok_d6b3ef71_2,Episodic Memory,0
+ewok_task,ewok_d6b3ef71_2,Functional Perception,1
+ewok_task,ewok_d6b3ef71_2,Inhibitory Control,1
+ewok_task,ewok_d6b3ef71_2,Language,1
+ewok_task,ewok_d6b3ef71_2,Mental Simulation,1
+ewok_task,ewok_d6b3ef71_2,Metacognition,0
+ewok_task,ewok_d6b3ef71_2,Object Permanence,0
+ewok_task,ewok_d6b3ef71_2,Perception and Pattern Recognition,1
+ewok_task,ewok_d6b3ef71_2,Planning,0
+ewok_task,ewok_d6b3ef71_2,Procedural Memory,0
+ewok_task,ewok_d6b3ef71_2,Prospective Memory,0
+ewok_task,ewok_d6b3ef71_2,Semantic Memory,1
+ewok_task,ewok_d6b3ef71_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_d6b3ef71_2,Theory of Mind,0
+ewok_task,ewok_d6b3ef71_2,Working Memory,1
+ewok_task,ewok_d6b3ef71_2,ambiguity,5
+ewok_task,ewok_d6b3ef71_2,factuality,5
+ewok_task,ewok_d94ed5e7_1,Causal Reasoning,1
+ewok_task,ewok_d94ed5e7_1,Cognitive Flexibility,0
+ewok_task,ewok_d94ed5e7_1,Emotion Perception and Empathy,0
+ewok_task,ewok_d94ed5e7_1,Episodic Memory,0
+ewok_task,ewok_d94ed5e7_1,Functional Perception,1
+ewok_task,ewok_d94ed5e7_1,Inhibitory Control,0
+ewok_task,ewok_d94ed5e7_1,Language,1
+ewok_task,ewok_d94ed5e7_1,Mental Simulation,0
+ewok_task,ewok_d94ed5e7_1,Metacognition,1
+ewok_task,ewok_d94ed5e7_1,Object Permanence,0
+ewok_task,ewok_d94ed5e7_1,Perception and Pattern Recognition,2
+ewok_task,ewok_d94ed5e7_1,Planning,0
+ewok_task,ewok_d94ed5e7_1,Procedural Memory,0
+ewok_task,ewok_d94ed5e7_1,Prospective Memory,0
+ewok_task,ewok_d94ed5e7_1,Semantic Memory,1
+ewok_task,ewok_d94ed5e7_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_d94ed5e7_1,Theory of Mind,0
+ewok_task,ewok_d94ed5e7_1,Working Memory,1
+ewok_task,ewok_d94ed5e7_1,ambiguity,3
+ewok_task,ewok_d94ed5e7_1,factuality,5
+ewok_task,ewok_db5d1382_1,Causal Reasoning,1
+ewok_task,ewok_db5d1382_1,Cognitive Flexibility,0
+ewok_task,ewok_db5d1382_1,Emotion Perception and Empathy,0
+ewok_task,ewok_db5d1382_1,Episodic Memory,0
+ewok_task,ewok_db5d1382_1,Functional Perception,1
+ewok_task,ewok_db5d1382_1,Inhibitory Control,1
+ewok_task,ewok_db5d1382_1,Language,1
+ewok_task,ewok_db5d1382_1,Mental Simulation,0
+ewok_task,ewok_db5d1382_1,Metacognition,0
+ewok_task,ewok_db5d1382_1,Object Permanence,0
+ewok_task,ewok_db5d1382_1,Perception and Pattern Recognition,1
+ewok_task,ewok_db5d1382_1,Planning,0
+ewok_task,ewok_db5d1382_1,Procedural Memory,0
+ewok_task,ewok_db5d1382_1,Prospective Memory,0
+ewok_task,ewok_db5d1382_1,Semantic Memory,2
+ewok_task,ewok_db5d1382_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_db5d1382_1,Theory of Mind,0
+ewok_task,ewok_db5d1382_1,Working Memory,1
+ewok_task,ewok_db5d1382_1,ambiguity,5
+ewok_task,ewok_db5d1382_1,factuality,5
+ewok_task,ewok_db9a2c37_1,Causal Reasoning,1
+ewok_task,ewok_db9a2c37_1,Cognitive Flexibility,0
+ewok_task,ewok_db9a2c37_1,Emotion Perception and Empathy,0
+ewok_task,ewok_db9a2c37_1,Episodic Memory,0
+ewok_task,ewok_db9a2c37_1,Functional Perception,1
+ewok_task,ewok_db9a2c37_1,Inhibitory Control,1
+ewok_task,ewok_db9a2c37_1,Language,1
+ewok_task,ewok_db9a2c37_1,Mental Simulation,1
+ewok_task,ewok_db9a2c37_1,Metacognition,0
+ewok_task,ewok_db9a2c37_1,Object Permanence,0
+ewok_task,ewok_db9a2c37_1,Perception and Pattern Recognition,1
+ewok_task,ewok_db9a2c37_1,Planning,0
+ewok_task,ewok_db9a2c37_1,Procedural Memory,0
+ewok_task,ewok_db9a2c37_1,Prospective Memory,0
+ewok_task,ewok_db9a2c37_1,Semantic Memory,1
+ewok_task,ewok_db9a2c37_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_db9a2c37_1,Theory of Mind,1
+ewok_task,ewok_db9a2c37_1,Working Memory,1
+ewok_task,ewok_db9a2c37_1,ambiguity,5
+ewok_task,ewok_db9a2c37_1,factuality,5
+ewok_task,ewok_dd8c4949_2,Causal Reasoning,1
+ewok_task,ewok_dd8c4949_2,Cognitive Flexibility,0
+ewok_task,ewok_dd8c4949_2,Emotion Perception and Empathy,0
+ewok_task,ewok_dd8c4949_2,Episodic Memory,0
+ewok_task,ewok_dd8c4949_2,Functional Perception,1
+ewok_task,ewok_dd8c4949_2,Inhibitory Control,1
+ewok_task,ewok_dd8c4949_2,Language,2
+ewok_task,ewok_dd8c4949_2,Mental Simulation,1
+ewok_task,ewok_dd8c4949_2,Metacognition,1
+ewok_task,ewok_dd8c4949_2,Object Permanence,0
+ewok_task,ewok_dd8c4949_2,Perception and Pattern Recognition,1
+ewok_task,ewok_dd8c4949_2,Planning,0
+ewok_task,ewok_dd8c4949_2,Procedural Memory,0
+ewok_task,ewok_dd8c4949_2,Prospective Memory,0
+ewok_task,ewok_dd8c4949_2,Semantic Memory,1
+ewok_task,ewok_dd8c4949_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_dd8c4949_2,Theory of Mind,0
+ewok_task,ewok_dd8c4949_2,Working Memory,2
+ewok_task,ewok_dd8c4949_2,ambiguity,5
+ewok_task,ewok_dd8c4949_2,factuality,5
+ewok_task,ewok_ddbe5aa0_1,Causal Reasoning,1
+ewok_task,ewok_ddbe5aa0_1,Cognitive Flexibility,0
+ewok_task,ewok_ddbe5aa0_1,Emotion Perception and Empathy,1
+ewok_task,ewok_ddbe5aa0_1,Episodic Memory,0
+ewok_task,ewok_ddbe5aa0_1,Functional Perception,1
+ewok_task,ewok_ddbe5aa0_1,Inhibitory Control,1
+ewok_task,ewok_ddbe5aa0_1,Language,1
+ewok_task,ewok_ddbe5aa0_1,Mental Simulation,0
+ewok_task,ewok_ddbe5aa0_1,Metacognition,1
+ewok_task,ewok_ddbe5aa0_1,Object Permanence,0
+ewok_task,ewok_ddbe5aa0_1,Perception and Pattern Recognition,1
+ewok_task,ewok_ddbe5aa0_1,Planning,0
+ewok_task,ewok_ddbe5aa0_1,Procedural Memory,0
+ewok_task,ewok_ddbe5aa0_1,Prospective Memory,0
+ewok_task,ewok_ddbe5aa0_1,Semantic Memory,1
+ewok_task,ewok_ddbe5aa0_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_ddbe5aa0_1,Theory of Mind,2
+ewok_task,ewok_ddbe5aa0_1,Working Memory,1
+ewok_task,ewok_ddbe5aa0_1,ambiguity,5
+ewok_task,ewok_ddbe5aa0_1,factuality,5
+ewok_task,ewok_dfb3a5ea_2,Causal Reasoning,1
+ewok_task,ewok_dfb3a5ea_2,Cognitive Flexibility,0
+ewok_task,ewok_dfb3a5ea_2,Emotion Perception and Empathy,0
+ewok_task,ewok_dfb3a5ea_2,Episodic Memory,0
+ewok_task,ewok_dfb3a5ea_2,Functional Perception,1
+ewok_task,ewok_dfb3a5ea_2,Inhibitory Control,1
+ewok_task,ewok_dfb3a5ea_2,Language,1
+ewok_task,ewok_dfb3a5ea_2,Mental Simulation,1
+ewok_task,ewok_dfb3a5ea_2,Metacognition,1
+ewok_task,ewok_dfb3a5ea_2,Object Permanence,1
+ewok_task,ewok_dfb3a5ea_2,Perception and Pattern Recognition,1
+ewok_task,ewok_dfb3a5ea_2,Planning,0
+ewok_task,ewok_dfb3a5ea_2,Procedural Memory,0
+ewok_task,ewok_dfb3a5ea_2,Prospective Memory,0
+ewok_task,ewok_dfb3a5ea_2,Semantic Memory,1
+ewok_task,ewok_dfb3a5ea_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_dfb3a5ea_2,Theory of Mind,0
+ewok_task,ewok_dfb3a5ea_2,Working Memory,2
+ewok_task,ewok_dfb3a5ea_2,ambiguity,5
+ewok_task,ewok_dfb3a5ea_2,factuality,5
+ewok_task,ewok_e1e7ec7a_2,Causal Reasoning,1
+ewok_task,ewok_e1e7ec7a_2,Cognitive Flexibility,0
+ewok_task,ewok_e1e7ec7a_2,Emotion Perception and Empathy,0
+ewok_task,ewok_e1e7ec7a_2,Episodic Memory,1
+ewok_task,ewok_e1e7ec7a_2,Functional Perception,2
+ewok_task,ewok_e1e7ec7a_2,Inhibitory Control,0
+ewok_task,ewok_e1e7ec7a_2,Language,1
+ewok_task,ewok_e1e7ec7a_2,Mental Simulation,1
+ewok_task,ewok_e1e7ec7a_2,Metacognition,0
+ewok_task,ewok_e1e7ec7a_2,Object Permanence,1
+ewok_task,ewok_e1e7ec7a_2,Perception and Pattern Recognition,1
+ewok_task,ewok_e1e7ec7a_2,Planning,0
+ewok_task,ewok_e1e7ec7a_2,Procedural Memory,0
+ewok_task,ewok_e1e7ec7a_2,Prospective Memory,0
+ewok_task,ewok_e1e7ec7a_2,Semantic Memory,1
+ewok_task,ewok_e1e7ec7a_2,Spatial Reasoning and Navigation,2
+ewok_task,ewok_e1e7ec7a_2,Theory of Mind,0
+ewok_task,ewok_e1e7ec7a_2,Working Memory,2
+ewok_task,ewok_e1e7ec7a_2,ambiguity,5
+ewok_task,ewok_e1e7ec7a_2,factuality,5
+ewok_task,ewok_e2292452_1,Causal Reasoning,1
+ewok_task,ewok_e2292452_1,Cognitive Flexibility,0
+ewok_task,ewok_e2292452_1,Emotion Perception and Empathy,0
+ewok_task,ewok_e2292452_1,Episodic Memory,0
+ewok_task,ewok_e2292452_1,Functional Perception,1
+ewok_task,ewok_e2292452_1,Inhibitory Control,1
+ewok_task,ewok_e2292452_1,Language,1
+ewok_task,ewok_e2292452_1,Mental Simulation,1
+ewok_task,ewok_e2292452_1,Metacognition,1
+ewok_task,ewok_e2292452_1,Object Permanence,0
+ewok_task,ewok_e2292452_1,Perception and Pattern Recognition,1
+ewok_task,ewok_e2292452_1,Planning,0
+ewok_task,ewok_e2292452_1,Procedural Memory,0
+ewok_task,ewok_e2292452_1,Prospective Memory,0
+ewok_task,ewok_e2292452_1,Semantic Memory,2
+ewok_task,ewok_e2292452_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_e2292452_1,Theory of Mind,0
+ewok_task,ewok_e2292452_1,Working Memory,2
+ewok_task,ewok_e2292452_1,ambiguity,5
+ewok_task,ewok_e2292452_1,factuality,1
+ewok_task,ewok_e231ae03_1,Causal Reasoning,1
+ewok_task,ewok_e231ae03_1,Cognitive Flexibility,0
+ewok_task,ewok_e231ae03_1,Emotion Perception and Empathy,0
+ewok_task,ewok_e231ae03_1,Episodic Memory,0
+ewok_task,ewok_e231ae03_1,Functional Perception,1
+ewok_task,ewok_e231ae03_1,Inhibitory Control,1
+ewok_task,ewok_e231ae03_1,Language,1
+ewok_task,ewok_e231ae03_1,Mental Simulation,1
+ewok_task,ewok_e231ae03_1,Metacognition,1
+ewok_task,ewok_e231ae03_1,Object Permanence,0
+ewok_task,ewok_e231ae03_1,Perception and Pattern Recognition,2
+ewok_task,ewok_e231ae03_1,Planning,0
+ewok_task,ewok_e231ae03_1,Procedural Memory,0
+ewok_task,ewok_e231ae03_1,Prospective Memory,0
+ewok_task,ewok_e231ae03_1,Semantic Memory,1
+ewok_task,ewok_e231ae03_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_e231ae03_1,Theory of Mind,1
+ewok_task,ewok_e231ae03_1,Working Memory,1
+ewok_task,ewok_e231ae03_1,ambiguity,5
+ewok_task,ewok_e231ae03_1,factuality,5
+ewok_task,ewok_e49a0672_2,Causal Reasoning,1
+ewok_task,ewok_e49a0672_2,Cognitive Flexibility,0
+ewok_task,ewok_e49a0672_2,Emotion Perception and Empathy,0
+ewok_task,ewok_e49a0672_2,Episodic Memory,0
+ewok_task,ewok_e49a0672_2,Functional Perception,1
+ewok_task,ewok_e49a0672_2,Inhibitory Control,1
+ewok_task,ewok_e49a0672_2,Language,1
+ewok_task,ewok_e49a0672_2,Mental Simulation,1
+ewok_task,ewok_e49a0672_2,Metacognition,1
+ewok_task,ewok_e49a0672_2,Object Permanence,0
+ewok_task,ewok_e49a0672_2,Perception and Pattern Recognition,1
+ewok_task,ewok_e49a0672_2,Planning,0
+ewok_task,ewok_e49a0672_2,Procedural Memory,0
+ewok_task,ewok_e49a0672_2,Prospective Memory,0
+ewok_task,ewok_e49a0672_2,Semantic Memory,2
+ewok_task,ewok_e49a0672_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_e49a0672_2,Theory of Mind,0
+ewok_task,ewok_e49a0672_2,Working Memory,1
+ewok_task,ewok_e49a0672_2,ambiguity,5
+ewok_task,ewok_e49a0672_2,factuality,5
+ewok_task,ewok_e5a9ac23_2,Causal Reasoning,1
+ewok_task,ewok_e5a9ac23_2,Cognitive Flexibility,0
+ewok_task,ewok_e5a9ac23_2,Emotion Perception and Empathy,0
+ewok_task,ewok_e5a9ac23_2,Episodic Memory,0
+ewok_task,ewok_e5a9ac23_2,Functional Perception,1
+ewok_task,ewok_e5a9ac23_2,Inhibitory Control,1
+ewok_task,ewok_e5a9ac23_2,Language,1
+ewok_task,ewok_e5a9ac23_2,Mental Simulation,0
+ewok_task,ewok_e5a9ac23_2,Metacognition,1
+ewok_task,ewok_e5a9ac23_2,Object Permanence,0
+ewok_task,ewok_e5a9ac23_2,Perception and Pattern Recognition,2
+ewok_task,ewok_e5a9ac23_2,Planning,0
+ewok_task,ewok_e5a9ac23_2,Procedural Memory,0
+ewok_task,ewok_e5a9ac23_2,Prospective Memory,0
+ewok_task,ewok_e5a9ac23_2,Semantic Memory,2
+ewok_task,ewok_e5a9ac23_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_e5a9ac23_2,Theory of Mind,0
+ewok_task,ewok_e5a9ac23_2,Working Memory,1
+ewok_task,ewok_e5a9ac23_2,ambiguity,5
+ewok_task,ewok_e5a9ac23_2,factuality,1
+ewok_task,ewok_e6aaaed0_2,Causal Reasoning,1
+ewok_task,ewok_e6aaaed0_2,Cognitive Flexibility,1
+ewok_task,ewok_e6aaaed0_2,Emotion Perception and Empathy,0
+ewok_task,ewok_e6aaaed0_2,Episodic Memory,0
+ewok_task,ewok_e6aaaed0_2,Functional Perception,2
+ewok_task,ewok_e6aaaed0_2,Inhibitory Control,0
+ewok_task,ewok_e6aaaed0_2,Language,1
+ewok_task,ewok_e6aaaed0_2,Mental Simulation,1
+ewok_task,ewok_e6aaaed0_2,Metacognition,1
+ewok_task,ewok_e6aaaed0_2,Object Permanence,0
+ewok_task,ewok_e6aaaed0_2,Perception and Pattern Recognition,1
+ewok_task,ewok_e6aaaed0_2,Planning,0
+ewok_task,ewok_e6aaaed0_2,Procedural Memory,0
+ewok_task,ewok_e6aaaed0_2,Prospective Memory,0
+ewok_task,ewok_e6aaaed0_2,Semantic Memory,1
+ewok_task,ewok_e6aaaed0_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_e6aaaed0_2,Theory of Mind,1
+ewok_task,ewok_e6aaaed0_2,Working Memory,0
+ewok_task,ewok_e6aaaed0_2,ambiguity,3
+ewok_task,ewok_e6aaaed0_2,factuality,1
+ewok_task,ewok_e74a1255_2,Causal Reasoning,1
+ewok_task,ewok_e74a1255_2,Cognitive Flexibility,0
+ewok_task,ewok_e74a1255_2,Emotion Perception and Empathy,0
+ewok_task,ewok_e74a1255_2,Episodic Memory,0
+ewok_task,ewok_e74a1255_2,Functional Perception,1
+ewok_task,ewok_e74a1255_2,Inhibitory Control,0
+ewok_task,ewok_e74a1255_2,Language,1
+ewok_task,ewok_e74a1255_2,Mental Simulation,0
+ewok_task,ewok_e74a1255_2,Metacognition,1
+ewok_task,ewok_e74a1255_2,Object Permanence,0
+ewok_task,ewok_e74a1255_2,Perception and Pattern Recognition,1
+ewok_task,ewok_e74a1255_2,Planning,0
+ewok_task,ewok_e74a1255_2,Procedural Memory,0
+ewok_task,ewok_e74a1255_2,Prospective Memory,0
+ewok_task,ewok_e74a1255_2,Semantic Memory,2
+ewok_task,ewok_e74a1255_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_e74a1255_2,Theory of Mind,2
+ewok_task,ewok_e74a1255_2,Working Memory,2
+ewok_task,ewok_e74a1255_2,ambiguity,5
+ewok_task,ewok_e74a1255_2,factuality,5
+ewok_task,ewok_e88dc041_1,Causal Reasoning,1
+ewok_task,ewok_e88dc041_1,Cognitive Flexibility,0
+ewok_task,ewok_e88dc041_1,Emotion Perception and Empathy,0
+ewok_task,ewok_e88dc041_1,Episodic Memory,0
+ewok_task,ewok_e88dc041_1,Functional Perception,1
+ewok_task,ewok_e88dc041_1,Inhibitory Control,0
+ewok_task,ewok_e88dc041_1,Language,1
+ewok_task,ewok_e88dc041_1,Mental Simulation,0
+ewok_task,ewok_e88dc041_1,Metacognition,1
+ewok_task,ewok_e88dc041_1,Object Permanence,0
+ewok_task,ewok_e88dc041_1,Perception and Pattern Recognition,2
+ewok_task,ewok_e88dc041_1,Planning,0
+ewok_task,ewok_e88dc041_1,Procedural Memory,0
+ewok_task,ewok_e88dc041_1,Prospective Memory,0
+ewok_task,ewok_e88dc041_1,Semantic Memory,2
+ewok_task,ewok_e88dc041_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_e88dc041_1,Theory of Mind,0
+ewok_task,ewok_e88dc041_1,Working Memory,0
+ewok_task,ewok_e88dc041_1,ambiguity,4
+ewok_task,ewok_e88dc041_1,factuality,5
+ewok_task,ewok_e9d727bb_1,Causal Reasoning,1
+ewok_task,ewok_e9d727bb_1,Cognitive Flexibility,0
+ewok_task,ewok_e9d727bb_1,Emotion Perception and Empathy,0
+ewok_task,ewok_e9d727bb_1,Episodic Memory,0
+ewok_task,ewok_e9d727bb_1,Functional Perception,1
+ewok_task,ewok_e9d727bb_1,Inhibitory Control,1
+ewok_task,ewok_e9d727bb_1,Language,1
+ewok_task,ewok_e9d727bb_1,Mental Simulation,0
+ewok_task,ewok_e9d727bb_1,Metacognition,0
+ewok_task,ewok_e9d727bb_1,Object Permanence,0
+ewok_task,ewok_e9d727bb_1,Perception and Pattern Recognition,1
+ewok_task,ewok_e9d727bb_1,Planning,0
+ewok_task,ewok_e9d727bb_1,Procedural Memory,0
+ewok_task,ewok_e9d727bb_1,Prospective Memory,0
+ewok_task,ewok_e9d727bb_1,Semantic Memory,1
+ewok_task,ewok_e9d727bb_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_e9d727bb_1,Theory of Mind,0
+ewok_task,ewok_e9d727bb_1,Working Memory,1
+ewok_task,ewok_e9d727bb_1,ambiguity,5
+ewok_task,ewok_e9d727bb_1,factuality,5
+ewok_task,ewok_ea2e2736_2,Causal Reasoning,1
+ewok_task,ewok_ea2e2736_2,Cognitive Flexibility,0
+ewok_task,ewok_ea2e2736_2,Emotion Perception and Empathy,0
+ewok_task,ewok_ea2e2736_2,Episodic Memory,0
+ewok_task,ewok_ea2e2736_2,Functional Perception,1
+ewok_task,ewok_ea2e2736_2,Inhibitory Control,1
+ewok_task,ewok_ea2e2736_2,Language,2
+ewok_task,ewok_ea2e2736_2,Mental Simulation,1
+ewok_task,ewok_ea2e2736_2,Metacognition,1
+ewok_task,ewok_ea2e2736_2,Object Permanence,0
+ewok_task,ewok_ea2e2736_2,Perception and Pattern Recognition,1
+ewok_task,ewok_ea2e2736_2,Planning,0
+ewok_task,ewok_ea2e2736_2,Procedural Memory,0
+ewok_task,ewok_ea2e2736_2,Prospective Memory,0
+ewok_task,ewok_ea2e2736_2,Semantic Memory,2
+ewok_task,ewok_ea2e2736_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_ea2e2736_2,Theory of Mind,1
+ewok_task,ewok_ea2e2736_2,Working Memory,1
+ewok_task,ewok_ea2e2736_2,ambiguity,5
+ewok_task,ewok_ea2e2736_2,factuality,5
+ewok_task,ewok_ef563120_2,Causal Reasoning,1
+ewok_task,ewok_ef563120_2,Cognitive Flexibility,0
+ewok_task,ewok_ef563120_2,Emotion Perception and Empathy,0
+ewok_task,ewok_ef563120_2,Episodic Memory,0
+ewok_task,ewok_ef563120_2,Functional Perception,1
+ewok_task,ewok_ef563120_2,Inhibitory Control,1
+ewok_task,ewok_ef563120_2,Language,1
+ewok_task,ewok_ef563120_2,Mental Simulation,0
+ewok_task,ewok_ef563120_2,Metacognition,1
+ewok_task,ewok_ef563120_2,Object Permanence,0
+ewok_task,ewok_ef563120_2,Perception and Pattern Recognition,1
+ewok_task,ewok_ef563120_2,Planning,0
+ewok_task,ewok_ef563120_2,Procedural Memory,0
+ewok_task,ewok_ef563120_2,Prospective Memory,0
+ewok_task,ewok_ef563120_2,Semantic Memory,2
+ewok_task,ewok_ef563120_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_ef563120_2,Theory of Mind,0
+ewok_task,ewok_ef563120_2,Working Memory,1
+ewok_task,ewok_ef563120_2,ambiguity,5
+ewok_task,ewok_ef563120_2,factuality,5
+ewok_task,ewok_f63468bc_2,Causal Reasoning,1
+ewok_task,ewok_f63468bc_2,Cognitive Flexibility,0
+ewok_task,ewok_f63468bc_2,Emotion Perception and Empathy,0
+ewok_task,ewok_f63468bc_2,Episodic Memory,0
+ewok_task,ewok_f63468bc_2,Functional Perception,1
+ewok_task,ewok_f63468bc_2,Inhibitory Control,0
+ewok_task,ewok_f63468bc_2,Language,1
+ewok_task,ewok_f63468bc_2,Mental Simulation,1
+ewok_task,ewok_f63468bc_2,Metacognition,1
+ewok_task,ewok_f63468bc_2,Object Permanence,0
+ewok_task,ewok_f63468bc_2,Perception and Pattern Recognition,1
+ewok_task,ewok_f63468bc_2,Planning,0
+ewok_task,ewok_f63468bc_2,Procedural Memory,0
+ewok_task,ewok_f63468bc_2,Prospective Memory,0
+ewok_task,ewok_f63468bc_2,Semantic Memory,1
+ewok_task,ewok_f63468bc_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_f63468bc_2,Theory of Mind,0
+ewok_task,ewok_f63468bc_2,Working Memory,1
+ewok_task,ewok_f63468bc_2,ambiguity,5
+ewok_task,ewok_f63468bc_2,factuality,5
+ewok_task,ewok_f6caafb1_1,Causal Reasoning,1
+ewok_task,ewok_f6caafb1_1,Cognitive Flexibility,0
+ewok_task,ewok_f6caafb1_1,Emotion Perception and Empathy,0
+ewok_task,ewok_f6caafb1_1,Episodic Memory,0
+ewok_task,ewok_f6caafb1_1,Functional Perception,1
+ewok_task,ewok_f6caafb1_1,Inhibitory Control,1
+ewok_task,ewok_f6caafb1_1,Language,1
+ewok_task,ewok_f6caafb1_1,Mental Simulation,1
+ewok_task,ewok_f6caafb1_1,Metacognition,0
+ewok_task,ewok_f6caafb1_1,Object Permanence,0
+ewok_task,ewok_f6caafb1_1,Perception and Pattern Recognition,1
+ewok_task,ewok_f6caafb1_1,Planning,0
+ewok_task,ewok_f6caafb1_1,Procedural Memory,0
+ewok_task,ewok_f6caafb1_1,Prospective Memory,0
+ewok_task,ewok_f6caafb1_1,Semantic Memory,2
+ewok_task,ewok_f6caafb1_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_f6caafb1_1,Theory of Mind,0
+ewok_task,ewok_f6caafb1_1,Working Memory,1
+ewok_task,ewok_f6caafb1_1,ambiguity,5
+ewok_task,ewok_f6caafb1_1,factuality,5
+ewok_task,ewok_f8121549_1,Causal Reasoning,1
+ewok_task,ewok_f8121549_1,Cognitive Flexibility,0
+ewok_task,ewok_f8121549_1,Emotion Perception and Empathy,0
+ewok_task,ewok_f8121549_1,Episodic Memory,0
+ewok_task,ewok_f8121549_1,Functional Perception,1
+ewok_task,ewok_f8121549_1,Inhibitory Control,1
+ewok_task,ewok_f8121549_1,Language,1
+ewok_task,ewok_f8121549_1,Mental Simulation,1
+ewok_task,ewok_f8121549_1,Metacognition,0
+ewok_task,ewok_f8121549_1,Object Permanence,0
+ewok_task,ewok_f8121549_1,Perception and Pattern Recognition,1
+ewok_task,ewok_f8121549_1,Planning,0
+ewok_task,ewok_f8121549_1,Procedural Memory,0
+ewok_task,ewok_f8121549_1,Prospective Memory,0
+ewok_task,ewok_f8121549_1,Semantic Memory,1
+ewok_task,ewok_f8121549_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_f8121549_1,Theory of Mind,1
+ewok_task,ewok_f8121549_1,Working Memory,0
+ewok_task,ewok_f8121549_1,ambiguity,5
+ewok_task,ewok_f8121549_1,factuality,5
+ewok_task,ewok_f87fe5d0_1,Causal Reasoning,1
+ewok_task,ewok_f87fe5d0_1,Cognitive Flexibility,0
+ewok_task,ewok_f87fe5d0_1,Emotion Perception and Empathy,0
+ewok_task,ewok_f87fe5d0_1,Episodic Memory,0
+ewok_task,ewok_f87fe5d0_1,Functional Perception,1
+ewok_task,ewok_f87fe5d0_1,Inhibitory Control,1
+ewok_task,ewok_f87fe5d0_1,Language,2
+ewok_task,ewok_f87fe5d0_1,Mental Simulation,1
+ewok_task,ewok_f87fe5d0_1,Metacognition,1
+ewok_task,ewok_f87fe5d0_1,Object Permanence,0
+ewok_task,ewok_f87fe5d0_1,Perception and Pattern Recognition,2
+ewok_task,ewok_f87fe5d0_1,Planning,0
+ewok_task,ewok_f87fe5d0_1,Procedural Memory,0
+ewok_task,ewok_f87fe5d0_1,Prospective Memory,0
+ewok_task,ewok_f87fe5d0_1,Semantic Memory,2
+ewok_task,ewok_f87fe5d0_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_f87fe5d0_1,Theory of Mind,2
+ewok_task,ewok_f87fe5d0_1,Working Memory,0
+ewok_task,ewok_f87fe5d0_1,ambiguity,5
+ewok_task,ewok_f87fe5d0_1,factuality,5
+ewok_task,ewok_f8845b1f_2,Causal Reasoning,1
+ewok_task,ewok_f8845b1f_2,Cognitive Flexibility,0
+ewok_task,ewok_f8845b1f_2,Emotion Perception and Empathy,0
+ewok_task,ewok_f8845b1f_2,Episodic Memory,0
+ewok_task,ewok_f8845b1f_2,Functional Perception,2
+ewok_task,ewok_f8845b1f_2,Inhibitory Control,0
+ewok_task,ewok_f8845b1f_2,Language,1
+ewok_task,ewok_f8845b1f_2,Mental Simulation,1
+ewok_task,ewok_f8845b1f_2,Metacognition,1
+ewok_task,ewok_f8845b1f_2,Object Permanence,0
+ewok_task,ewok_f8845b1f_2,Perception and Pattern Recognition,1
+ewok_task,ewok_f8845b1f_2,Planning,0
+ewok_task,ewok_f8845b1f_2,Procedural Memory,0
+ewok_task,ewok_f8845b1f_2,Prospective Memory,0
+ewok_task,ewok_f8845b1f_2,Semantic Memory,1
+ewok_task,ewok_f8845b1f_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_f8845b1f_2,Theory of Mind,0
+ewok_task,ewok_f8845b1f_2,Working Memory,1
+ewok_task,ewok_f8845b1f_2,ambiguity,5
+ewok_task,ewok_f8845b1f_2,factuality,5
+ewok_task,ewok_fa3c3c40_2,Causal Reasoning,1
+ewok_task,ewok_fa3c3c40_2,Cognitive Flexibility,0
+ewok_task,ewok_fa3c3c40_2,Emotion Perception and Empathy,0
+ewok_task,ewok_fa3c3c40_2,Episodic Memory,0
+ewok_task,ewok_fa3c3c40_2,Functional Perception,0
+ewok_task,ewok_fa3c3c40_2,Inhibitory Control,1
+ewok_task,ewok_fa3c3c40_2,Language,1
+ewok_task,ewok_fa3c3c40_2,Mental Simulation,1
+ewok_task,ewok_fa3c3c40_2,Metacognition,0
+ewok_task,ewok_fa3c3c40_2,Object Permanence,0
+ewok_task,ewok_fa3c3c40_2,Perception and Pattern Recognition,1
+ewok_task,ewok_fa3c3c40_2,Planning,0
+ewok_task,ewok_fa3c3c40_2,Procedural Memory,0
+ewok_task,ewok_fa3c3c40_2,Prospective Memory,0
+ewok_task,ewok_fa3c3c40_2,Semantic Memory,1
+ewok_task,ewok_fa3c3c40_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_fa3c3c40_2,Theory of Mind,1
+ewok_task,ewok_fa3c3c40_2,Working Memory,1
+ewok_task,ewok_fa3c3c40_2,ambiguity,5
+ewok_task,ewok_fa3c3c40_2,factuality,1
+ewok_task,ewok_fa9b21dc_2,Causal Reasoning,1
+ewok_task,ewok_fa9b21dc_2,Cognitive Flexibility,0
+ewok_task,ewok_fa9b21dc_2,Emotion Perception and Empathy,0
+ewok_task,ewok_fa9b21dc_2,Episodic Memory,0
+ewok_task,ewok_fa9b21dc_2,Functional Perception,1
+ewok_task,ewok_fa9b21dc_2,Inhibitory Control,1
+ewok_task,ewok_fa9b21dc_2,Language,1
+ewok_task,ewok_fa9b21dc_2,Mental Simulation,0
+ewok_task,ewok_fa9b21dc_2,Metacognition,1
+ewok_task,ewok_fa9b21dc_2,Object Permanence,0
+ewok_task,ewok_fa9b21dc_2,Perception and Pattern Recognition,1
+ewok_task,ewok_fa9b21dc_2,Planning,0
+ewok_task,ewok_fa9b21dc_2,Procedural Memory,0
+ewok_task,ewok_fa9b21dc_2,Prospective Memory,0
+ewok_task,ewok_fa9b21dc_2,Semantic Memory,1
+ewok_task,ewok_fa9b21dc_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_fa9b21dc_2,Theory of Mind,0
+ewok_task,ewok_fa9b21dc_2,Working Memory,1
+ewok_task,ewok_fa9b21dc_2,ambiguity,3
+ewok_task,ewok_fa9b21dc_2,factuality,5
+ewok_task,ewok_fb448ac5_1,Causal Reasoning,1
+ewok_task,ewok_fb448ac5_1,Cognitive Flexibility,0
+ewok_task,ewok_fb448ac5_1,Emotion Perception and Empathy,0
+ewok_task,ewok_fb448ac5_1,Episodic Memory,0
+ewok_task,ewok_fb448ac5_1,Functional Perception,1
+ewok_task,ewok_fb448ac5_1,Inhibitory Control,1
+ewok_task,ewok_fb448ac5_1,Language,1
+ewok_task,ewok_fb448ac5_1,Mental Simulation,1
+ewok_task,ewok_fb448ac5_1,Metacognition,1
+ewok_task,ewok_fb448ac5_1,Object Permanence,0
+ewok_task,ewok_fb448ac5_1,Perception and Pattern Recognition,1
+ewok_task,ewok_fb448ac5_1,Planning,0
+ewok_task,ewok_fb448ac5_1,Procedural Memory,0
+ewok_task,ewok_fb448ac5_1,Prospective Memory,0
+ewok_task,ewok_fb448ac5_1,Semantic Memory,1
+ewok_task,ewok_fb448ac5_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_fb448ac5_1,Theory of Mind,0
+ewok_task,ewok_fb448ac5_1,Working Memory,0
+ewok_task,ewok_fb448ac5_1,ambiguity,5
+ewok_task,ewok_fb448ac5_1,factuality,5
+ewok_task,ewok_fd15d0a2_2,Causal Reasoning,1
+ewok_task,ewok_fd15d0a2_2,Cognitive Flexibility,0
+ewok_task,ewok_fd15d0a2_2,Emotion Perception and Empathy,0
+ewok_task,ewok_fd15d0a2_2,Episodic Memory,0
+ewok_task,ewok_fd15d0a2_2,Functional Perception,2
+ewok_task,ewok_fd15d0a2_2,Inhibitory Control,1
+ewok_task,ewok_fd15d0a2_2,Language,1
+ewok_task,ewok_fd15d0a2_2,Mental Simulation,1
+ewok_task,ewok_fd15d0a2_2,Metacognition,1
+ewok_task,ewok_fd15d0a2_2,Object Permanence,0
+ewok_task,ewok_fd15d0a2_2,Perception and Pattern Recognition,2
+ewok_task,ewok_fd15d0a2_2,Planning,0
+ewok_task,ewok_fd15d0a2_2,Procedural Memory,0
+ewok_task,ewok_fd15d0a2_2,Prospective Memory,0
+ewok_task,ewok_fd15d0a2_2,Semantic Memory,2
+ewok_task,ewok_fd15d0a2_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_fd15d0a2_2,Theory of Mind,0
+ewok_task,ewok_fd15d0a2_2,Working Memory,1
+ewok_task,ewok_fd15d0a2_2,ambiguity,5
+ewok_task,ewok_fd15d0a2_2,factuality,5
+ewok_task,ewok_fd8ea2c8_2,Causal Reasoning,1
+ewok_task,ewok_fd8ea2c8_2,Cognitive Flexibility,0
+ewok_task,ewok_fd8ea2c8_2,Emotion Perception and Empathy,0
+ewok_task,ewok_fd8ea2c8_2,Episodic Memory,0
+ewok_task,ewok_fd8ea2c8_2,Functional Perception,1
+ewok_task,ewok_fd8ea2c8_2,Inhibitory Control,0
+ewok_task,ewok_fd8ea2c8_2,Language,1
+ewok_task,ewok_fd8ea2c8_2,Mental Simulation,1
+ewok_task,ewok_fd8ea2c8_2,Metacognition,1
+ewok_task,ewok_fd8ea2c8_2,Object Permanence,0
+ewok_task,ewok_fd8ea2c8_2,Perception and Pattern Recognition,1
+ewok_task,ewok_fd8ea2c8_2,Planning,0
+ewok_task,ewok_fd8ea2c8_2,Procedural Memory,0
+ewok_task,ewok_fd8ea2c8_2,Prospective Memory,0
+ewok_task,ewok_fd8ea2c8_2,Semantic Memory,2
+ewok_task,ewok_fd8ea2c8_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_fd8ea2c8_2,Theory of Mind,0
+ewok_task,ewok_fd8ea2c8_2,Working Memory,0
+ewok_task,ewok_fd8ea2c8_2,ambiguity,3
+ewok_task,ewok_fd8ea2c8_2,factuality,1
+ewok_task,ewok_fe2d4950_2,Causal Reasoning,1
+ewok_task,ewok_fe2d4950_2,Cognitive Flexibility,0
+ewok_task,ewok_fe2d4950_2,Emotion Perception and Empathy,0
+ewok_task,ewok_fe2d4950_2,Episodic Memory,0
+ewok_task,ewok_fe2d4950_2,Functional Perception,1
+ewok_task,ewok_fe2d4950_2,Inhibitory Control,1
+ewok_task,ewok_fe2d4950_2,Language,1
+ewok_task,ewok_fe2d4950_2,Mental Simulation,1
+ewok_task,ewok_fe2d4950_2,Metacognition,1
+ewok_task,ewok_fe2d4950_2,Object Permanence,0
+ewok_task,ewok_fe2d4950_2,Perception and Pattern Recognition,1
+ewok_task,ewok_fe2d4950_2,Planning,0
+ewok_task,ewok_fe2d4950_2,Procedural Memory,0
+ewok_task,ewok_fe2d4950_2,Prospective Memory,0
+ewok_task,ewok_fe2d4950_2,Semantic Memory,1
+ewok_task,ewok_fe2d4950_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_fe2d4950_2,Theory of Mind,0
+ewok_task,ewok_fe2d4950_2,Working Memory,1
+ewok_task,ewok_fe2d4950_2,ambiguity,5
+ewok_task,ewok_fe2d4950_2,factuality,5
+ewok_task,ewok_feb7df86_1,Causal Reasoning,1
+ewok_task,ewok_feb7df86_1,Cognitive Flexibility,0
+ewok_task,ewok_feb7df86_1,Emotion Perception and Empathy,0
+ewok_task,ewok_feb7df86_1,Episodic Memory,0
+ewok_task,ewok_feb7df86_1,Functional Perception,1
+ewok_task,ewok_feb7df86_1,Inhibitory Control,1
+ewok_task,ewok_feb7df86_1,Language,1
+ewok_task,ewok_feb7df86_1,Mental Simulation,0
+ewok_task,ewok_feb7df86_1,Metacognition,1
+ewok_task,ewok_feb7df86_1,Object Permanence,0
+ewok_task,ewok_feb7df86_1,Perception and Pattern Recognition,1
+ewok_task,ewok_feb7df86_1,Planning,0
+ewok_task,ewok_feb7df86_1,Procedural Memory,0
+ewok_task,ewok_feb7df86_1,Prospective Memory,0
+ewok_task,ewok_feb7df86_1,Semantic Memory,2
+ewok_task,ewok_feb7df86_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_feb7df86_1,Theory of Mind,1
+ewok_task,ewok_feb7df86_1,Working Memory,1
+ewok_task,ewok_feb7df86_1,ambiguity,4
+ewok_task,ewok_feb7df86_1,factuality,5
+ewok_task,ewok_123f91b8_2,Causal Reasoning,1
+ewok_task,ewok_123f91b8_2,Cognitive Flexibility,1
+ewok_task,ewok_123f91b8_2,Emotion Perception and Empathy,0
+ewok_task,ewok_123f91b8_2,Episodic Memory,0
+ewok_task,ewok_123f91b8_2,Functional Perception,1
+ewok_task,ewok_123f91b8_2,Inhibitory Control,1
+ewok_task,ewok_123f91b8_2,Language,2
+ewok_task,ewok_123f91b8_2,Mental Simulation,1
+ewok_task,ewok_123f91b8_2,Metacognition,0
+ewok_task,ewok_123f91b8_2,Object Permanence,0
+ewok_task,ewok_123f91b8_2,Perception and Pattern Recognition,1
+ewok_task,ewok_123f91b8_2,Planning,0
+ewok_task,ewok_123f91b8_2,Procedural Memory,0
+ewok_task,ewok_123f91b8_2,Prospective Memory,0
+ewok_task,ewok_123f91b8_2,Semantic Memory,1
+ewok_task,ewok_123f91b8_2,Spatial Reasoning and Navigation,1
+ewok_task,ewok_123f91b8_2,Theory of Mind,0
+ewok_task,ewok_123f91b8_2,Working Memory,1
+ewok_task,ewok_123f91b8_2,ambiguity,5
+ewok_task,ewok_123f91b8_2,factuality,5
+ewok_task,ewok_1be71779_2,Causal Reasoning,1
+ewok_task,ewok_1be71779_2,Cognitive Flexibility,0
+ewok_task,ewok_1be71779_2,Emotion Perception and Empathy,0
+ewok_task,ewok_1be71779_2,Episodic Memory,0
+ewok_task,ewok_1be71779_2,Functional Perception,1
+ewok_task,ewok_1be71779_2,Inhibitory Control,0
+ewok_task,ewok_1be71779_2,Language,1
+ewok_task,ewok_1be71779_2,Mental Simulation,1
+ewok_task,ewok_1be71779_2,Metacognition,1
+ewok_task,ewok_1be71779_2,Object Permanence,0
+ewok_task,ewok_1be71779_2,Perception and Pattern Recognition,2
+ewok_task,ewok_1be71779_2,Planning,0
+ewok_task,ewok_1be71779_2,Procedural Memory,0
+ewok_task,ewok_1be71779_2,Prospective Memory,0
+ewok_task,ewok_1be71779_2,Semantic Memory,2
+ewok_task,ewok_1be71779_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_1be71779_2,Theory of Mind,1
+ewok_task,ewok_1be71779_2,Working Memory,1
+ewok_task,ewok_1be71779_2,ambiguity,5
+ewok_task,ewok_1be71779_2,factuality,5
+ewok_task,ewok_1e24eab8_2,Causal Reasoning,1
+ewok_task,ewok_1e24eab8_2,Cognitive Flexibility,0
+ewok_task,ewok_1e24eab8_2,Emotion Perception and Empathy,0
+ewok_task,ewok_1e24eab8_2,Episodic Memory,0
+ewok_task,ewok_1e24eab8_2,Functional Perception,1
+ewok_task,ewok_1e24eab8_2,Inhibitory Control,0
+ewok_task,ewok_1e24eab8_2,Language,1
+ewok_task,ewok_1e24eab8_2,Mental Simulation,1
+ewok_task,ewok_1e24eab8_2,Metacognition,0
+ewok_task,ewok_1e24eab8_2,Object Permanence,0
+ewok_task,ewok_1e24eab8_2,Perception and Pattern Recognition,1
+ewok_task,ewok_1e24eab8_2,Planning,0
+ewok_task,ewok_1e24eab8_2,Procedural Memory,0
+ewok_task,ewok_1e24eab8_2,Prospective Memory,0
+ewok_task,ewok_1e24eab8_2,Semantic Memory,1
+ewok_task,ewok_1e24eab8_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_1e24eab8_2,Theory of Mind,0
+ewok_task,ewok_1e24eab8_2,Working Memory,1
+ewok_task,ewok_1e24eab8_2,ambiguity,5
+ewok_task,ewok_1e24eab8_2,factuality,5
+ewok_task,ewok_2378c84f_2,Causal Reasoning,1
+ewok_task,ewok_2378c84f_2,Cognitive Flexibility,0
+ewok_task,ewok_2378c84f_2,Emotion Perception and Empathy,0
+ewok_task,ewok_2378c84f_2,Episodic Memory,0
+ewok_task,ewok_2378c84f_2,Functional Perception,1
+ewok_task,ewok_2378c84f_2,Inhibitory Control,1
+ewok_task,ewok_2378c84f_2,Language,1
+ewok_task,ewok_2378c84f_2,Mental Simulation,0
+ewok_task,ewok_2378c84f_2,Metacognition,1
+ewok_task,ewok_2378c84f_2,Object Permanence,0
+ewok_task,ewok_2378c84f_2,Perception and Pattern Recognition,1
+ewok_task,ewok_2378c84f_2,Planning,0
+ewok_task,ewok_2378c84f_2,Procedural Memory,0
+ewok_task,ewok_2378c84f_2,Prospective Memory,0
+ewok_task,ewok_2378c84f_2,Semantic Memory,1
+ewok_task,ewok_2378c84f_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_2378c84f_2,Theory of Mind,0
+ewok_task,ewok_2378c84f_2,Working Memory,2
+ewok_task,ewok_2378c84f_2,ambiguity,5
+ewok_task,ewok_2378c84f_2,factuality,5
+ewok_task,ewok_296669be_2,Causal Reasoning,1
+ewok_task,ewok_296669be_2,Cognitive Flexibility,0
+ewok_task,ewok_296669be_2,Emotion Perception and Empathy,0
+ewok_task,ewok_296669be_2,Episodic Memory,0
+ewok_task,ewok_296669be_2,Functional Perception,1
+ewok_task,ewok_296669be_2,Inhibitory Control,1
+ewok_task,ewok_296669be_2,Language,1
+ewok_task,ewok_296669be_2,Mental Simulation,1
+ewok_task,ewok_296669be_2,Metacognition,0
+ewok_task,ewok_296669be_2,Object Permanence,0
+ewok_task,ewok_296669be_2,Perception and Pattern Recognition,1
+ewok_task,ewok_296669be_2,Planning,0
+ewok_task,ewok_296669be_2,Procedural Memory,0
+ewok_task,ewok_296669be_2,Prospective Memory,0
+ewok_task,ewok_296669be_2,Semantic Memory,1
+ewok_task,ewok_296669be_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_296669be_2,Theory of Mind,1
+ewok_task,ewok_296669be_2,Working Memory,0
+ewok_task,ewok_296669be_2,ambiguity,5
+ewok_task,ewok_296669be_2,factuality,5
+ewok_task,ewok_32dae783_2,Causal Reasoning,1
+ewok_task,ewok_32dae783_2,Cognitive Flexibility,0
+ewok_task,ewok_32dae783_2,Emotion Perception and Empathy,0
+ewok_task,ewok_32dae783_2,Episodic Memory,0
+ewok_task,ewok_32dae783_2,Functional Perception,1
+ewok_task,ewok_32dae783_2,Inhibitory Control,1
+ewok_task,ewok_32dae783_2,Language,1
+ewok_task,ewok_32dae783_2,Mental Simulation,0
+ewok_task,ewok_32dae783_2,Metacognition,1
+ewok_task,ewok_32dae783_2,Object Permanence,0
+ewok_task,ewok_32dae783_2,Perception and Pattern Recognition,1
+ewok_task,ewok_32dae783_2,Planning,0
+ewok_task,ewok_32dae783_2,Procedural Memory,0
+ewok_task,ewok_32dae783_2,Prospective Memory,0
+ewok_task,ewok_32dae783_2,Semantic Memory,1
+ewok_task,ewok_32dae783_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_32dae783_2,Theory of Mind,1
+ewok_task,ewok_32dae783_2,Working Memory,2
+ewok_task,ewok_32dae783_2,ambiguity,5
+ewok_task,ewok_32dae783_2,factuality,5
+ewok_task,ewok_37bd4d32_1,Causal Reasoning,1
+ewok_task,ewok_37bd4d32_1,Cognitive Flexibility,0
+ewok_task,ewok_37bd4d32_1,Emotion Perception and Empathy,0
+ewok_task,ewok_37bd4d32_1,Episodic Memory,0
+ewok_task,ewok_37bd4d32_1,Functional Perception,1
+ewok_task,ewok_37bd4d32_1,Inhibitory Control,1
+ewok_task,ewok_37bd4d32_1,Language,1
+ewok_task,ewok_37bd4d32_1,Mental Simulation,0
+ewok_task,ewok_37bd4d32_1,Metacognition,1
+ewok_task,ewok_37bd4d32_1,Object Permanence,0
+ewok_task,ewok_37bd4d32_1,Perception and Pattern Recognition,1
+ewok_task,ewok_37bd4d32_1,Planning,0
+ewok_task,ewok_37bd4d32_1,Procedural Memory,0
+ewok_task,ewok_37bd4d32_1,Prospective Memory,0
+ewok_task,ewok_37bd4d32_1,Semantic Memory,1
+ewok_task,ewok_37bd4d32_1,Spatial Reasoning and Navigation,1
+ewok_task,ewok_37bd4d32_1,Theory of Mind,0
+ewok_task,ewok_37bd4d32_1,Working Memory,0
+ewok_task,ewok_37bd4d32_1,ambiguity,5
+ewok_task,ewok_37bd4d32_1,factuality,5
+ewok_task,ewok_57d359bb_1,Causal Reasoning,1
+ewok_task,ewok_57d359bb_1,Cognitive Flexibility,0
+ewok_task,ewok_57d359bb_1,Emotion Perception and Empathy,0
+ewok_task,ewok_57d359bb_1,Episodic Memory,0
+ewok_task,ewok_57d359bb_1,Functional Perception,1
+ewok_task,ewok_57d359bb_1,Inhibitory Control,1
+ewok_task,ewok_57d359bb_1,Language,1
+ewok_task,ewok_57d359bb_1,Mental Simulation,0
+ewok_task,ewok_57d359bb_1,Metacognition,1
+ewok_task,ewok_57d359bb_1,Object Permanence,0
+ewok_task,ewok_57d359bb_1,Perception and Pattern Recognition,1
+ewok_task,ewok_57d359bb_1,Planning,0
+ewok_task,ewok_57d359bb_1,Procedural Memory,0
+ewok_task,ewok_57d359bb_1,Prospective Memory,0
+ewok_task,ewok_57d359bb_1,Semantic Memory,2
+ewok_task,ewok_57d359bb_1,Spatial Reasoning and Navigation,0
+ewok_task,ewok_57d359bb_1,Theory of Mind,1
+ewok_task,ewok_57d359bb_1,Working Memory,1
+ewok_task,ewok_57d359bb_1,ambiguity,2
+ewok_task,ewok_57d359bb_1,factuality,5
+ewok_task,ewok_a795f831_2,Causal Reasoning,0
+ewok_task,ewok_a795f831_2,Cognitive Flexibility,0
+ewok_task,ewok_a795f831_2,Emotion Perception and Empathy,0
+ewok_task,ewok_a795f831_2,Episodic Memory,0
+ewok_task,ewok_a795f831_2,Functional Perception,1
+ewok_task,ewok_a795f831_2,Inhibitory Control,1
+ewok_task,ewok_a795f831_2,Language,1
+ewok_task,ewok_a795f831_2,Mental Simulation,0
+ewok_task,ewok_a795f831_2,Metacognition,1
+ewok_task,ewok_a795f831_2,Object Permanence,0
+ewok_task,ewok_a795f831_2,Perception and Pattern Recognition,1
+ewok_task,ewok_a795f831_2,Planning,0
+ewok_task,ewok_a795f831_2,Procedural Memory,0
+ewok_task,ewok_a795f831_2,Prospective Memory,0
+ewok_task,ewok_a795f831_2,Semantic Memory,1
+ewok_task,ewok_a795f831_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_a795f831_2,Theory of Mind,0
+ewok_task,ewok_a795f831_2,Working Memory,1
+ewok_task,ewok_a795f831_2,ambiguity,4
+ewok_task,ewok_a795f831_2,factuality,5
+ewok_task,ewok_c423d3b4_2,Causal Reasoning,1
+ewok_task,ewok_c423d3b4_2,Cognitive Flexibility,0
+ewok_task,ewok_c423d3b4_2,Emotion Perception and Empathy,0
+ewok_task,ewok_c423d3b4_2,Episodic Memory,0
+ewok_task,ewok_c423d3b4_2,Functional Perception,1
+ewok_task,ewok_c423d3b4_2,Inhibitory Control,1
+ewok_task,ewok_c423d3b4_2,Language,2
+ewok_task,ewok_c423d3b4_2,Mental Simulation,1
+ewok_task,ewok_c423d3b4_2,Metacognition,1
+ewok_task,ewok_c423d3b4_2,Object Permanence,0
+ewok_task,ewok_c423d3b4_2,Perception and Pattern Recognition,1
+ewok_task,ewok_c423d3b4_2,Planning,0
+ewok_task,ewok_c423d3b4_2,Procedural Memory,0
+ewok_task,ewok_c423d3b4_2,Prospective Memory,0
+ewok_task,ewok_c423d3b4_2,Semantic Memory,2
+ewok_task,ewok_c423d3b4_2,Spatial Reasoning and Navigation,0
+ewok_task,ewok_c423d3b4_2,Theory of Mind,0
+ewok_task,ewok_c423d3b4_2,Working Memory,0
+ewok_task,ewok_c423d3b4_2,ambiguity,5
+ewok_task,ewok_c423d3b4_2,factuality,5

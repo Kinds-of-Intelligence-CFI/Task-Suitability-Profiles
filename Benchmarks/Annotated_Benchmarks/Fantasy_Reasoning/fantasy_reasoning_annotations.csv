@@ -1,0 +1,4021 @@
+dataset name,sample id,dimension,score
+fantasy_reasoning_task,0,Causal Reasoning,1
+fantasy_reasoning_task,0,Cognitive Flexibility,0
+fantasy_reasoning_task,0,Emotion Perception and Empathy,0
+fantasy_reasoning_task,0,Episodic Memory,0
+fantasy_reasoning_task,0,Functional Perception,1
+fantasy_reasoning_task,0,Inhibitory Control,1
+fantasy_reasoning_task,0,Language,2
+fantasy_reasoning_task,0,Mental Simulation,1
+fantasy_reasoning_task,0,Metacognition,1
+fantasy_reasoning_task,0,Object Permanence,0
+fantasy_reasoning_task,0,Perception and Pattern Recognition,1
+fantasy_reasoning_task,0,Planning,0
+fantasy_reasoning_task,0,Procedural Memory,0
+fantasy_reasoning_task,0,Prospective Memory,0
+fantasy_reasoning_task,0,Semantic Memory,2
+fantasy_reasoning_task,0,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,0,Theory of Mind,0
+fantasy_reasoning_task,0,Working Memory,0
+fantasy_reasoning_task,0,ambiguity,5
+fantasy_reasoning_task,0,factuality,5
+fantasy_reasoning_task,100,Causal Reasoning,0
+fantasy_reasoning_task,100,Cognitive Flexibility,1
+fantasy_reasoning_task,100,Emotion Perception and Empathy,0
+fantasy_reasoning_task,100,Episodic Memory,0
+fantasy_reasoning_task,100,Functional Perception,1
+fantasy_reasoning_task,100,Inhibitory Control,0
+fantasy_reasoning_task,100,Language,1
+fantasy_reasoning_task,100,Mental Simulation,1
+fantasy_reasoning_task,100,Metacognition,1
+fantasy_reasoning_task,100,Object Permanence,0
+fantasy_reasoning_task,100,Perception and Pattern Recognition,2
+fantasy_reasoning_task,100,Planning,0
+fantasy_reasoning_task,100,Procedural Memory,0
+fantasy_reasoning_task,100,Prospective Memory,0
+fantasy_reasoning_task,100,Semantic Memory,2
+fantasy_reasoning_task,100,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,100,Theory of Mind,3
+fantasy_reasoning_task,100,Working Memory,0
+fantasy_reasoning_task,100,ambiguity,5
+fantasy_reasoning_task,100,factuality,1
+fantasy_reasoning_task,101,Causal Reasoning,0
+fantasy_reasoning_task,101,Cognitive Flexibility,0
+fantasy_reasoning_task,101,Emotion Perception and Empathy,0
+fantasy_reasoning_task,101,Episodic Memory,0
+fantasy_reasoning_task,101,Functional Perception,0
+fantasy_reasoning_task,101,Inhibitory Control,1
+fantasy_reasoning_task,101,Language,1
+fantasy_reasoning_task,101,Mental Simulation,0
+fantasy_reasoning_task,101,Metacognition,1
+fantasy_reasoning_task,101,Object Permanence,0
+fantasy_reasoning_task,101,Perception and Pattern Recognition,2
+fantasy_reasoning_task,101,Planning,0
+fantasy_reasoning_task,101,Procedural Memory,0
+fantasy_reasoning_task,101,Prospective Memory,0
+fantasy_reasoning_task,101,Semantic Memory,2
+fantasy_reasoning_task,101,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,101,Theory of Mind,0
+fantasy_reasoning_task,101,Working Memory,0
+fantasy_reasoning_task,101,ambiguity,5
+fantasy_reasoning_task,101,factuality,1
+fantasy_reasoning_task,102,Causal Reasoning,1
+fantasy_reasoning_task,102,Cognitive Flexibility,0
+fantasy_reasoning_task,102,Emotion Perception and Empathy,0
+fantasy_reasoning_task,102,Episodic Memory,0
+fantasy_reasoning_task,102,Functional Perception,1
+fantasy_reasoning_task,102,Inhibitory Control,0
+fantasy_reasoning_task,102,Language,1
+fantasy_reasoning_task,102,Mental Simulation,0
+fantasy_reasoning_task,102,Metacognition,1
+fantasy_reasoning_task,102,Object Permanence,0
+fantasy_reasoning_task,102,Perception and Pattern Recognition,1
+fantasy_reasoning_task,102,Planning,0
+fantasy_reasoning_task,102,Procedural Memory,0
+fantasy_reasoning_task,102,Prospective Memory,0
+fantasy_reasoning_task,102,Semantic Memory,3
+fantasy_reasoning_task,102,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,102,Theory of Mind,1
+fantasy_reasoning_task,102,Working Memory,1
+fantasy_reasoning_task,102,ambiguity,4
+fantasy_reasoning_task,102,factuality,5
+fantasy_reasoning_task,103,Causal Reasoning,1
+fantasy_reasoning_task,103,Cognitive Flexibility,0
+fantasy_reasoning_task,103,Emotion Perception and Empathy,0
+fantasy_reasoning_task,103,Episodic Memory,0
+fantasy_reasoning_task,103,Functional Perception,1
+fantasy_reasoning_task,103,Inhibitory Control,1
+fantasy_reasoning_task,103,Language,1
+fantasy_reasoning_task,103,Mental Simulation,0
+fantasy_reasoning_task,103,Metacognition,1
+fantasy_reasoning_task,103,Object Permanence,0
+fantasy_reasoning_task,103,Perception and Pattern Recognition,1
+fantasy_reasoning_task,103,Planning,0
+fantasy_reasoning_task,103,Procedural Memory,0
+fantasy_reasoning_task,103,Prospective Memory,0
+fantasy_reasoning_task,103,Semantic Memory,2
+fantasy_reasoning_task,103,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,103,Theory of Mind,1
+fantasy_reasoning_task,103,Working Memory,1
+fantasy_reasoning_task,103,ambiguity,2
+fantasy_reasoning_task,103,factuality,3
+fantasy_reasoning_task,104,Causal Reasoning,1
+fantasy_reasoning_task,104,Cognitive Flexibility,0
+fantasy_reasoning_task,104,Emotion Perception and Empathy,0
+fantasy_reasoning_task,104,Episodic Memory,0
+fantasy_reasoning_task,104,Functional Perception,1
+fantasy_reasoning_task,104,Inhibitory Control,1
+fantasy_reasoning_task,104,Language,1
+fantasy_reasoning_task,104,Mental Simulation,1
+fantasy_reasoning_task,104,Metacognition,1
+fantasy_reasoning_task,104,Object Permanence,0
+fantasy_reasoning_task,104,Perception and Pattern Recognition,1
+fantasy_reasoning_task,104,Planning,0
+fantasy_reasoning_task,104,Procedural Memory,0
+fantasy_reasoning_task,104,Prospective Memory,0
+fantasy_reasoning_task,104,Semantic Memory,2
+fantasy_reasoning_task,104,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,104,Theory of Mind,2
+fantasy_reasoning_task,104,Working Memory,1
+fantasy_reasoning_task,104,ambiguity,4
+fantasy_reasoning_task,104,factuality,3
+fantasy_reasoning_task,105,Causal Reasoning,0
+fantasy_reasoning_task,105,Cognitive Flexibility,0
+fantasy_reasoning_task,105,Emotion Perception and Empathy,0
+fantasy_reasoning_task,105,Episodic Memory,0
+fantasy_reasoning_task,105,Functional Perception,0
+fantasy_reasoning_task,105,Inhibitory Control,1
+fantasy_reasoning_task,105,Language,1
+fantasy_reasoning_task,105,Mental Simulation,0
+fantasy_reasoning_task,105,Metacognition,1
+fantasy_reasoning_task,105,Object Permanence,0
+fantasy_reasoning_task,105,Perception and Pattern Recognition,1
+fantasy_reasoning_task,105,Planning,0
+fantasy_reasoning_task,105,Procedural Memory,0
+fantasy_reasoning_task,105,Prospective Memory,0
+fantasy_reasoning_task,105,Semantic Memory,1
+fantasy_reasoning_task,105,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,105,Theory of Mind,0
+fantasy_reasoning_task,105,Working Memory,1
+fantasy_reasoning_task,105,ambiguity,5
+fantasy_reasoning_task,105,factuality,5
+fantasy_reasoning_task,106,Causal Reasoning,0
+fantasy_reasoning_task,106,Cognitive Flexibility,0
+fantasy_reasoning_task,106,Emotion Perception and Empathy,0
+fantasy_reasoning_task,106,Episodic Memory,0
+fantasy_reasoning_task,106,Functional Perception,0
+fantasy_reasoning_task,106,Inhibitory Control,0
+fantasy_reasoning_task,106,Language,1
+fantasy_reasoning_task,106,Mental Simulation,0
+fantasy_reasoning_task,106,Metacognition,1
+fantasy_reasoning_task,106,Object Permanence,0
+fantasy_reasoning_task,106,Perception and Pattern Recognition,1
+fantasy_reasoning_task,106,Planning,0
+fantasy_reasoning_task,106,Procedural Memory,0
+fantasy_reasoning_task,106,Prospective Memory,0
+fantasy_reasoning_task,106,Semantic Memory,2
+fantasy_reasoning_task,106,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,106,Theory of Mind,0
+fantasy_reasoning_task,106,Working Memory,0
+fantasy_reasoning_task,106,ambiguity,5
+fantasy_reasoning_task,106,factuality,5
+fantasy_reasoning_task,107,Causal Reasoning,0
+fantasy_reasoning_task,107,Cognitive Flexibility,0
+fantasy_reasoning_task,107,Emotion Perception and Empathy,0
+fantasy_reasoning_task,107,Episodic Memory,0
+fantasy_reasoning_task,107,Functional Perception,0
+fantasy_reasoning_task,107,Inhibitory Control,0
+fantasy_reasoning_task,107,Language,1
+fantasy_reasoning_task,107,Mental Simulation,0
+fantasy_reasoning_task,107,Metacognition,1
+fantasy_reasoning_task,107,Object Permanence,0
+fantasy_reasoning_task,107,Perception and Pattern Recognition,1
+fantasy_reasoning_task,107,Planning,0
+fantasy_reasoning_task,107,Procedural Memory,0
+fantasy_reasoning_task,107,Prospective Memory,0
+fantasy_reasoning_task,107,Semantic Memory,2
+fantasy_reasoning_task,107,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,107,Theory of Mind,0
+fantasy_reasoning_task,107,Working Memory,0
+fantasy_reasoning_task,107,ambiguity,5
+fantasy_reasoning_task,107,factuality,5
+fantasy_reasoning_task,108,Causal Reasoning,1
+fantasy_reasoning_task,108,Cognitive Flexibility,1
+fantasy_reasoning_task,108,Emotion Perception and Empathy,0
+fantasy_reasoning_task,108,Episodic Memory,0
+fantasy_reasoning_task,108,Functional Perception,1
+fantasy_reasoning_task,108,Inhibitory Control,1
+fantasy_reasoning_task,108,Language,1
+fantasy_reasoning_task,108,Mental Simulation,1
+fantasy_reasoning_task,108,Metacognition,1
+fantasy_reasoning_task,108,Object Permanence,0
+fantasy_reasoning_task,108,Perception and Pattern Recognition,1
+fantasy_reasoning_task,108,Planning,0
+fantasy_reasoning_task,108,Procedural Memory,0
+fantasy_reasoning_task,108,Prospective Memory,0
+fantasy_reasoning_task,108,Semantic Memory,2
+fantasy_reasoning_task,108,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,108,Theory of Mind,0
+fantasy_reasoning_task,108,Working Memory,0
+fantasy_reasoning_task,108,ambiguity,5
+fantasy_reasoning_task,108,factuality,1
+fantasy_reasoning_task,109,Causal Reasoning,1
+fantasy_reasoning_task,109,Cognitive Flexibility,0
+fantasy_reasoning_task,109,Emotion Perception and Empathy,0
+fantasy_reasoning_task,109,Episodic Memory,0
+fantasy_reasoning_task,109,Functional Perception,0
+fantasy_reasoning_task,109,Inhibitory Control,1
+fantasy_reasoning_task,109,Language,1
+fantasy_reasoning_task,109,Mental Simulation,0
+fantasy_reasoning_task,109,Metacognition,1
+fantasy_reasoning_task,109,Object Permanence,0
+fantasy_reasoning_task,109,Perception and Pattern Recognition,1
+fantasy_reasoning_task,109,Planning,0
+fantasy_reasoning_task,109,Procedural Memory,0
+fantasy_reasoning_task,109,Prospective Memory,0
+fantasy_reasoning_task,109,Semantic Memory,2
+fantasy_reasoning_task,109,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,109,Theory of Mind,0
+fantasy_reasoning_task,109,Working Memory,0
+fantasy_reasoning_task,109,ambiguity,5
+fantasy_reasoning_task,109,factuality,5
+fantasy_reasoning_task,10,Causal Reasoning,1
+fantasy_reasoning_task,10,Cognitive Flexibility,0
+fantasy_reasoning_task,10,Emotion Perception and Empathy,0
+fantasy_reasoning_task,10,Episodic Memory,0
+fantasy_reasoning_task,10,Functional Perception,2
+fantasy_reasoning_task,10,Inhibitory Control,0
+fantasy_reasoning_task,10,Language,1
+fantasy_reasoning_task,10,Mental Simulation,1
+fantasy_reasoning_task,10,Metacognition,0
+fantasy_reasoning_task,10,Object Permanence,0
+fantasy_reasoning_task,10,Perception and Pattern Recognition,1
+fantasy_reasoning_task,10,Planning,0
+fantasy_reasoning_task,10,Procedural Memory,0
+fantasy_reasoning_task,10,Prospective Memory,0
+fantasy_reasoning_task,10,Semantic Memory,1
+fantasy_reasoning_task,10,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,10,Theory of Mind,0
+fantasy_reasoning_task,10,Working Memory,1
+fantasy_reasoning_task,10,ambiguity,5
+fantasy_reasoning_task,10,factuality,5
+fantasy_reasoning_task,110,Causal Reasoning,0
+fantasy_reasoning_task,110,Cognitive Flexibility,0
+fantasy_reasoning_task,110,Emotion Perception and Empathy,0
+fantasy_reasoning_task,110,Episodic Memory,0
+fantasy_reasoning_task,110,Functional Perception,1
+fantasy_reasoning_task,110,Inhibitory Control,1
+fantasy_reasoning_task,110,Language,1
+fantasy_reasoning_task,110,Mental Simulation,0
+fantasy_reasoning_task,110,Metacognition,0
+fantasy_reasoning_task,110,Object Permanence,0
+fantasy_reasoning_task,110,Perception and Pattern Recognition,1
+fantasy_reasoning_task,110,Planning,0
+fantasy_reasoning_task,110,Procedural Memory,0
+fantasy_reasoning_task,110,Prospective Memory,0
+fantasy_reasoning_task,110,Semantic Memory,1
+fantasy_reasoning_task,110,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,110,Theory of Mind,0
+fantasy_reasoning_task,110,Working Memory,0
+fantasy_reasoning_task,110,ambiguity,4
+fantasy_reasoning_task,110,factuality,5
+fantasy_reasoning_task,111,Causal Reasoning,0
+fantasy_reasoning_task,111,Cognitive Flexibility,0
+fantasy_reasoning_task,111,Emotion Perception and Empathy,0
+fantasy_reasoning_task,111,Episodic Memory,0
+fantasy_reasoning_task,111,Functional Perception,0
+fantasy_reasoning_task,111,Inhibitory Control,2
+fantasy_reasoning_task,111,Language,1
+fantasy_reasoning_task,111,Mental Simulation,0
+fantasy_reasoning_task,111,Metacognition,1
+fantasy_reasoning_task,111,Object Permanence,0
+fantasy_reasoning_task,111,Perception and Pattern Recognition,1
+fantasy_reasoning_task,111,Planning,0
+fantasy_reasoning_task,111,Procedural Memory,0
+fantasy_reasoning_task,111,Prospective Memory,0
+fantasy_reasoning_task,111,Semantic Memory,1
+fantasy_reasoning_task,111,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,111,Theory of Mind,0
+fantasy_reasoning_task,111,Working Memory,1
+fantasy_reasoning_task,111,ambiguity,5
+fantasy_reasoning_task,111,factuality,5
+fantasy_reasoning_task,112,Causal Reasoning,1
+fantasy_reasoning_task,112,Cognitive Flexibility,0
+fantasy_reasoning_task,112,Emotion Perception and Empathy,0
+fantasy_reasoning_task,112,Episodic Memory,0
+fantasy_reasoning_task,112,Functional Perception,2
+fantasy_reasoning_task,112,Inhibitory Control,1
+fantasy_reasoning_task,112,Language,1
+fantasy_reasoning_task,112,Mental Simulation,1
+fantasy_reasoning_task,112,Metacognition,1
+fantasy_reasoning_task,112,Object Permanence,0
+fantasy_reasoning_task,112,Perception and Pattern Recognition,1
+fantasy_reasoning_task,112,Planning,0
+fantasy_reasoning_task,112,Procedural Memory,0
+fantasy_reasoning_task,112,Prospective Memory,0
+fantasy_reasoning_task,112,Semantic Memory,0
+fantasy_reasoning_task,112,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,112,Theory of Mind,1
+fantasy_reasoning_task,112,Working Memory,0
+fantasy_reasoning_task,112,ambiguity,5
+fantasy_reasoning_task,112,factuality,3
+fantasy_reasoning_task,113,Causal Reasoning,0
+fantasy_reasoning_task,113,Cognitive Flexibility,0
+fantasy_reasoning_task,113,Emotion Perception and Empathy,0
+fantasy_reasoning_task,113,Episodic Memory,0
+fantasy_reasoning_task,113,Functional Perception,0
+fantasy_reasoning_task,113,Inhibitory Control,1
+fantasy_reasoning_task,113,Language,2
+fantasy_reasoning_task,113,Mental Simulation,1
+fantasy_reasoning_task,113,Metacognition,0
+fantasy_reasoning_task,113,Object Permanence,0
+fantasy_reasoning_task,113,Perception and Pattern Recognition,1
+fantasy_reasoning_task,113,Planning,0
+fantasy_reasoning_task,113,Procedural Memory,0
+fantasy_reasoning_task,113,Prospective Memory,0
+fantasy_reasoning_task,113,Semantic Memory,2
+fantasy_reasoning_task,113,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,113,Theory of Mind,0
+fantasy_reasoning_task,113,Working Memory,1
+fantasy_reasoning_task,113,ambiguity,4
+fantasy_reasoning_task,113,factuality,3
+fantasy_reasoning_task,114,Causal Reasoning,1
+fantasy_reasoning_task,114,Cognitive Flexibility,1
+fantasy_reasoning_task,114,Emotion Perception and Empathy,0
+fantasy_reasoning_task,114,Episodic Memory,0
+fantasy_reasoning_task,114,Functional Perception,2
+fantasy_reasoning_task,114,Inhibitory Control,1
+fantasy_reasoning_task,114,Language,2
+fantasy_reasoning_task,114,Mental Simulation,1
+fantasy_reasoning_task,114,Metacognition,1
+fantasy_reasoning_task,114,Object Permanence,1
+fantasy_reasoning_task,114,Perception and Pattern Recognition,1
+fantasy_reasoning_task,114,Planning,0
+fantasy_reasoning_task,114,Procedural Memory,0
+fantasy_reasoning_task,114,Prospective Memory,0
+fantasy_reasoning_task,114,Semantic Memory,3
+fantasy_reasoning_task,114,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,114,Theory of Mind,2
+fantasy_reasoning_task,114,Working Memory,1
+fantasy_reasoning_task,114,ambiguity,5
+fantasy_reasoning_task,114,factuality,5
+fantasy_reasoning_task,115,Causal Reasoning,1
+fantasy_reasoning_task,115,Cognitive Flexibility,0
+fantasy_reasoning_task,115,Emotion Perception and Empathy,0
+fantasy_reasoning_task,115,Episodic Memory,0
+fantasy_reasoning_task,115,Functional Perception,2
+fantasy_reasoning_task,115,Inhibitory Control,2
+fantasy_reasoning_task,115,Language,1
+fantasy_reasoning_task,115,Mental Simulation,1
+fantasy_reasoning_task,115,Metacognition,0
+fantasy_reasoning_task,115,Object Permanence,4
+fantasy_reasoning_task,115,Perception and Pattern Recognition,1
+fantasy_reasoning_task,115,Planning,0
+fantasy_reasoning_task,115,Procedural Memory,0
+fantasy_reasoning_task,115,Prospective Memory,0
+fantasy_reasoning_task,115,Semantic Memory,2
+fantasy_reasoning_task,115,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,115,Theory of Mind,0
+fantasy_reasoning_task,115,Working Memory,1
+fantasy_reasoning_task,115,ambiguity,5
+fantasy_reasoning_task,115,factuality,5
+fantasy_reasoning_task,116,Causal Reasoning,1
+fantasy_reasoning_task,116,Cognitive Flexibility,1
+fantasy_reasoning_task,116,Emotion Perception and Empathy,0
+fantasy_reasoning_task,116,Episodic Memory,0
+fantasy_reasoning_task,116,Functional Perception,0
+fantasy_reasoning_task,116,Inhibitory Control,1
+fantasy_reasoning_task,116,Language,3
+fantasy_reasoning_task,116,Mental Simulation,0
+fantasy_reasoning_task,116,Metacognition,1
+fantasy_reasoning_task,116,Object Permanence,0
+fantasy_reasoning_task,116,Perception and Pattern Recognition,1
+fantasy_reasoning_task,116,Planning,0
+fantasy_reasoning_task,116,Procedural Memory,0
+fantasy_reasoning_task,116,Prospective Memory,0
+fantasy_reasoning_task,116,Semantic Memory,3
+fantasy_reasoning_task,116,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,116,Theory of Mind,0
+fantasy_reasoning_task,116,Working Memory,1
+fantasy_reasoning_task,116,ambiguity,3
+fantasy_reasoning_task,116,factuality,1
+fantasy_reasoning_task,117,Causal Reasoning,1
+fantasy_reasoning_task,117,Cognitive Flexibility,0
+fantasy_reasoning_task,117,Emotion Perception and Empathy,0
+fantasy_reasoning_task,117,Episodic Memory,0
+fantasy_reasoning_task,117,Functional Perception,1
+fantasy_reasoning_task,117,Inhibitory Control,2
+fantasy_reasoning_task,117,Language,2
+fantasy_reasoning_task,117,Mental Simulation,1
+fantasy_reasoning_task,117,Metacognition,1
+fantasy_reasoning_task,117,Object Permanence,0
+fantasy_reasoning_task,117,Perception and Pattern Recognition,1
+fantasy_reasoning_task,117,Planning,0
+fantasy_reasoning_task,117,Procedural Memory,0
+fantasy_reasoning_task,117,Prospective Memory,0
+fantasy_reasoning_task,117,Semantic Memory,1
+fantasy_reasoning_task,117,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,117,Theory of Mind,0
+fantasy_reasoning_task,117,Working Memory,0
+fantasy_reasoning_task,117,ambiguity,3
+fantasy_reasoning_task,117,factuality,2
+fantasy_reasoning_task,118,Causal Reasoning,1
+fantasy_reasoning_task,118,Cognitive Flexibility,0
+fantasy_reasoning_task,118,Emotion Perception and Empathy,2
+fantasy_reasoning_task,118,Episodic Memory,0
+fantasy_reasoning_task,118,Functional Perception,1
+fantasy_reasoning_task,118,Inhibitory Control,1
+fantasy_reasoning_task,118,Language,1
+fantasy_reasoning_task,118,Mental Simulation,1
+fantasy_reasoning_task,118,Metacognition,2
+fantasy_reasoning_task,118,Object Permanence,0
+fantasy_reasoning_task,118,Perception and Pattern Recognition,2
+fantasy_reasoning_task,118,Planning,0
+fantasy_reasoning_task,118,Procedural Memory,0
+fantasy_reasoning_task,118,Prospective Memory,0
+fantasy_reasoning_task,118,Semantic Memory,2
+fantasy_reasoning_task,118,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,118,Theory of Mind,2
+fantasy_reasoning_task,118,Working Memory,1
+fantasy_reasoning_task,118,ambiguity,5
+fantasy_reasoning_task,118,factuality,5
+fantasy_reasoning_task,119,Causal Reasoning,1
+fantasy_reasoning_task,119,Cognitive Flexibility,0
+fantasy_reasoning_task,119,Emotion Perception and Empathy,0
+fantasy_reasoning_task,119,Episodic Memory,0
+fantasy_reasoning_task,119,Functional Perception,1
+fantasy_reasoning_task,119,Inhibitory Control,1
+fantasy_reasoning_task,119,Language,1
+fantasy_reasoning_task,119,Mental Simulation,1
+fantasy_reasoning_task,119,Metacognition,1
+fantasy_reasoning_task,119,Object Permanence,0
+fantasy_reasoning_task,119,Perception and Pattern Recognition,0
+fantasy_reasoning_task,119,Planning,0
+fantasy_reasoning_task,119,Procedural Memory,0
+fantasy_reasoning_task,119,Prospective Memory,0
+fantasy_reasoning_task,119,Semantic Memory,1
+fantasy_reasoning_task,119,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,119,Theory of Mind,0
+fantasy_reasoning_task,119,Working Memory,0
+fantasy_reasoning_task,119,ambiguity,3
+fantasy_reasoning_task,119,factuality,2
+fantasy_reasoning_task,11,Causal Reasoning,1
+fantasy_reasoning_task,11,Cognitive Flexibility,0
+fantasy_reasoning_task,11,Emotion Perception and Empathy,0
+fantasy_reasoning_task,11,Episodic Memory,1
+fantasy_reasoning_task,11,Functional Perception,1
+fantasy_reasoning_task,11,Inhibitory Control,1
+fantasy_reasoning_task,11,Language,1
+fantasy_reasoning_task,11,Mental Simulation,1
+fantasy_reasoning_task,11,Metacognition,0
+fantasy_reasoning_task,11,Object Permanence,0
+fantasy_reasoning_task,11,Perception and Pattern Recognition,1
+fantasy_reasoning_task,11,Planning,0
+fantasy_reasoning_task,11,Procedural Memory,0
+fantasy_reasoning_task,11,Prospective Memory,0
+fantasy_reasoning_task,11,Semantic Memory,1
+fantasy_reasoning_task,11,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,11,Theory of Mind,0
+fantasy_reasoning_task,11,Working Memory,1
+fantasy_reasoning_task,11,ambiguity,5
+fantasy_reasoning_task,11,factuality,5
+fantasy_reasoning_task,120,Causal Reasoning,1
+fantasy_reasoning_task,120,Cognitive Flexibility,0
+fantasy_reasoning_task,120,Emotion Perception and Empathy,0
+fantasy_reasoning_task,120,Episodic Memory,0
+fantasy_reasoning_task,120,Functional Perception,1
+fantasy_reasoning_task,120,Inhibitory Control,1
+fantasy_reasoning_task,120,Language,1
+fantasy_reasoning_task,120,Mental Simulation,0
+fantasy_reasoning_task,120,Metacognition,0
+fantasy_reasoning_task,120,Object Permanence,0
+fantasy_reasoning_task,120,Perception and Pattern Recognition,1
+fantasy_reasoning_task,120,Planning,0
+fantasy_reasoning_task,120,Procedural Memory,0
+fantasy_reasoning_task,120,Prospective Memory,0
+fantasy_reasoning_task,120,Semantic Memory,1
+fantasy_reasoning_task,120,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,120,Theory of Mind,0
+fantasy_reasoning_task,120,Working Memory,0
+fantasy_reasoning_task,120,ambiguity,5
+fantasy_reasoning_task,120,factuality,5
+fantasy_reasoning_task,121,Causal Reasoning,1
+fantasy_reasoning_task,121,Cognitive Flexibility,0
+fantasy_reasoning_task,121,Emotion Perception and Empathy,0
+fantasy_reasoning_task,121,Episodic Memory,0
+fantasy_reasoning_task,121,Functional Perception,1
+fantasy_reasoning_task,121,Inhibitory Control,0
+fantasy_reasoning_task,121,Language,1
+fantasy_reasoning_task,121,Mental Simulation,1
+fantasy_reasoning_task,121,Metacognition,0
+fantasy_reasoning_task,121,Object Permanence,0
+fantasy_reasoning_task,121,Perception and Pattern Recognition,1
+fantasy_reasoning_task,121,Planning,0
+fantasy_reasoning_task,121,Procedural Memory,0
+fantasy_reasoning_task,121,Prospective Memory,0
+fantasy_reasoning_task,121,Semantic Memory,1
+fantasy_reasoning_task,121,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,121,Theory of Mind,0
+fantasy_reasoning_task,121,Working Memory,0
+fantasy_reasoning_task,121,ambiguity,5
+fantasy_reasoning_task,121,factuality,5
+fantasy_reasoning_task,122,Causal Reasoning,1
+fantasy_reasoning_task,122,Cognitive Flexibility,0
+fantasy_reasoning_task,122,Emotion Perception and Empathy,0
+fantasy_reasoning_task,122,Episodic Memory,0
+fantasy_reasoning_task,122,Functional Perception,1
+fantasy_reasoning_task,122,Inhibitory Control,2
+fantasy_reasoning_task,122,Language,1
+fantasy_reasoning_task,122,Mental Simulation,0
+fantasy_reasoning_task,122,Metacognition,1
+fantasy_reasoning_task,122,Object Permanence,0
+fantasy_reasoning_task,122,Perception and Pattern Recognition,1
+fantasy_reasoning_task,122,Planning,0
+fantasy_reasoning_task,122,Procedural Memory,0
+fantasy_reasoning_task,122,Prospective Memory,0
+fantasy_reasoning_task,122,Semantic Memory,1
+fantasy_reasoning_task,122,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,122,Theory of Mind,0
+fantasy_reasoning_task,122,Working Memory,0
+fantasy_reasoning_task,122,ambiguity,5
+fantasy_reasoning_task,122,factuality,5
+fantasy_reasoning_task,123,Causal Reasoning,1
+fantasy_reasoning_task,123,Cognitive Flexibility,0
+fantasy_reasoning_task,123,Emotion Perception and Empathy,0
+fantasy_reasoning_task,123,Episodic Memory,0
+fantasy_reasoning_task,123,Functional Perception,1
+fantasy_reasoning_task,123,Inhibitory Control,1
+fantasy_reasoning_task,123,Language,1
+fantasy_reasoning_task,123,Mental Simulation,1
+fantasy_reasoning_task,123,Metacognition,0
+fantasy_reasoning_task,123,Object Permanence,0
+fantasy_reasoning_task,123,Perception and Pattern Recognition,0
+fantasy_reasoning_task,123,Planning,0
+fantasy_reasoning_task,123,Procedural Memory,0
+fantasy_reasoning_task,123,Prospective Memory,0
+fantasy_reasoning_task,123,Semantic Memory,1
+fantasy_reasoning_task,123,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,123,Theory of Mind,0
+fantasy_reasoning_task,123,Working Memory,0
+fantasy_reasoning_task,123,ambiguity,4
+fantasy_reasoning_task,123,factuality,5
+fantasy_reasoning_task,124,Causal Reasoning,1
+fantasy_reasoning_task,124,Cognitive Flexibility,0
+fantasy_reasoning_task,124,Emotion Perception and Empathy,0
+fantasy_reasoning_task,124,Episodic Memory,0
+fantasy_reasoning_task,124,Functional Perception,1
+fantasy_reasoning_task,124,Inhibitory Control,2
+fantasy_reasoning_task,124,Language,1
+fantasy_reasoning_task,124,Mental Simulation,1
+fantasy_reasoning_task,124,Metacognition,1
+fantasy_reasoning_task,124,Object Permanence,0
+fantasy_reasoning_task,124,Perception and Pattern Recognition,1
+fantasy_reasoning_task,124,Planning,0
+fantasy_reasoning_task,124,Procedural Memory,0
+fantasy_reasoning_task,124,Prospective Memory,0
+fantasy_reasoning_task,124,Semantic Memory,1
+fantasy_reasoning_task,124,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,124,Theory of Mind,0
+fantasy_reasoning_task,124,Working Memory,1
+fantasy_reasoning_task,124,ambiguity,5
+fantasy_reasoning_task,124,factuality,5
+fantasy_reasoning_task,125,Causal Reasoning,0
+fantasy_reasoning_task,125,Cognitive Flexibility,0
+fantasy_reasoning_task,125,Emotion Perception and Empathy,0
+fantasy_reasoning_task,125,Episodic Memory,0
+fantasy_reasoning_task,125,Functional Perception,0
+fantasy_reasoning_task,125,Inhibitory Control,2
+fantasy_reasoning_task,125,Language,1
+fantasy_reasoning_task,125,Mental Simulation,0
+fantasy_reasoning_task,125,Metacognition,1
+fantasy_reasoning_task,125,Object Permanence,0
+fantasy_reasoning_task,125,Perception and Pattern Recognition,0
+fantasy_reasoning_task,125,Planning,0
+fantasy_reasoning_task,125,Procedural Memory,0
+fantasy_reasoning_task,125,Prospective Memory,0
+fantasy_reasoning_task,125,Semantic Memory,2
+fantasy_reasoning_task,125,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,125,Theory of Mind,0
+fantasy_reasoning_task,125,Working Memory,0
+fantasy_reasoning_task,125,ambiguity,4
+fantasy_reasoning_task,125,factuality,1
+fantasy_reasoning_task,126,Causal Reasoning,0
+fantasy_reasoning_task,126,Cognitive Flexibility,0
+fantasy_reasoning_task,126,Emotion Perception and Empathy,0
+fantasy_reasoning_task,126,Episodic Memory,0
+fantasy_reasoning_task,126,Functional Perception,0
+fantasy_reasoning_task,126,Inhibitory Control,2
+fantasy_reasoning_task,126,Language,1
+fantasy_reasoning_task,126,Mental Simulation,0
+fantasy_reasoning_task,126,Metacognition,1
+fantasy_reasoning_task,126,Object Permanence,0
+fantasy_reasoning_task,126,Perception and Pattern Recognition,1
+fantasy_reasoning_task,126,Planning,0
+fantasy_reasoning_task,126,Procedural Memory,0
+fantasy_reasoning_task,126,Prospective Memory,0
+fantasy_reasoning_task,126,Semantic Memory,2
+fantasy_reasoning_task,126,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,126,Theory of Mind,0
+fantasy_reasoning_task,126,Working Memory,0
+fantasy_reasoning_task,126,ambiguity,2
+fantasy_reasoning_task,126,factuality,1
+fantasy_reasoning_task,127,Causal Reasoning,1
+fantasy_reasoning_task,127,Cognitive Flexibility,0
+fantasy_reasoning_task,127,Emotion Perception and Empathy,0
+fantasy_reasoning_task,127,Episodic Memory,0
+fantasy_reasoning_task,127,Functional Perception,1
+fantasy_reasoning_task,127,Inhibitory Control,1
+fantasy_reasoning_task,127,Language,1
+fantasy_reasoning_task,127,Mental Simulation,1
+fantasy_reasoning_task,127,Metacognition,1
+fantasy_reasoning_task,127,Object Permanence,0
+fantasy_reasoning_task,127,Perception and Pattern Recognition,1
+fantasy_reasoning_task,127,Planning,0
+fantasy_reasoning_task,127,Procedural Memory,0
+fantasy_reasoning_task,127,Prospective Memory,0
+fantasy_reasoning_task,127,Semantic Memory,2
+fantasy_reasoning_task,127,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,127,Theory of Mind,0
+fantasy_reasoning_task,127,Working Memory,1
+fantasy_reasoning_task,127,ambiguity,4
+fantasy_reasoning_task,127,factuality,5
+fantasy_reasoning_task,128,Causal Reasoning,1
+fantasy_reasoning_task,128,Cognitive Flexibility,0
+fantasy_reasoning_task,128,Emotion Perception and Empathy,0
+fantasy_reasoning_task,128,Episodic Memory,0
+fantasy_reasoning_task,128,Functional Perception,1
+fantasy_reasoning_task,128,Inhibitory Control,1
+fantasy_reasoning_task,128,Language,1
+fantasy_reasoning_task,128,Mental Simulation,0
+fantasy_reasoning_task,128,Metacognition,1
+fantasy_reasoning_task,128,Object Permanence,2
+fantasy_reasoning_task,128,Perception and Pattern Recognition,1
+fantasy_reasoning_task,128,Planning,0
+fantasy_reasoning_task,128,Procedural Memory,0
+fantasy_reasoning_task,128,Prospective Memory,0
+fantasy_reasoning_task,128,Semantic Memory,1
+fantasy_reasoning_task,128,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,128,Theory of Mind,0
+fantasy_reasoning_task,128,Working Memory,2
+fantasy_reasoning_task,128,ambiguity,4
+fantasy_reasoning_task,128,factuality,5
+fantasy_reasoning_task,129,Causal Reasoning,1
+fantasy_reasoning_task,129,Cognitive Flexibility,0
+fantasy_reasoning_task,129,Emotion Perception and Empathy,0
+fantasy_reasoning_task,129,Episodic Memory,0
+fantasy_reasoning_task,129,Functional Perception,1
+fantasy_reasoning_task,129,Inhibitory Control,0
+fantasy_reasoning_task,129,Language,1
+fantasy_reasoning_task,129,Mental Simulation,1
+fantasy_reasoning_task,129,Metacognition,1
+fantasy_reasoning_task,129,Object Permanence,0
+fantasy_reasoning_task,129,Perception and Pattern Recognition,1
+fantasy_reasoning_task,129,Planning,0
+fantasy_reasoning_task,129,Procedural Memory,0
+fantasy_reasoning_task,129,Prospective Memory,0
+fantasy_reasoning_task,129,Semantic Memory,2
+fantasy_reasoning_task,129,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,129,Theory of Mind,0
+fantasy_reasoning_task,129,Working Memory,1
+fantasy_reasoning_task,129,ambiguity,3
+fantasy_reasoning_task,129,factuality,5
+fantasy_reasoning_task,12,Causal Reasoning,1
+fantasy_reasoning_task,12,Cognitive Flexibility,1
+fantasy_reasoning_task,12,Emotion Perception and Empathy,0
+fantasy_reasoning_task,12,Episodic Memory,1
+fantasy_reasoning_task,12,Functional Perception,1
+fantasy_reasoning_task,12,Inhibitory Control,1
+fantasy_reasoning_task,12,Language,2
+fantasy_reasoning_task,12,Mental Simulation,1
+fantasy_reasoning_task,12,Metacognition,1
+fantasy_reasoning_task,12,Object Permanence,0
+fantasy_reasoning_task,12,Perception and Pattern Recognition,1
+fantasy_reasoning_task,12,Planning,0
+fantasy_reasoning_task,12,Procedural Memory,0
+fantasy_reasoning_task,12,Prospective Memory,0
+fantasy_reasoning_task,12,Semantic Memory,1
+fantasy_reasoning_task,12,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,12,Theory of Mind,0
+fantasy_reasoning_task,12,Working Memory,1
+fantasy_reasoning_task,12,ambiguity,5
+fantasy_reasoning_task,12,factuality,5
+fantasy_reasoning_task,130,Causal Reasoning,2
+fantasy_reasoning_task,130,Cognitive Flexibility,2
+fantasy_reasoning_task,130,Emotion Perception and Empathy,0
+fantasy_reasoning_task,130,Episodic Memory,0
+fantasy_reasoning_task,130,Functional Perception,1
+fantasy_reasoning_task,130,Inhibitory Control,2
+fantasy_reasoning_task,130,Language,1
+fantasy_reasoning_task,130,Mental Simulation,2
+fantasy_reasoning_task,130,Metacognition,1
+fantasy_reasoning_task,130,Object Permanence,0
+fantasy_reasoning_task,130,Perception and Pattern Recognition,2
+fantasy_reasoning_task,130,Planning,1
+fantasy_reasoning_task,130,Procedural Memory,0
+fantasy_reasoning_task,130,Prospective Memory,0
+fantasy_reasoning_task,130,Semantic Memory,2
+fantasy_reasoning_task,130,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,130,Theory of Mind,0
+fantasy_reasoning_task,130,Working Memory,2
+fantasy_reasoning_task,130,ambiguity,4
+fantasy_reasoning_task,130,factuality,5
+fantasy_reasoning_task,131,Causal Reasoning,2
+fantasy_reasoning_task,131,Cognitive Flexibility,0
+fantasy_reasoning_task,131,Emotion Perception and Empathy,0
+fantasy_reasoning_task,131,Episodic Memory,0
+fantasy_reasoning_task,131,Functional Perception,2
+fantasy_reasoning_task,131,Inhibitory Control,1
+fantasy_reasoning_task,131,Language,3
+fantasy_reasoning_task,131,Mental Simulation,3
+fantasy_reasoning_task,131,Metacognition,2
+fantasy_reasoning_task,131,Object Permanence,2
+fantasy_reasoning_task,131,Perception and Pattern Recognition,3
+fantasy_reasoning_task,131,Planning,0
+fantasy_reasoning_task,131,Procedural Memory,0
+fantasy_reasoning_task,131,Prospective Memory,0
+fantasy_reasoning_task,131,Semantic Memory,3
+fantasy_reasoning_task,131,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,131,Theory of Mind,0
+fantasy_reasoning_task,131,Working Memory,2
+fantasy_reasoning_task,131,ambiguity,5
+fantasy_reasoning_task,131,factuality,5
+fantasy_reasoning_task,132,Causal Reasoning,1
+fantasy_reasoning_task,132,Cognitive Flexibility,1
+fantasy_reasoning_task,132,Emotion Perception and Empathy,0
+fantasy_reasoning_task,132,Episodic Memory,0
+fantasy_reasoning_task,132,Functional Perception,1
+fantasy_reasoning_task,132,Inhibitory Control,2
+fantasy_reasoning_task,132,Language,2
+fantasy_reasoning_task,132,Mental Simulation,1
+fantasy_reasoning_task,132,Metacognition,1
+fantasy_reasoning_task,132,Object Permanence,0
+fantasy_reasoning_task,132,Perception and Pattern Recognition,1
+fantasy_reasoning_task,132,Planning,0
+fantasy_reasoning_task,132,Procedural Memory,0
+fantasy_reasoning_task,132,Prospective Memory,0
+fantasy_reasoning_task,132,Semantic Memory,3
+fantasy_reasoning_task,132,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,132,Theory of Mind,0
+fantasy_reasoning_task,132,Working Memory,1
+fantasy_reasoning_task,132,ambiguity,4
+fantasy_reasoning_task,132,factuality,3
+fantasy_reasoning_task,133,Causal Reasoning,1
+fantasy_reasoning_task,133,Cognitive Flexibility,0
+fantasy_reasoning_task,133,Emotion Perception and Empathy,0
+fantasy_reasoning_task,133,Episodic Memory,0
+fantasy_reasoning_task,133,Functional Perception,1
+fantasy_reasoning_task,133,Inhibitory Control,1
+fantasy_reasoning_task,133,Language,1
+fantasy_reasoning_task,133,Mental Simulation,1
+fantasy_reasoning_task,133,Metacognition,2
+fantasy_reasoning_task,133,Object Permanence,0
+fantasy_reasoning_task,133,Perception and Pattern Recognition,1
+fantasy_reasoning_task,133,Planning,0
+fantasy_reasoning_task,133,Procedural Memory,0
+fantasy_reasoning_task,133,Prospective Memory,0
+fantasy_reasoning_task,133,Semantic Memory,1
+fantasy_reasoning_task,133,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,133,Theory of Mind,0
+fantasy_reasoning_task,133,Working Memory,1
+fantasy_reasoning_task,133,ambiguity,3
+fantasy_reasoning_task,133,factuality,4
+fantasy_reasoning_task,134,Causal Reasoning,1
+fantasy_reasoning_task,134,Cognitive Flexibility,0
+fantasy_reasoning_task,134,Emotion Perception and Empathy,0
+fantasy_reasoning_task,134,Episodic Memory,0
+fantasy_reasoning_task,134,Functional Perception,0
+fantasy_reasoning_task,134,Inhibitory Control,0
+fantasy_reasoning_task,134,Language,2
+fantasy_reasoning_task,134,Mental Simulation,1
+fantasy_reasoning_task,134,Metacognition,0
+fantasy_reasoning_task,134,Object Permanence,0
+fantasy_reasoning_task,134,Perception and Pattern Recognition,1
+fantasy_reasoning_task,134,Planning,0
+fantasy_reasoning_task,134,Procedural Memory,0
+fantasy_reasoning_task,134,Prospective Memory,0
+fantasy_reasoning_task,134,Semantic Memory,2
+fantasy_reasoning_task,134,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,134,Theory of Mind,1
+fantasy_reasoning_task,134,Working Memory,0
+fantasy_reasoning_task,134,ambiguity,4
+fantasy_reasoning_task,134,factuality,5
+fantasy_reasoning_task,135,Causal Reasoning,1
+fantasy_reasoning_task,135,Cognitive Flexibility,0
+fantasy_reasoning_task,135,Emotion Perception and Empathy,0
+fantasy_reasoning_task,135,Episodic Memory,0
+fantasy_reasoning_task,135,Functional Perception,1
+fantasy_reasoning_task,135,Inhibitory Control,2
+fantasy_reasoning_task,135,Language,1
+fantasy_reasoning_task,135,Mental Simulation,1
+fantasy_reasoning_task,135,Metacognition,1
+fantasy_reasoning_task,135,Object Permanence,1
+fantasy_reasoning_task,135,Perception and Pattern Recognition,1
+fantasy_reasoning_task,135,Planning,0
+fantasy_reasoning_task,135,Procedural Memory,0
+fantasy_reasoning_task,135,Prospective Memory,0
+fantasy_reasoning_task,135,Semantic Memory,0
+fantasy_reasoning_task,135,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,135,Theory of Mind,0
+fantasy_reasoning_task,135,Working Memory,0
+fantasy_reasoning_task,135,ambiguity,5
+fantasy_reasoning_task,135,factuality,5
+fantasy_reasoning_task,136,Causal Reasoning,1
+fantasy_reasoning_task,136,Cognitive Flexibility,0
+fantasy_reasoning_task,136,Emotion Perception and Empathy,0
+fantasy_reasoning_task,136,Episodic Memory,0
+fantasy_reasoning_task,136,Functional Perception,1
+fantasy_reasoning_task,136,Inhibitory Control,2
+fantasy_reasoning_task,136,Language,2
+fantasy_reasoning_task,136,Mental Simulation,0
+fantasy_reasoning_task,136,Metacognition,1
+fantasy_reasoning_task,136,Object Permanence,0
+fantasy_reasoning_task,136,Perception and Pattern Recognition,0
+fantasy_reasoning_task,136,Planning,0
+fantasy_reasoning_task,136,Procedural Memory,0
+fantasy_reasoning_task,136,Prospective Memory,0
+fantasy_reasoning_task,136,Semantic Memory,1
+fantasy_reasoning_task,136,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,136,Theory of Mind,0
+fantasy_reasoning_task,136,Working Memory,0
+fantasy_reasoning_task,136,ambiguity,4
+fantasy_reasoning_task,136,factuality,2
+fantasy_reasoning_task,137,Causal Reasoning,1
+fantasy_reasoning_task,137,Cognitive Flexibility,0
+fantasy_reasoning_task,137,Emotion Perception and Empathy,0
+fantasy_reasoning_task,137,Episodic Memory,0
+fantasy_reasoning_task,137,Functional Perception,1
+fantasy_reasoning_task,137,Inhibitory Control,0
+fantasy_reasoning_task,137,Language,1
+fantasy_reasoning_task,137,Mental Simulation,1
+fantasy_reasoning_task,137,Metacognition,1
+fantasy_reasoning_task,137,Object Permanence,0
+fantasy_reasoning_task,137,Perception and Pattern Recognition,1
+fantasy_reasoning_task,137,Planning,0
+fantasy_reasoning_task,137,Procedural Memory,0
+fantasy_reasoning_task,137,Prospective Memory,0
+fantasy_reasoning_task,137,Semantic Memory,1
+fantasy_reasoning_task,137,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,137,Theory of Mind,0
+fantasy_reasoning_task,137,Working Memory,1
+fantasy_reasoning_task,137,ambiguity,5
+fantasy_reasoning_task,137,factuality,1
+fantasy_reasoning_task,138,Causal Reasoning,1
+fantasy_reasoning_task,138,Cognitive Flexibility,1
+fantasy_reasoning_task,138,Emotion Perception and Empathy,0
+fantasy_reasoning_task,138,Episodic Memory,0
+fantasy_reasoning_task,138,Functional Perception,2
+fantasy_reasoning_task,138,Inhibitory Control,1
+fantasy_reasoning_task,138,Language,1
+fantasy_reasoning_task,138,Mental Simulation,2
+fantasy_reasoning_task,138,Metacognition,1
+fantasy_reasoning_task,138,Object Permanence,0
+fantasy_reasoning_task,138,Perception and Pattern Recognition,1
+fantasy_reasoning_task,138,Planning,0
+fantasy_reasoning_task,138,Procedural Memory,0
+fantasy_reasoning_task,138,Prospective Memory,0
+fantasy_reasoning_task,138,Semantic Memory,1
+fantasy_reasoning_task,138,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,138,Theory of Mind,0
+fantasy_reasoning_task,138,Working Memory,0
+fantasy_reasoning_task,138,ambiguity,5
+fantasy_reasoning_task,138,factuality,5
+fantasy_reasoning_task,139,Causal Reasoning,1
+fantasy_reasoning_task,139,Cognitive Flexibility,0
+fantasy_reasoning_task,139,Emotion Perception and Empathy,0
+fantasy_reasoning_task,139,Episodic Memory,0
+fantasy_reasoning_task,139,Functional Perception,3
+fantasy_reasoning_task,139,Inhibitory Control,0
+fantasy_reasoning_task,139,Language,1
+fantasy_reasoning_task,139,Mental Simulation,1
+fantasy_reasoning_task,139,Metacognition,0
+fantasy_reasoning_task,139,Object Permanence,0
+fantasy_reasoning_task,139,Perception and Pattern Recognition,1
+fantasy_reasoning_task,139,Planning,0
+fantasy_reasoning_task,139,Procedural Memory,0
+fantasy_reasoning_task,139,Prospective Memory,0
+fantasy_reasoning_task,139,Semantic Memory,2
+fantasy_reasoning_task,139,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,139,Theory of Mind,1
+fantasy_reasoning_task,139,Working Memory,0
+fantasy_reasoning_task,139,ambiguity,5
+fantasy_reasoning_task,139,factuality,5
+fantasy_reasoning_task,13,Causal Reasoning,1
+fantasy_reasoning_task,13,Cognitive Flexibility,0
+fantasy_reasoning_task,13,Emotion Perception and Empathy,0
+fantasy_reasoning_task,13,Episodic Memory,0
+fantasy_reasoning_task,13,Functional Perception,1
+fantasy_reasoning_task,13,Inhibitory Control,0
+fantasy_reasoning_task,13,Language,1
+fantasy_reasoning_task,13,Mental Simulation,1
+fantasy_reasoning_task,13,Metacognition,1
+fantasy_reasoning_task,13,Object Permanence,0
+fantasy_reasoning_task,13,Perception and Pattern Recognition,1
+fantasy_reasoning_task,13,Planning,0
+fantasy_reasoning_task,13,Procedural Memory,0
+fantasy_reasoning_task,13,Prospective Memory,0
+fantasy_reasoning_task,13,Semantic Memory,1
+fantasy_reasoning_task,13,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,13,Theory of Mind,0
+fantasy_reasoning_task,13,Working Memory,1
+fantasy_reasoning_task,13,ambiguity,5
+fantasy_reasoning_task,13,factuality,5
+fantasy_reasoning_task,140,Causal Reasoning,1
+fantasy_reasoning_task,140,Cognitive Flexibility,0
+fantasy_reasoning_task,140,Emotion Perception and Empathy,0
+fantasy_reasoning_task,140,Episodic Memory,0
+fantasy_reasoning_task,140,Functional Perception,1
+fantasy_reasoning_task,140,Inhibitory Control,0
+fantasy_reasoning_task,140,Language,1
+fantasy_reasoning_task,140,Mental Simulation,1
+fantasy_reasoning_task,140,Metacognition,1
+fantasy_reasoning_task,140,Object Permanence,0
+fantasy_reasoning_task,140,Perception and Pattern Recognition,1
+fantasy_reasoning_task,140,Planning,0
+fantasy_reasoning_task,140,Procedural Memory,0
+fantasy_reasoning_task,140,Prospective Memory,0
+fantasy_reasoning_task,140,Semantic Memory,2
+fantasy_reasoning_task,140,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,140,Theory of Mind,0
+fantasy_reasoning_task,140,Working Memory,1
+fantasy_reasoning_task,140,ambiguity,3
+fantasy_reasoning_task,140,factuality,4
+fantasy_reasoning_task,141,Causal Reasoning,0
+fantasy_reasoning_task,141,Cognitive Flexibility,0
+fantasy_reasoning_task,141,Emotion Perception and Empathy,0
+fantasy_reasoning_task,141,Episodic Memory,0
+fantasy_reasoning_task,141,Functional Perception,0
+fantasy_reasoning_task,141,Inhibitory Control,2
+fantasy_reasoning_task,141,Language,1
+fantasy_reasoning_task,141,Mental Simulation,1
+fantasy_reasoning_task,141,Metacognition,1
+fantasy_reasoning_task,141,Object Permanence,0
+fantasy_reasoning_task,141,Perception and Pattern Recognition,1
+fantasy_reasoning_task,141,Planning,0
+fantasy_reasoning_task,141,Procedural Memory,0
+fantasy_reasoning_task,141,Prospective Memory,0
+fantasy_reasoning_task,141,Semantic Memory,0
+fantasy_reasoning_task,141,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,141,Theory of Mind,3
+fantasy_reasoning_task,141,Working Memory,0
+fantasy_reasoning_task,141,ambiguity,4
+fantasy_reasoning_task,141,factuality,5
+fantasy_reasoning_task,142,Causal Reasoning,1
+fantasy_reasoning_task,142,Cognitive Flexibility,0
+fantasy_reasoning_task,142,Emotion Perception and Empathy,0
+fantasy_reasoning_task,142,Episodic Memory,0
+fantasy_reasoning_task,142,Functional Perception,0
+fantasy_reasoning_task,142,Inhibitory Control,1
+fantasy_reasoning_task,142,Language,1
+fantasy_reasoning_task,142,Mental Simulation,1
+fantasy_reasoning_task,142,Metacognition,0
+fantasy_reasoning_task,142,Object Permanence,0
+fantasy_reasoning_task,142,Perception and Pattern Recognition,1
+fantasy_reasoning_task,142,Planning,0
+fantasy_reasoning_task,142,Procedural Memory,0
+fantasy_reasoning_task,142,Prospective Memory,0
+fantasy_reasoning_task,142,Semantic Memory,1
+fantasy_reasoning_task,142,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,142,Theory of Mind,1
+fantasy_reasoning_task,142,Working Memory,0
+fantasy_reasoning_task,142,ambiguity,5
+fantasy_reasoning_task,142,factuality,5
+fantasy_reasoning_task,143,Causal Reasoning,1
+fantasy_reasoning_task,143,Cognitive Flexibility,0
+fantasy_reasoning_task,143,Emotion Perception and Empathy,0
+fantasy_reasoning_task,143,Episodic Memory,0
+fantasy_reasoning_task,143,Functional Perception,1
+fantasy_reasoning_task,143,Inhibitory Control,0
+fantasy_reasoning_task,143,Language,1
+fantasy_reasoning_task,143,Mental Simulation,1
+fantasy_reasoning_task,143,Metacognition,2
+fantasy_reasoning_task,143,Object Permanence,0
+fantasy_reasoning_task,143,Perception and Pattern Recognition,1
+fantasy_reasoning_task,143,Planning,0
+fantasy_reasoning_task,143,Procedural Memory,0
+fantasy_reasoning_task,143,Prospective Memory,0
+fantasy_reasoning_task,143,Semantic Memory,1
+fantasy_reasoning_task,143,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,143,Theory of Mind,2
+fantasy_reasoning_task,143,Working Memory,1
+fantasy_reasoning_task,143,ambiguity,4
+fantasy_reasoning_task,143,factuality,5
+fantasy_reasoning_task,144,Causal Reasoning,1
+fantasy_reasoning_task,144,Cognitive Flexibility,1
+fantasy_reasoning_task,144,Emotion Perception and Empathy,0
+fantasy_reasoning_task,144,Episodic Memory,0
+fantasy_reasoning_task,144,Functional Perception,1
+fantasy_reasoning_task,144,Inhibitory Control,0
+fantasy_reasoning_task,144,Language,1
+fantasy_reasoning_task,144,Mental Simulation,1
+fantasy_reasoning_task,144,Metacognition,0
+fantasy_reasoning_task,144,Object Permanence,0
+fantasy_reasoning_task,144,Perception and Pattern Recognition,1
+fantasy_reasoning_task,144,Planning,0
+fantasy_reasoning_task,144,Procedural Memory,0
+fantasy_reasoning_task,144,Prospective Memory,0
+fantasy_reasoning_task,144,Semantic Memory,2
+fantasy_reasoning_task,144,Spatial Reasoning and Navigation,1
+fantasy_reasoning_task,144,Theory of Mind,0
+fantasy_reasoning_task,144,Working Memory,1
+fantasy_reasoning_task,144,ambiguity,5
+fantasy_reasoning_task,144,factuality,5
+fantasy_reasoning_task,145,Causal Reasoning,1
+fantasy_reasoning_task,145,Cognitive Flexibility,0
+fantasy_reasoning_task,145,Emotion Perception and Empathy,0
+fantasy_reasoning_task,145,Episodic Memory,0
+fantasy_reasoning_task,145,Functional Perception,1
+fantasy_reasoning_task,145,Inhibitory Control,1
+fantasy_reasoning_task,145,Language,1
+fantasy_reasoning_task,145,Mental Simulation,1
+fantasy_reasoning_task,145,Metacognition,1
+fantasy_reasoning_task,145,Object Permanence,0
+fantasy_reasoning_task,145,Perception and Pattern Recognition,1
+fantasy_reasoning_task,145,Planning,0
+fantasy_reasoning_task,145,Procedural Memory,0
+fantasy_reasoning_task,145,Prospective Memory,0
+fantasy_reasoning_task,145,Semantic Memory,2
+fantasy_reasoning_task,145,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,145,Theory of Mind,0
+fantasy_reasoning_task,145,Working Memory,0
+fantasy_reasoning_task,145,ambiguity,5
+fantasy_reasoning_task,145,factuality,5
+fantasy_reasoning_task,146,Causal Reasoning,0
+fantasy_reasoning_task,146,Cognitive Flexibility,0
+fantasy_reasoning_task,146,Emotion Perception and Empathy,0
+fantasy_reasoning_task,146,Episodic Memory,0
+fantasy_reasoning_task,146,Functional Perception,0
+fantasy_reasoning_task,146,Inhibitory Control,1
+fantasy_reasoning_task,146,Language,1
+fantasy_reasoning_task,146,Mental Simulation,0
+fantasy_reasoning_task,146,Metacognition,0
+fantasy_reasoning_task,146,Object Permanence,0
+fantasy_reasoning_task,146,Perception and Pattern Recognition,1
+fantasy_reasoning_task,146,Planning,0
+fantasy_reasoning_task,146,Procedural Memory,0
+fantasy_reasoning_task,146,Prospective Memory,0
+fantasy_reasoning_task,146,Semantic Memory,1
+fantasy_reasoning_task,146,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,146,Theory of Mind,0
+fantasy_reasoning_task,146,Working Memory,0
+fantasy_reasoning_task,146,ambiguity,5
+fantasy_reasoning_task,146,factuality,5
+fantasy_reasoning_task,147,Causal Reasoning,1
+fantasy_reasoning_task,147,Cognitive Flexibility,0
+fantasy_reasoning_task,147,Emotion Perception and Empathy,0
+fantasy_reasoning_task,147,Episodic Memory,0
+fantasy_reasoning_task,147,Functional Perception,1
+fantasy_reasoning_task,147,Inhibitory Control,1
+fantasy_reasoning_task,147,Language,1
+fantasy_reasoning_task,147,Mental Simulation,1
+fantasy_reasoning_task,147,Metacognition,1
+fantasy_reasoning_task,147,Object Permanence,0
+fantasy_reasoning_task,147,Perception and Pattern Recognition,1
+fantasy_reasoning_task,147,Planning,0
+fantasy_reasoning_task,147,Procedural Memory,0
+fantasy_reasoning_task,147,Prospective Memory,0
+fantasy_reasoning_task,147,Semantic Memory,2
+fantasy_reasoning_task,147,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,147,Theory of Mind,0
+fantasy_reasoning_task,147,Working Memory,1
+fantasy_reasoning_task,147,ambiguity,5
+fantasy_reasoning_task,147,factuality,5
+fantasy_reasoning_task,148,Causal Reasoning,1
+fantasy_reasoning_task,148,Cognitive Flexibility,0
+fantasy_reasoning_task,148,Emotion Perception and Empathy,0
+fantasy_reasoning_task,148,Episodic Memory,0
+fantasy_reasoning_task,148,Functional Perception,1
+fantasy_reasoning_task,148,Inhibitory Control,1
+fantasy_reasoning_task,148,Language,1
+fantasy_reasoning_task,148,Mental Simulation,0
+fantasy_reasoning_task,148,Metacognition,2
+fantasy_reasoning_task,148,Object Permanence,0
+fantasy_reasoning_task,148,Perception and Pattern Recognition,1
+fantasy_reasoning_task,148,Planning,0
+fantasy_reasoning_task,148,Procedural Memory,0
+fantasy_reasoning_task,148,Prospective Memory,0
+fantasy_reasoning_task,148,Semantic Memory,2
+fantasy_reasoning_task,148,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,148,Theory of Mind,0
+fantasy_reasoning_task,148,Working Memory,1
+fantasy_reasoning_task,148,ambiguity,4
+fantasy_reasoning_task,148,factuality,1
+fantasy_reasoning_task,149,Causal Reasoning,1
+fantasy_reasoning_task,149,Cognitive Flexibility,0
+fantasy_reasoning_task,149,Emotion Perception and Empathy,0
+fantasy_reasoning_task,149,Episodic Memory,0
+fantasy_reasoning_task,149,Functional Perception,1
+fantasy_reasoning_task,149,Inhibitory Control,0
+fantasy_reasoning_task,149,Language,1
+fantasy_reasoning_task,149,Mental Simulation,0
+fantasy_reasoning_task,149,Metacognition,1
+fantasy_reasoning_task,149,Object Permanence,0
+fantasy_reasoning_task,149,Perception and Pattern Recognition,1
+fantasy_reasoning_task,149,Planning,0
+fantasy_reasoning_task,149,Procedural Memory,0
+fantasy_reasoning_task,149,Prospective Memory,0
+fantasy_reasoning_task,149,Semantic Memory,3
+fantasy_reasoning_task,149,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,149,Theory of Mind,0
+fantasy_reasoning_task,149,Working Memory,0
+fantasy_reasoning_task,149,ambiguity,5
+fantasy_reasoning_task,149,factuality,5
+fantasy_reasoning_task,14,Causal Reasoning,1
+fantasy_reasoning_task,14,Cognitive Flexibility,2
+fantasy_reasoning_task,14,Emotion Perception and Empathy,0
+fantasy_reasoning_task,14,Episodic Memory,0
+fantasy_reasoning_task,14,Functional Perception,1
+fantasy_reasoning_task,14,Inhibitory Control,1
+fantasy_reasoning_task,14,Language,2
+fantasy_reasoning_task,14,Mental Simulation,1
+fantasy_reasoning_task,14,Metacognition,1
+fantasy_reasoning_task,14,Object Permanence,0
+fantasy_reasoning_task,14,Perception and Pattern Recognition,1
+fantasy_reasoning_task,14,Planning,0
+fantasy_reasoning_task,14,Procedural Memory,0
+fantasy_reasoning_task,14,Prospective Memory,0
+fantasy_reasoning_task,14,Semantic Memory,1
+fantasy_reasoning_task,14,Spatial Reasoning and Navigation,1
+fantasy_reasoning_task,14,Theory of Mind,0
+fantasy_reasoning_task,14,Working Memory,1
+fantasy_reasoning_task,14,ambiguity,5
+fantasy_reasoning_task,14,factuality,5
+fantasy_reasoning_task,150,Causal Reasoning,1
+fantasy_reasoning_task,150,Cognitive Flexibility,1
+fantasy_reasoning_task,150,Emotion Perception and Empathy,0
+fantasy_reasoning_task,150,Episodic Memory,0
+fantasy_reasoning_task,150,Functional Perception,0
+fantasy_reasoning_task,150,Inhibitory Control,1
+fantasy_reasoning_task,150,Language,1
+fantasy_reasoning_task,150,Mental Simulation,1
+fantasy_reasoning_task,150,Metacognition,1
+fantasy_reasoning_task,150,Object Permanence,0
+fantasy_reasoning_task,150,Perception and Pattern Recognition,0
+fantasy_reasoning_task,150,Planning,0
+fantasy_reasoning_task,150,Procedural Memory,0
+fantasy_reasoning_task,150,Prospective Memory,0
+fantasy_reasoning_task,150,Semantic Memory,2
+fantasy_reasoning_task,150,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,150,Theory of Mind,1
+fantasy_reasoning_task,150,Working Memory,1
+fantasy_reasoning_task,150,ambiguity,4
+fantasy_reasoning_task,150,factuality,5
+fantasy_reasoning_task,151,Causal Reasoning,1
+fantasy_reasoning_task,151,Cognitive Flexibility,0
+fantasy_reasoning_task,151,Emotion Perception and Empathy,0
+fantasy_reasoning_task,151,Episodic Memory,0
+fantasy_reasoning_task,151,Functional Perception,0
+fantasy_reasoning_task,151,Inhibitory Control,0
+fantasy_reasoning_task,151,Language,1
+fantasy_reasoning_task,151,Mental Simulation,0
+fantasy_reasoning_task,151,Metacognition,2
+fantasy_reasoning_task,151,Object Permanence,0
+fantasy_reasoning_task,151,Perception and Pattern Recognition,1
+fantasy_reasoning_task,151,Planning,0
+fantasy_reasoning_task,151,Procedural Memory,0
+fantasy_reasoning_task,151,Prospective Memory,0
+fantasy_reasoning_task,151,Semantic Memory,2
+fantasy_reasoning_task,151,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,151,Theory of Mind,0
+fantasy_reasoning_task,151,Working Memory,0
+fantasy_reasoning_task,151,ambiguity,4
+fantasy_reasoning_task,151,factuality,5
+fantasy_reasoning_task,152,Causal Reasoning,1
+fantasy_reasoning_task,152,Cognitive Flexibility,0
+fantasy_reasoning_task,152,Emotion Perception and Empathy,0
+fantasy_reasoning_task,152,Episodic Memory,0
+fantasy_reasoning_task,152,Functional Perception,1
+fantasy_reasoning_task,152,Inhibitory Control,0
+fantasy_reasoning_task,152,Language,1
+fantasy_reasoning_task,152,Mental Simulation,0
+fantasy_reasoning_task,152,Metacognition,1
+fantasy_reasoning_task,152,Object Permanence,0
+fantasy_reasoning_task,152,Perception and Pattern Recognition,1
+fantasy_reasoning_task,152,Planning,0
+fantasy_reasoning_task,152,Procedural Memory,0
+fantasy_reasoning_task,152,Prospective Memory,0
+fantasy_reasoning_task,152,Semantic Memory,1
+fantasy_reasoning_task,152,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,152,Theory of Mind,0
+fantasy_reasoning_task,152,Working Memory,0
+fantasy_reasoning_task,152,ambiguity,5
+fantasy_reasoning_task,152,factuality,5
+fantasy_reasoning_task,153,Causal Reasoning,1
+fantasy_reasoning_task,153,Cognitive Flexibility,0
+fantasy_reasoning_task,153,Emotion Perception and Empathy,0
+fantasy_reasoning_task,153,Episodic Memory,0
+fantasy_reasoning_task,153,Functional Perception,1
+fantasy_reasoning_task,153,Inhibitory Control,1
+fantasy_reasoning_task,153,Language,1
+fantasy_reasoning_task,153,Mental Simulation,0
+fantasy_reasoning_task,153,Metacognition,0
+fantasy_reasoning_task,153,Object Permanence,0
+fantasy_reasoning_task,153,Perception and Pattern Recognition,1
+fantasy_reasoning_task,153,Planning,0
+fantasy_reasoning_task,153,Procedural Memory,0
+fantasy_reasoning_task,153,Prospective Memory,0
+fantasy_reasoning_task,153,Semantic Memory,1
+fantasy_reasoning_task,153,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,153,Theory of Mind,0
+fantasy_reasoning_task,153,Working Memory,0
+fantasy_reasoning_task,153,ambiguity,3
+fantasy_reasoning_task,153,factuality,5
+fantasy_reasoning_task,154,Causal Reasoning,1
+fantasy_reasoning_task,154,Cognitive Flexibility,0
+fantasy_reasoning_task,154,Emotion Perception and Empathy,0
+fantasy_reasoning_task,154,Episodic Memory,0
+fantasy_reasoning_task,154,Functional Perception,0
+fantasy_reasoning_task,154,Inhibitory Control,1
+fantasy_reasoning_task,154,Language,2
+fantasy_reasoning_task,154,Mental Simulation,0
+fantasy_reasoning_task,154,Metacognition,1
+fantasy_reasoning_task,154,Object Permanence,0
+fantasy_reasoning_task,154,Perception and Pattern Recognition,1
+fantasy_reasoning_task,154,Planning,0
+fantasy_reasoning_task,154,Procedural Memory,0
+fantasy_reasoning_task,154,Prospective Memory,0
+fantasy_reasoning_task,154,Semantic Memory,1
+fantasy_reasoning_task,154,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,154,Theory of Mind,0
+fantasy_reasoning_task,154,Working Memory,1
+fantasy_reasoning_task,154,ambiguity,5
+fantasy_reasoning_task,154,factuality,5
+fantasy_reasoning_task,155,Causal Reasoning,1
+fantasy_reasoning_task,155,Cognitive Flexibility,2
+fantasy_reasoning_task,155,Emotion Perception and Empathy,0
+fantasy_reasoning_task,155,Episodic Memory,0
+fantasy_reasoning_task,155,Functional Perception,1
+fantasy_reasoning_task,155,Inhibitory Control,1
+fantasy_reasoning_task,155,Language,1
+fantasy_reasoning_task,155,Mental Simulation,1
+fantasy_reasoning_task,155,Metacognition,1
+fantasy_reasoning_task,155,Object Permanence,0
+fantasy_reasoning_task,155,Perception and Pattern Recognition,1
+fantasy_reasoning_task,155,Planning,0
+fantasy_reasoning_task,155,Procedural Memory,0
+fantasy_reasoning_task,155,Prospective Memory,0
+fantasy_reasoning_task,155,Semantic Memory,2
+fantasy_reasoning_task,155,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,155,Theory of Mind,2
+fantasy_reasoning_task,155,Working Memory,0
+fantasy_reasoning_task,155,ambiguity,5
+fantasy_reasoning_task,155,factuality,5
+fantasy_reasoning_task,156,Causal Reasoning,1
+fantasy_reasoning_task,156,Cognitive Flexibility,0
+fantasy_reasoning_task,156,Emotion Perception and Empathy,0
+fantasy_reasoning_task,156,Episodic Memory,0
+fantasy_reasoning_task,156,Functional Perception,2
+fantasy_reasoning_task,156,Inhibitory Control,1
+fantasy_reasoning_task,156,Language,2
+fantasy_reasoning_task,156,Mental Simulation,0
+fantasy_reasoning_task,156,Metacognition,2
+fantasy_reasoning_task,156,Object Permanence,0
+fantasy_reasoning_task,156,Perception and Pattern Recognition,1
+fantasy_reasoning_task,156,Planning,0
+fantasy_reasoning_task,156,Procedural Memory,0
+fantasy_reasoning_task,156,Prospective Memory,0
+fantasy_reasoning_task,156,Semantic Memory,1
+fantasy_reasoning_task,156,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,156,Theory of Mind,0
+fantasy_reasoning_task,156,Working Memory,0
+fantasy_reasoning_task,156,ambiguity,4
+fantasy_reasoning_task,156,factuality,2
+fantasy_reasoning_task,157,Causal Reasoning,1
+fantasy_reasoning_task,157,Cognitive Flexibility,3
+fantasy_reasoning_task,157,Emotion Perception and Empathy,0
+fantasy_reasoning_task,157,Episodic Memory,0
+fantasy_reasoning_task,157,Functional Perception,1
+fantasy_reasoning_task,157,Inhibitory Control,0
+fantasy_reasoning_task,157,Language,2
+fantasy_reasoning_task,157,Mental Simulation,1
+fantasy_reasoning_task,157,Metacognition,2
+fantasy_reasoning_task,157,Object Permanence,0
+fantasy_reasoning_task,157,Perception and Pattern Recognition,2
+fantasy_reasoning_task,157,Planning,0
+fantasy_reasoning_task,157,Procedural Memory,0
+fantasy_reasoning_task,157,Prospective Memory,0
+fantasy_reasoning_task,157,Semantic Memory,1
+fantasy_reasoning_task,157,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,157,Theory of Mind,2
+fantasy_reasoning_task,157,Working Memory,2
+fantasy_reasoning_task,157,ambiguity,4
+fantasy_reasoning_task,157,factuality,5
+fantasy_reasoning_task,158,Causal Reasoning,1
+fantasy_reasoning_task,158,Cognitive Flexibility,0
+fantasy_reasoning_task,158,Emotion Perception and Empathy,0
+fantasy_reasoning_task,158,Episodic Memory,0
+fantasy_reasoning_task,158,Functional Perception,1
+fantasy_reasoning_task,158,Inhibitory Control,0
+fantasy_reasoning_task,158,Language,1
+fantasy_reasoning_task,158,Mental Simulation,1
+fantasy_reasoning_task,158,Metacognition,1
+fantasy_reasoning_task,158,Object Permanence,0
+fantasy_reasoning_task,158,Perception and Pattern Recognition,1
+fantasy_reasoning_task,158,Planning,1
+fantasy_reasoning_task,158,Procedural Memory,0
+fantasy_reasoning_task,158,Prospective Memory,0
+fantasy_reasoning_task,158,Semantic Memory,1
+fantasy_reasoning_task,158,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,158,Theory of Mind,0
+fantasy_reasoning_task,158,Working Memory,0
+fantasy_reasoning_task,158,ambiguity,4
+fantasy_reasoning_task,158,factuality,5
+fantasy_reasoning_task,159,Causal Reasoning,1
+fantasy_reasoning_task,159,Cognitive Flexibility,1
+fantasy_reasoning_task,159,Emotion Perception and Empathy,0
+fantasy_reasoning_task,159,Episodic Memory,0
+fantasy_reasoning_task,159,Functional Perception,1
+fantasy_reasoning_task,159,Inhibitory Control,1
+fantasy_reasoning_task,159,Language,1
+fantasy_reasoning_task,159,Mental Simulation,1
+fantasy_reasoning_task,159,Metacognition,0
+fantasy_reasoning_task,159,Object Permanence,0
+fantasy_reasoning_task,159,Perception and Pattern Recognition,1
+fantasy_reasoning_task,159,Planning,0
+fantasy_reasoning_task,159,Procedural Memory,0
+fantasy_reasoning_task,159,Prospective Memory,0
+fantasy_reasoning_task,159,Semantic Memory,3
+fantasy_reasoning_task,159,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,159,Theory of Mind,2
+fantasy_reasoning_task,159,Working Memory,1
+fantasy_reasoning_task,159,ambiguity,5
+fantasy_reasoning_task,159,factuality,5
+fantasy_reasoning_task,15,Causal Reasoning,1
+fantasy_reasoning_task,15,Cognitive Flexibility,0
+fantasy_reasoning_task,15,Emotion Perception and Empathy,0
+fantasy_reasoning_task,15,Episodic Memory,0
+fantasy_reasoning_task,15,Functional Perception,1
+fantasy_reasoning_task,15,Inhibitory Control,0
+fantasy_reasoning_task,15,Language,2
+fantasy_reasoning_task,15,Mental Simulation,1
+fantasy_reasoning_task,15,Metacognition,1
+fantasy_reasoning_task,15,Object Permanence,0
+fantasy_reasoning_task,15,Perception and Pattern Recognition,1
+fantasy_reasoning_task,15,Planning,0
+fantasy_reasoning_task,15,Procedural Memory,0
+fantasy_reasoning_task,15,Prospective Memory,0
+fantasy_reasoning_task,15,Semantic Memory,1
+fantasy_reasoning_task,15,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,15,Theory of Mind,0
+fantasy_reasoning_task,15,Working Memory,1
+fantasy_reasoning_task,15,ambiguity,4
+fantasy_reasoning_task,15,factuality,5
+fantasy_reasoning_task,160,Causal Reasoning,1
+fantasy_reasoning_task,160,Cognitive Flexibility,1
+fantasy_reasoning_task,160,Emotion Perception and Empathy,0
+fantasy_reasoning_task,160,Episodic Memory,0
+fantasy_reasoning_task,160,Functional Perception,1
+fantasy_reasoning_task,160,Inhibitory Control,1
+fantasy_reasoning_task,160,Language,3
+fantasy_reasoning_task,160,Mental Simulation,1
+fantasy_reasoning_task,160,Metacognition,2
+fantasy_reasoning_task,160,Object Permanence,0
+fantasy_reasoning_task,160,Perception and Pattern Recognition,2
+fantasy_reasoning_task,160,Planning,0
+fantasy_reasoning_task,160,Procedural Memory,0
+fantasy_reasoning_task,160,Prospective Memory,0
+fantasy_reasoning_task,160,Semantic Memory,2
+fantasy_reasoning_task,160,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,160,Theory of Mind,0
+fantasy_reasoning_task,160,Working Memory,0
+fantasy_reasoning_task,160,ambiguity,3
+fantasy_reasoning_task,160,factuality,5
+fantasy_reasoning_task,161,Causal Reasoning,1
+fantasy_reasoning_task,161,Cognitive Flexibility,0
+fantasy_reasoning_task,161,Emotion Perception and Empathy,1
+fantasy_reasoning_task,161,Episodic Memory,1
+fantasy_reasoning_task,161,Functional Perception,1
+fantasy_reasoning_task,161,Inhibitory Control,0
+fantasy_reasoning_task,161,Language,1
+fantasy_reasoning_task,161,Mental Simulation,1
+fantasy_reasoning_task,161,Metacognition,1
+fantasy_reasoning_task,161,Object Permanence,0
+fantasy_reasoning_task,161,Perception and Pattern Recognition,1
+fantasy_reasoning_task,161,Planning,0
+fantasy_reasoning_task,161,Procedural Memory,0
+fantasy_reasoning_task,161,Prospective Memory,0
+fantasy_reasoning_task,161,Semantic Memory,2
+fantasy_reasoning_task,161,Spatial Reasoning and Navigation,1
+fantasy_reasoning_task,161,Theory of Mind,0
+fantasy_reasoning_task,161,Working Memory,1
+fantasy_reasoning_task,161,ambiguity,5
+fantasy_reasoning_task,161,factuality,1
+fantasy_reasoning_task,162,Causal Reasoning,1
+fantasy_reasoning_task,162,Cognitive Flexibility,0
+fantasy_reasoning_task,162,Emotion Perception and Empathy,0
+fantasy_reasoning_task,162,Episodic Memory,0
+fantasy_reasoning_task,162,Functional Perception,1
+fantasy_reasoning_task,162,Inhibitory Control,1
+fantasy_reasoning_task,162,Language,1
+fantasy_reasoning_task,162,Mental Simulation,1
+fantasy_reasoning_task,162,Metacognition,0
+fantasy_reasoning_task,162,Object Permanence,0
+fantasy_reasoning_task,162,Perception and Pattern Recognition,0
+fantasy_reasoning_task,162,Planning,0
+fantasy_reasoning_task,162,Procedural Memory,0
+fantasy_reasoning_task,162,Prospective Memory,0
+fantasy_reasoning_task,162,Semantic Memory,2
+fantasy_reasoning_task,162,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,162,Theory of Mind,0
+fantasy_reasoning_task,162,Working Memory,0
+fantasy_reasoning_task,162,ambiguity,5
+fantasy_reasoning_task,162,factuality,5
+fantasy_reasoning_task,164,Causal Reasoning,1
+fantasy_reasoning_task,164,Cognitive Flexibility,1
+fantasy_reasoning_task,164,Emotion Perception and Empathy,0
+fantasy_reasoning_task,164,Episodic Memory,0
+fantasy_reasoning_task,164,Functional Perception,1
+fantasy_reasoning_task,164,Inhibitory Control,1
+fantasy_reasoning_task,164,Language,1
+fantasy_reasoning_task,164,Mental Simulation,0
+fantasy_reasoning_task,164,Metacognition,1
+fantasy_reasoning_task,164,Object Permanence,0
+fantasy_reasoning_task,164,Perception and Pattern Recognition,1
+fantasy_reasoning_task,164,Planning,0
+fantasy_reasoning_task,164,Procedural Memory,0
+fantasy_reasoning_task,164,Prospective Memory,0
+fantasy_reasoning_task,164,Semantic Memory,3
+fantasy_reasoning_task,164,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,164,Theory of Mind,2
+fantasy_reasoning_task,164,Working Memory,0
+fantasy_reasoning_task,164,ambiguity,3
+fantasy_reasoning_task,164,factuality,2
+fantasy_reasoning_task,165,Causal Reasoning,1
+fantasy_reasoning_task,165,Cognitive Flexibility,2
+fantasy_reasoning_task,165,Emotion Perception and Empathy,1
+fantasy_reasoning_task,165,Episodic Memory,0
+fantasy_reasoning_task,165,Functional Perception,1
+fantasy_reasoning_task,165,Inhibitory Control,1
+fantasy_reasoning_task,165,Language,2
+fantasy_reasoning_task,165,Mental Simulation,1
+fantasy_reasoning_task,165,Metacognition,1
+fantasy_reasoning_task,165,Object Permanence,0
+fantasy_reasoning_task,165,Perception and Pattern Recognition,2
+fantasy_reasoning_task,165,Planning,0
+fantasy_reasoning_task,165,Procedural Memory,0
+fantasy_reasoning_task,165,Prospective Memory,0
+fantasy_reasoning_task,165,Semantic Memory,2
+fantasy_reasoning_task,165,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,165,Theory of Mind,0
+fantasy_reasoning_task,165,Working Memory,0
+fantasy_reasoning_task,165,ambiguity,4
+fantasy_reasoning_task,165,factuality,5
+fantasy_reasoning_task,166,Causal Reasoning,1
+fantasy_reasoning_task,166,Cognitive Flexibility,0
+fantasy_reasoning_task,166,Emotion Perception and Empathy,0
+fantasy_reasoning_task,166,Episodic Memory,0
+fantasy_reasoning_task,166,Functional Perception,1
+fantasy_reasoning_task,166,Inhibitory Control,0
+fantasy_reasoning_task,166,Language,1
+fantasy_reasoning_task,166,Mental Simulation,1
+fantasy_reasoning_task,166,Metacognition,0
+fantasy_reasoning_task,166,Object Permanence,0
+fantasy_reasoning_task,166,Perception and Pattern Recognition,1
+fantasy_reasoning_task,166,Planning,0
+fantasy_reasoning_task,166,Procedural Memory,0
+fantasy_reasoning_task,166,Prospective Memory,0
+fantasy_reasoning_task,166,Semantic Memory,1
+fantasy_reasoning_task,166,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,166,Theory of Mind,2
+fantasy_reasoning_task,166,Working Memory,0
+fantasy_reasoning_task,166,ambiguity,5
+fantasy_reasoning_task,166,factuality,5
+fantasy_reasoning_task,167,Causal Reasoning,1
+fantasy_reasoning_task,167,Cognitive Flexibility,0
+fantasy_reasoning_task,167,Emotion Perception and Empathy,0
+fantasy_reasoning_task,167,Episodic Memory,0
+fantasy_reasoning_task,167,Functional Perception,1
+fantasy_reasoning_task,167,Inhibitory Control,1
+fantasy_reasoning_task,167,Language,1
+fantasy_reasoning_task,167,Mental Simulation,1
+fantasy_reasoning_task,167,Metacognition,1
+fantasy_reasoning_task,167,Object Permanence,0
+fantasy_reasoning_task,167,Perception and Pattern Recognition,1
+fantasy_reasoning_task,167,Planning,0
+fantasy_reasoning_task,167,Procedural Memory,0
+fantasy_reasoning_task,167,Prospective Memory,0
+fantasy_reasoning_task,167,Semantic Memory,2
+fantasy_reasoning_task,167,Spatial Reasoning and Navigation,1
+fantasy_reasoning_task,167,Theory of Mind,0
+fantasy_reasoning_task,167,Working Memory,0
+fantasy_reasoning_task,167,ambiguity,4
+fantasy_reasoning_task,167,factuality,5
+fantasy_reasoning_task,168,Causal Reasoning,1
+fantasy_reasoning_task,168,Cognitive Flexibility,0
+fantasy_reasoning_task,168,Emotion Perception and Empathy,0
+fantasy_reasoning_task,168,Episodic Memory,0
+fantasy_reasoning_task,168,Functional Perception,0
+fantasy_reasoning_task,168,Inhibitory Control,2
+fantasy_reasoning_task,168,Language,1
+fantasy_reasoning_task,168,Mental Simulation,1
+fantasy_reasoning_task,168,Metacognition,1
+fantasy_reasoning_task,168,Object Permanence,0
+fantasy_reasoning_task,168,Perception and Pattern Recognition,1
+fantasy_reasoning_task,168,Planning,0
+fantasy_reasoning_task,168,Procedural Memory,0
+fantasy_reasoning_task,168,Prospective Memory,0
+fantasy_reasoning_task,168,Semantic Memory,1
+fantasy_reasoning_task,168,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,168,Theory of Mind,0
+fantasy_reasoning_task,168,Working Memory,1
+fantasy_reasoning_task,168,ambiguity,4
+fantasy_reasoning_task,168,factuality,1
+fantasy_reasoning_task,169,Causal Reasoning,1
+fantasy_reasoning_task,169,Cognitive Flexibility,0
+fantasy_reasoning_task,169,Emotion Perception and Empathy,0
+fantasy_reasoning_task,169,Episodic Memory,0
+fantasy_reasoning_task,169,Functional Perception,1
+fantasy_reasoning_task,169,Inhibitory Control,0
+fantasy_reasoning_task,169,Language,2
+fantasy_reasoning_task,169,Mental Simulation,0
+fantasy_reasoning_task,169,Metacognition,1
+fantasy_reasoning_task,169,Object Permanence,0
+fantasy_reasoning_task,169,Perception and Pattern Recognition,1
+fantasy_reasoning_task,169,Planning,0
+fantasy_reasoning_task,169,Procedural Memory,0
+fantasy_reasoning_task,169,Prospective Memory,0
+fantasy_reasoning_task,169,Semantic Memory,2
+fantasy_reasoning_task,169,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,169,Theory of Mind,0
+fantasy_reasoning_task,169,Working Memory,1
+fantasy_reasoning_task,169,ambiguity,5
+fantasy_reasoning_task,169,factuality,5
+fantasy_reasoning_task,16,Causal Reasoning,1
+fantasy_reasoning_task,16,Cognitive Flexibility,0
+fantasy_reasoning_task,16,Emotion Perception and Empathy,0
+fantasy_reasoning_task,16,Episodic Memory,0
+fantasy_reasoning_task,16,Functional Perception,1
+fantasy_reasoning_task,16,Inhibitory Control,0
+fantasy_reasoning_task,16,Language,1
+fantasy_reasoning_task,16,Mental Simulation,0
+fantasy_reasoning_task,16,Metacognition,1
+fantasy_reasoning_task,16,Object Permanence,0
+fantasy_reasoning_task,16,Perception and Pattern Recognition,1
+fantasy_reasoning_task,16,Planning,0
+fantasy_reasoning_task,16,Procedural Memory,0
+fantasy_reasoning_task,16,Prospective Memory,0
+fantasy_reasoning_task,16,Semantic Memory,3
+fantasy_reasoning_task,16,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,16,Theory of Mind,1
+fantasy_reasoning_task,16,Working Memory,1
+fantasy_reasoning_task,16,ambiguity,5
+fantasy_reasoning_task,16,factuality,5
+fantasy_reasoning_task,170,Causal Reasoning,1
+fantasy_reasoning_task,170,Cognitive Flexibility,0
+fantasy_reasoning_task,170,Emotion Perception and Empathy,0
+fantasy_reasoning_task,170,Episodic Memory,0
+fantasy_reasoning_task,170,Functional Perception,1
+fantasy_reasoning_task,170,Inhibitory Control,1
+fantasy_reasoning_task,170,Language,2
+fantasy_reasoning_task,170,Mental Simulation,1
+fantasy_reasoning_task,170,Metacognition,1
+fantasy_reasoning_task,170,Object Permanence,0
+fantasy_reasoning_task,170,Perception and Pattern Recognition,1
+fantasy_reasoning_task,170,Planning,0
+fantasy_reasoning_task,170,Procedural Memory,0
+fantasy_reasoning_task,170,Prospective Memory,0
+fantasy_reasoning_task,170,Semantic Memory,1
+fantasy_reasoning_task,170,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,170,Theory of Mind,0
+fantasy_reasoning_task,170,Working Memory,1
+fantasy_reasoning_task,170,ambiguity,5
+fantasy_reasoning_task,170,factuality,5
+fantasy_reasoning_task,171,Causal Reasoning,0
+fantasy_reasoning_task,171,Cognitive Flexibility,0
+fantasy_reasoning_task,171,Emotion Perception and Empathy,0
+fantasy_reasoning_task,171,Episodic Memory,0
+fantasy_reasoning_task,171,Functional Perception,1
+fantasy_reasoning_task,171,Inhibitory Control,1
+fantasy_reasoning_task,171,Language,2
+fantasy_reasoning_task,171,Mental Simulation,0
+fantasy_reasoning_task,171,Metacognition,1
+fantasy_reasoning_task,171,Object Permanence,0
+fantasy_reasoning_task,171,Perception and Pattern Recognition,1
+fantasy_reasoning_task,171,Planning,0
+fantasy_reasoning_task,171,Procedural Memory,0
+fantasy_reasoning_task,171,Prospective Memory,0
+fantasy_reasoning_task,171,Semantic Memory,0
+fantasy_reasoning_task,171,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,171,Theory of Mind,0
+fantasy_reasoning_task,171,Working Memory,2
+fantasy_reasoning_task,171,ambiguity,5
+fantasy_reasoning_task,171,factuality,5
+fantasy_reasoning_task,172,Causal Reasoning,1
+fantasy_reasoning_task,172,Cognitive Flexibility,1
+fantasy_reasoning_task,172,Emotion Perception and Empathy,0
+fantasy_reasoning_task,172,Episodic Memory,0
+fantasy_reasoning_task,172,Functional Perception,1
+fantasy_reasoning_task,172,Inhibitory Control,2
+fantasy_reasoning_task,172,Language,2
+fantasy_reasoning_task,172,Mental Simulation,1
+fantasy_reasoning_task,172,Metacognition,0
+fantasy_reasoning_task,172,Object Permanence,0
+fantasy_reasoning_task,172,Perception and Pattern Recognition,1
+fantasy_reasoning_task,172,Planning,0
+fantasy_reasoning_task,172,Procedural Memory,0
+fantasy_reasoning_task,172,Prospective Memory,0
+fantasy_reasoning_task,172,Semantic Memory,1
+fantasy_reasoning_task,172,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,172,Theory of Mind,0
+fantasy_reasoning_task,172,Working Memory,3
+fantasy_reasoning_task,172,ambiguity,4
+fantasy_reasoning_task,172,factuality,5
+fantasy_reasoning_task,173,Causal Reasoning,1
+fantasy_reasoning_task,173,Cognitive Flexibility,2
+fantasy_reasoning_task,173,Emotion Perception and Empathy,0
+fantasy_reasoning_task,173,Episodic Memory,0
+fantasy_reasoning_task,173,Functional Perception,2
+fantasy_reasoning_task,173,Inhibitory Control,0
+fantasy_reasoning_task,173,Language,1
+fantasy_reasoning_task,173,Mental Simulation,1
+fantasy_reasoning_task,173,Metacognition,1
+fantasy_reasoning_task,173,Object Permanence,0
+fantasy_reasoning_task,173,Perception and Pattern Recognition,2
+fantasy_reasoning_task,173,Planning,0
+fantasy_reasoning_task,173,Procedural Memory,0
+fantasy_reasoning_task,173,Prospective Memory,0
+fantasy_reasoning_task,173,Semantic Memory,2
+fantasy_reasoning_task,173,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,173,Theory of Mind,0
+fantasy_reasoning_task,173,Working Memory,2
+fantasy_reasoning_task,173,ambiguity,5
+fantasy_reasoning_task,173,factuality,5
+fantasy_reasoning_task,174,Causal Reasoning,1
+fantasy_reasoning_task,174,Cognitive Flexibility,1
+fantasy_reasoning_task,174,Emotion Perception and Empathy,0
+fantasy_reasoning_task,174,Episodic Memory,0
+fantasy_reasoning_task,174,Functional Perception,2
+fantasy_reasoning_task,174,Inhibitory Control,1
+fantasy_reasoning_task,174,Language,1
+fantasy_reasoning_task,174,Mental Simulation,1
+fantasy_reasoning_task,174,Metacognition,1
+fantasy_reasoning_task,174,Object Permanence,0
+fantasy_reasoning_task,174,Perception and Pattern Recognition,0
+fantasy_reasoning_task,174,Planning,0
+fantasy_reasoning_task,174,Procedural Memory,0
+fantasy_reasoning_task,174,Prospective Memory,0
+fantasy_reasoning_task,174,Semantic Memory,1
+fantasy_reasoning_task,174,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,174,Theory of Mind,0
+fantasy_reasoning_task,174,Working Memory,2
+fantasy_reasoning_task,174,ambiguity,2
+fantasy_reasoning_task,174,factuality,5
+fantasy_reasoning_task,175,Causal Reasoning,1
+fantasy_reasoning_task,175,Cognitive Flexibility,0
+fantasy_reasoning_task,175,Emotion Perception and Empathy,0
+fantasy_reasoning_task,175,Episodic Memory,0
+fantasy_reasoning_task,175,Functional Perception,1
+fantasy_reasoning_task,175,Inhibitory Control,1
+fantasy_reasoning_task,175,Language,1
+fantasy_reasoning_task,175,Mental Simulation,1
+fantasy_reasoning_task,175,Metacognition,1
+fantasy_reasoning_task,175,Object Permanence,0
+fantasy_reasoning_task,175,Perception and Pattern Recognition,1
+fantasy_reasoning_task,175,Planning,0
+fantasy_reasoning_task,175,Procedural Memory,0
+fantasy_reasoning_task,175,Prospective Memory,0
+fantasy_reasoning_task,175,Semantic Memory,2
+fantasy_reasoning_task,175,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,175,Theory of Mind,0
+fantasy_reasoning_task,175,Working Memory,2
+fantasy_reasoning_task,175,ambiguity,4
+fantasy_reasoning_task,175,factuality,5
+fantasy_reasoning_task,176,Causal Reasoning,0
+fantasy_reasoning_task,176,Cognitive Flexibility,1
+fantasy_reasoning_task,176,Emotion Perception and Empathy,0
+fantasy_reasoning_task,176,Episodic Memory,0
+fantasy_reasoning_task,176,Functional Perception,1
+fantasy_reasoning_task,176,Inhibitory Control,1
+fantasy_reasoning_task,176,Language,1
+fantasy_reasoning_task,176,Mental Simulation,1
+fantasy_reasoning_task,176,Metacognition,1
+fantasy_reasoning_task,176,Object Permanence,0
+fantasy_reasoning_task,176,Perception and Pattern Recognition,1
+fantasy_reasoning_task,176,Planning,0
+fantasy_reasoning_task,176,Procedural Memory,0
+fantasy_reasoning_task,176,Prospective Memory,0
+fantasy_reasoning_task,176,Semantic Memory,2
+fantasy_reasoning_task,176,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,176,Theory of Mind,0
+fantasy_reasoning_task,176,Working Memory,1
+fantasy_reasoning_task,176,ambiguity,3
+fantasy_reasoning_task,176,factuality,5
+fantasy_reasoning_task,177,Causal Reasoning,0
+fantasy_reasoning_task,177,Cognitive Flexibility,1
+fantasy_reasoning_task,177,Emotion Perception and Empathy,0
+fantasy_reasoning_task,177,Episodic Memory,0
+fantasy_reasoning_task,177,Functional Perception,1
+fantasy_reasoning_task,177,Inhibitory Control,1
+fantasy_reasoning_task,177,Language,1
+fantasy_reasoning_task,177,Mental Simulation,1
+fantasy_reasoning_task,177,Metacognition,0
+fantasy_reasoning_task,177,Object Permanence,0
+fantasy_reasoning_task,177,Perception and Pattern Recognition,1
+fantasy_reasoning_task,177,Planning,0
+fantasy_reasoning_task,177,Procedural Memory,0
+fantasy_reasoning_task,177,Prospective Memory,0
+fantasy_reasoning_task,177,Semantic Memory,2
+fantasy_reasoning_task,177,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,177,Theory of Mind,2
+fantasy_reasoning_task,177,Working Memory,1
+fantasy_reasoning_task,177,ambiguity,5
+fantasy_reasoning_task,177,factuality,5
+fantasy_reasoning_task,178,Causal Reasoning,1
+fantasy_reasoning_task,178,Cognitive Flexibility,0
+fantasy_reasoning_task,178,Emotion Perception and Empathy,0
+fantasy_reasoning_task,178,Episodic Memory,0
+fantasy_reasoning_task,178,Functional Perception,2
+fantasy_reasoning_task,178,Inhibitory Control,0
+fantasy_reasoning_task,178,Language,1
+fantasy_reasoning_task,178,Mental Simulation,1
+fantasy_reasoning_task,178,Metacognition,1
+fantasy_reasoning_task,178,Object Permanence,0
+fantasy_reasoning_task,178,Perception and Pattern Recognition,2
+fantasy_reasoning_task,178,Planning,0
+fantasy_reasoning_task,178,Procedural Memory,0
+fantasy_reasoning_task,178,Prospective Memory,0
+fantasy_reasoning_task,178,Semantic Memory,0
+fantasy_reasoning_task,178,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,178,Theory of Mind,0
+fantasy_reasoning_task,178,Working Memory,3
+fantasy_reasoning_task,178,ambiguity,5
+fantasy_reasoning_task,178,factuality,5
+fantasy_reasoning_task,179,Causal Reasoning,1
+fantasy_reasoning_task,179,Cognitive Flexibility,0
+fantasy_reasoning_task,179,Emotion Perception and Empathy,1
+fantasy_reasoning_task,179,Episodic Memory,0
+fantasy_reasoning_task,179,Functional Perception,0
+fantasy_reasoning_task,179,Inhibitory Control,0
+fantasy_reasoning_task,179,Language,2
+fantasy_reasoning_task,179,Mental Simulation,0
+fantasy_reasoning_task,179,Metacognition,0
+fantasy_reasoning_task,179,Object Permanence,0
+fantasy_reasoning_task,179,Perception and Pattern Recognition,1
+fantasy_reasoning_task,179,Planning,0
+fantasy_reasoning_task,179,Procedural Memory,0
+fantasy_reasoning_task,179,Prospective Memory,0
+fantasy_reasoning_task,179,Semantic Memory,2
+fantasy_reasoning_task,179,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,179,Theory of Mind,0
+fantasy_reasoning_task,179,Working Memory,1
+fantasy_reasoning_task,179,ambiguity,4
+fantasy_reasoning_task,179,factuality,5
+fantasy_reasoning_task,17,Causal Reasoning,1
+fantasy_reasoning_task,17,Cognitive Flexibility,0
+fantasy_reasoning_task,17,Emotion Perception and Empathy,1
+fantasy_reasoning_task,17,Episodic Memory,0
+fantasy_reasoning_task,17,Functional Perception,1
+fantasy_reasoning_task,17,Inhibitory Control,0
+fantasy_reasoning_task,17,Language,1
+fantasy_reasoning_task,17,Mental Simulation,1
+fantasy_reasoning_task,17,Metacognition,1
+fantasy_reasoning_task,17,Object Permanence,0
+fantasy_reasoning_task,17,Perception and Pattern Recognition,1
+fantasy_reasoning_task,17,Planning,0
+fantasy_reasoning_task,17,Procedural Memory,0
+fantasy_reasoning_task,17,Prospective Memory,0
+fantasy_reasoning_task,17,Semantic Memory,1
+fantasy_reasoning_task,17,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,17,Theory of Mind,2
+fantasy_reasoning_task,17,Working Memory,1
+fantasy_reasoning_task,17,ambiguity,5
+fantasy_reasoning_task,17,factuality,5
+fantasy_reasoning_task,180,Causal Reasoning,1
+fantasy_reasoning_task,180,Cognitive Flexibility,2
+fantasy_reasoning_task,180,Emotion Perception and Empathy,0
+fantasy_reasoning_task,180,Episodic Memory,4
+fantasy_reasoning_task,180,Functional Perception,1
+fantasy_reasoning_task,180,Inhibitory Control,3
+fantasy_reasoning_task,180,Language,2
+fantasy_reasoning_task,180,Mental Simulation,1
+fantasy_reasoning_task,180,Metacognition,3
+fantasy_reasoning_task,180,Object Permanence,0
+fantasy_reasoning_task,180,Perception and Pattern Recognition,3
+fantasy_reasoning_task,180,Planning,0
+fantasy_reasoning_task,180,Procedural Memory,0
+fantasy_reasoning_task,180,Prospective Memory,0
+fantasy_reasoning_task,180,Semantic Memory,2
+fantasy_reasoning_task,180,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,180,Theory of Mind,3
+fantasy_reasoning_task,180,Working Memory,2
+fantasy_reasoning_task,180,ambiguity,5
+fantasy_reasoning_task,180,factuality,4
+fantasy_reasoning_task,181,Causal Reasoning,1
+fantasy_reasoning_task,181,Cognitive Flexibility,0
+fantasy_reasoning_task,181,Emotion Perception and Empathy,0
+fantasy_reasoning_task,181,Episodic Memory,0
+fantasy_reasoning_task,181,Functional Perception,0
+fantasy_reasoning_task,181,Inhibitory Control,1
+fantasy_reasoning_task,181,Language,1
+fantasy_reasoning_task,181,Mental Simulation,0
+fantasy_reasoning_task,181,Metacognition,2
+fantasy_reasoning_task,181,Object Permanence,0
+fantasy_reasoning_task,181,Perception and Pattern Recognition,1
+fantasy_reasoning_task,181,Planning,0
+fantasy_reasoning_task,181,Procedural Memory,0
+fantasy_reasoning_task,181,Prospective Memory,0
+fantasy_reasoning_task,181,Semantic Memory,1
+fantasy_reasoning_task,181,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,181,Theory of Mind,0
+fantasy_reasoning_task,181,Working Memory,1
+fantasy_reasoning_task,181,ambiguity,5
+fantasy_reasoning_task,181,factuality,1
+fantasy_reasoning_task,182,Causal Reasoning,2
+fantasy_reasoning_task,182,Cognitive Flexibility,1
+fantasy_reasoning_task,182,Emotion Perception and Empathy,0
+fantasy_reasoning_task,182,Episodic Memory,0
+fantasy_reasoning_task,182,Functional Perception,1
+fantasy_reasoning_task,182,Inhibitory Control,1
+fantasy_reasoning_task,182,Language,2
+fantasy_reasoning_task,182,Mental Simulation,1
+fantasy_reasoning_task,182,Metacognition,2
+fantasy_reasoning_task,182,Object Permanence,0
+fantasy_reasoning_task,182,Perception and Pattern Recognition,2
+fantasy_reasoning_task,182,Planning,0
+fantasy_reasoning_task,182,Procedural Memory,0
+fantasy_reasoning_task,182,Prospective Memory,0
+fantasy_reasoning_task,182,Semantic Memory,2
+fantasy_reasoning_task,182,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,182,Theory of Mind,2
+fantasy_reasoning_task,182,Working Memory,1
+fantasy_reasoning_task,182,ambiguity,4
+fantasy_reasoning_task,182,factuality,4
+fantasy_reasoning_task,183,Causal Reasoning,1
+fantasy_reasoning_task,183,Cognitive Flexibility,3
+fantasy_reasoning_task,183,Emotion Perception and Empathy,0
+fantasy_reasoning_task,183,Episodic Memory,5
+fantasy_reasoning_task,183,Functional Perception,1
+fantasy_reasoning_task,183,Inhibitory Control,3
+fantasy_reasoning_task,183,Language,1
+fantasy_reasoning_task,183,Mental Simulation,0
+fantasy_reasoning_task,183,Metacognition,1
+fantasy_reasoning_task,183,Object Permanence,2
+fantasy_reasoning_task,183,Perception and Pattern Recognition,3
+fantasy_reasoning_task,183,Planning,0
+fantasy_reasoning_task,183,Procedural Memory,0
+fantasy_reasoning_task,183,Prospective Memory,0
+fantasy_reasoning_task,183,Semantic Memory,1
+fantasy_reasoning_task,183,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,183,Theory of Mind,2
+fantasy_reasoning_task,183,Working Memory,0
+fantasy_reasoning_task,183,ambiguity,3
+fantasy_reasoning_task,183,factuality,1
+fantasy_reasoning_task,184,Causal Reasoning,1
+fantasy_reasoning_task,184,Cognitive Flexibility,2
+fantasy_reasoning_task,184,Emotion Perception and Empathy,0
+fantasy_reasoning_task,184,Episodic Memory,1
+fantasy_reasoning_task,184,Functional Perception,1
+fantasy_reasoning_task,184,Inhibitory Control,3
+fantasy_reasoning_task,184,Language,3
+fantasy_reasoning_task,184,Mental Simulation,1
+fantasy_reasoning_task,184,Metacognition,1
+fantasy_reasoning_task,184,Object Permanence,2
+fantasy_reasoning_task,184,Perception and Pattern Recognition,3
+fantasy_reasoning_task,184,Planning,0
+fantasy_reasoning_task,184,Procedural Memory,0
+fantasy_reasoning_task,184,Prospective Memory,0
+fantasy_reasoning_task,184,Semantic Memory,2
+fantasy_reasoning_task,184,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,184,Theory of Mind,2
+fantasy_reasoning_task,184,Working Memory,2
+fantasy_reasoning_task,184,ambiguity,4
+fantasy_reasoning_task,184,factuality,5
+fantasy_reasoning_task,185,Causal Reasoning,1
+fantasy_reasoning_task,185,Cognitive Flexibility,0
+fantasy_reasoning_task,185,Emotion Perception and Empathy,0
+fantasy_reasoning_task,185,Episodic Memory,0
+fantasy_reasoning_task,185,Functional Perception,1
+fantasy_reasoning_task,185,Inhibitory Control,0
+fantasy_reasoning_task,185,Language,1
+fantasy_reasoning_task,185,Mental Simulation,0
+fantasy_reasoning_task,185,Metacognition,0
+fantasy_reasoning_task,185,Object Permanence,0
+fantasy_reasoning_task,185,Perception and Pattern Recognition,1
+fantasy_reasoning_task,185,Planning,0
+fantasy_reasoning_task,185,Procedural Memory,0
+fantasy_reasoning_task,185,Prospective Memory,0
+fantasy_reasoning_task,185,Semantic Memory,1
+fantasy_reasoning_task,185,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,185,Theory of Mind,0
+fantasy_reasoning_task,185,Working Memory,1
+fantasy_reasoning_task,185,ambiguity,5
+fantasy_reasoning_task,185,factuality,5
+fantasy_reasoning_task,186,Causal Reasoning,1
+fantasy_reasoning_task,186,Cognitive Flexibility,0
+fantasy_reasoning_task,186,Emotion Perception and Empathy,0
+fantasy_reasoning_task,186,Episodic Memory,0
+fantasy_reasoning_task,186,Functional Perception,1
+fantasy_reasoning_task,186,Inhibitory Control,0
+fantasy_reasoning_task,186,Language,1
+fantasy_reasoning_task,186,Mental Simulation,0
+fantasy_reasoning_task,186,Metacognition,0
+fantasy_reasoning_task,186,Object Permanence,0
+fantasy_reasoning_task,186,Perception and Pattern Recognition,1
+fantasy_reasoning_task,186,Planning,0
+fantasy_reasoning_task,186,Procedural Memory,0
+fantasy_reasoning_task,186,Prospective Memory,0
+fantasy_reasoning_task,186,Semantic Memory,1
+fantasy_reasoning_task,186,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,186,Theory of Mind,0
+fantasy_reasoning_task,186,Working Memory,1
+fantasy_reasoning_task,186,ambiguity,5
+fantasy_reasoning_task,186,factuality,5
+fantasy_reasoning_task,187,Causal Reasoning,1
+fantasy_reasoning_task,187,Cognitive Flexibility,0
+fantasy_reasoning_task,187,Emotion Perception and Empathy,0
+fantasy_reasoning_task,187,Episodic Memory,0
+fantasy_reasoning_task,187,Functional Perception,1
+fantasy_reasoning_task,187,Inhibitory Control,1
+fantasy_reasoning_task,187,Language,1
+fantasy_reasoning_task,187,Mental Simulation,1
+fantasy_reasoning_task,187,Metacognition,1
+fantasy_reasoning_task,187,Object Permanence,0
+fantasy_reasoning_task,187,Perception and Pattern Recognition,1
+fantasy_reasoning_task,187,Planning,0
+fantasy_reasoning_task,187,Procedural Memory,0
+fantasy_reasoning_task,187,Prospective Memory,0
+fantasy_reasoning_task,187,Semantic Memory,1
+fantasy_reasoning_task,187,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,187,Theory of Mind,0
+fantasy_reasoning_task,187,Working Memory,0
+fantasy_reasoning_task,187,ambiguity,5
+fantasy_reasoning_task,187,factuality,5
+fantasy_reasoning_task,188,Causal Reasoning,0
+fantasy_reasoning_task,188,Cognitive Flexibility,0
+fantasy_reasoning_task,188,Emotion Perception and Empathy,0
+fantasy_reasoning_task,188,Episodic Memory,0
+fantasy_reasoning_task,188,Functional Perception,0
+fantasy_reasoning_task,188,Inhibitory Control,0
+fantasy_reasoning_task,188,Language,1
+fantasy_reasoning_task,188,Mental Simulation,0
+fantasy_reasoning_task,188,Metacognition,1
+fantasy_reasoning_task,188,Object Permanence,0
+fantasy_reasoning_task,188,Perception and Pattern Recognition,1
+fantasy_reasoning_task,188,Planning,0
+fantasy_reasoning_task,188,Procedural Memory,0
+fantasy_reasoning_task,188,Prospective Memory,0
+fantasy_reasoning_task,188,Semantic Memory,1
+fantasy_reasoning_task,188,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,188,Theory of Mind,0
+fantasy_reasoning_task,188,Working Memory,1
+fantasy_reasoning_task,188,ambiguity,5
+fantasy_reasoning_task,188,factuality,4
+fantasy_reasoning_task,189,Causal Reasoning,1
+fantasy_reasoning_task,189,Cognitive Flexibility,0
+fantasy_reasoning_task,189,Emotion Perception and Empathy,2
+fantasy_reasoning_task,189,Episodic Memory,0
+fantasy_reasoning_task,189,Functional Perception,1
+fantasy_reasoning_task,189,Inhibitory Control,0
+fantasy_reasoning_task,189,Language,1
+fantasy_reasoning_task,189,Mental Simulation,0
+fantasy_reasoning_task,189,Metacognition,0
+fantasy_reasoning_task,189,Object Permanence,0
+fantasy_reasoning_task,189,Perception and Pattern Recognition,1
+fantasy_reasoning_task,189,Planning,0
+fantasy_reasoning_task,189,Procedural Memory,0
+fantasy_reasoning_task,189,Prospective Memory,0
+fantasy_reasoning_task,189,Semantic Memory,2
+fantasy_reasoning_task,189,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,189,Theory of Mind,1
+fantasy_reasoning_task,189,Working Memory,1
+fantasy_reasoning_task,189,ambiguity,5
+fantasy_reasoning_task,189,factuality,5
+fantasy_reasoning_task,18,Causal Reasoning,1
+fantasy_reasoning_task,18,Cognitive Flexibility,0
+fantasy_reasoning_task,18,Emotion Perception and Empathy,0
+fantasy_reasoning_task,18,Episodic Memory,0
+fantasy_reasoning_task,18,Functional Perception,1
+fantasy_reasoning_task,18,Inhibitory Control,0
+fantasy_reasoning_task,18,Language,1
+fantasy_reasoning_task,18,Mental Simulation,1
+fantasy_reasoning_task,18,Metacognition,1
+fantasy_reasoning_task,18,Object Permanence,0
+fantasy_reasoning_task,18,Perception and Pattern Recognition,1
+fantasy_reasoning_task,18,Planning,0
+fantasy_reasoning_task,18,Procedural Memory,0
+fantasy_reasoning_task,18,Prospective Memory,0
+fantasy_reasoning_task,18,Semantic Memory,1
+fantasy_reasoning_task,18,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,18,Theory of Mind,3
+fantasy_reasoning_task,18,Working Memory,1
+fantasy_reasoning_task,18,ambiguity,5
+fantasy_reasoning_task,18,factuality,5
+fantasy_reasoning_task,190,Causal Reasoning,1
+fantasy_reasoning_task,190,Cognitive Flexibility,0
+fantasy_reasoning_task,190,Emotion Perception and Empathy,1
+fantasy_reasoning_task,190,Episodic Memory,0
+fantasy_reasoning_task,190,Functional Perception,1
+fantasy_reasoning_task,190,Inhibitory Control,0
+fantasy_reasoning_task,190,Language,1
+fantasy_reasoning_task,190,Mental Simulation,0
+fantasy_reasoning_task,190,Metacognition,0
+fantasy_reasoning_task,190,Object Permanence,0
+fantasy_reasoning_task,190,Perception and Pattern Recognition,1
+fantasy_reasoning_task,190,Planning,0
+fantasy_reasoning_task,190,Procedural Memory,0
+fantasy_reasoning_task,190,Prospective Memory,0
+fantasy_reasoning_task,190,Semantic Memory,1
+fantasy_reasoning_task,190,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,190,Theory of Mind,0
+fantasy_reasoning_task,190,Working Memory,1
+fantasy_reasoning_task,190,ambiguity,5
+fantasy_reasoning_task,190,factuality,5
+fantasy_reasoning_task,191,Causal Reasoning,1
+fantasy_reasoning_task,191,Cognitive Flexibility,1
+fantasy_reasoning_task,191,Emotion Perception and Empathy,0
+fantasy_reasoning_task,191,Episodic Memory,0
+fantasy_reasoning_task,191,Functional Perception,2
+fantasy_reasoning_task,191,Inhibitory Control,1
+fantasy_reasoning_task,191,Language,3
+fantasy_reasoning_task,191,Mental Simulation,1
+fantasy_reasoning_task,191,Metacognition,1
+fantasy_reasoning_task,191,Object Permanence,0
+fantasy_reasoning_task,191,Perception and Pattern Recognition,2
+fantasy_reasoning_task,191,Planning,0
+fantasy_reasoning_task,191,Procedural Memory,0
+fantasy_reasoning_task,191,Prospective Memory,0
+fantasy_reasoning_task,191,Semantic Memory,3
+fantasy_reasoning_task,191,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,191,Theory of Mind,2
+fantasy_reasoning_task,191,Working Memory,2
+fantasy_reasoning_task,191,ambiguity,5
+fantasy_reasoning_task,191,factuality,5
+fantasy_reasoning_task,192,Causal Reasoning,1
+fantasy_reasoning_task,192,Cognitive Flexibility,1
+fantasy_reasoning_task,192,Emotion Perception and Empathy,0
+fantasy_reasoning_task,192,Episodic Memory,0
+fantasy_reasoning_task,192,Functional Perception,1
+fantasy_reasoning_task,192,Inhibitory Control,1
+fantasy_reasoning_task,192,Language,2
+fantasy_reasoning_task,192,Mental Simulation,1
+fantasy_reasoning_task,192,Metacognition,2
+fantasy_reasoning_task,192,Object Permanence,0
+fantasy_reasoning_task,192,Perception and Pattern Recognition,2
+fantasy_reasoning_task,192,Planning,0
+fantasy_reasoning_task,192,Procedural Memory,0
+fantasy_reasoning_task,192,Prospective Memory,0
+fantasy_reasoning_task,192,Semantic Memory,2
+fantasy_reasoning_task,192,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,192,Theory of Mind,2
+fantasy_reasoning_task,192,Working Memory,2
+fantasy_reasoning_task,192,ambiguity,5
+fantasy_reasoning_task,192,factuality,5
+fantasy_reasoning_task,193,Causal Reasoning,1
+fantasy_reasoning_task,193,Cognitive Flexibility,1
+fantasy_reasoning_task,193,Emotion Perception and Empathy,0
+fantasy_reasoning_task,193,Episodic Memory,0
+fantasy_reasoning_task,193,Functional Perception,2
+fantasy_reasoning_task,193,Inhibitory Control,0
+fantasy_reasoning_task,193,Language,1
+fantasy_reasoning_task,193,Mental Simulation,1
+fantasy_reasoning_task,193,Metacognition,1
+fantasy_reasoning_task,193,Object Permanence,0
+fantasy_reasoning_task,193,Perception and Pattern Recognition,2
+fantasy_reasoning_task,193,Planning,0
+fantasy_reasoning_task,193,Procedural Memory,0
+fantasy_reasoning_task,193,Prospective Memory,0
+fantasy_reasoning_task,193,Semantic Memory,2
+fantasy_reasoning_task,193,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,193,Theory of Mind,3
+fantasy_reasoning_task,193,Working Memory,2
+fantasy_reasoning_task,193,ambiguity,5
+fantasy_reasoning_task,193,factuality,5
+fantasy_reasoning_task,194,Causal Reasoning,1
+fantasy_reasoning_task,194,Cognitive Flexibility,0
+fantasy_reasoning_task,194,Emotion Perception and Empathy,0
+fantasy_reasoning_task,194,Episodic Memory,0
+fantasy_reasoning_task,194,Functional Perception,0
+fantasy_reasoning_task,194,Inhibitory Control,0
+fantasy_reasoning_task,194,Language,1
+fantasy_reasoning_task,194,Mental Simulation,1
+fantasy_reasoning_task,194,Metacognition,1
+fantasy_reasoning_task,194,Object Permanence,0
+fantasy_reasoning_task,194,Perception and Pattern Recognition,1
+fantasy_reasoning_task,194,Planning,0
+fantasy_reasoning_task,194,Procedural Memory,0
+fantasy_reasoning_task,194,Prospective Memory,0
+fantasy_reasoning_task,194,Semantic Memory,1
+fantasy_reasoning_task,194,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,194,Theory of Mind,0
+fantasy_reasoning_task,194,Working Memory,1
+fantasy_reasoning_task,194,ambiguity,5
+fantasy_reasoning_task,194,factuality,5
+fantasy_reasoning_task,195,Causal Reasoning,1
+fantasy_reasoning_task,195,Cognitive Flexibility,0
+fantasy_reasoning_task,195,Emotion Perception and Empathy,1
+fantasy_reasoning_task,195,Episodic Memory,0
+fantasy_reasoning_task,195,Functional Perception,4
+fantasy_reasoning_task,195,Inhibitory Control,1
+fantasy_reasoning_task,195,Language,1
+fantasy_reasoning_task,195,Mental Simulation,1
+fantasy_reasoning_task,195,Metacognition,0
+fantasy_reasoning_task,195,Object Permanence,0
+fantasy_reasoning_task,195,Perception and Pattern Recognition,1
+fantasy_reasoning_task,195,Planning,0
+fantasy_reasoning_task,195,Procedural Memory,0
+fantasy_reasoning_task,195,Prospective Memory,0
+fantasy_reasoning_task,195,Semantic Memory,3
+fantasy_reasoning_task,195,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,195,Theory of Mind,2
+fantasy_reasoning_task,195,Working Memory,0
+fantasy_reasoning_task,195,ambiguity,5
+fantasy_reasoning_task,195,factuality,5
+fantasy_reasoning_task,196,Causal Reasoning,1
+fantasy_reasoning_task,196,Cognitive Flexibility,1
+fantasy_reasoning_task,196,Emotion Perception and Empathy,0
+fantasy_reasoning_task,196,Episodic Memory,0
+fantasy_reasoning_task,196,Functional Perception,1
+fantasy_reasoning_task,196,Inhibitory Control,0
+fantasy_reasoning_task,196,Language,1
+fantasy_reasoning_task,196,Mental Simulation,1
+fantasy_reasoning_task,196,Metacognition,1
+fantasy_reasoning_task,196,Object Permanence,0
+fantasy_reasoning_task,196,Perception and Pattern Recognition,1
+fantasy_reasoning_task,196,Planning,0
+fantasy_reasoning_task,196,Procedural Memory,0
+fantasy_reasoning_task,196,Prospective Memory,0
+fantasy_reasoning_task,196,Semantic Memory,1
+fantasy_reasoning_task,196,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,196,Theory of Mind,0
+fantasy_reasoning_task,196,Working Memory,0
+fantasy_reasoning_task,196,ambiguity,4
+fantasy_reasoning_task,196,factuality,5
+fantasy_reasoning_task,197,Causal Reasoning,1
+fantasy_reasoning_task,197,Cognitive Flexibility,0
+fantasy_reasoning_task,197,Emotion Perception and Empathy,0
+fantasy_reasoning_task,197,Episodic Memory,0
+fantasy_reasoning_task,197,Functional Perception,3
+fantasy_reasoning_task,197,Inhibitory Control,2
+fantasy_reasoning_task,197,Language,1
+fantasy_reasoning_task,197,Mental Simulation,1
+fantasy_reasoning_task,197,Metacognition,0
+fantasy_reasoning_task,197,Object Permanence,0
+fantasy_reasoning_task,197,Perception and Pattern Recognition,1
+fantasy_reasoning_task,197,Planning,0
+fantasy_reasoning_task,197,Procedural Memory,0
+fantasy_reasoning_task,197,Prospective Memory,0
+fantasy_reasoning_task,197,Semantic Memory,0
+fantasy_reasoning_task,197,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,197,Theory of Mind,0
+fantasy_reasoning_task,197,Working Memory,1
+fantasy_reasoning_task,197,ambiguity,3
+fantasy_reasoning_task,197,factuality,2
+fantasy_reasoning_task,198,Causal Reasoning,1
+fantasy_reasoning_task,198,Cognitive Flexibility,1
+fantasy_reasoning_task,198,Emotion Perception and Empathy,0
+fantasy_reasoning_task,198,Episodic Memory,0
+fantasy_reasoning_task,198,Functional Perception,1
+fantasy_reasoning_task,198,Inhibitory Control,0
+fantasy_reasoning_task,198,Language,1
+fantasy_reasoning_task,198,Mental Simulation,1
+fantasy_reasoning_task,198,Metacognition,1
+fantasy_reasoning_task,198,Object Permanence,0
+fantasy_reasoning_task,198,Perception and Pattern Recognition,1
+fantasy_reasoning_task,198,Planning,0
+fantasy_reasoning_task,198,Procedural Memory,0
+fantasy_reasoning_task,198,Prospective Memory,0
+fantasy_reasoning_task,198,Semantic Memory,4
+fantasy_reasoning_task,198,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,198,Theory of Mind,0
+fantasy_reasoning_task,198,Working Memory,0
+fantasy_reasoning_task,198,ambiguity,4
+fantasy_reasoning_task,198,factuality,5
+fantasy_reasoning_task,199,Causal Reasoning,0
+fantasy_reasoning_task,199,Cognitive Flexibility,0
+fantasy_reasoning_task,199,Emotion Perception and Empathy,0
+fantasy_reasoning_task,199,Episodic Memory,0
+fantasy_reasoning_task,199,Functional Perception,0
+fantasy_reasoning_task,199,Inhibitory Control,1
+fantasy_reasoning_task,199,Language,1
+fantasy_reasoning_task,199,Mental Simulation,0
+fantasy_reasoning_task,199,Metacognition,1
+fantasy_reasoning_task,199,Object Permanence,0
+fantasy_reasoning_task,199,Perception and Pattern Recognition,2
+fantasy_reasoning_task,199,Planning,0
+fantasy_reasoning_task,199,Procedural Memory,0
+fantasy_reasoning_task,199,Prospective Memory,0
+fantasy_reasoning_task,199,Semantic Memory,2
+fantasy_reasoning_task,199,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,199,Theory of Mind,1
+fantasy_reasoning_task,199,Working Memory,0
+fantasy_reasoning_task,199,ambiguity,4
+fantasy_reasoning_task,199,factuality,2
+fantasy_reasoning_task,19,Causal Reasoning,1
+fantasy_reasoning_task,19,Cognitive Flexibility,0
+fantasy_reasoning_task,19,Emotion Perception and Empathy,0
+fantasy_reasoning_task,19,Episodic Memory,0
+fantasy_reasoning_task,19,Functional Perception,1
+fantasy_reasoning_task,19,Inhibitory Control,0
+fantasy_reasoning_task,19,Language,1
+fantasy_reasoning_task,19,Mental Simulation,1
+fantasy_reasoning_task,19,Metacognition,1
+fantasy_reasoning_task,19,Object Permanence,0
+fantasy_reasoning_task,19,Perception and Pattern Recognition,1
+fantasy_reasoning_task,19,Planning,0
+fantasy_reasoning_task,19,Procedural Memory,0
+fantasy_reasoning_task,19,Prospective Memory,0
+fantasy_reasoning_task,19,Semantic Memory,3
+fantasy_reasoning_task,19,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,19,Theory of Mind,2
+fantasy_reasoning_task,19,Working Memory,1
+fantasy_reasoning_task,19,ambiguity,5
+fantasy_reasoning_task,19,factuality,5
+fantasy_reasoning_task,1,Causal Reasoning,1
+fantasy_reasoning_task,1,Cognitive Flexibility,0
+fantasy_reasoning_task,1,Emotion Perception and Empathy,0
+fantasy_reasoning_task,1,Episodic Memory,0
+fantasy_reasoning_task,1,Functional Perception,1
+fantasy_reasoning_task,1,Inhibitory Control,0
+fantasy_reasoning_task,1,Language,1
+fantasy_reasoning_task,1,Mental Simulation,1
+fantasy_reasoning_task,1,Metacognition,1
+fantasy_reasoning_task,1,Object Permanence,1
+fantasy_reasoning_task,1,Perception and Pattern Recognition,1
+fantasy_reasoning_task,1,Planning,0
+fantasy_reasoning_task,1,Procedural Memory,0
+fantasy_reasoning_task,1,Prospective Memory,0
+fantasy_reasoning_task,1,Semantic Memory,2
+fantasy_reasoning_task,1,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,1,Theory of Mind,0
+fantasy_reasoning_task,1,Working Memory,1
+fantasy_reasoning_task,1,ambiguity,5
+fantasy_reasoning_task,1,factuality,5
+fantasy_reasoning_task,200,Causal Reasoning,1
+fantasy_reasoning_task,200,Cognitive Flexibility,0
+fantasy_reasoning_task,200,Emotion Perception and Empathy,2
+fantasy_reasoning_task,200,Episodic Memory,0
+fantasy_reasoning_task,200,Functional Perception,1
+fantasy_reasoning_task,200,Inhibitory Control,1
+fantasy_reasoning_task,200,Language,1
+fantasy_reasoning_task,200,Mental Simulation,1
+fantasy_reasoning_task,200,Metacognition,1
+fantasy_reasoning_task,200,Object Permanence,0
+fantasy_reasoning_task,200,Perception and Pattern Recognition,1
+fantasy_reasoning_task,200,Planning,0
+fantasy_reasoning_task,200,Procedural Memory,0
+fantasy_reasoning_task,200,Prospective Memory,0
+fantasy_reasoning_task,200,Semantic Memory,2
+fantasy_reasoning_task,200,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,200,Theory of Mind,1
+fantasy_reasoning_task,200,Working Memory,1
+fantasy_reasoning_task,200,ambiguity,5
+fantasy_reasoning_task,200,factuality,5
+fantasy_reasoning_task,20,Causal Reasoning,1
+fantasy_reasoning_task,20,Cognitive Flexibility,0
+fantasy_reasoning_task,20,Emotion Perception and Empathy,0
+fantasy_reasoning_task,20,Episodic Memory,0
+fantasy_reasoning_task,20,Functional Perception,0
+fantasy_reasoning_task,20,Inhibitory Control,0
+fantasy_reasoning_task,20,Language,1
+fantasy_reasoning_task,20,Mental Simulation,1
+fantasy_reasoning_task,20,Metacognition,2
+fantasy_reasoning_task,20,Object Permanence,0
+fantasy_reasoning_task,20,Perception and Pattern Recognition,0
+fantasy_reasoning_task,20,Planning,0
+fantasy_reasoning_task,20,Procedural Memory,0
+fantasy_reasoning_task,20,Prospective Memory,0
+fantasy_reasoning_task,20,Semantic Memory,2
+fantasy_reasoning_task,20,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,20,Theory of Mind,0
+fantasy_reasoning_task,20,Working Memory,0
+fantasy_reasoning_task,20,ambiguity,5
+fantasy_reasoning_task,20,factuality,5
+fantasy_reasoning_task,21,Causal Reasoning,0
+fantasy_reasoning_task,21,Cognitive Flexibility,0
+fantasy_reasoning_task,21,Emotion Perception and Empathy,0
+fantasy_reasoning_task,21,Episodic Memory,0
+fantasy_reasoning_task,21,Functional Perception,0
+fantasy_reasoning_task,21,Inhibitory Control,1
+fantasy_reasoning_task,21,Language,2
+fantasy_reasoning_task,21,Mental Simulation,0
+fantasy_reasoning_task,21,Metacognition,2
+fantasy_reasoning_task,21,Object Permanence,0
+fantasy_reasoning_task,21,Perception and Pattern Recognition,1
+fantasy_reasoning_task,21,Planning,0
+fantasy_reasoning_task,21,Procedural Memory,0
+fantasy_reasoning_task,21,Prospective Memory,0
+fantasy_reasoning_task,21,Semantic Memory,2
+fantasy_reasoning_task,21,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,21,Theory of Mind,0
+fantasy_reasoning_task,21,Working Memory,0
+fantasy_reasoning_task,21,ambiguity,3
+fantasy_reasoning_task,21,factuality,5
+fantasy_reasoning_task,22,Causal Reasoning,1
+fantasy_reasoning_task,22,Cognitive Flexibility,0
+fantasy_reasoning_task,22,Emotion Perception and Empathy,0
+fantasy_reasoning_task,22,Episodic Memory,0
+fantasy_reasoning_task,22,Functional Perception,1
+fantasy_reasoning_task,22,Inhibitory Control,1
+fantasy_reasoning_task,22,Language,1
+fantasy_reasoning_task,22,Mental Simulation,1
+fantasy_reasoning_task,22,Metacognition,1
+fantasy_reasoning_task,22,Object Permanence,0
+fantasy_reasoning_task,22,Perception and Pattern Recognition,1
+fantasy_reasoning_task,22,Planning,0
+fantasy_reasoning_task,22,Procedural Memory,0
+fantasy_reasoning_task,22,Prospective Memory,0
+fantasy_reasoning_task,22,Semantic Memory,1
+fantasy_reasoning_task,22,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,22,Theory of Mind,0
+fantasy_reasoning_task,22,Working Memory,1
+fantasy_reasoning_task,22,ambiguity,4
+fantasy_reasoning_task,22,factuality,2
+fantasy_reasoning_task,23,Causal Reasoning,1
+fantasy_reasoning_task,23,Cognitive Flexibility,1
+fantasy_reasoning_task,23,Emotion Perception and Empathy,0
+fantasy_reasoning_task,23,Episodic Memory,0
+fantasy_reasoning_task,23,Functional Perception,0
+fantasy_reasoning_task,23,Inhibitory Control,1
+fantasy_reasoning_task,23,Language,1
+fantasy_reasoning_task,23,Mental Simulation,0
+fantasy_reasoning_task,23,Metacognition,1
+fantasy_reasoning_task,23,Object Permanence,0
+fantasy_reasoning_task,23,Perception and Pattern Recognition,1
+fantasy_reasoning_task,23,Planning,0
+fantasy_reasoning_task,23,Procedural Memory,0
+fantasy_reasoning_task,23,Prospective Memory,0
+fantasy_reasoning_task,23,Semantic Memory,3
+fantasy_reasoning_task,23,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,23,Theory of Mind,0
+fantasy_reasoning_task,23,Working Memory,0
+fantasy_reasoning_task,23,ambiguity,3
+fantasy_reasoning_task,23,factuality,1
+fantasy_reasoning_task,24,Causal Reasoning,1
+fantasy_reasoning_task,24,Cognitive Flexibility,0
+fantasy_reasoning_task,24,Emotion Perception and Empathy,0
+fantasy_reasoning_task,24,Episodic Memory,0
+fantasy_reasoning_task,24,Functional Perception,0
+fantasy_reasoning_task,24,Inhibitory Control,2
+fantasy_reasoning_task,24,Language,1
+fantasy_reasoning_task,24,Mental Simulation,0
+fantasy_reasoning_task,24,Metacognition,1
+fantasy_reasoning_task,24,Object Permanence,0
+fantasy_reasoning_task,24,Perception and Pattern Recognition,1
+fantasy_reasoning_task,24,Planning,0
+fantasy_reasoning_task,24,Procedural Memory,0
+fantasy_reasoning_task,24,Prospective Memory,0
+fantasy_reasoning_task,24,Semantic Memory,2
+fantasy_reasoning_task,24,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,24,Theory of Mind,0
+fantasy_reasoning_task,24,Working Memory,1
+fantasy_reasoning_task,24,ambiguity,4
+fantasy_reasoning_task,24,factuality,5
+fantasy_reasoning_task,25,Causal Reasoning,0
+fantasy_reasoning_task,25,Cognitive Flexibility,0
+fantasy_reasoning_task,25,Emotion Perception and Empathy,0
+fantasy_reasoning_task,25,Episodic Memory,0
+fantasy_reasoning_task,25,Functional Perception,1
+fantasy_reasoning_task,25,Inhibitory Control,2
+fantasy_reasoning_task,25,Language,1
+fantasy_reasoning_task,25,Mental Simulation,0
+fantasy_reasoning_task,25,Metacognition,1
+fantasy_reasoning_task,25,Object Permanence,0
+fantasy_reasoning_task,25,Perception and Pattern Recognition,0
+fantasy_reasoning_task,25,Planning,0
+fantasy_reasoning_task,25,Procedural Memory,0
+fantasy_reasoning_task,25,Prospective Memory,0
+fantasy_reasoning_task,25,Semantic Memory,2
+fantasy_reasoning_task,25,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,25,Theory of Mind,0
+fantasy_reasoning_task,25,Working Memory,0
+fantasy_reasoning_task,25,ambiguity,4
+fantasy_reasoning_task,25,factuality,5
+fantasy_reasoning_task,26,Causal Reasoning,1
+fantasy_reasoning_task,26,Cognitive Flexibility,0
+fantasy_reasoning_task,26,Emotion Perception and Empathy,0
+fantasy_reasoning_task,26,Episodic Memory,0
+fantasy_reasoning_task,26,Functional Perception,1
+fantasy_reasoning_task,26,Inhibitory Control,1
+fantasy_reasoning_task,26,Language,1
+fantasy_reasoning_task,26,Mental Simulation,0
+fantasy_reasoning_task,26,Metacognition,0
+fantasy_reasoning_task,26,Object Permanence,0
+fantasy_reasoning_task,26,Perception and Pattern Recognition,1
+fantasy_reasoning_task,26,Planning,0
+fantasy_reasoning_task,26,Procedural Memory,0
+fantasy_reasoning_task,26,Prospective Memory,0
+fantasy_reasoning_task,26,Semantic Memory,1
+fantasy_reasoning_task,26,Spatial Reasoning and Navigation,1
+fantasy_reasoning_task,26,Theory of Mind,0
+fantasy_reasoning_task,26,Working Memory,0
+fantasy_reasoning_task,26,ambiguity,5
+fantasy_reasoning_task,26,factuality,5
+fantasy_reasoning_task,27,Causal Reasoning,0
+fantasy_reasoning_task,27,Cognitive Flexibility,0
+fantasy_reasoning_task,27,Emotion Perception and Empathy,0
+fantasy_reasoning_task,27,Episodic Memory,0
+fantasy_reasoning_task,27,Functional Perception,1
+fantasy_reasoning_task,27,Inhibitory Control,1
+fantasy_reasoning_task,27,Language,1
+fantasy_reasoning_task,27,Mental Simulation,0
+fantasy_reasoning_task,27,Metacognition,1
+fantasy_reasoning_task,27,Object Permanence,0
+fantasy_reasoning_task,27,Perception and Pattern Recognition,2
+fantasy_reasoning_task,27,Planning,0
+fantasy_reasoning_task,27,Procedural Memory,0
+fantasy_reasoning_task,27,Prospective Memory,0
+fantasy_reasoning_task,27,Semantic Memory,2
+fantasy_reasoning_task,27,Spatial Reasoning and Navigation,1
+fantasy_reasoning_task,27,Theory of Mind,0
+fantasy_reasoning_task,27,Working Memory,1
+fantasy_reasoning_task,27,ambiguity,3
+fantasy_reasoning_task,27,factuality,5
+fantasy_reasoning_task,28,Causal Reasoning,0
+fantasy_reasoning_task,28,Cognitive Flexibility,2
+fantasy_reasoning_task,28,Emotion Perception and Empathy,0
+fantasy_reasoning_task,28,Episodic Memory,0
+fantasy_reasoning_task,28,Functional Perception,1
+fantasy_reasoning_task,28,Inhibitory Control,0
+fantasy_reasoning_task,28,Language,2
+fantasy_reasoning_task,28,Mental Simulation,0
+fantasy_reasoning_task,28,Metacognition,2
+fantasy_reasoning_task,28,Object Permanence,0
+fantasy_reasoning_task,28,Perception and Pattern Recognition,1
+fantasy_reasoning_task,28,Planning,0
+fantasy_reasoning_task,28,Procedural Memory,0
+fantasy_reasoning_task,28,Prospective Memory,0
+fantasy_reasoning_task,28,Semantic Memory,2
+fantasy_reasoning_task,28,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,28,Theory of Mind,0
+fantasy_reasoning_task,28,Working Memory,0
+fantasy_reasoning_task,28,ambiguity,4
+fantasy_reasoning_task,28,factuality,1
+fantasy_reasoning_task,29,Causal Reasoning,1
+fantasy_reasoning_task,29,Cognitive Flexibility,0
+fantasy_reasoning_task,29,Emotion Perception and Empathy,0
+fantasy_reasoning_task,29,Episodic Memory,0
+fantasy_reasoning_task,29,Functional Perception,1
+fantasy_reasoning_task,29,Inhibitory Control,0
+fantasy_reasoning_task,29,Language,1
+fantasy_reasoning_task,29,Mental Simulation,1
+fantasy_reasoning_task,29,Metacognition,1
+fantasy_reasoning_task,29,Object Permanence,0
+fantasy_reasoning_task,29,Perception and Pattern Recognition,1
+fantasy_reasoning_task,29,Planning,0
+fantasy_reasoning_task,29,Procedural Memory,0
+fantasy_reasoning_task,29,Prospective Memory,0
+fantasy_reasoning_task,29,Semantic Memory,2
+fantasy_reasoning_task,29,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,29,Theory of Mind,0
+fantasy_reasoning_task,29,Working Memory,0
+fantasy_reasoning_task,29,ambiguity,5
+fantasy_reasoning_task,29,factuality,5
+fantasy_reasoning_task,2,Causal Reasoning,1
+fantasy_reasoning_task,2,Cognitive Flexibility,0
+fantasy_reasoning_task,2,Emotion Perception and Empathy,0
+fantasy_reasoning_task,2,Episodic Memory,0
+fantasy_reasoning_task,2,Functional Perception,2
+fantasy_reasoning_task,2,Inhibitory Control,0
+fantasy_reasoning_task,2,Language,2
+fantasy_reasoning_task,2,Mental Simulation,1
+fantasy_reasoning_task,2,Metacognition,0
+fantasy_reasoning_task,2,Object Permanence,0
+fantasy_reasoning_task,2,Perception and Pattern Recognition,0
+fantasy_reasoning_task,2,Planning,0
+fantasy_reasoning_task,2,Procedural Memory,0
+fantasy_reasoning_task,2,Prospective Memory,0
+fantasy_reasoning_task,2,Semantic Memory,1
+fantasy_reasoning_task,2,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,2,Theory of Mind,2
+fantasy_reasoning_task,2,Working Memory,1
+fantasy_reasoning_task,2,ambiguity,5
+fantasy_reasoning_task,2,factuality,5
+fantasy_reasoning_task,30,Causal Reasoning,0
+fantasy_reasoning_task,30,Cognitive Flexibility,0
+fantasy_reasoning_task,30,Emotion Perception and Empathy,0
+fantasy_reasoning_task,30,Episodic Memory,0
+fantasy_reasoning_task,30,Functional Perception,0
+fantasy_reasoning_task,30,Inhibitory Control,1
+fantasy_reasoning_task,30,Language,1
+fantasy_reasoning_task,30,Mental Simulation,0
+fantasy_reasoning_task,30,Metacognition,1
+fantasy_reasoning_task,30,Object Permanence,0
+fantasy_reasoning_task,30,Perception and Pattern Recognition,1
+fantasy_reasoning_task,30,Planning,0
+fantasy_reasoning_task,30,Procedural Memory,0
+fantasy_reasoning_task,30,Prospective Memory,0
+fantasy_reasoning_task,30,Semantic Memory,2
+fantasy_reasoning_task,30,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,30,Theory of Mind,1
+fantasy_reasoning_task,30,Working Memory,0
+fantasy_reasoning_task,30,ambiguity,5
+fantasy_reasoning_task,30,factuality,5
+fantasy_reasoning_task,31,Causal Reasoning,1
+fantasy_reasoning_task,31,Cognitive Flexibility,0
+fantasy_reasoning_task,31,Emotion Perception and Empathy,0
+fantasy_reasoning_task,31,Episodic Memory,0
+fantasy_reasoning_task,31,Functional Perception,1
+fantasy_reasoning_task,31,Inhibitory Control,0
+fantasy_reasoning_task,31,Language,1
+fantasy_reasoning_task,31,Mental Simulation,1
+fantasy_reasoning_task,31,Metacognition,2
+fantasy_reasoning_task,31,Object Permanence,0
+fantasy_reasoning_task,31,Perception and Pattern Recognition,1
+fantasy_reasoning_task,31,Planning,0
+fantasy_reasoning_task,31,Procedural Memory,0
+fantasy_reasoning_task,31,Prospective Memory,0
+fantasy_reasoning_task,31,Semantic Memory,4
+fantasy_reasoning_task,31,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,31,Theory of Mind,1
+fantasy_reasoning_task,31,Working Memory,0
+fantasy_reasoning_task,31,ambiguity,5
+fantasy_reasoning_task,31,factuality,5
+fantasy_reasoning_task,32,Causal Reasoning,1
+fantasy_reasoning_task,32,Cognitive Flexibility,0
+fantasy_reasoning_task,32,Emotion Perception and Empathy,0
+fantasy_reasoning_task,32,Episodic Memory,0
+fantasy_reasoning_task,32,Functional Perception,1
+fantasy_reasoning_task,32,Inhibitory Control,1
+fantasy_reasoning_task,32,Language,1
+fantasy_reasoning_task,32,Mental Simulation,0
+fantasy_reasoning_task,32,Metacognition,0
+fantasy_reasoning_task,32,Object Permanence,0
+fantasy_reasoning_task,32,Perception and Pattern Recognition,1
+fantasy_reasoning_task,32,Planning,0
+fantasy_reasoning_task,32,Procedural Memory,0
+fantasy_reasoning_task,32,Prospective Memory,0
+fantasy_reasoning_task,32,Semantic Memory,2
+fantasy_reasoning_task,32,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,32,Theory of Mind,0
+fantasy_reasoning_task,32,Working Memory,1
+fantasy_reasoning_task,32,ambiguity,5
+fantasy_reasoning_task,32,factuality,5
+fantasy_reasoning_task,33,Causal Reasoning,1
+fantasy_reasoning_task,33,Cognitive Flexibility,0
+fantasy_reasoning_task,33,Emotion Perception and Empathy,0
+fantasy_reasoning_task,33,Episodic Memory,0
+fantasy_reasoning_task,33,Functional Perception,2
+fantasy_reasoning_task,33,Inhibitory Control,0
+fantasy_reasoning_task,33,Language,1
+fantasy_reasoning_task,33,Mental Simulation,1
+fantasy_reasoning_task,33,Metacognition,1
+fantasy_reasoning_task,33,Object Permanence,1
+fantasy_reasoning_task,33,Perception and Pattern Recognition,1
+fantasy_reasoning_task,33,Planning,0
+fantasy_reasoning_task,33,Procedural Memory,0
+fantasy_reasoning_task,33,Prospective Memory,0
+fantasy_reasoning_task,33,Semantic Memory,0
+fantasy_reasoning_task,33,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,33,Theory of Mind,0
+fantasy_reasoning_task,33,Working Memory,0
+fantasy_reasoning_task,33,ambiguity,5
+fantasy_reasoning_task,33,factuality,5
+fantasy_reasoning_task,34,Causal Reasoning,0
+fantasy_reasoning_task,34,Cognitive Flexibility,2
+fantasy_reasoning_task,34,Emotion Perception and Empathy,0
+fantasy_reasoning_task,34,Episodic Memory,0
+fantasy_reasoning_task,34,Functional Perception,2
+fantasy_reasoning_task,34,Inhibitory Control,1
+fantasy_reasoning_task,34,Language,1
+fantasy_reasoning_task,34,Mental Simulation,1
+fantasy_reasoning_task,34,Metacognition,0
+fantasy_reasoning_task,34,Object Permanence,0
+fantasy_reasoning_task,34,Perception and Pattern Recognition,1
+fantasy_reasoning_task,34,Planning,0
+fantasy_reasoning_task,34,Procedural Memory,0
+fantasy_reasoning_task,34,Prospective Memory,0
+fantasy_reasoning_task,34,Semantic Memory,2
+fantasy_reasoning_task,34,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,34,Theory of Mind,0
+fantasy_reasoning_task,34,Working Memory,0
+fantasy_reasoning_task,34,ambiguity,4
+fantasy_reasoning_task,34,factuality,3
+fantasy_reasoning_task,35,Causal Reasoning,1
+fantasy_reasoning_task,35,Cognitive Flexibility,1
+fantasy_reasoning_task,35,Emotion Perception and Empathy,0
+fantasy_reasoning_task,35,Episodic Memory,0
+fantasy_reasoning_task,35,Functional Perception,0
+fantasy_reasoning_task,35,Inhibitory Control,1
+fantasy_reasoning_task,35,Language,1
+fantasy_reasoning_task,35,Mental Simulation,1
+fantasy_reasoning_task,35,Metacognition,0
+fantasy_reasoning_task,35,Object Permanence,0
+fantasy_reasoning_task,35,Perception and Pattern Recognition,1
+fantasy_reasoning_task,35,Planning,0
+fantasy_reasoning_task,35,Procedural Memory,0
+fantasy_reasoning_task,35,Prospective Memory,0
+fantasy_reasoning_task,35,Semantic Memory,2
+fantasy_reasoning_task,35,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,35,Theory of Mind,0
+fantasy_reasoning_task,35,Working Memory,1
+fantasy_reasoning_task,35,ambiguity,4
+fantasy_reasoning_task,35,factuality,3
+fantasy_reasoning_task,36,Causal Reasoning,1
+fantasy_reasoning_task,36,Cognitive Flexibility,0
+fantasy_reasoning_task,36,Emotion Perception and Empathy,0
+fantasy_reasoning_task,36,Episodic Memory,0
+fantasy_reasoning_task,36,Functional Perception,0
+fantasy_reasoning_task,36,Inhibitory Control,0
+fantasy_reasoning_task,36,Language,1
+fantasy_reasoning_task,36,Mental Simulation,0
+fantasy_reasoning_task,36,Metacognition,0
+fantasy_reasoning_task,36,Object Permanence,0
+fantasy_reasoning_task,36,Perception and Pattern Recognition,1
+fantasy_reasoning_task,36,Planning,0
+fantasy_reasoning_task,36,Procedural Memory,0
+fantasy_reasoning_task,36,Prospective Memory,0
+fantasy_reasoning_task,36,Semantic Memory,0
+fantasy_reasoning_task,36,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,36,Theory of Mind,0
+fantasy_reasoning_task,36,Working Memory,0
+fantasy_reasoning_task,36,ambiguity,5
+fantasy_reasoning_task,36,factuality,2
+fantasy_reasoning_task,37,Causal Reasoning,1
+fantasy_reasoning_task,37,Cognitive Flexibility,0
+fantasy_reasoning_task,37,Emotion Perception and Empathy,0
+fantasy_reasoning_task,37,Episodic Memory,0
+fantasy_reasoning_task,37,Functional Perception,1
+fantasy_reasoning_task,37,Inhibitory Control,1
+fantasy_reasoning_task,37,Language,1
+fantasy_reasoning_task,37,Mental Simulation,0
+fantasy_reasoning_task,37,Metacognition,1
+fantasy_reasoning_task,37,Object Permanence,0
+fantasy_reasoning_task,37,Perception and Pattern Recognition,1
+fantasy_reasoning_task,37,Planning,0
+fantasy_reasoning_task,37,Procedural Memory,0
+fantasy_reasoning_task,37,Prospective Memory,0
+fantasy_reasoning_task,37,Semantic Memory,1
+fantasy_reasoning_task,37,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,37,Theory of Mind,0
+fantasy_reasoning_task,37,Working Memory,0
+fantasy_reasoning_task,37,ambiguity,5
+fantasy_reasoning_task,37,factuality,5
+fantasy_reasoning_task,38,Causal Reasoning,1
+fantasy_reasoning_task,38,Cognitive Flexibility,0
+fantasy_reasoning_task,38,Emotion Perception and Empathy,0
+fantasy_reasoning_task,38,Episodic Memory,0
+fantasy_reasoning_task,38,Functional Perception,1
+fantasy_reasoning_task,38,Inhibitory Control,1
+fantasy_reasoning_task,38,Language,1
+fantasy_reasoning_task,38,Mental Simulation,1
+fantasy_reasoning_task,38,Metacognition,0
+fantasy_reasoning_task,38,Object Permanence,0
+fantasy_reasoning_task,38,Perception and Pattern Recognition,1
+fantasy_reasoning_task,38,Planning,0
+fantasy_reasoning_task,38,Procedural Memory,0
+fantasy_reasoning_task,38,Prospective Memory,0
+fantasy_reasoning_task,38,Semantic Memory,3
+fantasy_reasoning_task,38,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,38,Theory of Mind,2
+fantasy_reasoning_task,38,Working Memory,0
+fantasy_reasoning_task,38,ambiguity,5
+fantasy_reasoning_task,38,factuality,5
+fantasy_reasoning_task,39,Causal Reasoning,1
+fantasy_reasoning_task,39,Cognitive Flexibility,0
+fantasy_reasoning_task,39,Emotion Perception and Empathy,0
+fantasy_reasoning_task,39,Episodic Memory,0
+fantasy_reasoning_task,39,Functional Perception,1
+fantasy_reasoning_task,39,Inhibitory Control,1
+fantasy_reasoning_task,39,Language,1
+fantasy_reasoning_task,39,Mental Simulation,0
+fantasy_reasoning_task,39,Metacognition,0
+fantasy_reasoning_task,39,Object Permanence,0
+fantasy_reasoning_task,39,Perception and Pattern Recognition,1
+fantasy_reasoning_task,39,Planning,0
+fantasy_reasoning_task,39,Procedural Memory,0
+fantasy_reasoning_task,39,Prospective Memory,0
+fantasy_reasoning_task,39,Semantic Memory,2
+fantasy_reasoning_task,39,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,39,Theory of Mind,0
+fantasy_reasoning_task,39,Working Memory,0
+fantasy_reasoning_task,39,ambiguity,5
+fantasy_reasoning_task,39,factuality,5
+fantasy_reasoning_task,3,Causal Reasoning,1
+fantasy_reasoning_task,3,Cognitive Flexibility,1
+fantasy_reasoning_task,3,Emotion Perception and Empathy,0
+fantasy_reasoning_task,3,Episodic Memory,0
+fantasy_reasoning_task,3,Functional Perception,0
+fantasy_reasoning_task,3,Inhibitory Control,0
+fantasy_reasoning_task,3,Language,1
+fantasy_reasoning_task,3,Mental Simulation,1
+fantasy_reasoning_task,3,Metacognition,1
+fantasy_reasoning_task,3,Object Permanence,0
+fantasy_reasoning_task,3,Perception and Pattern Recognition,1
+fantasy_reasoning_task,3,Planning,0
+fantasy_reasoning_task,3,Procedural Memory,0
+fantasy_reasoning_task,3,Prospective Memory,0
+fantasy_reasoning_task,3,Semantic Memory,2
+fantasy_reasoning_task,3,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,3,Theory of Mind,0
+fantasy_reasoning_task,3,Working Memory,0
+fantasy_reasoning_task,3,ambiguity,4
+fantasy_reasoning_task,3,factuality,5
+fantasy_reasoning_task,40,Causal Reasoning,1
+fantasy_reasoning_task,40,Cognitive Flexibility,0
+fantasy_reasoning_task,40,Emotion Perception and Empathy,0
+fantasy_reasoning_task,40,Episodic Memory,0
+fantasy_reasoning_task,40,Functional Perception,2
+fantasy_reasoning_task,40,Inhibitory Control,1
+fantasy_reasoning_task,40,Language,1
+fantasy_reasoning_task,40,Mental Simulation,0
+fantasy_reasoning_task,40,Metacognition,0
+fantasy_reasoning_task,40,Object Permanence,0
+fantasy_reasoning_task,40,Perception and Pattern Recognition,1
+fantasy_reasoning_task,40,Planning,0
+fantasy_reasoning_task,40,Procedural Memory,0
+fantasy_reasoning_task,40,Prospective Memory,0
+fantasy_reasoning_task,40,Semantic Memory,1
+fantasy_reasoning_task,40,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,40,Theory of Mind,0
+fantasy_reasoning_task,40,Working Memory,1
+fantasy_reasoning_task,40,ambiguity,5
+fantasy_reasoning_task,40,factuality,5
+fantasy_reasoning_task,41,Causal Reasoning,1
+fantasy_reasoning_task,41,Cognitive Flexibility,0
+fantasy_reasoning_task,41,Emotion Perception and Empathy,0
+fantasy_reasoning_task,41,Episodic Memory,0
+fantasy_reasoning_task,41,Functional Perception,2
+fantasy_reasoning_task,41,Inhibitory Control,0
+fantasy_reasoning_task,41,Language,1
+fantasy_reasoning_task,41,Mental Simulation,0
+fantasy_reasoning_task,41,Metacognition,1
+fantasy_reasoning_task,41,Object Permanence,0
+fantasy_reasoning_task,41,Perception and Pattern Recognition,2
+fantasy_reasoning_task,41,Planning,0
+fantasy_reasoning_task,41,Procedural Memory,0
+fantasy_reasoning_task,41,Prospective Memory,0
+fantasy_reasoning_task,41,Semantic Memory,1
+fantasy_reasoning_task,41,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,41,Theory of Mind,0
+fantasy_reasoning_task,41,Working Memory,2
+fantasy_reasoning_task,41,ambiguity,4
+fantasy_reasoning_task,41,factuality,5
+fantasy_reasoning_task,42,Causal Reasoning,1
+fantasy_reasoning_task,42,Cognitive Flexibility,0
+fantasy_reasoning_task,42,Emotion Perception and Empathy,0
+fantasy_reasoning_task,42,Episodic Memory,0
+fantasy_reasoning_task,42,Functional Perception,1
+fantasy_reasoning_task,42,Inhibitory Control,1
+fantasy_reasoning_task,42,Language,1
+fantasy_reasoning_task,42,Mental Simulation,1
+fantasy_reasoning_task,42,Metacognition,1
+fantasy_reasoning_task,42,Object Permanence,0
+fantasy_reasoning_task,42,Perception and Pattern Recognition,1
+fantasy_reasoning_task,42,Planning,0
+fantasy_reasoning_task,42,Procedural Memory,0
+fantasy_reasoning_task,42,Prospective Memory,0
+fantasy_reasoning_task,42,Semantic Memory,1
+fantasy_reasoning_task,42,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,42,Theory of Mind,0
+fantasy_reasoning_task,42,Working Memory,2
+fantasy_reasoning_task,42,ambiguity,5
+fantasy_reasoning_task,42,factuality,5
+fantasy_reasoning_task,43,Causal Reasoning,1
+fantasy_reasoning_task,43,Cognitive Flexibility,0
+fantasy_reasoning_task,43,Emotion Perception and Empathy,0
+fantasy_reasoning_task,43,Episodic Memory,0
+fantasy_reasoning_task,43,Functional Perception,2
+fantasy_reasoning_task,43,Inhibitory Control,3
+fantasy_reasoning_task,43,Language,2
+fantasy_reasoning_task,43,Mental Simulation,0
+fantasy_reasoning_task,43,Metacognition,1
+fantasy_reasoning_task,43,Object Permanence,0
+fantasy_reasoning_task,43,Perception and Pattern Recognition,1
+fantasy_reasoning_task,43,Planning,0
+fantasy_reasoning_task,43,Procedural Memory,0
+fantasy_reasoning_task,43,Prospective Memory,0
+fantasy_reasoning_task,43,Semantic Memory,0
+fantasy_reasoning_task,43,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,43,Theory of Mind,0
+fantasy_reasoning_task,43,Working Memory,1
+fantasy_reasoning_task,43,ambiguity,4
+fantasy_reasoning_task,43,factuality,5
+fantasy_reasoning_task,44,Causal Reasoning,1
+fantasy_reasoning_task,44,Cognitive Flexibility,0
+fantasy_reasoning_task,44,Emotion Perception and Empathy,0
+fantasy_reasoning_task,44,Episodic Memory,0
+fantasy_reasoning_task,44,Functional Perception,2
+fantasy_reasoning_task,44,Inhibitory Control,0
+fantasy_reasoning_task,44,Language,2
+fantasy_reasoning_task,44,Mental Simulation,1
+fantasy_reasoning_task,44,Metacognition,2
+fantasy_reasoning_task,44,Object Permanence,0
+fantasy_reasoning_task,44,Perception and Pattern Recognition,2
+fantasy_reasoning_task,44,Planning,0
+fantasy_reasoning_task,44,Procedural Memory,0
+fantasy_reasoning_task,44,Prospective Memory,0
+fantasy_reasoning_task,44,Semantic Memory,0
+fantasy_reasoning_task,44,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,44,Theory of Mind,0
+fantasy_reasoning_task,44,Working Memory,2
+fantasy_reasoning_task,44,ambiguity,3
+fantasy_reasoning_task,44,factuality,5
+fantasy_reasoning_task,45,Causal Reasoning,1
+fantasy_reasoning_task,45,Cognitive Flexibility,0
+fantasy_reasoning_task,45,Emotion Perception and Empathy,0
+fantasy_reasoning_task,45,Episodic Memory,0
+fantasy_reasoning_task,45,Functional Perception,1
+fantasy_reasoning_task,45,Inhibitory Control,0
+fantasy_reasoning_task,45,Language,1
+fantasy_reasoning_task,45,Mental Simulation,1
+fantasy_reasoning_task,45,Metacognition,0
+fantasy_reasoning_task,45,Object Permanence,0
+fantasy_reasoning_task,45,Perception and Pattern Recognition,1
+fantasy_reasoning_task,45,Planning,0
+fantasy_reasoning_task,45,Procedural Memory,0
+fantasy_reasoning_task,45,Prospective Memory,0
+fantasy_reasoning_task,45,Semantic Memory,2
+fantasy_reasoning_task,45,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,45,Theory of Mind,0
+fantasy_reasoning_task,45,Working Memory,1
+fantasy_reasoning_task,45,ambiguity,5
+fantasy_reasoning_task,45,factuality,5
+fantasy_reasoning_task,46,Causal Reasoning,1
+fantasy_reasoning_task,46,Cognitive Flexibility,0
+fantasy_reasoning_task,46,Emotion Perception and Empathy,0
+fantasy_reasoning_task,46,Episodic Memory,0
+fantasy_reasoning_task,46,Functional Perception,0
+fantasy_reasoning_task,46,Inhibitory Control,1
+fantasy_reasoning_task,46,Language,1
+fantasy_reasoning_task,46,Mental Simulation,1
+fantasy_reasoning_task,46,Metacognition,1
+fantasy_reasoning_task,46,Object Permanence,0
+fantasy_reasoning_task,46,Perception and Pattern Recognition,2
+fantasy_reasoning_task,46,Planning,0
+fantasy_reasoning_task,46,Procedural Memory,0
+fantasy_reasoning_task,46,Prospective Memory,0
+fantasy_reasoning_task,46,Semantic Memory,0
+fantasy_reasoning_task,46,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,46,Theory of Mind,0
+fantasy_reasoning_task,46,Working Memory,1
+fantasy_reasoning_task,46,ambiguity,3
+fantasy_reasoning_task,46,factuality,2
+fantasy_reasoning_task,47,Causal Reasoning,1
+fantasy_reasoning_task,47,Cognitive Flexibility,0
+fantasy_reasoning_task,47,Emotion Perception and Empathy,0
+fantasy_reasoning_task,47,Episodic Memory,0
+fantasy_reasoning_task,47,Functional Perception,2
+fantasy_reasoning_task,47,Inhibitory Control,0
+fantasy_reasoning_task,47,Language,2
+fantasy_reasoning_task,47,Mental Simulation,1
+fantasy_reasoning_task,47,Metacognition,1
+fantasy_reasoning_task,47,Object Permanence,0
+fantasy_reasoning_task,47,Perception and Pattern Recognition,1
+fantasy_reasoning_task,47,Planning,0
+fantasy_reasoning_task,47,Procedural Memory,0
+fantasy_reasoning_task,47,Prospective Memory,0
+fantasy_reasoning_task,47,Semantic Memory,1
+fantasy_reasoning_task,47,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,47,Theory of Mind,0
+fantasy_reasoning_task,47,Working Memory,2
+fantasy_reasoning_task,47,ambiguity,4
+fantasy_reasoning_task,47,factuality,5
+fantasy_reasoning_task,48,Causal Reasoning,1
+fantasy_reasoning_task,48,Cognitive Flexibility,0
+fantasy_reasoning_task,48,Emotion Perception and Empathy,0
+fantasy_reasoning_task,48,Episodic Memory,0
+fantasy_reasoning_task,48,Functional Perception,2
+fantasy_reasoning_task,48,Inhibitory Control,0
+fantasy_reasoning_task,48,Language,1
+fantasy_reasoning_task,48,Mental Simulation,1
+fantasy_reasoning_task,48,Metacognition,0
+fantasy_reasoning_task,48,Object Permanence,2
+fantasy_reasoning_task,48,Perception and Pattern Recognition,1
+fantasy_reasoning_task,48,Planning,0
+fantasy_reasoning_task,48,Procedural Memory,0
+fantasy_reasoning_task,48,Prospective Memory,0
+fantasy_reasoning_task,48,Semantic Memory,1
+fantasy_reasoning_task,48,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,48,Theory of Mind,0
+fantasy_reasoning_task,48,Working Memory,1
+fantasy_reasoning_task,48,ambiguity,5
+fantasy_reasoning_task,48,factuality,5
+fantasy_reasoning_task,49,Causal Reasoning,1
+fantasy_reasoning_task,49,Cognitive Flexibility,0
+fantasy_reasoning_task,49,Emotion Perception and Empathy,0
+fantasy_reasoning_task,49,Episodic Memory,0
+fantasy_reasoning_task,49,Functional Perception,2
+fantasy_reasoning_task,49,Inhibitory Control,1
+fantasy_reasoning_task,49,Language,1
+fantasy_reasoning_task,49,Mental Simulation,1
+fantasy_reasoning_task,49,Metacognition,0
+fantasy_reasoning_task,49,Object Permanence,0
+fantasy_reasoning_task,49,Perception and Pattern Recognition,2
+fantasy_reasoning_task,49,Planning,0
+fantasy_reasoning_task,49,Procedural Memory,0
+fantasy_reasoning_task,49,Prospective Memory,0
+fantasy_reasoning_task,49,Semantic Memory,2
+fantasy_reasoning_task,49,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,49,Theory of Mind,0
+fantasy_reasoning_task,49,Working Memory,1
+fantasy_reasoning_task,49,ambiguity,5
+fantasy_reasoning_task,49,factuality,5
+fantasy_reasoning_task,4,Causal Reasoning,1
+fantasy_reasoning_task,4,Cognitive Flexibility,0
+fantasy_reasoning_task,4,Emotion Perception and Empathy,0
+fantasy_reasoning_task,4,Episodic Memory,0
+fantasy_reasoning_task,4,Functional Perception,0
+fantasy_reasoning_task,4,Inhibitory Control,1
+fantasy_reasoning_task,4,Language,1
+fantasy_reasoning_task,4,Mental Simulation,0
+fantasy_reasoning_task,4,Metacognition,1
+fantasy_reasoning_task,4,Object Permanence,1
+fantasy_reasoning_task,4,Perception and Pattern Recognition,2
+fantasy_reasoning_task,4,Planning,0
+fantasy_reasoning_task,4,Procedural Memory,0
+fantasy_reasoning_task,4,Prospective Memory,0
+fantasy_reasoning_task,4,Semantic Memory,1
+fantasy_reasoning_task,4,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,4,Theory of Mind,1
+fantasy_reasoning_task,4,Working Memory,2
+fantasy_reasoning_task,4,ambiguity,5
+fantasy_reasoning_task,4,factuality,1
+fantasy_reasoning_task,50,Causal Reasoning,1
+fantasy_reasoning_task,50,Cognitive Flexibility,0
+fantasy_reasoning_task,50,Emotion Perception and Empathy,0
+fantasy_reasoning_task,50,Episodic Memory,0
+fantasy_reasoning_task,50,Functional Perception,1
+fantasy_reasoning_task,50,Inhibitory Control,0
+fantasy_reasoning_task,50,Language,2
+fantasy_reasoning_task,50,Mental Simulation,1
+fantasy_reasoning_task,50,Metacognition,1
+fantasy_reasoning_task,50,Object Permanence,0
+fantasy_reasoning_task,50,Perception and Pattern Recognition,1
+fantasy_reasoning_task,50,Planning,0
+fantasy_reasoning_task,50,Procedural Memory,0
+fantasy_reasoning_task,50,Prospective Memory,0
+fantasy_reasoning_task,50,Semantic Memory,1
+fantasy_reasoning_task,50,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,50,Theory of Mind,0
+fantasy_reasoning_task,50,Working Memory,1
+fantasy_reasoning_task,50,ambiguity,5
+fantasy_reasoning_task,50,factuality,5
+fantasy_reasoning_task,51,Causal Reasoning,1
+fantasy_reasoning_task,51,Cognitive Flexibility,2
+fantasy_reasoning_task,51,Emotion Perception and Empathy,0
+fantasy_reasoning_task,51,Episodic Memory,0
+fantasy_reasoning_task,51,Functional Perception,1
+fantasy_reasoning_task,51,Inhibitory Control,2
+fantasy_reasoning_task,51,Language,2
+fantasy_reasoning_task,51,Mental Simulation,1
+fantasy_reasoning_task,51,Metacognition,3
+fantasy_reasoning_task,51,Object Permanence,0
+fantasy_reasoning_task,51,Perception and Pattern Recognition,2
+fantasy_reasoning_task,51,Planning,0
+fantasy_reasoning_task,51,Procedural Memory,0
+fantasy_reasoning_task,51,Prospective Memory,0
+fantasy_reasoning_task,51,Semantic Memory,0
+fantasy_reasoning_task,51,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,51,Theory of Mind,0
+fantasy_reasoning_task,51,Working Memory,1
+fantasy_reasoning_task,51,ambiguity,5
+fantasy_reasoning_task,51,factuality,1
+fantasy_reasoning_task,52,Causal Reasoning,1
+fantasy_reasoning_task,52,Cognitive Flexibility,0
+fantasy_reasoning_task,52,Emotion Perception and Empathy,0
+fantasy_reasoning_task,52,Episodic Memory,0
+fantasy_reasoning_task,52,Functional Perception,1
+fantasy_reasoning_task,52,Inhibitory Control,1
+fantasy_reasoning_task,52,Language,2
+fantasy_reasoning_task,52,Mental Simulation,1
+fantasy_reasoning_task,52,Metacognition,2
+fantasy_reasoning_task,52,Object Permanence,0
+fantasy_reasoning_task,52,Perception and Pattern Recognition,2
+fantasy_reasoning_task,52,Planning,0
+fantasy_reasoning_task,52,Procedural Memory,0
+fantasy_reasoning_task,52,Prospective Memory,0
+fantasy_reasoning_task,52,Semantic Memory,2
+fantasy_reasoning_task,52,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,52,Theory of Mind,0
+fantasy_reasoning_task,52,Working Memory,1
+fantasy_reasoning_task,52,ambiguity,4
+fantasy_reasoning_task,52,factuality,1
+fantasy_reasoning_task,53,Causal Reasoning,1
+fantasy_reasoning_task,53,Cognitive Flexibility,0
+fantasy_reasoning_task,53,Emotion Perception and Empathy,0
+fantasy_reasoning_task,53,Episodic Memory,0
+fantasy_reasoning_task,53,Functional Perception,1
+fantasy_reasoning_task,53,Inhibitory Control,1
+fantasy_reasoning_task,53,Language,2
+fantasy_reasoning_task,53,Mental Simulation,1
+fantasy_reasoning_task,53,Metacognition,2
+fantasy_reasoning_task,53,Object Permanence,0
+fantasy_reasoning_task,53,Perception and Pattern Recognition,1
+fantasy_reasoning_task,53,Planning,0
+fantasy_reasoning_task,53,Procedural Memory,0
+fantasy_reasoning_task,53,Prospective Memory,0
+fantasy_reasoning_task,53,Semantic Memory,1
+fantasy_reasoning_task,53,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,53,Theory of Mind,0
+fantasy_reasoning_task,53,Working Memory,1
+fantasy_reasoning_task,53,ambiguity,5
+fantasy_reasoning_task,53,factuality,1
+fantasy_reasoning_task,54,Causal Reasoning,1
+fantasy_reasoning_task,54,Cognitive Flexibility,0
+fantasy_reasoning_task,54,Emotion Perception and Empathy,0
+fantasy_reasoning_task,54,Episodic Memory,0
+fantasy_reasoning_task,54,Functional Perception,1
+fantasy_reasoning_task,54,Inhibitory Control,0
+fantasy_reasoning_task,54,Language,1
+fantasy_reasoning_task,54,Mental Simulation,0
+fantasy_reasoning_task,54,Metacognition,1
+fantasy_reasoning_task,54,Object Permanence,0
+fantasy_reasoning_task,54,Perception and Pattern Recognition,0
+fantasy_reasoning_task,54,Planning,0
+fantasy_reasoning_task,54,Procedural Memory,0
+fantasy_reasoning_task,54,Prospective Memory,0
+fantasy_reasoning_task,54,Semantic Memory,1
+fantasy_reasoning_task,54,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,54,Theory of Mind,0
+fantasy_reasoning_task,54,Working Memory,1
+fantasy_reasoning_task,54,ambiguity,3
+fantasy_reasoning_task,54,factuality,1
+fantasy_reasoning_task,55,Causal Reasoning,1
+fantasy_reasoning_task,55,Cognitive Flexibility,0
+fantasy_reasoning_task,55,Emotion Perception and Empathy,0
+fantasy_reasoning_task,55,Episodic Memory,0
+fantasy_reasoning_task,55,Functional Perception,1
+fantasy_reasoning_task,55,Inhibitory Control,0
+fantasy_reasoning_task,55,Language,1
+fantasy_reasoning_task,55,Mental Simulation,0
+fantasy_reasoning_task,55,Metacognition,1
+fantasy_reasoning_task,55,Object Permanence,0
+fantasy_reasoning_task,55,Perception and Pattern Recognition,0
+fantasy_reasoning_task,55,Planning,0
+fantasy_reasoning_task,55,Procedural Memory,0
+fantasy_reasoning_task,55,Prospective Memory,0
+fantasy_reasoning_task,55,Semantic Memory,1
+fantasy_reasoning_task,55,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,55,Theory of Mind,0
+fantasy_reasoning_task,55,Working Memory,0
+fantasy_reasoning_task,55,ambiguity,5
+fantasy_reasoning_task,55,factuality,5
+fantasy_reasoning_task,56,Causal Reasoning,1
+fantasy_reasoning_task,56,Cognitive Flexibility,0
+fantasy_reasoning_task,56,Emotion Perception and Empathy,0
+fantasy_reasoning_task,56,Episodic Memory,0
+fantasy_reasoning_task,56,Functional Perception,1
+fantasy_reasoning_task,56,Inhibitory Control,1
+fantasy_reasoning_task,56,Language,1
+fantasy_reasoning_task,56,Mental Simulation,0
+fantasy_reasoning_task,56,Metacognition,1
+fantasy_reasoning_task,56,Object Permanence,0
+fantasy_reasoning_task,56,Perception and Pattern Recognition,1
+fantasy_reasoning_task,56,Planning,0
+fantasy_reasoning_task,56,Procedural Memory,0
+fantasy_reasoning_task,56,Prospective Memory,0
+fantasy_reasoning_task,56,Semantic Memory,2
+fantasy_reasoning_task,56,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,56,Theory of Mind,0
+fantasy_reasoning_task,56,Working Memory,0
+fantasy_reasoning_task,56,ambiguity,5
+fantasy_reasoning_task,56,factuality,5
+fantasy_reasoning_task,57,Causal Reasoning,1
+fantasy_reasoning_task,57,Cognitive Flexibility,0
+fantasy_reasoning_task,57,Emotion Perception and Empathy,0
+fantasy_reasoning_task,57,Episodic Memory,0
+fantasy_reasoning_task,57,Functional Perception,3
+fantasy_reasoning_task,57,Inhibitory Control,1
+fantasy_reasoning_task,57,Language,1
+fantasy_reasoning_task,57,Mental Simulation,1
+fantasy_reasoning_task,57,Metacognition,0
+fantasy_reasoning_task,57,Object Permanence,2
+fantasy_reasoning_task,57,Perception and Pattern Recognition,1
+fantasy_reasoning_task,57,Planning,0
+fantasy_reasoning_task,57,Procedural Memory,0
+fantasy_reasoning_task,57,Prospective Memory,0
+fantasy_reasoning_task,57,Semantic Memory,2
+fantasy_reasoning_task,57,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,57,Theory of Mind,2
+fantasy_reasoning_task,57,Working Memory,0
+fantasy_reasoning_task,57,ambiguity,5
+fantasy_reasoning_task,57,factuality,5
+fantasy_reasoning_task,58,Causal Reasoning,1
+fantasy_reasoning_task,58,Cognitive Flexibility,0
+fantasy_reasoning_task,58,Emotion Perception and Empathy,0
+fantasy_reasoning_task,58,Episodic Memory,0
+fantasy_reasoning_task,58,Functional Perception,2
+fantasy_reasoning_task,58,Inhibitory Control,2
+fantasy_reasoning_task,58,Language,1
+fantasy_reasoning_task,58,Mental Simulation,1
+fantasy_reasoning_task,58,Metacognition,1
+fantasy_reasoning_task,58,Object Permanence,0
+fantasy_reasoning_task,58,Perception and Pattern Recognition,2
+fantasy_reasoning_task,58,Planning,0
+fantasy_reasoning_task,58,Procedural Memory,0
+fantasy_reasoning_task,58,Prospective Memory,0
+fantasy_reasoning_task,58,Semantic Memory,2
+fantasy_reasoning_task,58,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,58,Theory of Mind,0
+fantasy_reasoning_task,58,Working Memory,1
+fantasy_reasoning_task,58,ambiguity,4
+fantasy_reasoning_task,58,factuality,5
+fantasy_reasoning_task,59,Causal Reasoning,0
+fantasy_reasoning_task,59,Cognitive Flexibility,0
+fantasy_reasoning_task,59,Emotion Perception and Empathy,0
+fantasy_reasoning_task,59,Episodic Memory,0
+fantasy_reasoning_task,59,Functional Perception,0
+fantasy_reasoning_task,59,Inhibitory Control,0
+fantasy_reasoning_task,59,Language,1
+fantasy_reasoning_task,59,Mental Simulation,0
+fantasy_reasoning_task,59,Metacognition,1
+fantasy_reasoning_task,59,Object Permanence,0
+fantasy_reasoning_task,59,Perception and Pattern Recognition,1
+fantasy_reasoning_task,59,Planning,0
+fantasy_reasoning_task,59,Procedural Memory,0
+fantasy_reasoning_task,59,Prospective Memory,0
+fantasy_reasoning_task,59,Semantic Memory,1
+fantasy_reasoning_task,59,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,59,Theory of Mind,0
+fantasy_reasoning_task,59,Working Memory,0
+fantasy_reasoning_task,59,ambiguity,3
+fantasy_reasoning_task,59,factuality,5
+fantasy_reasoning_task,5,Causal Reasoning,1
+fantasy_reasoning_task,5,Cognitive Flexibility,1
+fantasy_reasoning_task,5,Emotion Perception and Empathy,0
+fantasy_reasoning_task,5,Episodic Memory,0
+fantasy_reasoning_task,5,Functional Perception,2
+fantasy_reasoning_task,5,Inhibitory Control,1
+fantasy_reasoning_task,5,Language,1
+fantasy_reasoning_task,5,Mental Simulation,1
+fantasy_reasoning_task,5,Metacognition,0
+fantasy_reasoning_task,5,Object Permanence,0
+fantasy_reasoning_task,5,Perception and Pattern Recognition,1
+fantasy_reasoning_task,5,Planning,0
+fantasy_reasoning_task,5,Procedural Memory,0
+fantasy_reasoning_task,5,Prospective Memory,0
+fantasy_reasoning_task,5,Semantic Memory,1
+fantasy_reasoning_task,5,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,5,Theory of Mind,2
+fantasy_reasoning_task,5,Working Memory,1
+fantasy_reasoning_task,5,ambiguity,5
+fantasy_reasoning_task,5,factuality,5
+fantasy_reasoning_task,60,Causal Reasoning,1
+fantasy_reasoning_task,60,Cognitive Flexibility,1
+fantasy_reasoning_task,60,Emotion Perception and Empathy,0
+fantasy_reasoning_task,60,Episodic Memory,0
+fantasy_reasoning_task,60,Functional Perception,0
+fantasy_reasoning_task,60,Inhibitory Control,0
+fantasy_reasoning_task,60,Language,1
+fantasy_reasoning_task,60,Mental Simulation,0
+fantasy_reasoning_task,60,Metacognition,0
+fantasy_reasoning_task,60,Object Permanence,0
+fantasy_reasoning_task,60,Perception and Pattern Recognition,1
+fantasy_reasoning_task,60,Planning,0
+fantasy_reasoning_task,60,Procedural Memory,0
+fantasy_reasoning_task,60,Prospective Memory,0
+fantasy_reasoning_task,60,Semantic Memory,2
+fantasy_reasoning_task,60,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,60,Theory of Mind,0
+fantasy_reasoning_task,60,Working Memory,0
+fantasy_reasoning_task,60,ambiguity,5
+fantasy_reasoning_task,60,factuality,5
+fantasy_reasoning_task,61,Causal Reasoning,1
+fantasy_reasoning_task,61,Cognitive Flexibility,0
+fantasy_reasoning_task,61,Emotion Perception and Empathy,0
+fantasy_reasoning_task,61,Episodic Memory,0
+fantasy_reasoning_task,61,Functional Perception,1
+fantasy_reasoning_task,61,Inhibitory Control,1
+fantasy_reasoning_task,61,Language,1
+fantasy_reasoning_task,61,Mental Simulation,0
+fantasy_reasoning_task,61,Metacognition,0
+fantasy_reasoning_task,61,Object Permanence,0
+fantasy_reasoning_task,61,Perception and Pattern Recognition,1
+fantasy_reasoning_task,61,Planning,0
+fantasy_reasoning_task,61,Procedural Memory,0
+fantasy_reasoning_task,61,Prospective Memory,0
+fantasy_reasoning_task,61,Semantic Memory,1
+fantasy_reasoning_task,61,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,61,Theory of Mind,0
+fantasy_reasoning_task,61,Working Memory,1
+fantasy_reasoning_task,61,ambiguity,5
+fantasy_reasoning_task,61,factuality,5
+fantasy_reasoning_task,62,Causal Reasoning,1
+fantasy_reasoning_task,62,Cognitive Flexibility,0
+fantasy_reasoning_task,62,Emotion Perception and Empathy,0
+fantasy_reasoning_task,62,Episodic Memory,0
+fantasy_reasoning_task,62,Functional Perception,1
+fantasy_reasoning_task,62,Inhibitory Control,1
+fantasy_reasoning_task,62,Language,1
+fantasy_reasoning_task,62,Mental Simulation,0
+fantasy_reasoning_task,62,Metacognition,1
+fantasy_reasoning_task,62,Object Permanence,0
+fantasy_reasoning_task,62,Perception and Pattern Recognition,1
+fantasy_reasoning_task,62,Planning,0
+fantasy_reasoning_task,62,Procedural Memory,0
+fantasy_reasoning_task,62,Prospective Memory,0
+fantasy_reasoning_task,62,Semantic Memory,0
+fantasy_reasoning_task,62,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,62,Theory of Mind,0
+fantasy_reasoning_task,62,Working Memory,1
+fantasy_reasoning_task,62,ambiguity,5
+fantasy_reasoning_task,62,factuality,5
+fantasy_reasoning_task,63,Causal Reasoning,1
+fantasy_reasoning_task,63,Cognitive Flexibility,0
+fantasy_reasoning_task,63,Emotion Perception and Empathy,0
+fantasy_reasoning_task,63,Episodic Memory,0
+fantasy_reasoning_task,63,Functional Perception,1
+fantasy_reasoning_task,63,Inhibitory Control,0
+fantasy_reasoning_task,63,Language,1
+fantasy_reasoning_task,63,Mental Simulation,1
+fantasy_reasoning_task,63,Metacognition,0
+fantasy_reasoning_task,63,Object Permanence,0
+fantasy_reasoning_task,63,Perception and Pattern Recognition,1
+fantasy_reasoning_task,63,Planning,0
+fantasy_reasoning_task,63,Procedural Memory,0
+fantasy_reasoning_task,63,Prospective Memory,0
+fantasy_reasoning_task,63,Semantic Memory,1
+fantasy_reasoning_task,63,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,63,Theory of Mind,0
+fantasy_reasoning_task,63,Working Memory,1
+fantasy_reasoning_task,63,ambiguity,5
+fantasy_reasoning_task,63,factuality,5
+fantasy_reasoning_task,64,Causal Reasoning,1
+fantasy_reasoning_task,64,Cognitive Flexibility,0
+fantasy_reasoning_task,64,Emotion Perception and Empathy,0
+fantasy_reasoning_task,64,Episodic Memory,0
+fantasy_reasoning_task,64,Functional Perception,1
+fantasy_reasoning_task,64,Inhibitory Control,1
+fantasy_reasoning_task,64,Language,3
+fantasy_reasoning_task,64,Mental Simulation,0
+fantasy_reasoning_task,64,Metacognition,1
+fantasy_reasoning_task,64,Object Permanence,0
+fantasy_reasoning_task,64,Perception and Pattern Recognition,1
+fantasy_reasoning_task,64,Planning,0
+fantasy_reasoning_task,64,Procedural Memory,0
+fantasy_reasoning_task,64,Prospective Memory,0
+fantasy_reasoning_task,64,Semantic Memory,3
+fantasy_reasoning_task,64,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,64,Theory of Mind,2
+fantasy_reasoning_task,64,Working Memory,1
+fantasy_reasoning_task,64,ambiguity,5
+fantasy_reasoning_task,64,factuality,5
+fantasy_reasoning_task,65,Causal Reasoning,1
+fantasy_reasoning_task,65,Cognitive Flexibility,0
+fantasy_reasoning_task,65,Emotion Perception and Empathy,0
+fantasy_reasoning_task,65,Episodic Memory,0
+fantasy_reasoning_task,65,Functional Perception,1
+fantasy_reasoning_task,65,Inhibitory Control,2
+fantasy_reasoning_task,65,Language,1
+fantasy_reasoning_task,65,Mental Simulation,0
+fantasy_reasoning_task,65,Metacognition,1
+fantasy_reasoning_task,65,Object Permanence,0
+fantasy_reasoning_task,65,Perception and Pattern Recognition,1
+fantasy_reasoning_task,65,Planning,0
+fantasy_reasoning_task,65,Procedural Memory,0
+fantasy_reasoning_task,65,Prospective Memory,0
+fantasy_reasoning_task,65,Semantic Memory,3
+fantasy_reasoning_task,65,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,65,Theory of Mind,2
+fantasy_reasoning_task,65,Working Memory,2
+fantasy_reasoning_task,65,ambiguity,5
+fantasy_reasoning_task,65,factuality,5
+fantasy_reasoning_task,66,Causal Reasoning,1
+fantasy_reasoning_task,66,Cognitive Flexibility,2
+fantasy_reasoning_task,66,Emotion Perception and Empathy,0
+fantasy_reasoning_task,66,Episodic Memory,0
+fantasy_reasoning_task,66,Functional Perception,1
+fantasy_reasoning_task,66,Inhibitory Control,1
+fantasy_reasoning_task,66,Language,1
+fantasy_reasoning_task,66,Mental Simulation,1
+fantasy_reasoning_task,66,Metacognition,0
+fantasy_reasoning_task,66,Object Permanence,0
+fantasy_reasoning_task,66,Perception and Pattern Recognition,0
+fantasy_reasoning_task,66,Planning,0
+fantasy_reasoning_task,66,Procedural Memory,0
+fantasy_reasoning_task,66,Prospective Memory,0
+fantasy_reasoning_task,66,Semantic Memory,3
+fantasy_reasoning_task,66,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,66,Theory of Mind,0
+fantasy_reasoning_task,66,Working Memory,1
+fantasy_reasoning_task,66,ambiguity,4
+fantasy_reasoning_task,66,factuality,1
+fantasy_reasoning_task,67,Causal Reasoning,1
+fantasy_reasoning_task,67,Cognitive Flexibility,1
+fantasy_reasoning_task,67,Emotion Perception and Empathy,0
+fantasy_reasoning_task,67,Episodic Memory,0
+fantasy_reasoning_task,67,Functional Perception,0
+fantasy_reasoning_task,67,Inhibitory Control,1
+fantasy_reasoning_task,67,Language,1
+fantasy_reasoning_task,67,Mental Simulation,1
+fantasy_reasoning_task,67,Metacognition,1
+fantasy_reasoning_task,67,Object Permanence,0
+fantasy_reasoning_task,67,Perception and Pattern Recognition,1
+fantasy_reasoning_task,67,Planning,0
+fantasy_reasoning_task,67,Procedural Memory,0
+fantasy_reasoning_task,67,Prospective Memory,0
+fantasy_reasoning_task,67,Semantic Memory,2
+fantasy_reasoning_task,67,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,67,Theory of Mind,3
+fantasy_reasoning_task,67,Working Memory,1
+fantasy_reasoning_task,67,ambiguity,4
+fantasy_reasoning_task,67,factuality,5
+fantasy_reasoning_task,68,Causal Reasoning,1
+fantasy_reasoning_task,68,Cognitive Flexibility,1
+fantasy_reasoning_task,68,Emotion Perception and Empathy,0
+fantasy_reasoning_task,68,Episodic Memory,0
+fantasy_reasoning_task,68,Functional Perception,0
+fantasy_reasoning_task,68,Inhibitory Control,1
+fantasy_reasoning_task,68,Language,1
+fantasy_reasoning_task,68,Mental Simulation,1
+fantasy_reasoning_task,68,Metacognition,1
+fantasy_reasoning_task,68,Object Permanence,0
+fantasy_reasoning_task,68,Perception and Pattern Recognition,1
+fantasy_reasoning_task,68,Planning,0
+fantasy_reasoning_task,68,Procedural Memory,0
+fantasy_reasoning_task,68,Prospective Memory,0
+fantasy_reasoning_task,68,Semantic Memory,3
+fantasy_reasoning_task,68,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,68,Theory of Mind,2
+fantasy_reasoning_task,68,Working Memory,1
+fantasy_reasoning_task,68,ambiguity,3
+fantasy_reasoning_task,68,factuality,4
+fantasy_reasoning_task,69,Causal Reasoning,1
+fantasy_reasoning_task,69,Cognitive Flexibility,0
+fantasy_reasoning_task,69,Emotion Perception and Empathy,0
+fantasy_reasoning_task,69,Episodic Memory,0
+fantasy_reasoning_task,69,Functional Perception,0
+fantasy_reasoning_task,69,Inhibitory Control,1
+fantasy_reasoning_task,69,Language,1
+fantasy_reasoning_task,69,Mental Simulation,1
+fantasy_reasoning_task,69,Metacognition,1
+fantasy_reasoning_task,69,Object Permanence,0
+fantasy_reasoning_task,69,Perception and Pattern Recognition,1
+fantasy_reasoning_task,69,Planning,0
+fantasy_reasoning_task,69,Procedural Memory,0
+fantasy_reasoning_task,69,Prospective Memory,0
+fantasy_reasoning_task,69,Semantic Memory,1
+fantasy_reasoning_task,69,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,69,Theory of Mind,2
+fantasy_reasoning_task,69,Working Memory,0
+fantasy_reasoning_task,69,ambiguity,3
+fantasy_reasoning_task,69,factuality,5
+fantasy_reasoning_task,6,Causal Reasoning,1
+fantasy_reasoning_task,6,Cognitive Flexibility,0
+fantasy_reasoning_task,6,Emotion Perception and Empathy,0
+fantasy_reasoning_task,6,Episodic Memory,0
+fantasy_reasoning_task,6,Functional Perception,2
+fantasy_reasoning_task,6,Inhibitory Control,1
+fantasy_reasoning_task,6,Language,2
+fantasy_reasoning_task,6,Mental Simulation,1
+fantasy_reasoning_task,6,Metacognition,0
+fantasy_reasoning_task,6,Object Permanence,0
+fantasy_reasoning_task,6,Perception and Pattern Recognition,1
+fantasy_reasoning_task,6,Planning,0
+fantasy_reasoning_task,6,Procedural Memory,0
+fantasy_reasoning_task,6,Prospective Memory,0
+fantasy_reasoning_task,6,Semantic Memory,2
+fantasy_reasoning_task,6,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,6,Theory of Mind,0
+fantasy_reasoning_task,6,Working Memory,1
+fantasy_reasoning_task,6,ambiguity,3
+fantasy_reasoning_task,6,factuality,1
+fantasy_reasoning_task,70,Causal Reasoning,1
+fantasy_reasoning_task,70,Cognitive Flexibility,0
+fantasy_reasoning_task,70,Emotion Perception and Empathy,0
+fantasy_reasoning_task,70,Episodic Memory,0
+fantasy_reasoning_task,70,Functional Perception,1
+fantasy_reasoning_task,70,Inhibitory Control,1
+fantasy_reasoning_task,70,Language,1
+fantasy_reasoning_task,70,Mental Simulation,1
+fantasy_reasoning_task,70,Metacognition,0
+fantasy_reasoning_task,70,Object Permanence,0
+fantasy_reasoning_task,70,Perception and Pattern Recognition,2
+fantasy_reasoning_task,70,Planning,0
+fantasy_reasoning_task,70,Procedural Memory,0
+fantasy_reasoning_task,70,Prospective Memory,0
+fantasy_reasoning_task,70,Semantic Memory,1
+fantasy_reasoning_task,70,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,70,Theory of Mind,1
+fantasy_reasoning_task,70,Working Memory,0
+fantasy_reasoning_task,70,ambiguity,5
+fantasy_reasoning_task,70,factuality,3
+fantasy_reasoning_task,71,Causal Reasoning,1
+fantasy_reasoning_task,71,Cognitive Flexibility,0
+fantasy_reasoning_task,71,Emotion Perception and Empathy,0
+fantasy_reasoning_task,71,Episodic Memory,0
+fantasy_reasoning_task,71,Functional Perception,1
+fantasy_reasoning_task,71,Inhibitory Control,1
+fantasy_reasoning_task,71,Language,2
+fantasy_reasoning_task,71,Mental Simulation,0
+fantasy_reasoning_task,71,Metacognition,1
+fantasy_reasoning_task,71,Object Permanence,0
+fantasy_reasoning_task,71,Perception and Pattern Recognition,1
+fantasy_reasoning_task,71,Planning,0
+fantasy_reasoning_task,71,Procedural Memory,0
+fantasy_reasoning_task,71,Prospective Memory,0
+fantasy_reasoning_task,71,Semantic Memory,2
+fantasy_reasoning_task,71,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,71,Theory of Mind,1
+fantasy_reasoning_task,71,Working Memory,0
+fantasy_reasoning_task,71,ambiguity,4
+fantasy_reasoning_task,71,factuality,5
+fantasy_reasoning_task,72,Causal Reasoning,1
+fantasy_reasoning_task,72,Cognitive Flexibility,0
+fantasy_reasoning_task,72,Emotion Perception and Empathy,0
+fantasy_reasoning_task,72,Episodic Memory,0
+fantasy_reasoning_task,72,Functional Perception,1
+fantasy_reasoning_task,72,Inhibitory Control,1
+fantasy_reasoning_task,72,Language,1
+fantasy_reasoning_task,72,Mental Simulation,0
+fantasy_reasoning_task,72,Metacognition,1
+fantasy_reasoning_task,72,Object Permanence,0
+fantasy_reasoning_task,72,Perception and Pattern Recognition,2
+fantasy_reasoning_task,72,Planning,0
+fantasy_reasoning_task,72,Procedural Memory,0
+fantasy_reasoning_task,72,Prospective Memory,0
+fantasy_reasoning_task,72,Semantic Memory,1
+fantasy_reasoning_task,72,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,72,Theory of Mind,1
+fantasy_reasoning_task,72,Working Memory,1
+fantasy_reasoning_task,72,ambiguity,4
+fantasy_reasoning_task,72,factuality,5
+fantasy_reasoning_task,73,Causal Reasoning,1
+fantasy_reasoning_task,73,Cognitive Flexibility,0
+fantasy_reasoning_task,73,Emotion Perception and Empathy,0
+fantasy_reasoning_task,73,Episodic Memory,0
+fantasy_reasoning_task,73,Functional Perception,1
+fantasy_reasoning_task,73,Inhibitory Control,1
+fantasy_reasoning_task,73,Language,2
+fantasy_reasoning_task,73,Mental Simulation,0
+fantasy_reasoning_task,73,Metacognition,1
+fantasy_reasoning_task,73,Object Permanence,0
+fantasy_reasoning_task,73,Perception and Pattern Recognition,1
+fantasy_reasoning_task,73,Planning,0
+fantasy_reasoning_task,73,Procedural Memory,0
+fantasy_reasoning_task,73,Prospective Memory,0
+fantasy_reasoning_task,73,Semantic Memory,2
+fantasy_reasoning_task,73,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,73,Theory of Mind,1
+fantasy_reasoning_task,73,Working Memory,1
+fantasy_reasoning_task,73,ambiguity,2
+fantasy_reasoning_task,73,factuality,4
+fantasy_reasoning_task,74,Causal Reasoning,1
+fantasy_reasoning_task,74,Cognitive Flexibility,0
+fantasy_reasoning_task,74,Emotion Perception and Empathy,0
+fantasy_reasoning_task,74,Episodic Memory,0
+fantasy_reasoning_task,74,Functional Perception,2
+fantasy_reasoning_task,74,Inhibitory Control,1
+fantasy_reasoning_task,74,Language,1
+fantasy_reasoning_task,74,Mental Simulation,0
+fantasy_reasoning_task,74,Metacognition,1
+fantasy_reasoning_task,74,Object Permanence,0
+fantasy_reasoning_task,74,Perception and Pattern Recognition,1
+fantasy_reasoning_task,74,Planning,0
+fantasy_reasoning_task,74,Procedural Memory,0
+fantasy_reasoning_task,74,Prospective Memory,0
+fantasy_reasoning_task,74,Semantic Memory,3
+fantasy_reasoning_task,74,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,74,Theory of Mind,1
+fantasy_reasoning_task,74,Working Memory,1
+fantasy_reasoning_task,74,ambiguity,4
+fantasy_reasoning_task,74,factuality,5
+fantasy_reasoning_task,75,Causal Reasoning,1
+fantasy_reasoning_task,75,Cognitive Flexibility,0
+fantasy_reasoning_task,75,Emotion Perception and Empathy,0
+fantasy_reasoning_task,75,Episodic Memory,0
+fantasy_reasoning_task,75,Functional Perception,2
+fantasy_reasoning_task,75,Inhibitory Control,0
+fantasy_reasoning_task,75,Language,2
+fantasy_reasoning_task,75,Mental Simulation,0
+fantasy_reasoning_task,75,Metacognition,1
+fantasy_reasoning_task,75,Object Permanence,0
+fantasy_reasoning_task,75,Perception and Pattern Recognition,1
+fantasy_reasoning_task,75,Planning,0
+fantasy_reasoning_task,75,Procedural Memory,0
+fantasy_reasoning_task,75,Prospective Memory,0
+fantasy_reasoning_task,75,Semantic Memory,2
+fantasy_reasoning_task,75,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,75,Theory of Mind,3
+fantasy_reasoning_task,75,Working Memory,1
+fantasy_reasoning_task,75,ambiguity,4
+fantasy_reasoning_task,75,factuality,5
+fantasy_reasoning_task,76,Causal Reasoning,1
+fantasy_reasoning_task,76,Cognitive Flexibility,1
+fantasy_reasoning_task,76,Emotion Perception and Empathy,0
+fantasy_reasoning_task,76,Episodic Memory,0
+fantasy_reasoning_task,76,Functional Perception,1
+fantasy_reasoning_task,76,Inhibitory Control,1
+fantasy_reasoning_task,76,Language,1
+fantasy_reasoning_task,76,Mental Simulation,0
+fantasy_reasoning_task,76,Metacognition,0
+fantasy_reasoning_task,76,Object Permanence,0
+fantasy_reasoning_task,76,Perception and Pattern Recognition,1
+fantasy_reasoning_task,76,Planning,0
+fantasy_reasoning_task,76,Procedural Memory,0
+fantasy_reasoning_task,76,Prospective Memory,0
+fantasy_reasoning_task,76,Semantic Memory,1
+fantasy_reasoning_task,76,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,76,Theory of Mind,0
+fantasy_reasoning_task,76,Working Memory,0
+fantasy_reasoning_task,76,ambiguity,5
+fantasy_reasoning_task,76,factuality,5
+fantasy_reasoning_task,77,Causal Reasoning,0
+fantasy_reasoning_task,77,Cognitive Flexibility,0
+fantasy_reasoning_task,77,Emotion Perception and Empathy,0
+fantasy_reasoning_task,77,Episodic Memory,0
+fantasy_reasoning_task,77,Functional Perception,1
+fantasy_reasoning_task,77,Inhibitory Control,0
+fantasy_reasoning_task,77,Language,2
+fantasy_reasoning_task,77,Mental Simulation,0
+fantasy_reasoning_task,77,Metacognition,1
+fantasy_reasoning_task,77,Object Permanence,0
+fantasy_reasoning_task,77,Perception and Pattern Recognition,1
+fantasy_reasoning_task,77,Planning,0
+fantasy_reasoning_task,77,Procedural Memory,0
+fantasy_reasoning_task,77,Prospective Memory,0
+fantasy_reasoning_task,77,Semantic Memory,2
+fantasy_reasoning_task,77,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,77,Theory of Mind,0
+fantasy_reasoning_task,77,Working Memory,0
+fantasy_reasoning_task,77,ambiguity,5
+fantasy_reasoning_task,77,factuality,5
+fantasy_reasoning_task,78,Causal Reasoning,0
+fantasy_reasoning_task,78,Cognitive Flexibility,0
+fantasy_reasoning_task,78,Emotion Perception and Empathy,0
+fantasy_reasoning_task,78,Episodic Memory,0
+fantasy_reasoning_task,78,Functional Perception,1
+fantasy_reasoning_task,78,Inhibitory Control,2
+fantasy_reasoning_task,78,Language,2
+fantasy_reasoning_task,78,Mental Simulation,0
+fantasy_reasoning_task,78,Metacognition,1
+fantasy_reasoning_task,78,Object Permanence,0
+fantasy_reasoning_task,78,Perception and Pattern Recognition,2
+fantasy_reasoning_task,78,Planning,0
+fantasy_reasoning_task,78,Procedural Memory,0
+fantasy_reasoning_task,78,Prospective Memory,0
+fantasy_reasoning_task,78,Semantic Memory,2
+fantasy_reasoning_task,78,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,78,Theory of Mind,0
+fantasy_reasoning_task,78,Working Memory,0
+fantasy_reasoning_task,78,ambiguity,5
+fantasy_reasoning_task,78,factuality,4
+fantasy_reasoning_task,79,Causal Reasoning,1
+fantasy_reasoning_task,79,Cognitive Flexibility,0
+fantasy_reasoning_task,79,Emotion Perception and Empathy,0
+fantasy_reasoning_task,79,Episodic Memory,0
+fantasy_reasoning_task,79,Functional Perception,1
+fantasy_reasoning_task,79,Inhibitory Control,1
+fantasy_reasoning_task,79,Language,2
+fantasy_reasoning_task,79,Mental Simulation,0
+fantasy_reasoning_task,79,Metacognition,1
+fantasy_reasoning_task,79,Object Permanence,0
+fantasy_reasoning_task,79,Perception and Pattern Recognition,1
+fantasy_reasoning_task,79,Planning,0
+fantasy_reasoning_task,79,Procedural Memory,0
+fantasy_reasoning_task,79,Prospective Memory,0
+fantasy_reasoning_task,79,Semantic Memory,2
+fantasy_reasoning_task,79,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,79,Theory of Mind,0
+fantasy_reasoning_task,79,Working Memory,0
+fantasy_reasoning_task,79,ambiguity,4
+fantasy_reasoning_task,79,factuality,5
+fantasy_reasoning_task,7,Causal Reasoning,1
+fantasy_reasoning_task,7,Cognitive Flexibility,0
+fantasy_reasoning_task,7,Emotion Perception and Empathy,0
+fantasy_reasoning_task,7,Episodic Memory,0
+fantasy_reasoning_task,7,Functional Perception,2
+fantasy_reasoning_task,7,Inhibitory Control,0
+fantasy_reasoning_task,7,Language,2
+fantasy_reasoning_task,7,Mental Simulation,1
+fantasy_reasoning_task,7,Metacognition,1
+fantasy_reasoning_task,7,Object Permanence,0
+fantasy_reasoning_task,7,Perception and Pattern Recognition,1
+fantasy_reasoning_task,7,Planning,0
+fantasy_reasoning_task,7,Procedural Memory,0
+fantasy_reasoning_task,7,Prospective Memory,0
+fantasy_reasoning_task,7,Semantic Memory,2
+fantasy_reasoning_task,7,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,7,Theory of Mind,0
+fantasy_reasoning_task,7,Working Memory,0
+fantasy_reasoning_task,7,ambiguity,5
+fantasy_reasoning_task,7,factuality,5
+fantasy_reasoning_task,80,Causal Reasoning,1
+fantasy_reasoning_task,80,Cognitive Flexibility,0
+fantasy_reasoning_task,80,Emotion Perception and Empathy,0
+fantasy_reasoning_task,80,Episodic Memory,0
+fantasy_reasoning_task,80,Functional Perception,1
+fantasy_reasoning_task,80,Inhibitory Control,1
+fantasy_reasoning_task,80,Language,2
+fantasy_reasoning_task,80,Mental Simulation,0
+fantasy_reasoning_task,80,Metacognition,1
+fantasy_reasoning_task,80,Object Permanence,0
+fantasy_reasoning_task,80,Perception and Pattern Recognition,1
+fantasy_reasoning_task,80,Planning,0
+fantasy_reasoning_task,80,Procedural Memory,0
+fantasy_reasoning_task,80,Prospective Memory,0
+fantasy_reasoning_task,80,Semantic Memory,2
+fantasy_reasoning_task,80,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,80,Theory of Mind,0
+fantasy_reasoning_task,80,Working Memory,0
+fantasy_reasoning_task,80,ambiguity,5
+fantasy_reasoning_task,80,factuality,1
+fantasy_reasoning_task,81,Causal Reasoning,1
+fantasy_reasoning_task,81,Cognitive Flexibility,2
+fantasy_reasoning_task,81,Emotion Perception and Empathy,0
+fantasy_reasoning_task,81,Episodic Memory,0
+fantasy_reasoning_task,81,Functional Perception,1
+fantasy_reasoning_task,81,Inhibitory Control,1
+fantasy_reasoning_task,81,Language,2
+fantasy_reasoning_task,81,Mental Simulation,0
+fantasy_reasoning_task,81,Metacognition,2
+fantasy_reasoning_task,81,Object Permanence,0
+fantasy_reasoning_task,81,Perception and Pattern Recognition,1
+fantasy_reasoning_task,81,Planning,0
+fantasy_reasoning_task,81,Procedural Memory,0
+fantasy_reasoning_task,81,Prospective Memory,0
+fantasy_reasoning_task,81,Semantic Memory,2
+fantasy_reasoning_task,81,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,81,Theory of Mind,2
+fantasy_reasoning_task,81,Working Memory,0
+fantasy_reasoning_task,81,ambiguity,4
+fantasy_reasoning_task,81,factuality,5
+fantasy_reasoning_task,82,Causal Reasoning,1
+fantasy_reasoning_task,82,Cognitive Flexibility,0
+fantasy_reasoning_task,82,Emotion Perception and Empathy,0
+fantasy_reasoning_task,82,Episodic Memory,0
+fantasy_reasoning_task,82,Functional Perception,1
+fantasy_reasoning_task,82,Inhibitory Control,1
+fantasy_reasoning_task,82,Language,2
+fantasy_reasoning_task,82,Mental Simulation,1
+fantasy_reasoning_task,82,Metacognition,1
+fantasy_reasoning_task,82,Object Permanence,0
+fantasy_reasoning_task,82,Perception and Pattern Recognition,1
+fantasy_reasoning_task,82,Planning,0
+fantasy_reasoning_task,82,Procedural Memory,0
+fantasy_reasoning_task,82,Prospective Memory,0
+fantasy_reasoning_task,82,Semantic Memory,3
+fantasy_reasoning_task,82,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,82,Theory of Mind,0
+fantasy_reasoning_task,82,Working Memory,2
+fantasy_reasoning_task,82,ambiguity,4
+fantasy_reasoning_task,82,factuality,5
+fantasy_reasoning_task,83,Causal Reasoning,0
+fantasy_reasoning_task,83,Cognitive Flexibility,0
+fantasy_reasoning_task,83,Emotion Perception and Empathy,0
+fantasy_reasoning_task,83,Episodic Memory,0
+fantasy_reasoning_task,83,Functional Perception,2
+fantasy_reasoning_task,83,Inhibitory Control,1
+fantasy_reasoning_task,83,Language,2
+fantasy_reasoning_task,83,Mental Simulation,0
+fantasy_reasoning_task,83,Metacognition,2
+fantasy_reasoning_task,83,Object Permanence,0
+fantasy_reasoning_task,83,Perception and Pattern Recognition,2
+fantasy_reasoning_task,83,Planning,0
+fantasy_reasoning_task,83,Procedural Memory,0
+fantasy_reasoning_task,83,Prospective Memory,0
+fantasy_reasoning_task,83,Semantic Memory,3
+fantasy_reasoning_task,83,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,83,Theory of Mind,0
+fantasy_reasoning_task,83,Working Memory,1
+fantasy_reasoning_task,83,ambiguity,5
+fantasy_reasoning_task,83,factuality,5
+fantasy_reasoning_task,84,Causal Reasoning,1
+fantasy_reasoning_task,84,Cognitive Flexibility,1
+fantasy_reasoning_task,84,Emotion Perception and Empathy,0
+fantasy_reasoning_task,84,Episodic Memory,0
+fantasy_reasoning_task,84,Functional Perception,0
+fantasy_reasoning_task,84,Inhibitory Control,2
+fantasy_reasoning_task,84,Language,2
+fantasy_reasoning_task,84,Mental Simulation,0
+fantasy_reasoning_task,84,Metacognition,1
+fantasy_reasoning_task,84,Object Permanence,0
+fantasy_reasoning_task,84,Perception and Pattern Recognition,2
+fantasy_reasoning_task,84,Planning,0
+fantasy_reasoning_task,84,Procedural Memory,0
+fantasy_reasoning_task,84,Prospective Memory,0
+fantasy_reasoning_task,84,Semantic Memory,1
+fantasy_reasoning_task,84,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,84,Theory of Mind,0
+fantasy_reasoning_task,84,Working Memory,1
+fantasy_reasoning_task,84,ambiguity,4
+fantasy_reasoning_task,84,factuality,5
+fantasy_reasoning_task,85,Causal Reasoning,0
+fantasy_reasoning_task,85,Cognitive Flexibility,0
+fantasy_reasoning_task,85,Emotion Perception and Empathy,0
+fantasy_reasoning_task,85,Episodic Memory,0
+fantasy_reasoning_task,85,Functional Perception,0
+fantasy_reasoning_task,85,Inhibitory Control,1
+fantasy_reasoning_task,85,Language,2
+fantasy_reasoning_task,85,Mental Simulation,0
+fantasy_reasoning_task,85,Metacognition,1
+fantasy_reasoning_task,85,Object Permanence,0
+fantasy_reasoning_task,85,Perception and Pattern Recognition,2
+fantasy_reasoning_task,85,Planning,0
+fantasy_reasoning_task,85,Procedural Memory,0
+fantasy_reasoning_task,85,Prospective Memory,0
+fantasy_reasoning_task,85,Semantic Memory,2
+fantasy_reasoning_task,85,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,85,Theory of Mind,0
+fantasy_reasoning_task,85,Working Memory,0
+fantasy_reasoning_task,85,ambiguity,2
+fantasy_reasoning_task,85,factuality,5
+fantasy_reasoning_task,86,Causal Reasoning,1
+fantasy_reasoning_task,86,Cognitive Flexibility,0
+fantasy_reasoning_task,86,Emotion Perception and Empathy,0
+fantasy_reasoning_task,86,Episodic Memory,0
+fantasy_reasoning_task,86,Functional Perception,0
+fantasy_reasoning_task,86,Inhibitory Control,1
+fantasy_reasoning_task,86,Language,3
+fantasy_reasoning_task,86,Mental Simulation,1
+fantasy_reasoning_task,86,Metacognition,2
+fantasy_reasoning_task,86,Object Permanence,0
+fantasy_reasoning_task,86,Perception and Pattern Recognition,0
+fantasy_reasoning_task,86,Planning,0
+fantasy_reasoning_task,86,Procedural Memory,0
+fantasy_reasoning_task,86,Prospective Memory,0
+fantasy_reasoning_task,86,Semantic Memory,3
+fantasy_reasoning_task,86,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,86,Theory of Mind,0
+fantasy_reasoning_task,86,Working Memory,1
+fantasy_reasoning_task,86,ambiguity,2
+fantasy_reasoning_task,86,factuality,3
+fantasy_reasoning_task,87,Causal Reasoning,1
+fantasy_reasoning_task,87,Cognitive Flexibility,0
+fantasy_reasoning_task,87,Emotion Perception and Empathy,0
+fantasy_reasoning_task,87,Episodic Memory,0
+fantasy_reasoning_task,87,Functional Perception,0
+fantasy_reasoning_task,87,Inhibitory Control,1
+fantasy_reasoning_task,87,Language,1
+fantasy_reasoning_task,87,Mental Simulation,0
+fantasy_reasoning_task,87,Metacognition,1
+fantasy_reasoning_task,87,Object Permanence,0
+fantasy_reasoning_task,87,Perception and Pattern Recognition,1
+fantasy_reasoning_task,87,Planning,0
+fantasy_reasoning_task,87,Procedural Memory,0
+fantasy_reasoning_task,87,Prospective Memory,0
+fantasy_reasoning_task,87,Semantic Memory,2
+fantasy_reasoning_task,87,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,87,Theory of Mind,0
+fantasy_reasoning_task,87,Working Memory,1
+fantasy_reasoning_task,87,ambiguity,3
+fantasy_reasoning_task,87,factuality,5
+fantasy_reasoning_task,88,Causal Reasoning,1
+fantasy_reasoning_task,88,Cognitive Flexibility,0
+fantasy_reasoning_task,88,Emotion Perception and Empathy,0
+fantasy_reasoning_task,88,Episodic Memory,0
+fantasy_reasoning_task,88,Functional Perception,0
+fantasy_reasoning_task,88,Inhibitory Control,1
+fantasy_reasoning_task,88,Language,3
+fantasy_reasoning_task,88,Mental Simulation,0
+fantasy_reasoning_task,88,Metacognition,3
+fantasy_reasoning_task,88,Object Permanence,0
+fantasy_reasoning_task,88,Perception and Pattern Recognition,2
+fantasy_reasoning_task,88,Planning,0
+fantasy_reasoning_task,88,Procedural Memory,0
+fantasy_reasoning_task,88,Prospective Memory,0
+fantasy_reasoning_task,88,Semantic Memory,2
+fantasy_reasoning_task,88,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,88,Theory of Mind,0
+fantasy_reasoning_task,88,Working Memory,1
+fantasy_reasoning_task,88,ambiguity,3
+fantasy_reasoning_task,88,factuality,4
+fantasy_reasoning_task,89,Causal Reasoning,0
+fantasy_reasoning_task,89,Cognitive Flexibility,2
+fantasy_reasoning_task,89,Emotion Perception and Empathy,0
+fantasy_reasoning_task,89,Episodic Memory,0
+fantasy_reasoning_task,89,Functional Perception,0
+fantasy_reasoning_task,89,Inhibitory Control,1
+fantasy_reasoning_task,89,Language,2
+fantasy_reasoning_task,89,Mental Simulation,1
+fantasy_reasoning_task,89,Metacognition,1
+fantasy_reasoning_task,89,Object Permanence,0
+fantasy_reasoning_task,89,Perception and Pattern Recognition,1
+fantasy_reasoning_task,89,Planning,0
+fantasy_reasoning_task,89,Procedural Memory,0
+fantasy_reasoning_task,89,Prospective Memory,0
+fantasy_reasoning_task,89,Semantic Memory,3
+fantasy_reasoning_task,89,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,89,Theory of Mind,0
+fantasy_reasoning_task,89,Working Memory,2
+fantasy_reasoning_task,89,ambiguity,2
+fantasy_reasoning_task,89,factuality,3
+fantasy_reasoning_task,8,Causal Reasoning,1
+fantasy_reasoning_task,8,Cognitive Flexibility,0
+fantasy_reasoning_task,8,Emotion Perception and Empathy,0
+fantasy_reasoning_task,8,Episodic Memory,0
+fantasy_reasoning_task,8,Functional Perception,1
+fantasy_reasoning_task,8,Inhibitory Control,0
+fantasy_reasoning_task,8,Language,1
+fantasy_reasoning_task,8,Mental Simulation,1
+fantasy_reasoning_task,8,Metacognition,1
+fantasy_reasoning_task,8,Object Permanence,0
+fantasy_reasoning_task,8,Perception and Pattern Recognition,1
+fantasy_reasoning_task,8,Planning,0
+fantasy_reasoning_task,8,Procedural Memory,0
+fantasy_reasoning_task,8,Prospective Memory,0
+fantasy_reasoning_task,8,Semantic Memory,1
+fantasy_reasoning_task,8,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,8,Theory of Mind,0
+fantasy_reasoning_task,8,Working Memory,1
+fantasy_reasoning_task,8,ambiguity,5
+fantasy_reasoning_task,8,factuality,5
+fantasy_reasoning_task,90,Causal Reasoning,1
+fantasy_reasoning_task,90,Cognitive Flexibility,1
+fantasy_reasoning_task,90,Emotion Perception and Empathy,0
+fantasy_reasoning_task,90,Episodic Memory,0
+fantasy_reasoning_task,90,Functional Perception,0
+fantasy_reasoning_task,90,Inhibitory Control,2
+fantasy_reasoning_task,90,Language,2
+fantasy_reasoning_task,90,Mental Simulation,0
+fantasy_reasoning_task,90,Metacognition,2
+fantasy_reasoning_task,90,Object Permanence,0
+fantasy_reasoning_task,90,Perception and Pattern Recognition,2
+fantasy_reasoning_task,90,Planning,0
+fantasy_reasoning_task,90,Procedural Memory,0
+fantasy_reasoning_task,90,Prospective Memory,0
+fantasy_reasoning_task,90,Semantic Memory,3
+fantasy_reasoning_task,90,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,90,Theory of Mind,2
+fantasy_reasoning_task,90,Working Memory,1
+fantasy_reasoning_task,90,ambiguity,5
+fantasy_reasoning_task,90,factuality,5
+fantasy_reasoning_task,91,Causal Reasoning,0
+fantasy_reasoning_task,91,Cognitive Flexibility,1
+fantasy_reasoning_task,91,Emotion Perception and Empathy,0
+fantasy_reasoning_task,91,Episodic Memory,0
+fantasy_reasoning_task,91,Functional Perception,1
+fantasy_reasoning_task,91,Inhibitory Control,1
+fantasy_reasoning_task,91,Language,3
+fantasy_reasoning_task,91,Mental Simulation,0
+fantasy_reasoning_task,91,Metacognition,1
+fantasy_reasoning_task,91,Object Permanence,0
+fantasy_reasoning_task,91,Perception and Pattern Recognition,2
+fantasy_reasoning_task,91,Planning,0
+fantasy_reasoning_task,91,Procedural Memory,0
+fantasy_reasoning_task,91,Prospective Memory,0
+fantasy_reasoning_task,91,Semantic Memory,3
+fantasy_reasoning_task,91,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,91,Theory of Mind,0
+fantasy_reasoning_task,91,Working Memory,0
+fantasy_reasoning_task,91,ambiguity,3
+fantasy_reasoning_task,91,factuality,5
+fantasy_reasoning_task,92,Causal Reasoning,0
+fantasy_reasoning_task,92,Cognitive Flexibility,0
+fantasy_reasoning_task,92,Emotion Perception and Empathy,0
+fantasy_reasoning_task,92,Episodic Memory,0
+fantasy_reasoning_task,92,Functional Perception,0
+fantasy_reasoning_task,92,Inhibitory Control,0
+fantasy_reasoning_task,92,Language,2
+fantasy_reasoning_task,92,Mental Simulation,1
+fantasy_reasoning_task,92,Metacognition,2
+fantasy_reasoning_task,92,Object Permanence,0
+fantasy_reasoning_task,92,Perception and Pattern Recognition,1
+fantasy_reasoning_task,92,Planning,0
+fantasy_reasoning_task,92,Procedural Memory,0
+fantasy_reasoning_task,92,Prospective Memory,0
+fantasy_reasoning_task,92,Semantic Memory,3
+fantasy_reasoning_task,92,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,92,Theory of Mind,0
+fantasy_reasoning_task,92,Working Memory,0
+fantasy_reasoning_task,92,ambiguity,4
+fantasy_reasoning_task,92,factuality,5
+fantasy_reasoning_task,93,Causal Reasoning,1
+fantasy_reasoning_task,93,Cognitive Flexibility,1
+fantasy_reasoning_task,93,Emotion Perception and Empathy,0
+fantasy_reasoning_task,93,Episodic Memory,0
+fantasy_reasoning_task,93,Functional Perception,1
+fantasy_reasoning_task,93,Inhibitory Control,2
+fantasy_reasoning_task,93,Language,2
+fantasy_reasoning_task,93,Mental Simulation,0
+fantasy_reasoning_task,93,Metacognition,2
+fantasy_reasoning_task,93,Object Permanence,0
+fantasy_reasoning_task,93,Perception and Pattern Recognition,1
+fantasy_reasoning_task,93,Planning,0
+fantasy_reasoning_task,93,Procedural Memory,0
+fantasy_reasoning_task,93,Prospective Memory,0
+fantasy_reasoning_task,93,Semantic Memory,1
+fantasy_reasoning_task,93,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,93,Theory of Mind,1
+fantasy_reasoning_task,93,Working Memory,1
+fantasy_reasoning_task,93,ambiguity,2
+fantasy_reasoning_task,93,factuality,4
+fantasy_reasoning_task,94,Causal Reasoning,1
+fantasy_reasoning_task,94,Cognitive Flexibility,1
+fantasy_reasoning_task,94,Emotion Perception and Empathy,0
+fantasy_reasoning_task,94,Episodic Memory,0
+fantasy_reasoning_task,94,Functional Perception,1
+fantasy_reasoning_task,94,Inhibitory Control,1
+fantasy_reasoning_task,94,Language,1
+fantasy_reasoning_task,94,Mental Simulation,1
+fantasy_reasoning_task,94,Metacognition,1
+fantasy_reasoning_task,94,Object Permanence,0
+fantasy_reasoning_task,94,Perception and Pattern Recognition,2
+fantasy_reasoning_task,94,Planning,0
+fantasy_reasoning_task,94,Procedural Memory,0
+fantasy_reasoning_task,94,Prospective Memory,0
+fantasy_reasoning_task,94,Semantic Memory,1
+fantasy_reasoning_task,94,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,94,Theory of Mind,2
+fantasy_reasoning_task,94,Working Memory,2
+fantasy_reasoning_task,94,ambiguity,2
+fantasy_reasoning_task,94,factuality,1
+fantasy_reasoning_task,95,Causal Reasoning,0
+fantasy_reasoning_task,95,Cognitive Flexibility,0
+fantasy_reasoning_task,95,Emotion Perception and Empathy,0
+fantasy_reasoning_task,95,Episodic Memory,0
+fantasy_reasoning_task,95,Functional Perception,1
+fantasy_reasoning_task,95,Inhibitory Control,1
+fantasy_reasoning_task,95,Language,2
+fantasy_reasoning_task,95,Mental Simulation,0
+fantasy_reasoning_task,95,Metacognition,1
+fantasy_reasoning_task,95,Object Permanence,0
+fantasy_reasoning_task,95,Perception and Pattern Recognition,0
+fantasy_reasoning_task,95,Planning,0
+fantasy_reasoning_task,95,Procedural Memory,0
+fantasy_reasoning_task,95,Prospective Memory,0
+fantasy_reasoning_task,95,Semantic Memory,2
+fantasy_reasoning_task,95,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,95,Theory of Mind,2
+fantasy_reasoning_task,95,Working Memory,1
+fantasy_reasoning_task,95,ambiguity,4
+fantasy_reasoning_task,95,factuality,5
+fantasy_reasoning_task,96,Causal Reasoning,1
+fantasy_reasoning_task,96,Cognitive Flexibility,0
+fantasy_reasoning_task,96,Emotion Perception and Empathy,0
+fantasy_reasoning_task,96,Episodic Memory,0
+fantasy_reasoning_task,96,Functional Perception,1
+fantasy_reasoning_task,96,Inhibitory Control,1
+fantasy_reasoning_task,96,Language,2
+fantasy_reasoning_task,96,Mental Simulation,1
+fantasy_reasoning_task,96,Metacognition,2
+fantasy_reasoning_task,96,Object Permanence,0
+fantasy_reasoning_task,96,Perception and Pattern Recognition,1
+fantasy_reasoning_task,96,Planning,0
+fantasy_reasoning_task,96,Procedural Memory,0
+fantasy_reasoning_task,96,Prospective Memory,0
+fantasy_reasoning_task,96,Semantic Memory,2
+fantasy_reasoning_task,96,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,96,Theory of Mind,1
+fantasy_reasoning_task,96,Working Memory,1
+fantasy_reasoning_task,96,ambiguity,3
+fantasy_reasoning_task,96,factuality,5
+fantasy_reasoning_task,97,Causal Reasoning,1
+fantasy_reasoning_task,97,Cognitive Flexibility,0
+fantasy_reasoning_task,97,Emotion Perception and Empathy,0
+fantasy_reasoning_task,97,Episodic Memory,0
+fantasy_reasoning_task,97,Functional Perception,1
+fantasy_reasoning_task,97,Inhibitory Control,1
+fantasy_reasoning_task,97,Language,1
+fantasy_reasoning_task,97,Mental Simulation,1
+fantasy_reasoning_task,97,Metacognition,1
+fantasy_reasoning_task,97,Object Permanence,0
+fantasy_reasoning_task,97,Perception and Pattern Recognition,2
+fantasy_reasoning_task,97,Planning,0
+fantasy_reasoning_task,97,Procedural Memory,0
+fantasy_reasoning_task,97,Prospective Memory,0
+fantasy_reasoning_task,97,Semantic Memory,1
+fantasy_reasoning_task,97,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,97,Theory of Mind,0
+fantasy_reasoning_task,97,Working Memory,1
+fantasy_reasoning_task,97,ambiguity,3
+fantasy_reasoning_task,97,factuality,1
+fantasy_reasoning_task,98,Causal Reasoning,1
+fantasy_reasoning_task,98,Cognitive Flexibility,0
+fantasy_reasoning_task,98,Emotion Perception and Empathy,0
+fantasy_reasoning_task,98,Episodic Memory,0
+fantasy_reasoning_task,98,Functional Perception,1
+fantasy_reasoning_task,98,Inhibitory Control,1
+fantasy_reasoning_task,98,Language,1
+fantasy_reasoning_task,98,Mental Simulation,0
+fantasy_reasoning_task,98,Metacognition,1
+fantasy_reasoning_task,98,Object Permanence,0
+fantasy_reasoning_task,98,Perception and Pattern Recognition,2
+fantasy_reasoning_task,98,Planning,0
+fantasy_reasoning_task,98,Procedural Memory,0
+fantasy_reasoning_task,98,Prospective Memory,0
+fantasy_reasoning_task,98,Semantic Memory,1
+fantasy_reasoning_task,98,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,98,Theory of Mind,1
+fantasy_reasoning_task,98,Working Memory,1
+fantasy_reasoning_task,98,ambiguity,4
+fantasy_reasoning_task,98,factuality,4
+fantasy_reasoning_task,99,Causal Reasoning,1
+fantasy_reasoning_task,99,Cognitive Flexibility,0
+fantasy_reasoning_task,99,Emotion Perception and Empathy,0
+fantasy_reasoning_task,99,Episodic Memory,0
+fantasy_reasoning_task,99,Functional Perception,2
+fantasy_reasoning_task,99,Inhibitory Control,1
+fantasy_reasoning_task,99,Language,1
+fantasy_reasoning_task,99,Mental Simulation,1
+fantasy_reasoning_task,99,Metacognition,2
+fantasy_reasoning_task,99,Object Permanence,0
+fantasy_reasoning_task,99,Perception and Pattern Recognition,1
+fantasy_reasoning_task,99,Planning,0
+fantasy_reasoning_task,99,Procedural Memory,0
+fantasy_reasoning_task,99,Prospective Memory,0
+fantasy_reasoning_task,99,Semantic Memory,1
+fantasy_reasoning_task,99,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,99,Theory of Mind,1
+fantasy_reasoning_task,99,Working Memory,1
+fantasy_reasoning_task,99,ambiguity,4
+fantasy_reasoning_task,99,factuality,5
+fantasy_reasoning_task,9,Causal Reasoning,1
+fantasy_reasoning_task,9,Cognitive Flexibility,1
+fantasy_reasoning_task,9,Emotion Perception and Empathy,0
+fantasy_reasoning_task,9,Episodic Memory,0
+fantasy_reasoning_task,9,Functional Perception,1
+fantasy_reasoning_task,9,Inhibitory Control,1
+fantasy_reasoning_task,9,Language,2
+fantasy_reasoning_task,9,Mental Simulation,1
+fantasy_reasoning_task,9,Metacognition,1
+fantasy_reasoning_task,9,Object Permanence,0
+fantasy_reasoning_task,9,Perception and Pattern Recognition,1
+fantasy_reasoning_task,9,Planning,0
+fantasy_reasoning_task,9,Procedural Memory,0
+fantasy_reasoning_task,9,Prospective Memory,0
+fantasy_reasoning_task,9,Semantic Memory,2
+fantasy_reasoning_task,9,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,9,Theory of Mind,1
+fantasy_reasoning_task,9,Working Memory,2
+fantasy_reasoning_task,9,ambiguity,5
+fantasy_reasoning_task,9,factuality,5
+fantasy_reasoning_task,163,Causal Reasoning,1
+fantasy_reasoning_task,163,Cognitive Flexibility,0
+fantasy_reasoning_task,163,Emotion Perception and Empathy,0
+fantasy_reasoning_task,163,Episodic Memory,0
+fantasy_reasoning_task,163,Functional Perception,1
+fantasy_reasoning_task,163,Inhibitory Control,0
+fantasy_reasoning_task,163,Language,2
+fantasy_reasoning_task,163,Mental Simulation,0
+fantasy_reasoning_task,163,Metacognition,1
+fantasy_reasoning_task,163,Object Permanence,0
+fantasy_reasoning_task,163,Perception and Pattern Recognition,1
+fantasy_reasoning_task,163,Planning,0
+fantasy_reasoning_task,163,Procedural Memory,0
+fantasy_reasoning_task,163,Prospective Memory,0
+fantasy_reasoning_task,163,Semantic Memory,3
+fantasy_reasoning_task,163,Spatial Reasoning and Navigation,0
+fantasy_reasoning_task,163,Theory of Mind,1
+fantasy_reasoning_task,163,Working Memory,1
+fantasy_reasoning_task,163,ambiguity,4
+fantasy_reasoning_task,163,factuality,5

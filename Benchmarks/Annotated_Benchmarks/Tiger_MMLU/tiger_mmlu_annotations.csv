@@ -1,0 +1,4001 @@
+dataset name,sample id,dimension,score
+tiger_mmlu_task,10024,Causal Reasoning,0
+tiger_mmlu_task,10024,Cognitive Flexibility,0
+tiger_mmlu_task,10024,Emotion Perception and Empathy,0
+tiger_mmlu_task,10024,Episodic Memory,0
+tiger_mmlu_task,10024,Functional Perception,0
+tiger_mmlu_task,10024,Inhibitory Control,1
+tiger_mmlu_task,10024,Language,1
+tiger_mmlu_task,10024,Mental Simulation,0
+tiger_mmlu_task,10024,Metacognition,1
+tiger_mmlu_task,10024,Object Permanence,0
+tiger_mmlu_task,10024,Perception and Pattern Recognition,1
+tiger_mmlu_task,10024,Planning,0
+tiger_mmlu_task,10024,Procedural Memory,0
+tiger_mmlu_task,10024,Prospective Memory,0
+tiger_mmlu_task,10024,Semantic Memory,4
+tiger_mmlu_task,10024,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10024,Theory of Mind,0
+tiger_mmlu_task,10024,Working Memory,0
+tiger_mmlu_task,10024,ambiguity,5
+tiger_mmlu_task,10024,factuality,2
+tiger_mmlu_task,10306,Causal Reasoning,0
+tiger_mmlu_task,10306,Cognitive Flexibility,0
+tiger_mmlu_task,10306,Emotion Perception and Empathy,0
+tiger_mmlu_task,10306,Episodic Memory,0
+tiger_mmlu_task,10306,Functional Perception,0
+tiger_mmlu_task,10306,Inhibitory Control,1
+tiger_mmlu_task,10306,Language,1
+tiger_mmlu_task,10306,Mental Simulation,0
+tiger_mmlu_task,10306,Metacognition,2
+tiger_mmlu_task,10306,Object Permanence,0
+tiger_mmlu_task,10306,Perception and Pattern Recognition,0
+tiger_mmlu_task,10306,Planning,0
+tiger_mmlu_task,10306,Procedural Memory,2
+tiger_mmlu_task,10306,Prospective Memory,0
+tiger_mmlu_task,10306,Semantic Memory,3
+tiger_mmlu_task,10306,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10306,Theory of Mind,0
+tiger_mmlu_task,10306,Working Memory,3
+tiger_mmlu_task,10306,ambiguity,3
+tiger_mmlu_task,10306,factuality,4
+tiger_mmlu_task,10343,Causal Reasoning,0
+tiger_mmlu_task,10343,Cognitive Flexibility,3
+tiger_mmlu_task,10343,Emotion Perception and Empathy,0
+tiger_mmlu_task,10343,Episodic Memory,0
+tiger_mmlu_task,10343,Functional Perception,3
+tiger_mmlu_task,10343,Inhibitory Control,3
+tiger_mmlu_task,10343,Language,1
+tiger_mmlu_task,10343,Mental Simulation,3
+tiger_mmlu_task,10343,Metacognition,4
+tiger_mmlu_task,10343,Object Permanence,0
+tiger_mmlu_task,10343,Perception and Pattern Recognition,4
+tiger_mmlu_task,10343,Planning,3
+tiger_mmlu_task,10343,Procedural Memory,4
+tiger_mmlu_task,10343,Prospective Memory,0
+tiger_mmlu_task,10343,Semantic Memory,4
+tiger_mmlu_task,10343,Spatial Reasoning and Navigation,4
+tiger_mmlu_task,10343,Theory of Mind,0
+tiger_mmlu_task,10343,Working Memory,4
+tiger_mmlu_task,10343,ambiguity,5
+tiger_mmlu_task,10343,factuality,4
+tiger_mmlu_task,10400,Causal Reasoning,0
+tiger_mmlu_task,10400,Cognitive Flexibility,0
+tiger_mmlu_task,10400,Emotion Perception and Empathy,0
+tiger_mmlu_task,10400,Episodic Memory,0
+tiger_mmlu_task,10400,Functional Perception,1
+tiger_mmlu_task,10400,Inhibitory Control,2
+tiger_mmlu_task,10400,Language,1
+tiger_mmlu_task,10400,Mental Simulation,0
+tiger_mmlu_task,10400,Metacognition,2
+tiger_mmlu_task,10400,Object Permanence,0
+tiger_mmlu_task,10400,Perception and Pattern Recognition,1
+tiger_mmlu_task,10400,Planning,0
+tiger_mmlu_task,10400,Procedural Memory,0
+tiger_mmlu_task,10400,Prospective Memory,0
+tiger_mmlu_task,10400,Semantic Memory,2
+tiger_mmlu_task,10400,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10400,Theory of Mind,0
+tiger_mmlu_task,10400,Working Memory,1
+tiger_mmlu_task,10400,ambiguity,5
+tiger_mmlu_task,10400,factuality,5
+tiger_mmlu_task,10447,Causal Reasoning,0
+tiger_mmlu_task,10447,Cognitive Flexibility,0
+tiger_mmlu_task,10447,Emotion Perception and Empathy,0
+tiger_mmlu_task,10447,Episodic Memory,0
+tiger_mmlu_task,10447,Functional Perception,2
+tiger_mmlu_task,10447,Inhibitory Control,1
+tiger_mmlu_task,10447,Language,1
+tiger_mmlu_task,10447,Mental Simulation,0
+tiger_mmlu_task,10447,Metacognition,1
+tiger_mmlu_task,10447,Object Permanence,0
+tiger_mmlu_task,10447,Perception and Pattern Recognition,2
+tiger_mmlu_task,10447,Planning,0
+tiger_mmlu_task,10447,Procedural Memory,2
+tiger_mmlu_task,10447,Prospective Memory,0
+tiger_mmlu_task,10447,Semantic Memory,2
+tiger_mmlu_task,10447,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10447,Theory of Mind,0
+tiger_mmlu_task,10447,Working Memory,3
+tiger_mmlu_task,10447,ambiguity,5
+tiger_mmlu_task,10447,factuality,5
+tiger_mmlu_task,10452,Causal Reasoning,1
+tiger_mmlu_task,10452,Cognitive Flexibility,0
+tiger_mmlu_task,10452,Emotion Perception and Empathy,0
+tiger_mmlu_task,10452,Episodic Memory,0
+tiger_mmlu_task,10452,Functional Perception,3
+tiger_mmlu_task,10452,Inhibitory Control,2
+tiger_mmlu_task,10452,Language,2
+tiger_mmlu_task,10452,Mental Simulation,1
+tiger_mmlu_task,10452,Metacognition,3
+tiger_mmlu_task,10452,Object Permanence,0
+tiger_mmlu_task,10452,Perception and Pattern Recognition,2
+tiger_mmlu_task,10452,Planning,0
+tiger_mmlu_task,10452,Procedural Memory,0
+tiger_mmlu_task,10452,Prospective Memory,0
+tiger_mmlu_task,10452,Semantic Memory,3
+tiger_mmlu_task,10452,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10452,Theory of Mind,0
+tiger_mmlu_task,10452,Working Memory,2
+tiger_mmlu_task,10452,ambiguity,5
+tiger_mmlu_task,10452,factuality,5
+tiger_mmlu_task,10454,Causal Reasoning,2
+tiger_mmlu_task,10454,Cognitive Flexibility,2
+tiger_mmlu_task,10454,Emotion Perception and Empathy,0
+tiger_mmlu_task,10454,Episodic Memory,0
+tiger_mmlu_task,10454,Functional Perception,3
+tiger_mmlu_task,10454,Inhibitory Control,2
+tiger_mmlu_task,10454,Language,3
+tiger_mmlu_task,10454,Mental Simulation,0
+tiger_mmlu_task,10454,Metacognition,3
+tiger_mmlu_task,10454,Object Permanence,0
+tiger_mmlu_task,10454,Perception and Pattern Recognition,3
+tiger_mmlu_task,10454,Planning,0
+tiger_mmlu_task,10454,Procedural Memory,0
+tiger_mmlu_task,10454,Prospective Memory,0
+tiger_mmlu_task,10454,Semantic Memory,4
+tiger_mmlu_task,10454,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10454,Theory of Mind,0
+tiger_mmlu_task,10454,Working Memory,3
+tiger_mmlu_task,10454,ambiguity,4
+tiger_mmlu_task,10454,factuality,5
+tiger_mmlu_task,10478,Causal Reasoning,0
+tiger_mmlu_task,10478,Cognitive Flexibility,1
+tiger_mmlu_task,10478,Emotion Perception and Empathy,0
+tiger_mmlu_task,10478,Episodic Memory,0
+tiger_mmlu_task,10478,Functional Perception,2
+tiger_mmlu_task,10478,Inhibitory Control,1
+tiger_mmlu_task,10478,Language,1
+tiger_mmlu_task,10478,Mental Simulation,2
+tiger_mmlu_task,10478,Metacognition,2
+tiger_mmlu_task,10478,Object Permanence,0
+tiger_mmlu_task,10478,Perception and Pattern Recognition,2
+tiger_mmlu_task,10478,Planning,1
+tiger_mmlu_task,10478,Procedural Memory,3
+tiger_mmlu_task,10478,Prospective Memory,0
+tiger_mmlu_task,10478,Semantic Memory,2
+tiger_mmlu_task,10478,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10478,Theory of Mind,0
+tiger_mmlu_task,10478,Working Memory,3
+tiger_mmlu_task,10478,ambiguity,5
+tiger_mmlu_task,10478,factuality,5
+tiger_mmlu_task,10479,Causal Reasoning,0
+tiger_mmlu_task,10479,Cognitive Flexibility,0
+tiger_mmlu_task,10479,Emotion Perception and Empathy,0
+tiger_mmlu_task,10479,Episodic Memory,0
+tiger_mmlu_task,10479,Functional Perception,2
+tiger_mmlu_task,10479,Inhibitory Control,3
+tiger_mmlu_task,10479,Language,2
+tiger_mmlu_task,10479,Mental Simulation,0
+tiger_mmlu_task,10479,Metacognition,3
+tiger_mmlu_task,10479,Object Permanence,0
+tiger_mmlu_task,10479,Perception and Pattern Recognition,2
+tiger_mmlu_task,10479,Planning,0
+tiger_mmlu_task,10479,Procedural Memory,0
+tiger_mmlu_task,10479,Prospective Memory,0
+tiger_mmlu_task,10479,Semantic Memory,4
+tiger_mmlu_task,10479,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10479,Theory of Mind,0
+tiger_mmlu_task,10479,Working Memory,3
+tiger_mmlu_task,10479,ambiguity,5
+tiger_mmlu_task,10479,factuality,5
+tiger_mmlu_task,10510,Causal Reasoning,0
+tiger_mmlu_task,10510,Cognitive Flexibility,0
+tiger_mmlu_task,10510,Emotion Perception and Empathy,0
+tiger_mmlu_task,10510,Episodic Memory,0
+tiger_mmlu_task,10510,Functional Perception,0
+tiger_mmlu_task,10510,Inhibitory Control,2
+tiger_mmlu_task,10510,Language,0
+tiger_mmlu_task,10510,Mental Simulation,0
+tiger_mmlu_task,10510,Metacognition,1
+tiger_mmlu_task,10510,Object Permanence,0
+tiger_mmlu_task,10510,Perception and Pattern Recognition,0
+tiger_mmlu_task,10510,Planning,1
+tiger_mmlu_task,10510,Procedural Memory,2
+tiger_mmlu_task,10510,Prospective Memory,0
+tiger_mmlu_task,10510,Semantic Memory,2
+tiger_mmlu_task,10510,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10510,Theory of Mind,0
+tiger_mmlu_task,10510,Working Memory,2
+tiger_mmlu_task,10510,ambiguity,5
+tiger_mmlu_task,10510,factuality,5
+tiger_mmlu_task,10520,Causal Reasoning,0
+tiger_mmlu_task,10520,Cognitive Flexibility,0
+tiger_mmlu_task,10520,Emotion Perception and Empathy,0
+tiger_mmlu_task,10520,Episodic Memory,0
+tiger_mmlu_task,10520,Functional Perception,2
+tiger_mmlu_task,10520,Inhibitory Control,1
+tiger_mmlu_task,10520,Language,1
+tiger_mmlu_task,10520,Mental Simulation,0
+tiger_mmlu_task,10520,Metacognition,1
+tiger_mmlu_task,10520,Object Permanence,0
+tiger_mmlu_task,10520,Perception and Pattern Recognition,2
+tiger_mmlu_task,10520,Planning,0
+tiger_mmlu_task,10520,Procedural Memory,0
+tiger_mmlu_task,10520,Prospective Memory,0
+tiger_mmlu_task,10520,Semantic Memory,2
+tiger_mmlu_task,10520,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10520,Theory of Mind,0
+tiger_mmlu_task,10520,Working Memory,2
+tiger_mmlu_task,10520,ambiguity,5
+tiger_mmlu_task,10520,factuality,5
+tiger_mmlu_task,10582,Causal Reasoning,1
+tiger_mmlu_task,10582,Cognitive Flexibility,0
+tiger_mmlu_task,10582,Emotion Perception and Empathy,0
+tiger_mmlu_task,10582,Episodic Memory,1
+tiger_mmlu_task,10582,Functional Perception,2
+tiger_mmlu_task,10582,Inhibitory Control,2
+tiger_mmlu_task,10582,Language,2
+tiger_mmlu_task,10582,Mental Simulation,0
+tiger_mmlu_task,10582,Metacognition,1
+tiger_mmlu_task,10582,Object Permanence,0
+tiger_mmlu_task,10582,Perception and Pattern Recognition,1
+tiger_mmlu_task,10582,Planning,0
+tiger_mmlu_task,10582,Procedural Memory,0
+tiger_mmlu_task,10582,Prospective Memory,0
+tiger_mmlu_task,10582,Semantic Memory,3
+tiger_mmlu_task,10582,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10582,Theory of Mind,0
+tiger_mmlu_task,10582,Working Memory,2
+tiger_mmlu_task,10582,ambiguity,4
+tiger_mmlu_task,10582,factuality,5
+tiger_mmlu_task,10689,Causal Reasoning,0
+tiger_mmlu_task,10689,Cognitive Flexibility,0
+tiger_mmlu_task,10689,Emotion Perception and Empathy,0
+tiger_mmlu_task,10689,Episodic Memory,0
+tiger_mmlu_task,10689,Functional Perception,1
+tiger_mmlu_task,10689,Inhibitory Control,2
+tiger_mmlu_task,10689,Language,1
+tiger_mmlu_task,10689,Mental Simulation,0
+tiger_mmlu_task,10689,Metacognition,2
+tiger_mmlu_task,10689,Object Permanence,0
+tiger_mmlu_task,10689,Perception and Pattern Recognition,2
+tiger_mmlu_task,10689,Planning,0
+tiger_mmlu_task,10689,Procedural Memory,0
+tiger_mmlu_task,10689,Prospective Memory,0
+tiger_mmlu_task,10689,Semantic Memory,3
+tiger_mmlu_task,10689,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10689,Theory of Mind,0
+tiger_mmlu_task,10689,Working Memory,2
+tiger_mmlu_task,10689,ambiguity,5
+tiger_mmlu_task,10689,factuality,5
+tiger_mmlu_task,10832,Causal Reasoning,0
+tiger_mmlu_task,10832,Cognitive Flexibility,0
+tiger_mmlu_task,10832,Emotion Perception and Empathy,0
+tiger_mmlu_task,10832,Episodic Memory,0
+tiger_mmlu_task,10832,Functional Perception,0
+tiger_mmlu_task,10832,Inhibitory Control,0
+tiger_mmlu_task,10832,Language,1
+tiger_mmlu_task,10832,Mental Simulation,0
+tiger_mmlu_task,10832,Metacognition,0
+tiger_mmlu_task,10832,Object Permanence,0
+tiger_mmlu_task,10832,Perception and Pattern Recognition,0
+tiger_mmlu_task,10832,Planning,0
+tiger_mmlu_task,10832,Procedural Memory,0
+tiger_mmlu_task,10832,Prospective Memory,0
+tiger_mmlu_task,10832,Semantic Memory,4
+tiger_mmlu_task,10832,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10832,Theory of Mind,0
+tiger_mmlu_task,10832,Working Memory,1
+tiger_mmlu_task,10832,ambiguity,5
+tiger_mmlu_task,10832,factuality,5
+tiger_mmlu_task,10852,Causal Reasoning,0
+tiger_mmlu_task,10852,Cognitive Flexibility,0
+tiger_mmlu_task,10852,Emotion Perception and Empathy,0
+tiger_mmlu_task,10852,Episodic Memory,0
+tiger_mmlu_task,10852,Functional Perception,3
+tiger_mmlu_task,10852,Inhibitory Control,1
+tiger_mmlu_task,10852,Language,1
+tiger_mmlu_task,10852,Mental Simulation,0
+tiger_mmlu_task,10852,Metacognition,2
+tiger_mmlu_task,10852,Object Permanence,0
+tiger_mmlu_task,10852,Perception and Pattern Recognition,3
+tiger_mmlu_task,10852,Planning,0
+tiger_mmlu_task,10852,Procedural Memory,0
+tiger_mmlu_task,10852,Prospective Memory,0
+tiger_mmlu_task,10852,Semantic Memory,3
+tiger_mmlu_task,10852,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10852,Theory of Mind,0
+tiger_mmlu_task,10852,Working Memory,2
+tiger_mmlu_task,10852,ambiguity,5
+tiger_mmlu_task,10852,factuality,1
+tiger_mmlu_task,10909,Causal Reasoning,0
+tiger_mmlu_task,10909,Cognitive Flexibility,0
+tiger_mmlu_task,10909,Emotion Perception and Empathy,0
+tiger_mmlu_task,10909,Episodic Memory,2
+tiger_mmlu_task,10909,Functional Perception,2
+tiger_mmlu_task,10909,Inhibitory Control,1
+tiger_mmlu_task,10909,Language,3
+tiger_mmlu_task,10909,Mental Simulation,0
+tiger_mmlu_task,10909,Metacognition,3
+tiger_mmlu_task,10909,Object Permanence,0
+tiger_mmlu_task,10909,Perception and Pattern Recognition,3
+tiger_mmlu_task,10909,Planning,0
+tiger_mmlu_task,10909,Procedural Memory,1
+tiger_mmlu_task,10909,Prospective Memory,0
+tiger_mmlu_task,10909,Semantic Memory,3
+tiger_mmlu_task,10909,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10909,Theory of Mind,2
+tiger_mmlu_task,10909,Working Memory,1
+tiger_mmlu_task,10909,ambiguity,5
+tiger_mmlu_task,10909,factuality,5
+tiger_mmlu_task,10992,Causal Reasoning,1
+tiger_mmlu_task,10992,Cognitive Flexibility,2
+tiger_mmlu_task,10992,Emotion Perception and Empathy,3
+tiger_mmlu_task,10992,Episodic Memory,0
+tiger_mmlu_task,10992,Functional Perception,2
+tiger_mmlu_task,10992,Inhibitory Control,2
+tiger_mmlu_task,10992,Language,3
+tiger_mmlu_task,10992,Mental Simulation,0
+tiger_mmlu_task,10992,Metacognition,4
+tiger_mmlu_task,10992,Object Permanence,0
+tiger_mmlu_task,10992,Perception and Pattern Recognition,2
+tiger_mmlu_task,10992,Planning,0
+tiger_mmlu_task,10992,Procedural Memory,0
+tiger_mmlu_task,10992,Prospective Memory,0
+tiger_mmlu_task,10992,Semantic Memory,3
+tiger_mmlu_task,10992,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,10992,Theory of Mind,3
+tiger_mmlu_task,10992,Working Memory,2
+tiger_mmlu_task,10992,ambiguity,5
+tiger_mmlu_task,10992,factuality,2
+tiger_mmlu_task,11039,Causal Reasoning,1
+tiger_mmlu_task,11039,Cognitive Flexibility,0
+tiger_mmlu_task,11039,Emotion Perception and Empathy,1
+tiger_mmlu_task,11039,Episodic Memory,0
+tiger_mmlu_task,11039,Functional Perception,2
+tiger_mmlu_task,11039,Inhibitory Control,1
+tiger_mmlu_task,11039,Language,3
+tiger_mmlu_task,11039,Mental Simulation,0
+tiger_mmlu_task,11039,Metacognition,3
+tiger_mmlu_task,11039,Object Permanence,0
+tiger_mmlu_task,11039,Perception and Pattern Recognition,3
+tiger_mmlu_task,11039,Planning,0
+tiger_mmlu_task,11039,Procedural Memory,0
+tiger_mmlu_task,11039,Prospective Memory,0
+tiger_mmlu_task,11039,Semantic Memory,3
+tiger_mmlu_task,11039,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11039,Theory of Mind,3
+tiger_mmlu_task,11039,Working Memory,0
+tiger_mmlu_task,11039,ambiguity,5
+tiger_mmlu_task,11039,factuality,1
+tiger_mmlu_task,11076,Causal Reasoning,1
+tiger_mmlu_task,11076,Cognitive Flexibility,0
+tiger_mmlu_task,11076,Emotion Perception and Empathy,0
+tiger_mmlu_task,11076,Episodic Memory,0
+tiger_mmlu_task,11076,Functional Perception,2
+tiger_mmlu_task,11076,Inhibitory Control,1
+tiger_mmlu_task,11076,Language,2
+tiger_mmlu_task,11076,Mental Simulation,1
+tiger_mmlu_task,11076,Metacognition,2
+tiger_mmlu_task,11076,Object Permanence,0
+tiger_mmlu_task,11076,Perception and Pattern Recognition,1
+tiger_mmlu_task,11076,Planning,0
+tiger_mmlu_task,11076,Procedural Memory,1
+tiger_mmlu_task,11076,Prospective Memory,0
+tiger_mmlu_task,11076,Semantic Memory,2
+tiger_mmlu_task,11076,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11076,Theory of Mind,0
+tiger_mmlu_task,11076,Working Memory,2
+tiger_mmlu_task,11076,ambiguity,5
+tiger_mmlu_task,11076,factuality,5
+tiger_mmlu_task,11211,Causal Reasoning,0
+tiger_mmlu_task,11211,Cognitive Flexibility,0
+tiger_mmlu_task,11211,Emotion Perception and Empathy,0
+tiger_mmlu_task,11211,Episodic Memory,0
+tiger_mmlu_task,11211,Functional Perception,2
+tiger_mmlu_task,11211,Inhibitory Control,1
+tiger_mmlu_task,11211,Language,1
+tiger_mmlu_task,11211,Mental Simulation,0
+tiger_mmlu_task,11211,Metacognition,1
+tiger_mmlu_task,11211,Object Permanence,0
+tiger_mmlu_task,11211,Perception and Pattern Recognition,0
+tiger_mmlu_task,11211,Planning,0
+tiger_mmlu_task,11211,Procedural Memory,0
+tiger_mmlu_task,11211,Prospective Memory,0
+tiger_mmlu_task,11211,Semantic Memory,4
+tiger_mmlu_task,11211,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11211,Theory of Mind,2
+tiger_mmlu_task,11211,Working Memory,1
+tiger_mmlu_task,11211,ambiguity,5
+tiger_mmlu_task,11211,factuality,5
+tiger_mmlu_task,11269,Causal Reasoning,1
+tiger_mmlu_task,11269,Cognitive Flexibility,0
+tiger_mmlu_task,11269,Emotion Perception and Empathy,0
+tiger_mmlu_task,11269,Episodic Memory,2
+tiger_mmlu_task,11269,Functional Perception,1
+tiger_mmlu_task,11269,Inhibitory Control,1
+tiger_mmlu_task,11269,Language,1
+tiger_mmlu_task,11269,Mental Simulation,0
+tiger_mmlu_task,11269,Metacognition,2
+tiger_mmlu_task,11269,Object Permanence,0
+tiger_mmlu_task,11269,Perception and Pattern Recognition,2
+tiger_mmlu_task,11269,Planning,0
+tiger_mmlu_task,11269,Procedural Memory,0
+tiger_mmlu_task,11269,Prospective Memory,0
+tiger_mmlu_task,11269,Semantic Memory,3
+tiger_mmlu_task,11269,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11269,Theory of Mind,2
+tiger_mmlu_task,11269,Working Memory,2
+tiger_mmlu_task,11269,ambiguity,3
+tiger_mmlu_task,11269,factuality,5
+tiger_mmlu_task,11343,Causal Reasoning,0
+tiger_mmlu_task,11343,Cognitive Flexibility,2
+tiger_mmlu_task,11343,Emotion Perception and Empathy,0
+tiger_mmlu_task,11343,Episodic Memory,0
+tiger_mmlu_task,11343,Functional Perception,3
+tiger_mmlu_task,11343,Inhibitory Control,3
+tiger_mmlu_task,11343,Language,2
+tiger_mmlu_task,11343,Mental Simulation,1
+tiger_mmlu_task,11343,Metacognition,3
+tiger_mmlu_task,11343,Object Permanence,0
+tiger_mmlu_task,11343,Perception and Pattern Recognition,3
+tiger_mmlu_task,11343,Planning,2
+tiger_mmlu_task,11343,Procedural Memory,3
+tiger_mmlu_task,11343,Prospective Memory,0
+tiger_mmlu_task,11343,Semantic Memory,3
+tiger_mmlu_task,11343,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11343,Theory of Mind,0
+tiger_mmlu_task,11343,Working Memory,3
+tiger_mmlu_task,11343,ambiguity,5
+tiger_mmlu_task,11343,factuality,4
+tiger_mmlu_task,1135,Causal Reasoning,1
+tiger_mmlu_task,1135,Cognitive Flexibility,0
+tiger_mmlu_task,1135,Emotion Perception and Empathy,0
+tiger_mmlu_task,1135,Episodic Memory,0
+tiger_mmlu_task,1135,Functional Perception,2
+tiger_mmlu_task,1135,Inhibitory Control,3
+tiger_mmlu_task,1135,Language,2
+tiger_mmlu_task,1135,Mental Simulation,0
+tiger_mmlu_task,1135,Metacognition,3
+tiger_mmlu_task,1135,Object Permanence,0
+tiger_mmlu_task,1135,Perception and Pattern Recognition,3
+tiger_mmlu_task,1135,Planning,0
+tiger_mmlu_task,1135,Procedural Memory,2
+tiger_mmlu_task,1135,Prospective Memory,0
+tiger_mmlu_task,1135,Semantic Memory,3
+tiger_mmlu_task,1135,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1135,Theory of Mind,3
+tiger_mmlu_task,1135,Working Memory,2
+tiger_mmlu_task,1135,ambiguity,5
+tiger_mmlu_task,1135,factuality,5
+tiger_mmlu_task,11384,Causal Reasoning,0
+tiger_mmlu_task,11384,Cognitive Flexibility,3
+tiger_mmlu_task,11384,Emotion Perception and Empathy,0
+tiger_mmlu_task,11384,Episodic Memory,0
+tiger_mmlu_task,11384,Functional Perception,0
+tiger_mmlu_task,11384,Inhibitory Control,2
+tiger_mmlu_task,11384,Language,1
+tiger_mmlu_task,11384,Mental Simulation,0
+tiger_mmlu_task,11384,Metacognition,3
+tiger_mmlu_task,11384,Object Permanence,0
+tiger_mmlu_task,11384,Perception and Pattern Recognition,3
+tiger_mmlu_task,11384,Planning,2
+tiger_mmlu_task,11384,Procedural Memory,3
+tiger_mmlu_task,11384,Prospective Memory,0
+tiger_mmlu_task,11384,Semantic Memory,4
+tiger_mmlu_task,11384,Spatial Reasoning and Navigation,1
+tiger_mmlu_task,11384,Theory of Mind,0
+tiger_mmlu_task,11384,Working Memory,4
+tiger_mmlu_task,11384,ambiguity,5
+tiger_mmlu_task,11384,factuality,3
+tiger_mmlu_task,11489,Causal Reasoning,0
+tiger_mmlu_task,11489,Cognitive Flexibility,0
+tiger_mmlu_task,11489,Emotion Perception and Empathy,0
+tiger_mmlu_task,11489,Episodic Memory,0
+tiger_mmlu_task,11489,Functional Perception,1
+tiger_mmlu_task,11489,Inhibitory Control,1
+tiger_mmlu_task,11489,Language,1
+tiger_mmlu_task,11489,Mental Simulation,0
+tiger_mmlu_task,11489,Metacognition,2
+tiger_mmlu_task,11489,Object Permanence,0
+tiger_mmlu_task,11489,Perception and Pattern Recognition,1
+tiger_mmlu_task,11489,Planning,1
+tiger_mmlu_task,11489,Procedural Memory,2
+tiger_mmlu_task,11489,Prospective Memory,0
+tiger_mmlu_task,11489,Semantic Memory,3
+tiger_mmlu_task,11489,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11489,Theory of Mind,0
+tiger_mmlu_task,11489,Working Memory,3
+tiger_mmlu_task,11489,ambiguity,5
+tiger_mmlu_task,11489,factuality,5
+tiger_mmlu_task,11562,Causal Reasoning,0
+tiger_mmlu_task,11562,Cognitive Flexibility,0
+tiger_mmlu_task,11562,Emotion Perception and Empathy,0
+tiger_mmlu_task,11562,Episodic Memory,0
+tiger_mmlu_task,11562,Functional Perception,0
+tiger_mmlu_task,11562,Inhibitory Control,1
+tiger_mmlu_task,11562,Language,1
+tiger_mmlu_task,11562,Mental Simulation,0
+tiger_mmlu_task,11562,Metacognition,1
+tiger_mmlu_task,11562,Object Permanence,0
+tiger_mmlu_task,11562,Perception and Pattern Recognition,0
+tiger_mmlu_task,11562,Planning,0
+tiger_mmlu_task,11562,Procedural Memory,0
+tiger_mmlu_task,11562,Prospective Memory,0
+tiger_mmlu_task,11562,Semantic Memory,4
+tiger_mmlu_task,11562,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11562,Theory of Mind,0
+tiger_mmlu_task,11562,Working Memory,1
+tiger_mmlu_task,11562,ambiguity,5
+tiger_mmlu_task,11562,factuality,5
+tiger_mmlu_task,11567,Causal Reasoning,0
+tiger_mmlu_task,11567,Cognitive Flexibility,3
+tiger_mmlu_task,11567,Emotion Perception and Empathy,0
+tiger_mmlu_task,11567,Episodic Memory,0
+tiger_mmlu_task,11567,Functional Perception,3
+tiger_mmlu_task,11567,Inhibitory Control,2
+tiger_mmlu_task,11567,Language,1
+tiger_mmlu_task,11567,Mental Simulation,0
+tiger_mmlu_task,11567,Metacognition,2
+tiger_mmlu_task,11567,Object Permanence,0
+tiger_mmlu_task,11567,Perception and Pattern Recognition,3
+tiger_mmlu_task,11567,Planning,2
+tiger_mmlu_task,11567,Procedural Memory,3
+tiger_mmlu_task,11567,Prospective Memory,0
+tiger_mmlu_task,11567,Semantic Memory,4
+tiger_mmlu_task,11567,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11567,Theory of Mind,0
+tiger_mmlu_task,11567,Working Memory,4
+tiger_mmlu_task,11567,ambiguity,5
+tiger_mmlu_task,11567,factuality,5
+tiger_mmlu_task,11731,Causal Reasoning,1
+tiger_mmlu_task,11731,Cognitive Flexibility,0
+tiger_mmlu_task,11731,Emotion Perception and Empathy,0
+tiger_mmlu_task,11731,Episodic Memory,0
+tiger_mmlu_task,11731,Functional Perception,2
+tiger_mmlu_task,11731,Inhibitory Control,1
+tiger_mmlu_task,11731,Language,2
+tiger_mmlu_task,11731,Mental Simulation,0
+tiger_mmlu_task,11731,Metacognition,3
+tiger_mmlu_task,11731,Object Permanence,0
+tiger_mmlu_task,11731,Perception and Pattern Recognition,1
+tiger_mmlu_task,11731,Planning,0
+tiger_mmlu_task,11731,Procedural Memory,2
+tiger_mmlu_task,11731,Prospective Memory,0
+tiger_mmlu_task,11731,Semantic Memory,4
+tiger_mmlu_task,11731,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11731,Theory of Mind,0
+tiger_mmlu_task,11731,Working Memory,2
+tiger_mmlu_task,11731,ambiguity,5
+tiger_mmlu_task,11731,factuality,5
+tiger_mmlu_task,11733,Causal Reasoning,0
+tiger_mmlu_task,11733,Cognitive Flexibility,0
+tiger_mmlu_task,11733,Emotion Perception and Empathy,0
+tiger_mmlu_task,11733,Episodic Memory,0
+tiger_mmlu_task,11733,Functional Perception,2
+tiger_mmlu_task,11733,Inhibitory Control,1
+tiger_mmlu_task,11733,Language,1
+tiger_mmlu_task,11733,Mental Simulation,2
+tiger_mmlu_task,11733,Metacognition,3
+tiger_mmlu_task,11733,Object Permanence,0
+tiger_mmlu_task,11733,Perception and Pattern Recognition,2
+tiger_mmlu_task,11733,Planning,1
+tiger_mmlu_task,11733,Procedural Memory,3
+tiger_mmlu_task,11733,Prospective Memory,0
+tiger_mmlu_task,11733,Semantic Memory,4
+tiger_mmlu_task,11733,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11733,Theory of Mind,0
+tiger_mmlu_task,11733,Working Memory,3
+tiger_mmlu_task,11733,ambiguity,5
+tiger_mmlu_task,11733,factuality,4
+tiger_mmlu_task,11815,Causal Reasoning,0
+tiger_mmlu_task,11815,Cognitive Flexibility,0
+tiger_mmlu_task,11815,Emotion Perception and Empathy,0
+tiger_mmlu_task,11815,Episodic Memory,0
+tiger_mmlu_task,11815,Functional Perception,2
+tiger_mmlu_task,11815,Inhibitory Control,0
+tiger_mmlu_task,11815,Language,1
+tiger_mmlu_task,11815,Mental Simulation,0
+tiger_mmlu_task,11815,Metacognition,3
+tiger_mmlu_task,11815,Object Permanence,0
+tiger_mmlu_task,11815,Perception and Pattern Recognition,1
+tiger_mmlu_task,11815,Planning,0
+tiger_mmlu_task,11815,Procedural Memory,3
+tiger_mmlu_task,11815,Prospective Memory,0
+tiger_mmlu_task,11815,Semantic Memory,3
+tiger_mmlu_task,11815,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11815,Theory of Mind,0
+tiger_mmlu_task,11815,Working Memory,3
+tiger_mmlu_task,11815,ambiguity,5
+tiger_mmlu_task,11815,factuality,3
+tiger_mmlu_task,11847,Causal Reasoning,0
+tiger_mmlu_task,11847,Cognitive Flexibility,0
+tiger_mmlu_task,11847,Emotion Perception and Empathy,0
+tiger_mmlu_task,11847,Episodic Memory,0
+tiger_mmlu_task,11847,Functional Perception,0
+tiger_mmlu_task,11847,Inhibitory Control,2
+tiger_mmlu_task,11847,Language,0
+tiger_mmlu_task,11847,Mental Simulation,0
+tiger_mmlu_task,11847,Metacognition,2
+tiger_mmlu_task,11847,Object Permanence,0
+tiger_mmlu_task,11847,Perception and Pattern Recognition,2
+tiger_mmlu_task,11847,Planning,1
+tiger_mmlu_task,11847,Procedural Memory,2
+tiger_mmlu_task,11847,Prospective Memory,0
+tiger_mmlu_task,11847,Semantic Memory,4
+tiger_mmlu_task,11847,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11847,Theory of Mind,0
+tiger_mmlu_task,11847,Working Memory,3
+tiger_mmlu_task,11847,ambiguity,5
+tiger_mmlu_task,11847,factuality,5
+tiger_mmlu_task,11879,Causal Reasoning,0
+tiger_mmlu_task,11879,Cognitive Flexibility,0
+tiger_mmlu_task,11879,Emotion Perception and Empathy,0
+tiger_mmlu_task,11879,Episodic Memory,0
+tiger_mmlu_task,11879,Functional Perception,3
+tiger_mmlu_task,11879,Inhibitory Control,2
+tiger_mmlu_task,11879,Language,1
+tiger_mmlu_task,11879,Mental Simulation,0
+tiger_mmlu_task,11879,Metacognition,2
+tiger_mmlu_task,11879,Object Permanence,0
+tiger_mmlu_task,11879,Perception and Pattern Recognition,2
+tiger_mmlu_task,11879,Planning,1
+tiger_mmlu_task,11879,Procedural Memory,3
+tiger_mmlu_task,11879,Prospective Memory,0
+tiger_mmlu_task,11879,Semantic Memory,4
+tiger_mmlu_task,11879,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11879,Theory of Mind,0
+tiger_mmlu_task,11879,Working Memory,4
+tiger_mmlu_task,11879,ambiguity,5
+tiger_mmlu_task,11879,factuality,1
+tiger_mmlu_task,11886,Causal Reasoning,0
+tiger_mmlu_task,11886,Cognitive Flexibility,1
+tiger_mmlu_task,11886,Emotion Perception and Empathy,0
+tiger_mmlu_task,11886,Episodic Memory,0
+tiger_mmlu_task,11886,Functional Perception,2
+tiger_mmlu_task,11886,Inhibitory Control,2
+tiger_mmlu_task,11886,Language,1
+tiger_mmlu_task,11886,Mental Simulation,0
+tiger_mmlu_task,11886,Metacognition,3
+tiger_mmlu_task,11886,Object Permanence,0
+tiger_mmlu_task,11886,Perception and Pattern Recognition,2
+tiger_mmlu_task,11886,Planning,2
+tiger_mmlu_task,11886,Procedural Memory,3
+tiger_mmlu_task,11886,Prospective Memory,0
+tiger_mmlu_task,11886,Semantic Memory,4
+tiger_mmlu_task,11886,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11886,Theory of Mind,0
+tiger_mmlu_task,11886,Working Memory,3
+tiger_mmlu_task,11886,ambiguity,5
+tiger_mmlu_task,11886,factuality,1
+tiger_mmlu_task,11899,Causal Reasoning,1
+tiger_mmlu_task,11899,Cognitive Flexibility,2
+tiger_mmlu_task,11899,Emotion Perception and Empathy,0
+tiger_mmlu_task,11899,Episodic Memory,0
+tiger_mmlu_task,11899,Functional Perception,0
+tiger_mmlu_task,11899,Inhibitory Control,2
+tiger_mmlu_task,11899,Language,1
+tiger_mmlu_task,11899,Mental Simulation,0
+tiger_mmlu_task,11899,Metacognition,3
+tiger_mmlu_task,11899,Object Permanence,0
+tiger_mmlu_task,11899,Perception and Pattern Recognition,3
+tiger_mmlu_task,11899,Planning,1
+tiger_mmlu_task,11899,Procedural Memory,2
+tiger_mmlu_task,11899,Prospective Memory,0
+tiger_mmlu_task,11899,Semantic Memory,3
+tiger_mmlu_task,11899,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,11899,Theory of Mind,0
+tiger_mmlu_task,11899,Working Memory,2
+tiger_mmlu_task,11899,ambiguity,5
+tiger_mmlu_task,11899,factuality,5
+tiger_mmlu_task,12104,Causal Reasoning,0
+tiger_mmlu_task,12104,Cognitive Flexibility,0
+tiger_mmlu_task,12104,Emotion Perception and Empathy,0
+tiger_mmlu_task,12104,Episodic Memory,0
+tiger_mmlu_task,12104,Functional Perception,2
+tiger_mmlu_task,12104,Inhibitory Control,2
+tiger_mmlu_task,12104,Language,1
+tiger_mmlu_task,12104,Mental Simulation,0
+tiger_mmlu_task,12104,Metacognition,3
+tiger_mmlu_task,12104,Object Permanence,0
+tiger_mmlu_task,12104,Perception and Pattern Recognition,3
+tiger_mmlu_task,12104,Planning,2
+tiger_mmlu_task,12104,Procedural Memory,2
+tiger_mmlu_task,12104,Prospective Memory,0
+tiger_mmlu_task,12104,Semantic Memory,4
+tiger_mmlu_task,12104,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,12104,Theory of Mind,0
+tiger_mmlu_task,12104,Working Memory,3
+tiger_mmlu_task,12104,ambiguity,2
+tiger_mmlu_task,12104,factuality,3
+tiger_mmlu_task,12113,Causal Reasoning,2
+tiger_mmlu_task,12113,Cognitive Flexibility,0
+tiger_mmlu_task,12113,Emotion Perception and Empathy,0
+tiger_mmlu_task,12113,Episodic Memory,0
+tiger_mmlu_task,12113,Functional Perception,2
+tiger_mmlu_task,12113,Inhibitory Control,1
+tiger_mmlu_task,12113,Language,1
+tiger_mmlu_task,12113,Mental Simulation,2
+tiger_mmlu_task,12113,Metacognition,3
+tiger_mmlu_task,12113,Object Permanence,0
+tiger_mmlu_task,12113,Perception and Pattern Recognition,3
+tiger_mmlu_task,12113,Planning,1
+tiger_mmlu_task,12113,Procedural Memory,3
+tiger_mmlu_task,12113,Prospective Memory,0
+tiger_mmlu_task,12113,Semantic Memory,3
+tiger_mmlu_task,12113,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,12113,Theory of Mind,0
+tiger_mmlu_task,12113,Working Memory,4
+tiger_mmlu_task,12113,ambiguity,5
+tiger_mmlu_task,12113,factuality,2
+tiger_mmlu_task,12122,Causal Reasoning,0
+tiger_mmlu_task,12122,Cognitive Flexibility,0
+tiger_mmlu_task,12122,Emotion Perception and Empathy,0
+tiger_mmlu_task,12122,Episodic Memory,0
+tiger_mmlu_task,12122,Functional Perception,2
+tiger_mmlu_task,12122,Inhibitory Control,1
+tiger_mmlu_task,12122,Language,1
+tiger_mmlu_task,12122,Mental Simulation,0
+tiger_mmlu_task,12122,Metacognition,0
+tiger_mmlu_task,12122,Object Permanence,0
+tiger_mmlu_task,12122,Perception and Pattern Recognition,0
+tiger_mmlu_task,12122,Planning,0
+tiger_mmlu_task,12122,Procedural Memory,0
+tiger_mmlu_task,12122,Prospective Memory,0
+tiger_mmlu_task,12122,Semantic Memory,4
+tiger_mmlu_task,12122,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,12122,Theory of Mind,0
+tiger_mmlu_task,12122,Working Memory,0
+tiger_mmlu_task,12122,ambiguity,2
+tiger_mmlu_task,12122,factuality,3
+tiger_mmlu_task,12181,Causal Reasoning,0
+tiger_mmlu_task,12181,Cognitive Flexibility,0
+tiger_mmlu_task,12181,Emotion Perception and Empathy,0
+tiger_mmlu_task,12181,Episodic Memory,0
+tiger_mmlu_task,12181,Functional Perception,1
+tiger_mmlu_task,12181,Inhibitory Control,1
+tiger_mmlu_task,12181,Language,1
+tiger_mmlu_task,12181,Mental Simulation,0
+tiger_mmlu_task,12181,Metacognition,3
+tiger_mmlu_task,12181,Object Permanence,0
+tiger_mmlu_task,12181,Perception and Pattern Recognition,2
+tiger_mmlu_task,12181,Planning,2
+tiger_mmlu_task,12181,Procedural Memory,2
+tiger_mmlu_task,12181,Prospective Memory,0
+tiger_mmlu_task,12181,Semantic Memory,4
+tiger_mmlu_task,12181,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,12181,Theory of Mind,0
+tiger_mmlu_task,12181,Working Memory,3
+tiger_mmlu_task,12181,ambiguity,5
+tiger_mmlu_task,12181,factuality,5
+tiger_mmlu_task,12183,Causal Reasoning,0
+tiger_mmlu_task,12183,Cognitive Flexibility,0
+tiger_mmlu_task,12183,Emotion Perception and Empathy,0
+tiger_mmlu_task,12183,Episodic Memory,0
+tiger_mmlu_task,12183,Functional Perception,2
+tiger_mmlu_task,12183,Inhibitory Control,3
+tiger_mmlu_task,12183,Language,3
+tiger_mmlu_task,12183,Mental Simulation,2
+tiger_mmlu_task,12183,Metacognition,2
+tiger_mmlu_task,12183,Object Permanence,0
+tiger_mmlu_task,12183,Perception and Pattern Recognition,3
+tiger_mmlu_task,12183,Planning,2
+tiger_mmlu_task,12183,Procedural Memory,3
+tiger_mmlu_task,12183,Prospective Memory,0
+tiger_mmlu_task,12183,Semantic Memory,4
+tiger_mmlu_task,12183,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,12183,Theory of Mind,0
+tiger_mmlu_task,12183,Working Memory,3
+tiger_mmlu_task,12183,ambiguity,5
+tiger_mmlu_task,12183,factuality,1
+tiger_mmlu_task,1237,Causal Reasoning,1
+tiger_mmlu_task,1237,Cognitive Flexibility,2
+tiger_mmlu_task,1237,Emotion Perception and Empathy,0
+tiger_mmlu_task,1237,Episodic Memory,0
+tiger_mmlu_task,1237,Functional Perception,2
+tiger_mmlu_task,1237,Inhibitory Control,3
+tiger_mmlu_task,1237,Language,2
+tiger_mmlu_task,1237,Mental Simulation,1
+tiger_mmlu_task,1237,Metacognition,3
+tiger_mmlu_task,1237,Object Permanence,0
+tiger_mmlu_task,1237,Perception and Pattern Recognition,3
+tiger_mmlu_task,1237,Planning,0
+tiger_mmlu_task,1237,Procedural Memory,2
+tiger_mmlu_task,1237,Prospective Memory,0
+tiger_mmlu_task,1237,Semantic Memory,3
+tiger_mmlu_task,1237,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1237,Theory of Mind,1
+tiger_mmlu_task,1237,Working Memory,3
+tiger_mmlu_task,1237,ambiguity,5
+tiger_mmlu_task,1237,factuality,5
+tiger_mmlu_task,1239,Causal Reasoning,2
+tiger_mmlu_task,1239,Cognitive Flexibility,2
+tiger_mmlu_task,1239,Emotion Perception and Empathy,0
+tiger_mmlu_task,1239,Episodic Memory,1
+tiger_mmlu_task,1239,Functional Perception,3
+tiger_mmlu_task,1239,Inhibitory Control,3
+tiger_mmlu_task,1239,Language,3
+tiger_mmlu_task,1239,Mental Simulation,0
+tiger_mmlu_task,1239,Metacognition,3
+tiger_mmlu_task,1239,Object Permanence,0
+tiger_mmlu_task,1239,Perception and Pattern Recognition,3
+tiger_mmlu_task,1239,Planning,1
+tiger_mmlu_task,1239,Procedural Memory,3
+tiger_mmlu_task,1239,Prospective Memory,0
+tiger_mmlu_task,1239,Semantic Memory,3
+tiger_mmlu_task,1239,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1239,Theory of Mind,2
+tiger_mmlu_task,1239,Working Memory,4
+tiger_mmlu_task,1239,ambiguity,5
+tiger_mmlu_task,1239,factuality,5
+tiger_mmlu_task,1290,Causal Reasoning,0
+tiger_mmlu_task,1290,Cognitive Flexibility,1
+tiger_mmlu_task,1290,Emotion Perception and Empathy,0
+tiger_mmlu_task,1290,Episodic Memory,0
+tiger_mmlu_task,1290,Functional Perception,1
+tiger_mmlu_task,1290,Inhibitory Control,2
+tiger_mmlu_task,1290,Language,1
+tiger_mmlu_task,1290,Mental Simulation,0
+tiger_mmlu_task,1290,Metacognition,1
+tiger_mmlu_task,1290,Object Permanence,0
+tiger_mmlu_task,1290,Perception and Pattern Recognition,1
+tiger_mmlu_task,1290,Planning,0
+tiger_mmlu_task,1290,Procedural Memory,0
+tiger_mmlu_task,1290,Prospective Memory,0
+tiger_mmlu_task,1290,Semantic Memory,3
+tiger_mmlu_task,1290,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1290,Theory of Mind,0
+tiger_mmlu_task,1290,Working Memory,0
+tiger_mmlu_task,1290,ambiguity,5
+tiger_mmlu_task,1290,factuality,5
+tiger_mmlu_task,1300,Causal Reasoning,3
+tiger_mmlu_task,1300,Cognitive Flexibility,3
+tiger_mmlu_task,1300,Emotion Perception and Empathy,0
+tiger_mmlu_task,1300,Episodic Memory,0
+tiger_mmlu_task,1300,Functional Perception,3
+tiger_mmlu_task,1300,Inhibitory Control,3
+tiger_mmlu_task,1300,Language,3
+tiger_mmlu_task,1300,Mental Simulation,0
+tiger_mmlu_task,1300,Metacognition,3
+tiger_mmlu_task,1300,Object Permanence,0
+tiger_mmlu_task,1300,Perception and Pattern Recognition,2
+tiger_mmlu_task,1300,Planning,0
+tiger_mmlu_task,1300,Procedural Memory,1
+tiger_mmlu_task,1300,Prospective Memory,0
+tiger_mmlu_task,1300,Semantic Memory,3
+tiger_mmlu_task,1300,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1300,Theory of Mind,0
+tiger_mmlu_task,1300,Working Memory,3
+tiger_mmlu_task,1300,ambiguity,5
+tiger_mmlu_task,1300,factuality,1
+tiger_mmlu_task,1442,Causal Reasoning,2
+tiger_mmlu_task,1442,Cognitive Flexibility,2
+tiger_mmlu_task,1442,Emotion Perception and Empathy,0
+tiger_mmlu_task,1442,Episodic Memory,0
+tiger_mmlu_task,1442,Functional Perception,3
+tiger_mmlu_task,1442,Inhibitory Control,3
+tiger_mmlu_task,1442,Language,3
+tiger_mmlu_task,1442,Mental Simulation,0
+tiger_mmlu_task,1442,Metacognition,3
+tiger_mmlu_task,1442,Object Permanence,0
+tiger_mmlu_task,1442,Perception and Pattern Recognition,1
+tiger_mmlu_task,1442,Planning,0
+tiger_mmlu_task,1442,Procedural Memory,0
+tiger_mmlu_task,1442,Prospective Memory,0
+tiger_mmlu_task,1442,Semantic Memory,3
+tiger_mmlu_task,1442,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1442,Theory of Mind,2
+tiger_mmlu_task,1442,Working Memory,4
+tiger_mmlu_task,1442,ambiguity,5
+tiger_mmlu_task,1442,factuality,2
+tiger_mmlu_task,146,Causal Reasoning,0
+tiger_mmlu_task,146,Cognitive Flexibility,0
+tiger_mmlu_task,146,Emotion Perception and Empathy,0
+tiger_mmlu_task,146,Episodic Memory,0
+tiger_mmlu_task,146,Functional Perception,1
+tiger_mmlu_task,146,Inhibitory Control,1
+tiger_mmlu_task,146,Language,1
+tiger_mmlu_task,146,Mental Simulation,0
+tiger_mmlu_task,146,Metacognition,1
+tiger_mmlu_task,146,Object Permanence,0
+tiger_mmlu_task,146,Perception and Pattern Recognition,0
+tiger_mmlu_task,146,Planning,1
+tiger_mmlu_task,146,Procedural Memory,2
+tiger_mmlu_task,146,Prospective Memory,0
+tiger_mmlu_task,146,Semantic Memory,2
+tiger_mmlu_task,146,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,146,Theory of Mind,0
+tiger_mmlu_task,146,Working Memory,2
+tiger_mmlu_task,146,ambiguity,5
+tiger_mmlu_task,146,factuality,5
+tiger_mmlu_task,1496,Causal Reasoning,1
+tiger_mmlu_task,1496,Cognitive Flexibility,3
+tiger_mmlu_task,1496,Emotion Perception and Empathy,0
+tiger_mmlu_task,1496,Episodic Memory,0
+tiger_mmlu_task,1496,Functional Perception,3
+tiger_mmlu_task,1496,Inhibitory Control,3
+tiger_mmlu_task,1496,Language,3
+tiger_mmlu_task,1496,Mental Simulation,1
+tiger_mmlu_task,1496,Metacognition,3
+tiger_mmlu_task,1496,Object Permanence,1
+tiger_mmlu_task,1496,Perception and Pattern Recognition,3
+tiger_mmlu_task,1496,Planning,1
+tiger_mmlu_task,1496,Procedural Memory,1
+tiger_mmlu_task,1496,Prospective Memory,0
+tiger_mmlu_task,1496,Semantic Memory,3
+tiger_mmlu_task,1496,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1496,Theory of Mind,2
+tiger_mmlu_task,1496,Working Memory,3
+tiger_mmlu_task,1496,ambiguity,5
+tiger_mmlu_task,1496,factuality,5
+tiger_mmlu_task,1540,Causal Reasoning,2
+tiger_mmlu_task,1540,Cognitive Flexibility,4
+tiger_mmlu_task,1540,Emotion Perception and Empathy,0
+tiger_mmlu_task,1540,Episodic Memory,0
+tiger_mmlu_task,1540,Functional Perception,3
+tiger_mmlu_task,1540,Inhibitory Control,3
+tiger_mmlu_task,1540,Language,3
+tiger_mmlu_task,1540,Mental Simulation,0
+tiger_mmlu_task,1540,Metacognition,3
+tiger_mmlu_task,1540,Object Permanence,0
+tiger_mmlu_task,1540,Perception and Pattern Recognition,3
+tiger_mmlu_task,1540,Planning,2
+tiger_mmlu_task,1540,Procedural Memory,3
+tiger_mmlu_task,1540,Prospective Memory,0
+tiger_mmlu_task,1540,Semantic Memory,3
+tiger_mmlu_task,1540,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1540,Theory of Mind,2
+tiger_mmlu_task,1540,Working Memory,3
+tiger_mmlu_task,1540,ambiguity,5
+tiger_mmlu_task,1540,factuality,1
+tiger_mmlu_task,1562,Causal Reasoning,0
+tiger_mmlu_task,1562,Cognitive Flexibility,2
+tiger_mmlu_task,1562,Emotion Perception and Empathy,0
+tiger_mmlu_task,1562,Episodic Memory,0
+tiger_mmlu_task,1562,Functional Perception,1
+tiger_mmlu_task,1562,Inhibitory Control,3
+tiger_mmlu_task,1562,Language,3
+tiger_mmlu_task,1562,Mental Simulation,0
+tiger_mmlu_task,1562,Metacognition,3
+tiger_mmlu_task,1562,Object Permanence,0
+tiger_mmlu_task,1562,Perception and Pattern Recognition,2
+tiger_mmlu_task,1562,Planning,0
+tiger_mmlu_task,1562,Procedural Memory,0
+tiger_mmlu_task,1562,Prospective Memory,0
+tiger_mmlu_task,1562,Semantic Memory,3
+tiger_mmlu_task,1562,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1562,Theory of Mind,2
+tiger_mmlu_task,1562,Working Memory,3
+tiger_mmlu_task,1562,ambiguity,5
+tiger_mmlu_task,1562,factuality,5
+tiger_mmlu_task,1602,Causal Reasoning,3
+tiger_mmlu_task,1602,Cognitive Flexibility,3
+tiger_mmlu_task,1602,Emotion Perception and Empathy,0
+tiger_mmlu_task,1602,Episodic Memory,0
+tiger_mmlu_task,1602,Functional Perception,3
+tiger_mmlu_task,1602,Inhibitory Control,3
+tiger_mmlu_task,1602,Language,3
+tiger_mmlu_task,1602,Mental Simulation,0
+tiger_mmlu_task,1602,Metacognition,3
+tiger_mmlu_task,1602,Object Permanence,0
+tiger_mmlu_task,1602,Perception and Pattern Recognition,3
+tiger_mmlu_task,1602,Planning,0
+tiger_mmlu_task,1602,Procedural Memory,0
+tiger_mmlu_task,1602,Prospective Memory,0
+tiger_mmlu_task,1602,Semantic Memory,3
+tiger_mmlu_task,1602,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1602,Theory of Mind,1
+tiger_mmlu_task,1602,Working Memory,3
+tiger_mmlu_task,1602,ambiguity,5
+tiger_mmlu_task,1602,factuality,5
+tiger_mmlu_task,1610,Causal Reasoning,2
+tiger_mmlu_task,1610,Cognitive Flexibility,2
+tiger_mmlu_task,1610,Emotion Perception and Empathy,0
+tiger_mmlu_task,1610,Episodic Memory,2
+tiger_mmlu_task,1610,Functional Perception,3
+tiger_mmlu_task,1610,Inhibitory Control,3
+tiger_mmlu_task,1610,Language,3
+tiger_mmlu_task,1610,Mental Simulation,1
+tiger_mmlu_task,1610,Metacognition,2
+tiger_mmlu_task,1610,Object Permanence,0
+tiger_mmlu_task,1610,Perception and Pattern Recognition,3
+tiger_mmlu_task,1610,Planning,1
+tiger_mmlu_task,1610,Procedural Memory,0
+tiger_mmlu_task,1610,Prospective Memory,0
+tiger_mmlu_task,1610,Semantic Memory,3
+tiger_mmlu_task,1610,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1610,Theory of Mind,3
+tiger_mmlu_task,1610,Working Memory,2
+tiger_mmlu_task,1610,ambiguity,5
+tiger_mmlu_task,1610,factuality,5
+tiger_mmlu_task,1612,Causal Reasoning,1
+tiger_mmlu_task,1612,Cognitive Flexibility,0
+tiger_mmlu_task,1612,Emotion Perception and Empathy,0
+tiger_mmlu_task,1612,Episodic Memory,0
+tiger_mmlu_task,1612,Functional Perception,2
+tiger_mmlu_task,1612,Inhibitory Control,2
+tiger_mmlu_task,1612,Language,3
+tiger_mmlu_task,1612,Mental Simulation,0
+tiger_mmlu_task,1612,Metacognition,3
+tiger_mmlu_task,1612,Object Permanence,1
+tiger_mmlu_task,1612,Perception and Pattern Recognition,2
+tiger_mmlu_task,1612,Planning,0
+tiger_mmlu_task,1612,Procedural Memory,0
+tiger_mmlu_task,1612,Prospective Memory,0
+tiger_mmlu_task,1612,Semantic Memory,3
+tiger_mmlu_task,1612,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1612,Theory of Mind,2
+tiger_mmlu_task,1612,Working Memory,3
+tiger_mmlu_task,1612,ambiguity,5
+tiger_mmlu_task,1612,factuality,5
+tiger_mmlu_task,176,Causal Reasoning,1
+tiger_mmlu_task,176,Cognitive Flexibility,0
+tiger_mmlu_task,176,Emotion Perception and Empathy,0
+tiger_mmlu_task,176,Episodic Memory,0
+tiger_mmlu_task,176,Functional Perception,1
+tiger_mmlu_task,176,Inhibitory Control,1
+tiger_mmlu_task,176,Language,1
+tiger_mmlu_task,176,Mental Simulation,1
+tiger_mmlu_task,176,Metacognition,1
+tiger_mmlu_task,176,Object Permanence,0
+tiger_mmlu_task,176,Perception and Pattern Recognition,1
+tiger_mmlu_task,176,Planning,0
+tiger_mmlu_task,176,Procedural Memory,1
+tiger_mmlu_task,176,Prospective Memory,0
+tiger_mmlu_task,176,Semantic Memory,1
+tiger_mmlu_task,176,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,176,Theory of Mind,0
+tiger_mmlu_task,176,Working Memory,1
+tiger_mmlu_task,176,ambiguity,5
+tiger_mmlu_task,176,factuality,5
+tiger_mmlu_task,1781,Causal Reasoning,1
+tiger_mmlu_task,1781,Cognitive Flexibility,2
+tiger_mmlu_task,1781,Emotion Perception and Empathy,0
+tiger_mmlu_task,1781,Episodic Memory,3
+tiger_mmlu_task,1781,Functional Perception,2
+tiger_mmlu_task,1781,Inhibitory Control,1
+tiger_mmlu_task,1781,Language,3
+tiger_mmlu_task,1781,Mental Simulation,0
+tiger_mmlu_task,1781,Metacognition,3
+tiger_mmlu_task,1781,Object Permanence,0
+tiger_mmlu_task,1781,Perception and Pattern Recognition,2
+tiger_mmlu_task,1781,Planning,0
+tiger_mmlu_task,1781,Procedural Memory,0
+tiger_mmlu_task,1781,Prospective Memory,0
+tiger_mmlu_task,1781,Semantic Memory,3
+tiger_mmlu_task,1781,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1781,Theory of Mind,1
+tiger_mmlu_task,1781,Working Memory,3
+tiger_mmlu_task,1781,ambiguity,5
+tiger_mmlu_task,1781,factuality,5
+tiger_mmlu_task,1817,Causal Reasoning,1
+tiger_mmlu_task,1817,Cognitive Flexibility,3
+tiger_mmlu_task,1817,Emotion Perception and Empathy,0
+tiger_mmlu_task,1817,Episodic Memory,0
+tiger_mmlu_task,1817,Functional Perception,2
+tiger_mmlu_task,1817,Inhibitory Control,3
+tiger_mmlu_task,1817,Language,3
+tiger_mmlu_task,1817,Mental Simulation,0
+tiger_mmlu_task,1817,Metacognition,3
+tiger_mmlu_task,1817,Object Permanence,0
+tiger_mmlu_task,1817,Perception and Pattern Recognition,2
+tiger_mmlu_task,1817,Planning,2
+tiger_mmlu_task,1817,Procedural Memory,2
+tiger_mmlu_task,1817,Prospective Memory,0
+tiger_mmlu_task,1817,Semantic Memory,4
+tiger_mmlu_task,1817,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1817,Theory of Mind,1
+tiger_mmlu_task,1817,Working Memory,3
+tiger_mmlu_task,1817,ambiguity,5
+tiger_mmlu_task,1817,factuality,5
+tiger_mmlu_task,1900,Causal Reasoning,1
+tiger_mmlu_task,1900,Cognitive Flexibility,2
+tiger_mmlu_task,1900,Emotion Perception and Empathy,0
+tiger_mmlu_task,1900,Episodic Memory,0
+tiger_mmlu_task,1900,Functional Perception,2
+tiger_mmlu_task,1900,Inhibitory Control,3
+tiger_mmlu_task,1900,Language,2
+tiger_mmlu_task,1900,Mental Simulation,0
+tiger_mmlu_task,1900,Metacognition,3
+tiger_mmlu_task,1900,Object Permanence,0
+tiger_mmlu_task,1900,Perception and Pattern Recognition,0
+tiger_mmlu_task,1900,Planning,0
+tiger_mmlu_task,1900,Procedural Memory,0
+tiger_mmlu_task,1900,Prospective Memory,0
+tiger_mmlu_task,1900,Semantic Memory,3
+tiger_mmlu_task,1900,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1900,Theory of Mind,3
+tiger_mmlu_task,1900,Working Memory,3
+tiger_mmlu_task,1900,ambiguity,5
+tiger_mmlu_task,1900,factuality,5
+tiger_mmlu_task,1947,Causal Reasoning,2
+tiger_mmlu_task,1947,Cognitive Flexibility,3
+tiger_mmlu_task,1947,Emotion Perception and Empathy,0
+tiger_mmlu_task,1947,Episodic Memory,0
+tiger_mmlu_task,1947,Functional Perception,2
+tiger_mmlu_task,1947,Inhibitory Control,3
+tiger_mmlu_task,1947,Language,3
+tiger_mmlu_task,1947,Mental Simulation,1
+tiger_mmlu_task,1947,Metacognition,3
+tiger_mmlu_task,1947,Object Permanence,0
+tiger_mmlu_task,1947,Perception and Pattern Recognition,3
+tiger_mmlu_task,1947,Planning,0
+tiger_mmlu_task,1947,Procedural Memory,3
+tiger_mmlu_task,1947,Prospective Memory,0
+tiger_mmlu_task,1947,Semantic Memory,3
+tiger_mmlu_task,1947,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1947,Theory of Mind,1
+tiger_mmlu_task,1947,Working Memory,4
+tiger_mmlu_task,1947,ambiguity,5
+tiger_mmlu_task,1947,factuality,2
+tiger_mmlu_task,1969,Causal Reasoning,2
+tiger_mmlu_task,1969,Cognitive Flexibility,4
+tiger_mmlu_task,1969,Emotion Perception and Empathy,1
+tiger_mmlu_task,1969,Episodic Memory,0
+tiger_mmlu_task,1969,Functional Perception,3
+tiger_mmlu_task,1969,Inhibitory Control,3
+tiger_mmlu_task,1969,Language,3
+tiger_mmlu_task,1969,Mental Simulation,0
+tiger_mmlu_task,1969,Metacognition,3
+tiger_mmlu_task,1969,Object Permanence,0
+tiger_mmlu_task,1969,Perception and Pattern Recognition,3
+tiger_mmlu_task,1969,Planning,0
+tiger_mmlu_task,1969,Procedural Memory,4
+tiger_mmlu_task,1969,Prospective Memory,0
+tiger_mmlu_task,1969,Semantic Memory,4
+tiger_mmlu_task,1969,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,1969,Theory of Mind,3
+tiger_mmlu_task,1969,Working Memory,4
+tiger_mmlu_task,1969,ambiguity,5
+tiger_mmlu_task,1969,factuality,5
+tiger_mmlu_task,2005,Causal Reasoning,0
+tiger_mmlu_task,2005,Cognitive Flexibility,1
+tiger_mmlu_task,2005,Emotion Perception and Empathy,0
+tiger_mmlu_task,2005,Episodic Memory,0
+tiger_mmlu_task,2005,Functional Perception,2
+tiger_mmlu_task,2005,Inhibitory Control,0
+tiger_mmlu_task,2005,Language,1
+tiger_mmlu_task,2005,Mental Simulation,0
+tiger_mmlu_task,2005,Metacognition,2
+tiger_mmlu_task,2005,Object Permanence,0
+tiger_mmlu_task,2005,Perception and Pattern Recognition,1
+tiger_mmlu_task,2005,Planning,0
+tiger_mmlu_task,2005,Procedural Memory,0
+tiger_mmlu_task,2005,Prospective Memory,0
+tiger_mmlu_task,2005,Semantic Memory,3
+tiger_mmlu_task,2005,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2005,Theory of Mind,1
+tiger_mmlu_task,2005,Working Memory,0
+tiger_mmlu_task,2005,ambiguity,4
+tiger_mmlu_task,2005,factuality,5
+tiger_mmlu_task,2046,Causal Reasoning,0
+tiger_mmlu_task,2046,Cognitive Flexibility,0
+tiger_mmlu_task,2046,Emotion Perception and Empathy,0
+tiger_mmlu_task,2046,Episodic Memory,0
+tiger_mmlu_task,2046,Functional Perception,0
+tiger_mmlu_task,2046,Inhibitory Control,2
+tiger_mmlu_task,2046,Language,1
+tiger_mmlu_task,2046,Mental Simulation,0
+tiger_mmlu_task,2046,Metacognition,3
+tiger_mmlu_task,2046,Object Permanence,0
+tiger_mmlu_task,2046,Perception and Pattern Recognition,2
+tiger_mmlu_task,2046,Planning,2
+tiger_mmlu_task,2046,Procedural Memory,3
+tiger_mmlu_task,2046,Prospective Memory,0
+tiger_mmlu_task,2046,Semantic Memory,3
+tiger_mmlu_task,2046,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2046,Theory of Mind,0
+tiger_mmlu_task,2046,Working Memory,3
+tiger_mmlu_task,2046,ambiguity,4
+tiger_mmlu_task,2046,factuality,4
+tiger_mmlu_task,2093,Causal Reasoning,1
+tiger_mmlu_task,2093,Cognitive Flexibility,0
+tiger_mmlu_task,2093,Emotion Perception and Empathy,0
+tiger_mmlu_task,2093,Episodic Memory,0
+tiger_mmlu_task,2093,Functional Perception,1
+tiger_mmlu_task,2093,Inhibitory Control,2
+tiger_mmlu_task,2093,Language,1
+tiger_mmlu_task,2093,Mental Simulation,0
+tiger_mmlu_task,2093,Metacognition,1
+tiger_mmlu_task,2093,Object Permanence,0
+tiger_mmlu_task,2093,Perception and Pattern Recognition,1
+tiger_mmlu_task,2093,Planning,0
+tiger_mmlu_task,2093,Procedural Memory,0
+tiger_mmlu_task,2093,Prospective Memory,0
+tiger_mmlu_task,2093,Semantic Memory,3
+tiger_mmlu_task,2093,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2093,Theory of Mind,0
+tiger_mmlu_task,2093,Working Memory,1
+tiger_mmlu_task,2093,ambiguity,5
+tiger_mmlu_task,2093,factuality,5
+tiger_mmlu_task,2106,Causal Reasoning,1
+tiger_mmlu_task,2106,Cognitive Flexibility,0
+tiger_mmlu_task,2106,Emotion Perception and Empathy,0
+tiger_mmlu_task,2106,Episodic Memory,0
+tiger_mmlu_task,2106,Functional Perception,2
+tiger_mmlu_task,2106,Inhibitory Control,0
+tiger_mmlu_task,2106,Language,1
+tiger_mmlu_task,2106,Mental Simulation,1
+tiger_mmlu_task,2106,Metacognition,2
+tiger_mmlu_task,2106,Object Permanence,0
+tiger_mmlu_task,2106,Perception and Pattern Recognition,2
+tiger_mmlu_task,2106,Planning,0
+tiger_mmlu_task,2106,Procedural Memory,0
+tiger_mmlu_task,2106,Prospective Memory,0
+tiger_mmlu_task,2106,Semantic Memory,3
+tiger_mmlu_task,2106,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2106,Theory of Mind,0
+tiger_mmlu_task,2106,Working Memory,2
+tiger_mmlu_task,2106,ambiguity,5
+tiger_mmlu_task,2106,factuality,5
+tiger_mmlu_task,2198,Causal Reasoning,1
+tiger_mmlu_task,2198,Cognitive Flexibility,0
+tiger_mmlu_task,2198,Emotion Perception and Empathy,0
+tiger_mmlu_task,2198,Episodic Memory,0
+tiger_mmlu_task,2198,Functional Perception,1
+tiger_mmlu_task,2198,Inhibitory Control,1
+tiger_mmlu_task,2198,Language,1
+tiger_mmlu_task,2198,Mental Simulation,0
+tiger_mmlu_task,2198,Metacognition,1
+tiger_mmlu_task,2198,Object Permanence,0
+tiger_mmlu_task,2198,Perception and Pattern Recognition,1
+tiger_mmlu_task,2198,Planning,0
+tiger_mmlu_task,2198,Procedural Memory,2
+tiger_mmlu_task,2198,Prospective Memory,0
+tiger_mmlu_task,2198,Semantic Memory,3
+tiger_mmlu_task,2198,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2198,Theory of Mind,0
+tiger_mmlu_task,2198,Working Memory,1
+tiger_mmlu_task,2198,ambiguity,5
+tiger_mmlu_task,2198,factuality,5
+tiger_mmlu_task,2313,Causal Reasoning,1
+tiger_mmlu_task,2313,Cognitive Flexibility,0
+tiger_mmlu_task,2313,Emotion Perception and Empathy,0
+tiger_mmlu_task,2313,Episodic Memory,0
+tiger_mmlu_task,2313,Functional Perception,1
+tiger_mmlu_task,2313,Inhibitory Control,3
+tiger_mmlu_task,2313,Language,2
+tiger_mmlu_task,2313,Mental Simulation,0
+tiger_mmlu_task,2313,Metacognition,2
+tiger_mmlu_task,2313,Object Permanence,0
+tiger_mmlu_task,2313,Perception and Pattern Recognition,1
+tiger_mmlu_task,2313,Planning,0
+tiger_mmlu_task,2313,Procedural Memory,0
+tiger_mmlu_task,2313,Prospective Memory,0
+tiger_mmlu_task,2313,Semantic Memory,2
+tiger_mmlu_task,2313,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2313,Theory of Mind,0
+tiger_mmlu_task,2313,Working Memory,2
+tiger_mmlu_task,2313,ambiguity,4
+tiger_mmlu_task,2313,factuality,5
+tiger_mmlu_task,2340,Causal Reasoning,0
+tiger_mmlu_task,2340,Cognitive Flexibility,0
+tiger_mmlu_task,2340,Emotion Perception and Empathy,0
+tiger_mmlu_task,2340,Episodic Memory,1
+tiger_mmlu_task,2340,Functional Perception,0
+tiger_mmlu_task,2340,Inhibitory Control,1
+tiger_mmlu_task,2340,Language,1
+tiger_mmlu_task,2340,Mental Simulation,0
+tiger_mmlu_task,2340,Metacognition,2
+tiger_mmlu_task,2340,Object Permanence,0
+tiger_mmlu_task,2340,Perception and Pattern Recognition,2
+tiger_mmlu_task,2340,Planning,0
+tiger_mmlu_task,2340,Procedural Memory,0
+tiger_mmlu_task,2340,Prospective Memory,0
+tiger_mmlu_task,2340,Semantic Memory,3
+tiger_mmlu_task,2340,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2340,Theory of Mind,0
+tiger_mmlu_task,2340,Working Memory,2
+tiger_mmlu_task,2340,ambiguity,5
+tiger_mmlu_task,2340,factuality,5
+tiger_mmlu_task,2412,Causal Reasoning,0
+tiger_mmlu_task,2412,Cognitive Flexibility,0
+tiger_mmlu_task,2412,Emotion Perception and Empathy,0
+tiger_mmlu_task,2412,Episodic Memory,0
+tiger_mmlu_task,2412,Functional Perception,2
+tiger_mmlu_task,2412,Inhibitory Control,1
+tiger_mmlu_task,2412,Language,1
+tiger_mmlu_task,2412,Mental Simulation,0
+tiger_mmlu_task,2412,Metacognition,2
+tiger_mmlu_task,2412,Object Permanence,0
+tiger_mmlu_task,2412,Perception and Pattern Recognition,2
+tiger_mmlu_task,2412,Planning,0
+tiger_mmlu_task,2412,Procedural Memory,0
+tiger_mmlu_task,2412,Prospective Memory,0
+tiger_mmlu_task,2412,Semantic Memory,2
+tiger_mmlu_task,2412,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2412,Theory of Mind,0
+tiger_mmlu_task,2412,Working Memory,1
+tiger_mmlu_task,2412,ambiguity,5
+tiger_mmlu_task,2412,factuality,5
+tiger_mmlu_task,2457,Causal Reasoning,1
+tiger_mmlu_task,2457,Cognitive Flexibility,0
+tiger_mmlu_task,2457,Emotion Perception and Empathy,0
+tiger_mmlu_task,2457,Episodic Memory,0
+tiger_mmlu_task,2457,Functional Perception,2
+tiger_mmlu_task,2457,Inhibitory Control,2
+tiger_mmlu_task,2457,Language,1
+tiger_mmlu_task,2457,Mental Simulation,0
+tiger_mmlu_task,2457,Metacognition,1
+tiger_mmlu_task,2457,Object Permanence,0
+tiger_mmlu_task,2457,Perception and Pattern Recognition,2
+tiger_mmlu_task,2457,Planning,0
+tiger_mmlu_task,2457,Procedural Memory,0
+tiger_mmlu_task,2457,Prospective Memory,0
+tiger_mmlu_task,2457,Semantic Memory,3
+tiger_mmlu_task,2457,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2457,Theory of Mind,0
+tiger_mmlu_task,2457,Working Memory,0
+tiger_mmlu_task,2457,ambiguity,5
+tiger_mmlu_task,2457,factuality,5
+tiger_mmlu_task,2470,Causal Reasoning,0
+tiger_mmlu_task,2470,Cognitive Flexibility,0
+tiger_mmlu_task,2470,Emotion Perception and Empathy,0
+tiger_mmlu_task,2470,Episodic Memory,3
+tiger_mmlu_task,2470,Functional Perception,0
+tiger_mmlu_task,2470,Inhibitory Control,3
+tiger_mmlu_task,2470,Language,1
+tiger_mmlu_task,2470,Mental Simulation,0
+tiger_mmlu_task,2470,Metacognition,3
+tiger_mmlu_task,2470,Object Permanence,0
+tiger_mmlu_task,2470,Perception and Pattern Recognition,2
+tiger_mmlu_task,2470,Planning,0
+tiger_mmlu_task,2470,Procedural Memory,0
+tiger_mmlu_task,2470,Prospective Memory,0
+tiger_mmlu_task,2470,Semantic Memory,4
+tiger_mmlu_task,2470,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2470,Theory of Mind,0
+tiger_mmlu_task,2470,Working Memory,3
+tiger_mmlu_task,2470,ambiguity,5
+tiger_mmlu_task,2470,factuality,5
+tiger_mmlu_task,2503,Causal Reasoning,1
+tiger_mmlu_task,2503,Cognitive Flexibility,0
+tiger_mmlu_task,2503,Emotion Perception and Empathy,0
+tiger_mmlu_task,2503,Episodic Memory,0
+tiger_mmlu_task,2503,Functional Perception,1
+tiger_mmlu_task,2503,Inhibitory Control,1
+tiger_mmlu_task,2503,Language,2
+tiger_mmlu_task,2503,Mental Simulation,0
+tiger_mmlu_task,2503,Metacognition,2
+tiger_mmlu_task,2503,Object Permanence,0
+tiger_mmlu_task,2503,Perception and Pattern Recognition,2
+tiger_mmlu_task,2503,Planning,0
+tiger_mmlu_task,2503,Procedural Memory,0
+tiger_mmlu_task,2503,Prospective Memory,0
+tiger_mmlu_task,2503,Semantic Memory,3
+tiger_mmlu_task,2503,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2503,Theory of Mind,0
+tiger_mmlu_task,2503,Working Memory,2
+tiger_mmlu_task,2503,ambiguity,5
+tiger_mmlu_task,2503,factuality,5
+tiger_mmlu_task,2651,Causal Reasoning,1
+tiger_mmlu_task,2651,Cognitive Flexibility,0
+tiger_mmlu_task,2651,Emotion Perception and Empathy,0
+tiger_mmlu_task,2651,Episodic Memory,1
+tiger_mmlu_task,2651,Functional Perception,1
+tiger_mmlu_task,2651,Inhibitory Control,1
+tiger_mmlu_task,2651,Language,1
+tiger_mmlu_task,2651,Mental Simulation,0
+tiger_mmlu_task,2651,Metacognition,2
+tiger_mmlu_task,2651,Object Permanence,0
+tiger_mmlu_task,2651,Perception and Pattern Recognition,3
+tiger_mmlu_task,2651,Planning,0
+tiger_mmlu_task,2651,Procedural Memory,0
+tiger_mmlu_task,2651,Prospective Memory,0
+tiger_mmlu_task,2651,Semantic Memory,3
+tiger_mmlu_task,2651,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2651,Theory of Mind,1
+tiger_mmlu_task,2651,Working Memory,1
+tiger_mmlu_task,2651,ambiguity,5
+tiger_mmlu_task,2651,factuality,5
+tiger_mmlu_task,265,Causal Reasoning,0
+tiger_mmlu_task,265,Cognitive Flexibility,0
+tiger_mmlu_task,265,Emotion Perception and Empathy,0
+tiger_mmlu_task,265,Episodic Memory,0
+tiger_mmlu_task,265,Functional Perception,1
+tiger_mmlu_task,265,Inhibitory Control,1
+tiger_mmlu_task,265,Language,1
+tiger_mmlu_task,265,Mental Simulation,0
+tiger_mmlu_task,265,Metacognition,2
+tiger_mmlu_task,265,Object Permanence,0
+tiger_mmlu_task,265,Perception and Pattern Recognition,1
+tiger_mmlu_task,265,Planning,0
+tiger_mmlu_task,265,Procedural Memory,0
+tiger_mmlu_task,265,Prospective Memory,0
+tiger_mmlu_task,265,Semantic Memory,2
+tiger_mmlu_task,265,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,265,Theory of Mind,0
+tiger_mmlu_task,265,Working Memory,1
+tiger_mmlu_task,265,ambiguity,5
+tiger_mmlu_task,265,factuality,5
+tiger_mmlu_task,2731,Causal Reasoning,0
+tiger_mmlu_task,2731,Cognitive Flexibility,1
+tiger_mmlu_task,2731,Emotion Perception and Empathy,0
+tiger_mmlu_task,2731,Episodic Memory,0
+tiger_mmlu_task,2731,Functional Perception,2
+tiger_mmlu_task,2731,Inhibitory Control,2
+tiger_mmlu_task,2731,Language,2
+tiger_mmlu_task,2731,Mental Simulation,0
+tiger_mmlu_task,2731,Metacognition,3
+tiger_mmlu_task,2731,Object Permanence,0
+tiger_mmlu_task,2731,Perception and Pattern Recognition,2
+tiger_mmlu_task,2731,Planning,0
+tiger_mmlu_task,2731,Procedural Memory,0
+tiger_mmlu_task,2731,Prospective Memory,0
+tiger_mmlu_task,2731,Semantic Memory,3
+tiger_mmlu_task,2731,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2731,Theory of Mind,0
+tiger_mmlu_task,2731,Working Memory,3
+tiger_mmlu_task,2731,ambiguity,3
+tiger_mmlu_task,2731,factuality,5
+tiger_mmlu_task,2734,Causal Reasoning,0
+tiger_mmlu_task,2734,Cognitive Flexibility,0
+tiger_mmlu_task,2734,Emotion Perception and Empathy,0
+tiger_mmlu_task,2734,Episodic Memory,0
+tiger_mmlu_task,2734,Functional Perception,1
+tiger_mmlu_task,2734,Inhibitory Control,1
+tiger_mmlu_task,2734,Language,1
+tiger_mmlu_task,2734,Mental Simulation,0
+tiger_mmlu_task,2734,Metacognition,2
+tiger_mmlu_task,2734,Object Permanence,0
+tiger_mmlu_task,2734,Perception and Pattern Recognition,1
+tiger_mmlu_task,2734,Planning,0
+tiger_mmlu_task,2734,Procedural Memory,0
+tiger_mmlu_task,2734,Prospective Memory,0
+tiger_mmlu_task,2734,Semantic Memory,4
+tiger_mmlu_task,2734,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2734,Theory of Mind,0
+tiger_mmlu_task,2734,Working Memory,3
+tiger_mmlu_task,2734,ambiguity,5
+tiger_mmlu_task,2734,factuality,5
+tiger_mmlu_task,2782,Causal Reasoning,1
+tiger_mmlu_task,2782,Cognitive Flexibility,0
+tiger_mmlu_task,2782,Emotion Perception and Empathy,0
+tiger_mmlu_task,2782,Episodic Memory,2
+tiger_mmlu_task,2782,Functional Perception,2
+tiger_mmlu_task,2782,Inhibitory Control,3
+tiger_mmlu_task,2782,Language,1
+tiger_mmlu_task,2782,Mental Simulation,0
+tiger_mmlu_task,2782,Metacognition,1
+tiger_mmlu_task,2782,Object Permanence,0
+tiger_mmlu_task,2782,Perception and Pattern Recognition,2
+tiger_mmlu_task,2782,Planning,0
+tiger_mmlu_task,2782,Procedural Memory,0
+tiger_mmlu_task,2782,Prospective Memory,0
+tiger_mmlu_task,2782,Semantic Memory,3
+tiger_mmlu_task,2782,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2782,Theory of Mind,2
+tiger_mmlu_task,2782,Working Memory,2
+tiger_mmlu_task,2782,ambiguity,5
+tiger_mmlu_task,2782,factuality,5
+tiger_mmlu_task,281,Causal Reasoning,2
+tiger_mmlu_task,281,Cognitive Flexibility,2
+tiger_mmlu_task,281,Emotion Perception and Empathy,0
+tiger_mmlu_task,281,Episodic Memory,0
+tiger_mmlu_task,281,Functional Perception,0
+tiger_mmlu_task,281,Inhibitory Control,0
+tiger_mmlu_task,281,Language,1
+tiger_mmlu_task,281,Mental Simulation,0
+tiger_mmlu_task,281,Metacognition,2
+tiger_mmlu_task,281,Object Permanence,0
+tiger_mmlu_task,281,Perception and Pattern Recognition,2
+tiger_mmlu_task,281,Planning,2
+tiger_mmlu_task,281,Procedural Memory,2
+tiger_mmlu_task,281,Prospective Memory,0
+tiger_mmlu_task,281,Semantic Memory,2
+tiger_mmlu_task,281,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,281,Theory of Mind,0
+tiger_mmlu_task,281,Working Memory,3
+tiger_mmlu_task,281,ambiguity,5
+tiger_mmlu_task,281,factuality,5
+tiger_mmlu_task,2854,Causal Reasoning,1
+tiger_mmlu_task,2854,Cognitive Flexibility,0
+tiger_mmlu_task,2854,Emotion Perception and Empathy,0
+tiger_mmlu_task,2854,Episodic Memory,0
+tiger_mmlu_task,2854,Functional Perception,2
+tiger_mmlu_task,2854,Inhibitory Control,3
+tiger_mmlu_task,2854,Language,2
+tiger_mmlu_task,2854,Mental Simulation,1
+tiger_mmlu_task,2854,Metacognition,2
+tiger_mmlu_task,2854,Object Permanence,0
+tiger_mmlu_task,2854,Perception and Pattern Recognition,1
+tiger_mmlu_task,2854,Planning,0
+tiger_mmlu_task,2854,Procedural Memory,0
+tiger_mmlu_task,2854,Prospective Memory,0
+tiger_mmlu_task,2854,Semantic Memory,3
+tiger_mmlu_task,2854,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,2854,Theory of Mind,0
+tiger_mmlu_task,2854,Working Memory,2
+tiger_mmlu_task,2854,ambiguity,5
+tiger_mmlu_task,2854,factuality,5
+tiger_mmlu_task,3017,Causal Reasoning,1
+tiger_mmlu_task,3017,Cognitive Flexibility,0
+tiger_mmlu_task,3017,Emotion Perception and Empathy,0
+tiger_mmlu_task,3017,Episodic Memory,0
+tiger_mmlu_task,3017,Functional Perception,2
+tiger_mmlu_task,3017,Inhibitory Control,3
+tiger_mmlu_task,3017,Language,2
+tiger_mmlu_task,3017,Mental Simulation,1
+tiger_mmlu_task,3017,Metacognition,2
+tiger_mmlu_task,3017,Object Permanence,0
+tiger_mmlu_task,3017,Perception and Pattern Recognition,1
+tiger_mmlu_task,3017,Planning,0
+tiger_mmlu_task,3017,Procedural Memory,0
+tiger_mmlu_task,3017,Prospective Memory,0
+tiger_mmlu_task,3017,Semantic Memory,4
+tiger_mmlu_task,3017,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3017,Theory of Mind,0
+tiger_mmlu_task,3017,Working Memory,2
+tiger_mmlu_task,3017,ambiguity,5
+tiger_mmlu_task,3017,factuality,5
+tiger_mmlu_task,3079,Causal Reasoning,3
+tiger_mmlu_task,3079,Cognitive Flexibility,0
+tiger_mmlu_task,3079,Emotion Perception and Empathy,0
+tiger_mmlu_task,3079,Episodic Memory,0
+tiger_mmlu_task,3079,Functional Perception,3
+tiger_mmlu_task,3079,Inhibitory Control,2
+tiger_mmlu_task,3079,Language,3
+tiger_mmlu_task,3079,Mental Simulation,0
+tiger_mmlu_task,3079,Metacognition,3
+tiger_mmlu_task,3079,Object Permanence,0
+tiger_mmlu_task,3079,Perception and Pattern Recognition,2
+tiger_mmlu_task,3079,Planning,0
+tiger_mmlu_task,3079,Procedural Memory,0
+tiger_mmlu_task,3079,Prospective Memory,0
+tiger_mmlu_task,3079,Semantic Memory,4
+tiger_mmlu_task,3079,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3079,Theory of Mind,0
+tiger_mmlu_task,3079,Working Memory,2
+tiger_mmlu_task,3079,ambiguity,5
+tiger_mmlu_task,3079,factuality,5
+tiger_mmlu_task,3109,Causal Reasoning,0
+tiger_mmlu_task,3109,Cognitive Flexibility,0
+tiger_mmlu_task,3109,Emotion Perception and Empathy,0
+tiger_mmlu_task,3109,Episodic Memory,0
+tiger_mmlu_task,3109,Functional Perception,2
+tiger_mmlu_task,3109,Inhibitory Control,2
+tiger_mmlu_task,3109,Language,1
+tiger_mmlu_task,3109,Mental Simulation,0
+tiger_mmlu_task,3109,Metacognition,3
+tiger_mmlu_task,3109,Object Permanence,0
+tiger_mmlu_task,3109,Perception and Pattern Recognition,2
+tiger_mmlu_task,3109,Planning,0
+tiger_mmlu_task,3109,Procedural Memory,0
+tiger_mmlu_task,3109,Prospective Memory,0
+tiger_mmlu_task,3109,Semantic Memory,3
+tiger_mmlu_task,3109,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3109,Theory of Mind,0
+tiger_mmlu_task,3109,Working Memory,2
+tiger_mmlu_task,3109,ambiguity,5
+tiger_mmlu_task,3109,factuality,5
+tiger_mmlu_task,316,Causal Reasoning,1
+tiger_mmlu_task,316,Cognitive Flexibility,1
+tiger_mmlu_task,316,Emotion Perception and Empathy,0
+tiger_mmlu_task,316,Episodic Memory,0
+tiger_mmlu_task,316,Functional Perception,1
+tiger_mmlu_task,316,Inhibitory Control,2
+tiger_mmlu_task,316,Language,1
+tiger_mmlu_task,316,Mental Simulation,0
+tiger_mmlu_task,316,Metacognition,1
+tiger_mmlu_task,316,Object Permanence,0
+tiger_mmlu_task,316,Perception and Pattern Recognition,2
+tiger_mmlu_task,316,Planning,0
+tiger_mmlu_task,316,Procedural Memory,0
+tiger_mmlu_task,316,Prospective Memory,0
+tiger_mmlu_task,316,Semantic Memory,3
+tiger_mmlu_task,316,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,316,Theory of Mind,0
+tiger_mmlu_task,316,Working Memory,1
+tiger_mmlu_task,316,ambiguity,5
+tiger_mmlu_task,316,factuality,5
+tiger_mmlu_task,3206,Causal Reasoning,0
+tiger_mmlu_task,3206,Cognitive Flexibility,0
+tiger_mmlu_task,3206,Emotion Perception and Empathy,0
+tiger_mmlu_task,3206,Episodic Memory,0
+tiger_mmlu_task,3206,Functional Perception,0
+tiger_mmlu_task,3206,Inhibitory Control,0
+tiger_mmlu_task,3206,Language,1
+tiger_mmlu_task,3206,Mental Simulation,0
+tiger_mmlu_task,3206,Metacognition,2
+tiger_mmlu_task,3206,Object Permanence,0
+tiger_mmlu_task,3206,Perception and Pattern Recognition,1
+tiger_mmlu_task,3206,Planning,0
+tiger_mmlu_task,3206,Procedural Memory,0
+tiger_mmlu_task,3206,Prospective Memory,0
+tiger_mmlu_task,3206,Semantic Memory,4
+tiger_mmlu_task,3206,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3206,Theory of Mind,0
+tiger_mmlu_task,3206,Working Memory,2
+tiger_mmlu_task,3206,ambiguity,5
+tiger_mmlu_task,3206,factuality,5
+tiger_mmlu_task,3228,Causal Reasoning,1
+tiger_mmlu_task,3228,Cognitive Flexibility,0
+tiger_mmlu_task,3228,Emotion Perception and Empathy,0
+tiger_mmlu_task,3228,Episodic Memory,0
+tiger_mmlu_task,3228,Functional Perception,0
+tiger_mmlu_task,3228,Inhibitory Control,1
+tiger_mmlu_task,3228,Language,1
+tiger_mmlu_task,3228,Mental Simulation,0
+tiger_mmlu_task,3228,Metacognition,2
+tiger_mmlu_task,3228,Object Permanence,0
+tiger_mmlu_task,3228,Perception and Pattern Recognition,2
+tiger_mmlu_task,3228,Planning,1
+tiger_mmlu_task,3228,Procedural Memory,2
+tiger_mmlu_task,3228,Prospective Memory,0
+tiger_mmlu_task,3228,Semantic Memory,4
+tiger_mmlu_task,3228,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3228,Theory of Mind,0
+tiger_mmlu_task,3228,Working Memory,2
+tiger_mmlu_task,3228,ambiguity,5
+tiger_mmlu_task,3228,factuality,5
+tiger_mmlu_task,3249,Causal Reasoning,1
+tiger_mmlu_task,3249,Cognitive Flexibility,0
+tiger_mmlu_task,3249,Emotion Perception and Empathy,0
+tiger_mmlu_task,3249,Episodic Memory,0
+tiger_mmlu_task,3249,Functional Perception,2
+tiger_mmlu_task,3249,Inhibitory Control,1
+tiger_mmlu_task,3249,Language,2
+tiger_mmlu_task,3249,Mental Simulation,0
+tiger_mmlu_task,3249,Metacognition,2
+tiger_mmlu_task,3249,Object Permanence,0
+tiger_mmlu_task,3249,Perception and Pattern Recognition,2
+tiger_mmlu_task,3249,Planning,0
+tiger_mmlu_task,3249,Procedural Memory,0
+tiger_mmlu_task,3249,Prospective Memory,0
+tiger_mmlu_task,3249,Semantic Memory,2
+tiger_mmlu_task,3249,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3249,Theory of Mind,0
+tiger_mmlu_task,3249,Working Memory,3
+tiger_mmlu_task,3249,ambiguity,5
+tiger_mmlu_task,3249,factuality,5
+tiger_mmlu_task,3298,Causal Reasoning,2
+tiger_mmlu_task,3298,Cognitive Flexibility,2
+tiger_mmlu_task,3298,Emotion Perception and Empathy,0
+tiger_mmlu_task,3298,Episodic Memory,1
+tiger_mmlu_task,3298,Functional Perception,3
+tiger_mmlu_task,3298,Inhibitory Control,2
+tiger_mmlu_task,3298,Language,1
+tiger_mmlu_task,3298,Mental Simulation,0
+tiger_mmlu_task,3298,Metacognition,2
+tiger_mmlu_task,3298,Object Permanence,0
+tiger_mmlu_task,3298,Perception and Pattern Recognition,2
+tiger_mmlu_task,3298,Planning,1
+tiger_mmlu_task,3298,Procedural Memory,2
+tiger_mmlu_task,3298,Prospective Memory,0
+tiger_mmlu_task,3298,Semantic Memory,3
+tiger_mmlu_task,3298,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3298,Theory of Mind,0
+tiger_mmlu_task,3298,Working Memory,2
+tiger_mmlu_task,3298,ambiguity,5
+tiger_mmlu_task,3298,factuality,5
+tiger_mmlu_task,3307,Causal Reasoning,1
+tiger_mmlu_task,3307,Cognitive Flexibility,0
+tiger_mmlu_task,3307,Emotion Perception and Empathy,0
+tiger_mmlu_task,3307,Episodic Memory,0
+tiger_mmlu_task,3307,Functional Perception,2
+tiger_mmlu_task,3307,Inhibitory Control,2
+tiger_mmlu_task,3307,Language,1
+tiger_mmlu_task,3307,Mental Simulation,1
+tiger_mmlu_task,3307,Metacognition,1
+tiger_mmlu_task,3307,Object Permanence,0
+tiger_mmlu_task,3307,Perception and Pattern Recognition,2
+tiger_mmlu_task,3307,Planning,0
+tiger_mmlu_task,3307,Procedural Memory,0
+tiger_mmlu_task,3307,Prospective Memory,0
+tiger_mmlu_task,3307,Semantic Memory,3
+tiger_mmlu_task,3307,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3307,Theory of Mind,0
+tiger_mmlu_task,3307,Working Memory,3
+tiger_mmlu_task,3307,ambiguity,5
+tiger_mmlu_task,3307,factuality,5
+tiger_mmlu_task,3320,Causal Reasoning,1
+tiger_mmlu_task,3320,Cognitive Flexibility,0
+tiger_mmlu_task,3320,Emotion Perception and Empathy,0
+tiger_mmlu_task,3320,Episodic Memory,1
+tiger_mmlu_task,3320,Functional Perception,1
+tiger_mmlu_task,3320,Inhibitory Control,2
+tiger_mmlu_task,3320,Language,2
+tiger_mmlu_task,3320,Mental Simulation,0
+tiger_mmlu_task,3320,Metacognition,2
+tiger_mmlu_task,3320,Object Permanence,0
+tiger_mmlu_task,3320,Perception and Pattern Recognition,1
+tiger_mmlu_task,3320,Planning,0
+tiger_mmlu_task,3320,Procedural Memory,0
+tiger_mmlu_task,3320,Prospective Memory,0
+tiger_mmlu_task,3320,Semantic Memory,3
+tiger_mmlu_task,3320,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3320,Theory of Mind,0
+tiger_mmlu_task,3320,Working Memory,1
+tiger_mmlu_task,3320,ambiguity,5
+tiger_mmlu_task,3320,factuality,5
+tiger_mmlu_task,3364,Causal Reasoning,1
+tiger_mmlu_task,3364,Cognitive Flexibility,0
+tiger_mmlu_task,3364,Emotion Perception and Empathy,0
+tiger_mmlu_task,3364,Episodic Memory,0
+tiger_mmlu_task,3364,Functional Perception,2
+tiger_mmlu_task,3364,Inhibitory Control,2
+tiger_mmlu_task,3364,Language,2
+tiger_mmlu_task,3364,Mental Simulation,1
+tiger_mmlu_task,3364,Metacognition,2
+tiger_mmlu_task,3364,Object Permanence,0
+tiger_mmlu_task,3364,Perception and Pattern Recognition,2
+tiger_mmlu_task,3364,Planning,0
+tiger_mmlu_task,3364,Procedural Memory,0
+tiger_mmlu_task,3364,Prospective Memory,0
+tiger_mmlu_task,3364,Semantic Memory,3
+tiger_mmlu_task,3364,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3364,Theory of Mind,0
+tiger_mmlu_task,3364,Working Memory,2
+tiger_mmlu_task,3364,ambiguity,4
+tiger_mmlu_task,3364,factuality,5
+tiger_mmlu_task,3417,Causal Reasoning,0
+tiger_mmlu_task,3417,Cognitive Flexibility,0
+tiger_mmlu_task,3417,Emotion Perception and Empathy,0
+tiger_mmlu_task,3417,Episodic Memory,0
+tiger_mmlu_task,3417,Functional Perception,2
+tiger_mmlu_task,3417,Inhibitory Control,1
+tiger_mmlu_task,3417,Language,1
+tiger_mmlu_task,3417,Mental Simulation,0
+tiger_mmlu_task,3417,Metacognition,2
+tiger_mmlu_task,3417,Object Permanence,0
+tiger_mmlu_task,3417,Perception and Pattern Recognition,1
+tiger_mmlu_task,3417,Planning,0
+tiger_mmlu_task,3417,Procedural Memory,0
+tiger_mmlu_task,3417,Prospective Memory,0
+tiger_mmlu_task,3417,Semantic Memory,3
+tiger_mmlu_task,3417,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3417,Theory of Mind,0
+tiger_mmlu_task,3417,Working Memory,2
+tiger_mmlu_task,3417,ambiguity,5
+tiger_mmlu_task,3417,factuality,5
+tiger_mmlu_task,3454,Causal Reasoning,0
+tiger_mmlu_task,3454,Cognitive Flexibility,0
+tiger_mmlu_task,3454,Emotion Perception and Empathy,0
+tiger_mmlu_task,3454,Episodic Memory,0
+tiger_mmlu_task,3454,Functional Perception,0
+tiger_mmlu_task,3454,Inhibitory Control,1
+tiger_mmlu_task,3454,Language,1
+tiger_mmlu_task,3454,Mental Simulation,0
+tiger_mmlu_task,3454,Metacognition,2
+tiger_mmlu_task,3454,Object Permanence,0
+tiger_mmlu_task,3454,Perception and Pattern Recognition,0
+tiger_mmlu_task,3454,Planning,0
+tiger_mmlu_task,3454,Procedural Memory,2
+tiger_mmlu_task,3454,Prospective Memory,0
+tiger_mmlu_task,3454,Semantic Memory,2
+tiger_mmlu_task,3454,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3454,Theory of Mind,0
+tiger_mmlu_task,3454,Working Memory,1
+tiger_mmlu_task,3454,ambiguity,5
+tiger_mmlu_task,3454,factuality,1
+tiger_mmlu_task,3605,Causal Reasoning,0
+tiger_mmlu_task,3605,Cognitive Flexibility,0
+tiger_mmlu_task,3605,Emotion Perception and Empathy,0
+tiger_mmlu_task,3605,Episodic Memory,0
+tiger_mmlu_task,3605,Functional Perception,0
+tiger_mmlu_task,3605,Inhibitory Control,3
+tiger_mmlu_task,3605,Language,1
+tiger_mmlu_task,3605,Mental Simulation,0
+tiger_mmlu_task,3605,Metacognition,2
+tiger_mmlu_task,3605,Object Permanence,0
+tiger_mmlu_task,3605,Perception and Pattern Recognition,2
+tiger_mmlu_task,3605,Planning,1
+tiger_mmlu_task,3605,Procedural Memory,3
+tiger_mmlu_task,3605,Prospective Memory,0
+tiger_mmlu_task,3605,Semantic Memory,2
+tiger_mmlu_task,3605,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3605,Theory of Mind,0
+tiger_mmlu_task,3605,Working Memory,3
+tiger_mmlu_task,3605,ambiguity,5
+tiger_mmlu_task,3605,factuality,5
+tiger_mmlu_task,3616,Causal Reasoning,0
+tiger_mmlu_task,3616,Cognitive Flexibility,0
+tiger_mmlu_task,3616,Emotion Perception and Empathy,0
+tiger_mmlu_task,3616,Episodic Memory,0
+tiger_mmlu_task,3616,Functional Perception,0
+tiger_mmlu_task,3616,Inhibitory Control,2
+tiger_mmlu_task,3616,Language,1
+tiger_mmlu_task,3616,Mental Simulation,0
+tiger_mmlu_task,3616,Metacognition,2
+tiger_mmlu_task,3616,Object Permanence,0
+tiger_mmlu_task,3616,Perception and Pattern Recognition,2
+tiger_mmlu_task,3616,Planning,0
+tiger_mmlu_task,3616,Procedural Memory,2
+tiger_mmlu_task,3616,Prospective Memory,0
+tiger_mmlu_task,3616,Semantic Memory,0
+tiger_mmlu_task,3616,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3616,Theory of Mind,0
+tiger_mmlu_task,3616,Working Memory,2
+tiger_mmlu_task,3616,ambiguity,5
+tiger_mmlu_task,3616,factuality,1
+tiger_mmlu_task,3667,Causal Reasoning,1
+tiger_mmlu_task,3667,Cognitive Flexibility,0
+tiger_mmlu_task,3667,Emotion Perception and Empathy,0
+tiger_mmlu_task,3667,Episodic Memory,0
+tiger_mmlu_task,3667,Functional Perception,2
+tiger_mmlu_task,3667,Inhibitory Control,2
+tiger_mmlu_task,3667,Language,1
+tiger_mmlu_task,3667,Mental Simulation,0
+tiger_mmlu_task,3667,Metacognition,2
+tiger_mmlu_task,3667,Object Permanence,0
+tiger_mmlu_task,3667,Perception and Pattern Recognition,2
+tiger_mmlu_task,3667,Planning,1
+tiger_mmlu_task,3667,Procedural Memory,2
+tiger_mmlu_task,3667,Prospective Memory,0
+tiger_mmlu_task,3667,Semantic Memory,2
+tiger_mmlu_task,3667,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3667,Theory of Mind,0
+tiger_mmlu_task,3667,Working Memory,3
+tiger_mmlu_task,3667,ambiguity,5
+tiger_mmlu_task,3667,factuality,5
+tiger_mmlu_task,366,Causal Reasoning,1
+tiger_mmlu_task,366,Cognitive Flexibility,0
+tiger_mmlu_task,366,Emotion Perception and Empathy,0
+tiger_mmlu_task,366,Episodic Memory,0
+tiger_mmlu_task,366,Functional Perception,2
+tiger_mmlu_task,366,Inhibitory Control,1
+tiger_mmlu_task,366,Language,1
+tiger_mmlu_task,366,Mental Simulation,0
+tiger_mmlu_task,366,Metacognition,1
+tiger_mmlu_task,366,Object Permanence,0
+tiger_mmlu_task,366,Perception and Pattern Recognition,2
+tiger_mmlu_task,366,Planning,0
+tiger_mmlu_task,366,Procedural Memory,0
+tiger_mmlu_task,366,Prospective Memory,0
+tiger_mmlu_task,366,Semantic Memory,3
+tiger_mmlu_task,366,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,366,Theory of Mind,0
+tiger_mmlu_task,366,Working Memory,1
+tiger_mmlu_task,366,ambiguity,5
+tiger_mmlu_task,366,factuality,5
+tiger_mmlu_task,3672,Causal Reasoning,1
+tiger_mmlu_task,3672,Cognitive Flexibility,0
+tiger_mmlu_task,3672,Emotion Perception and Empathy,0
+tiger_mmlu_task,3672,Episodic Memory,0
+tiger_mmlu_task,3672,Functional Perception,2
+tiger_mmlu_task,3672,Inhibitory Control,1
+tiger_mmlu_task,3672,Language,1
+tiger_mmlu_task,3672,Mental Simulation,0
+tiger_mmlu_task,3672,Metacognition,1
+tiger_mmlu_task,3672,Object Permanence,0
+tiger_mmlu_task,3672,Perception and Pattern Recognition,0
+tiger_mmlu_task,3672,Planning,0
+tiger_mmlu_task,3672,Procedural Memory,2
+tiger_mmlu_task,3672,Prospective Memory,0
+tiger_mmlu_task,3672,Semantic Memory,3
+tiger_mmlu_task,3672,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3672,Theory of Mind,0
+tiger_mmlu_task,3672,Working Memory,2
+tiger_mmlu_task,3672,ambiguity,5
+tiger_mmlu_task,3672,factuality,5
+tiger_mmlu_task,3739,Causal Reasoning,0
+tiger_mmlu_task,3739,Cognitive Flexibility,0
+tiger_mmlu_task,3739,Emotion Perception and Empathy,0
+tiger_mmlu_task,3739,Episodic Memory,0
+tiger_mmlu_task,3739,Functional Perception,1
+tiger_mmlu_task,3739,Inhibitory Control,1
+tiger_mmlu_task,3739,Language,1
+tiger_mmlu_task,3739,Mental Simulation,0
+tiger_mmlu_task,3739,Metacognition,3
+tiger_mmlu_task,3739,Object Permanence,0
+tiger_mmlu_task,3739,Perception and Pattern Recognition,3
+tiger_mmlu_task,3739,Planning,2
+tiger_mmlu_task,3739,Procedural Memory,3
+tiger_mmlu_task,3739,Prospective Memory,0
+tiger_mmlu_task,3739,Semantic Memory,4
+tiger_mmlu_task,3739,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3739,Theory of Mind,0
+tiger_mmlu_task,3739,Working Memory,2
+tiger_mmlu_task,3739,ambiguity,4
+tiger_mmlu_task,3739,factuality,5
+tiger_mmlu_task,3763,Causal Reasoning,2
+tiger_mmlu_task,3763,Cognitive Flexibility,0
+tiger_mmlu_task,3763,Emotion Perception and Empathy,0
+tiger_mmlu_task,3763,Episodic Memory,0
+tiger_mmlu_task,3763,Functional Perception,2
+tiger_mmlu_task,3763,Inhibitory Control,2
+tiger_mmlu_task,3763,Language,1
+tiger_mmlu_task,3763,Mental Simulation,2
+tiger_mmlu_task,3763,Metacognition,2
+tiger_mmlu_task,3763,Object Permanence,0
+tiger_mmlu_task,3763,Perception and Pattern Recognition,2
+tiger_mmlu_task,3763,Planning,1
+tiger_mmlu_task,3763,Procedural Memory,2
+tiger_mmlu_task,3763,Prospective Memory,0
+tiger_mmlu_task,3763,Semantic Memory,3
+tiger_mmlu_task,3763,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3763,Theory of Mind,0
+tiger_mmlu_task,3763,Working Memory,3
+tiger_mmlu_task,3763,ambiguity,5
+tiger_mmlu_task,3763,factuality,5
+tiger_mmlu_task,3878,Causal Reasoning,0
+tiger_mmlu_task,3878,Cognitive Flexibility,0
+tiger_mmlu_task,3878,Emotion Perception and Empathy,0
+tiger_mmlu_task,3878,Episodic Memory,0
+tiger_mmlu_task,3878,Functional Perception,0
+tiger_mmlu_task,3878,Inhibitory Control,1
+tiger_mmlu_task,3878,Language,1
+tiger_mmlu_task,3878,Mental Simulation,0
+tiger_mmlu_task,3878,Metacognition,3
+tiger_mmlu_task,3878,Object Permanence,0
+tiger_mmlu_task,3878,Perception and Pattern Recognition,2
+tiger_mmlu_task,3878,Planning,1
+tiger_mmlu_task,3878,Procedural Memory,2
+tiger_mmlu_task,3878,Prospective Memory,0
+tiger_mmlu_task,3878,Semantic Memory,4
+tiger_mmlu_task,3878,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3878,Theory of Mind,0
+tiger_mmlu_task,3878,Working Memory,1
+tiger_mmlu_task,3878,ambiguity,5
+tiger_mmlu_task,3878,factuality,1
+tiger_mmlu_task,3917,Causal Reasoning,0
+tiger_mmlu_task,3917,Cognitive Flexibility,0
+tiger_mmlu_task,3917,Emotion Perception and Empathy,0
+tiger_mmlu_task,3917,Episodic Memory,0
+tiger_mmlu_task,3917,Functional Perception,2
+tiger_mmlu_task,3917,Inhibitory Control,1
+tiger_mmlu_task,3917,Language,1
+tiger_mmlu_task,3917,Mental Simulation,0
+tiger_mmlu_task,3917,Metacognition,2
+tiger_mmlu_task,3917,Object Permanence,0
+tiger_mmlu_task,3917,Perception and Pattern Recognition,2
+tiger_mmlu_task,3917,Planning,0
+tiger_mmlu_task,3917,Procedural Memory,0
+tiger_mmlu_task,3917,Prospective Memory,0
+tiger_mmlu_task,3917,Semantic Memory,3
+tiger_mmlu_task,3917,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3917,Theory of Mind,0
+tiger_mmlu_task,3917,Working Memory,2
+tiger_mmlu_task,3917,ambiguity,5
+tiger_mmlu_task,3917,factuality,1
+tiger_mmlu_task,3944,Causal Reasoning,0
+tiger_mmlu_task,3944,Cognitive Flexibility,0
+tiger_mmlu_task,3944,Emotion Perception and Empathy,0
+tiger_mmlu_task,3944,Episodic Memory,0
+tiger_mmlu_task,3944,Functional Perception,0
+tiger_mmlu_task,3944,Inhibitory Control,1
+tiger_mmlu_task,3944,Language,1
+tiger_mmlu_task,3944,Mental Simulation,0
+tiger_mmlu_task,3944,Metacognition,1
+tiger_mmlu_task,3944,Object Permanence,0
+tiger_mmlu_task,3944,Perception and Pattern Recognition,0
+tiger_mmlu_task,3944,Planning,0
+tiger_mmlu_task,3944,Procedural Memory,0
+tiger_mmlu_task,3944,Prospective Memory,0
+tiger_mmlu_task,3944,Semantic Memory,3
+tiger_mmlu_task,3944,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3944,Theory of Mind,0
+tiger_mmlu_task,3944,Working Memory,1
+tiger_mmlu_task,3944,ambiguity,5
+tiger_mmlu_task,3944,factuality,5
+tiger_mmlu_task,3975,Causal Reasoning,0
+tiger_mmlu_task,3975,Cognitive Flexibility,0
+tiger_mmlu_task,3975,Emotion Perception and Empathy,0
+tiger_mmlu_task,3975,Episodic Memory,0
+tiger_mmlu_task,3975,Functional Perception,0
+tiger_mmlu_task,3975,Inhibitory Control,3
+tiger_mmlu_task,3975,Language,2
+tiger_mmlu_task,3975,Mental Simulation,0
+tiger_mmlu_task,3975,Metacognition,1
+tiger_mmlu_task,3975,Object Permanence,0
+tiger_mmlu_task,3975,Perception and Pattern Recognition,0
+tiger_mmlu_task,3975,Planning,0
+tiger_mmlu_task,3975,Procedural Memory,2
+tiger_mmlu_task,3975,Prospective Memory,0
+tiger_mmlu_task,3975,Semantic Memory,3
+tiger_mmlu_task,3975,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,3975,Theory of Mind,0
+tiger_mmlu_task,3975,Working Memory,2
+tiger_mmlu_task,3975,ambiguity,5
+tiger_mmlu_task,3975,factuality,1
+tiger_mmlu_task,4063,Causal Reasoning,1
+tiger_mmlu_task,4063,Cognitive Flexibility,2
+tiger_mmlu_task,4063,Emotion Perception and Empathy,0
+tiger_mmlu_task,4063,Episodic Memory,0
+tiger_mmlu_task,4063,Functional Perception,2
+tiger_mmlu_task,4063,Inhibitory Control,1
+tiger_mmlu_task,4063,Language,1
+tiger_mmlu_task,4063,Mental Simulation,0
+tiger_mmlu_task,4063,Metacognition,3
+tiger_mmlu_task,4063,Object Permanence,0
+tiger_mmlu_task,4063,Perception and Pattern Recognition,2
+tiger_mmlu_task,4063,Planning,1
+tiger_mmlu_task,4063,Procedural Memory,2
+tiger_mmlu_task,4063,Prospective Memory,0
+tiger_mmlu_task,4063,Semantic Memory,3
+tiger_mmlu_task,4063,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4063,Theory of Mind,0
+tiger_mmlu_task,4063,Working Memory,3
+tiger_mmlu_task,4063,ambiguity,5
+tiger_mmlu_task,4063,factuality,5
+tiger_mmlu_task,4090,Causal Reasoning,0
+tiger_mmlu_task,4090,Cognitive Flexibility,0
+tiger_mmlu_task,4090,Emotion Perception and Empathy,0
+tiger_mmlu_task,4090,Episodic Memory,1
+tiger_mmlu_task,4090,Functional Perception,0
+tiger_mmlu_task,4090,Inhibitory Control,1
+tiger_mmlu_task,4090,Language,1
+tiger_mmlu_task,4090,Mental Simulation,0
+tiger_mmlu_task,4090,Metacognition,3
+tiger_mmlu_task,4090,Object Permanence,0
+tiger_mmlu_task,4090,Perception and Pattern Recognition,3
+tiger_mmlu_task,4090,Planning,1
+tiger_mmlu_task,4090,Procedural Memory,2
+tiger_mmlu_task,4090,Prospective Memory,0
+tiger_mmlu_task,4090,Semantic Memory,3
+tiger_mmlu_task,4090,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4090,Theory of Mind,0
+tiger_mmlu_task,4090,Working Memory,3
+tiger_mmlu_task,4090,ambiguity,5
+tiger_mmlu_task,4090,factuality,1
+tiger_mmlu_task,4280,Causal Reasoning,0
+tiger_mmlu_task,4280,Cognitive Flexibility,0
+tiger_mmlu_task,4280,Emotion Perception and Empathy,0
+tiger_mmlu_task,4280,Episodic Memory,0
+tiger_mmlu_task,4280,Functional Perception,2
+tiger_mmlu_task,4280,Inhibitory Control,2
+tiger_mmlu_task,4280,Language,1
+tiger_mmlu_task,4280,Mental Simulation,0
+tiger_mmlu_task,4280,Metacognition,2
+tiger_mmlu_task,4280,Object Permanence,0
+tiger_mmlu_task,4280,Perception and Pattern Recognition,3
+tiger_mmlu_task,4280,Planning,2
+tiger_mmlu_task,4280,Procedural Memory,2
+tiger_mmlu_task,4280,Prospective Memory,0
+tiger_mmlu_task,4280,Semantic Memory,4
+tiger_mmlu_task,4280,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4280,Theory of Mind,0
+tiger_mmlu_task,4280,Working Memory,4
+tiger_mmlu_task,4280,ambiguity,5
+tiger_mmlu_task,4280,factuality,4
+tiger_mmlu_task,4319,Causal Reasoning,0
+tiger_mmlu_task,4319,Cognitive Flexibility,0
+tiger_mmlu_task,4319,Emotion Perception and Empathy,0
+tiger_mmlu_task,4319,Episodic Memory,0
+tiger_mmlu_task,4319,Functional Perception,2
+tiger_mmlu_task,4319,Inhibitory Control,2
+tiger_mmlu_task,4319,Language,1
+tiger_mmlu_task,4319,Mental Simulation,2
+tiger_mmlu_task,4319,Metacognition,3
+tiger_mmlu_task,4319,Object Permanence,0
+tiger_mmlu_task,4319,Perception and Pattern Recognition,1
+tiger_mmlu_task,4319,Planning,2
+tiger_mmlu_task,4319,Procedural Memory,3
+tiger_mmlu_task,4319,Prospective Memory,0
+tiger_mmlu_task,4319,Semantic Memory,4
+tiger_mmlu_task,4319,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4319,Theory of Mind,0
+tiger_mmlu_task,4319,Working Memory,4
+tiger_mmlu_task,4319,ambiguity,5
+tiger_mmlu_task,4319,factuality,5
+tiger_mmlu_task,4347,Causal Reasoning,0
+tiger_mmlu_task,4347,Cognitive Flexibility,0
+tiger_mmlu_task,4347,Emotion Perception and Empathy,0
+tiger_mmlu_task,4347,Episodic Memory,0
+tiger_mmlu_task,4347,Functional Perception,0
+tiger_mmlu_task,4347,Inhibitory Control,1
+tiger_mmlu_task,4347,Language,1
+tiger_mmlu_task,4347,Mental Simulation,0
+tiger_mmlu_task,4347,Metacognition,2
+tiger_mmlu_task,4347,Object Permanence,0
+tiger_mmlu_task,4347,Perception and Pattern Recognition,2
+tiger_mmlu_task,4347,Planning,0
+tiger_mmlu_task,4347,Procedural Memory,2
+tiger_mmlu_task,4347,Prospective Memory,0
+tiger_mmlu_task,4347,Semantic Memory,4
+tiger_mmlu_task,4347,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4347,Theory of Mind,0
+tiger_mmlu_task,4347,Working Memory,1
+tiger_mmlu_task,4347,ambiguity,5
+tiger_mmlu_task,4347,factuality,5
+tiger_mmlu_task,4354,Causal Reasoning,0
+tiger_mmlu_task,4354,Cognitive Flexibility,0
+tiger_mmlu_task,4354,Emotion Perception and Empathy,0
+tiger_mmlu_task,4354,Episodic Memory,0
+tiger_mmlu_task,4354,Functional Perception,0
+tiger_mmlu_task,4354,Inhibitory Control,1
+tiger_mmlu_task,4354,Language,1
+tiger_mmlu_task,4354,Mental Simulation,0
+tiger_mmlu_task,4354,Metacognition,2
+tiger_mmlu_task,4354,Object Permanence,0
+tiger_mmlu_task,4354,Perception and Pattern Recognition,0
+tiger_mmlu_task,4354,Planning,0
+tiger_mmlu_task,4354,Procedural Memory,2
+tiger_mmlu_task,4354,Prospective Memory,0
+tiger_mmlu_task,4354,Semantic Memory,4
+tiger_mmlu_task,4354,Spatial Reasoning and Navigation,1
+tiger_mmlu_task,4354,Theory of Mind,0
+tiger_mmlu_task,4354,Working Memory,3
+tiger_mmlu_task,4354,ambiguity,5
+tiger_mmlu_task,4354,factuality,5
+tiger_mmlu_task,4454,Causal Reasoning,1
+tiger_mmlu_task,4454,Cognitive Flexibility,0
+tiger_mmlu_task,4454,Emotion Perception and Empathy,0
+tiger_mmlu_task,4454,Episodic Memory,0
+tiger_mmlu_task,4454,Functional Perception,2
+tiger_mmlu_task,4454,Inhibitory Control,2
+tiger_mmlu_task,4454,Language,1
+tiger_mmlu_task,4454,Mental Simulation,1
+tiger_mmlu_task,4454,Metacognition,3
+tiger_mmlu_task,4454,Object Permanence,0
+tiger_mmlu_task,4454,Perception and Pattern Recognition,2
+tiger_mmlu_task,4454,Planning,0
+tiger_mmlu_task,4454,Procedural Memory,0
+tiger_mmlu_task,4454,Prospective Memory,0
+tiger_mmlu_task,4454,Semantic Memory,3
+tiger_mmlu_task,4454,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4454,Theory of Mind,0
+tiger_mmlu_task,4454,Working Memory,2
+tiger_mmlu_task,4454,ambiguity,5
+tiger_mmlu_task,4454,factuality,5
+tiger_mmlu_task,4468,Causal Reasoning,0
+tiger_mmlu_task,4468,Cognitive Flexibility,0
+tiger_mmlu_task,4468,Emotion Perception and Empathy,0
+tiger_mmlu_task,4468,Episodic Memory,0
+tiger_mmlu_task,4468,Functional Perception,2
+tiger_mmlu_task,4468,Inhibitory Control,1
+tiger_mmlu_task,4468,Language,1
+tiger_mmlu_task,4468,Mental Simulation,0
+tiger_mmlu_task,4468,Metacognition,2
+tiger_mmlu_task,4468,Object Permanence,0
+tiger_mmlu_task,4468,Perception and Pattern Recognition,2
+tiger_mmlu_task,4468,Planning,2
+tiger_mmlu_task,4468,Procedural Memory,3
+tiger_mmlu_task,4468,Prospective Memory,0
+tiger_mmlu_task,4468,Semantic Memory,4
+tiger_mmlu_task,4468,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4468,Theory of Mind,0
+tiger_mmlu_task,4468,Working Memory,3
+tiger_mmlu_task,4468,ambiguity,5
+tiger_mmlu_task,4468,factuality,5
+tiger_mmlu_task,4663,Causal Reasoning,1
+tiger_mmlu_task,4663,Cognitive Flexibility,0
+tiger_mmlu_task,4663,Emotion Perception and Empathy,0
+tiger_mmlu_task,4663,Episodic Memory,0
+tiger_mmlu_task,4663,Functional Perception,1
+tiger_mmlu_task,4663,Inhibitory Control,1
+tiger_mmlu_task,4663,Language,0
+tiger_mmlu_task,4663,Mental Simulation,0
+tiger_mmlu_task,4663,Metacognition,1
+tiger_mmlu_task,4663,Object Permanence,0
+tiger_mmlu_task,4663,Perception and Pattern Recognition,0
+tiger_mmlu_task,4663,Planning,0
+tiger_mmlu_task,4663,Procedural Memory,2
+tiger_mmlu_task,4663,Prospective Memory,0
+tiger_mmlu_task,4663,Semantic Memory,2
+tiger_mmlu_task,4663,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4663,Theory of Mind,0
+tiger_mmlu_task,4663,Working Memory,1
+tiger_mmlu_task,4663,ambiguity,4
+tiger_mmlu_task,4663,factuality,4
+tiger_mmlu_task,4709,Causal Reasoning,0
+tiger_mmlu_task,4709,Cognitive Flexibility,0
+tiger_mmlu_task,4709,Emotion Perception and Empathy,0
+tiger_mmlu_task,4709,Episodic Memory,0
+tiger_mmlu_task,4709,Functional Perception,0
+tiger_mmlu_task,4709,Inhibitory Control,1
+tiger_mmlu_task,4709,Language,1
+tiger_mmlu_task,4709,Mental Simulation,0
+tiger_mmlu_task,4709,Metacognition,1
+tiger_mmlu_task,4709,Object Permanence,0
+tiger_mmlu_task,4709,Perception and Pattern Recognition,0
+tiger_mmlu_task,4709,Planning,0
+tiger_mmlu_task,4709,Procedural Memory,0
+tiger_mmlu_task,4709,Prospective Memory,0
+tiger_mmlu_task,4709,Semantic Memory,2
+tiger_mmlu_task,4709,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4709,Theory of Mind,0
+tiger_mmlu_task,4709,Working Memory,0
+tiger_mmlu_task,4709,ambiguity,5
+tiger_mmlu_task,4709,factuality,5
+tiger_mmlu_task,4728,Causal Reasoning,1
+tiger_mmlu_task,4728,Cognitive Flexibility,2
+tiger_mmlu_task,4728,Emotion Perception and Empathy,0
+tiger_mmlu_task,4728,Episodic Memory,0
+tiger_mmlu_task,4728,Functional Perception,2
+tiger_mmlu_task,4728,Inhibitory Control,1
+tiger_mmlu_task,4728,Language,2
+tiger_mmlu_task,4728,Mental Simulation,0
+tiger_mmlu_task,4728,Metacognition,2
+tiger_mmlu_task,4728,Object Permanence,0
+tiger_mmlu_task,4728,Perception and Pattern Recognition,2
+tiger_mmlu_task,4728,Planning,0
+tiger_mmlu_task,4728,Procedural Memory,0
+tiger_mmlu_task,4728,Prospective Memory,0
+tiger_mmlu_task,4728,Semantic Memory,2
+tiger_mmlu_task,4728,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4728,Theory of Mind,0
+tiger_mmlu_task,4728,Working Memory,2
+tiger_mmlu_task,4728,ambiguity,4
+tiger_mmlu_task,4728,factuality,5
+tiger_mmlu_task,4732,Causal Reasoning,0
+tiger_mmlu_task,4732,Cognitive Flexibility,0
+tiger_mmlu_task,4732,Emotion Perception and Empathy,0
+tiger_mmlu_task,4732,Episodic Memory,0
+tiger_mmlu_task,4732,Functional Perception,1
+tiger_mmlu_task,4732,Inhibitory Control,1
+tiger_mmlu_task,4732,Language,1
+tiger_mmlu_task,4732,Mental Simulation,0
+tiger_mmlu_task,4732,Metacognition,1
+tiger_mmlu_task,4732,Object Permanence,0
+tiger_mmlu_task,4732,Perception and Pattern Recognition,1
+tiger_mmlu_task,4732,Planning,0
+tiger_mmlu_task,4732,Procedural Memory,0
+tiger_mmlu_task,4732,Prospective Memory,0
+tiger_mmlu_task,4732,Semantic Memory,3
+tiger_mmlu_task,4732,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4732,Theory of Mind,0
+tiger_mmlu_task,4732,Working Memory,0
+tiger_mmlu_task,4732,ambiguity,5
+tiger_mmlu_task,4732,factuality,5
+tiger_mmlu_task,473,Causal Reasoning,1
+tiger_mmlu_task,473,Cognitive Flexibility,2
+tiger_mmlu_task,473,Emotion Perception and Empathy,0
+tiger_mmlu_task,473,Episodic Memory,0
+tiger_mmlu_task,473,Functional Perception,0
+tiger_mmlu_task,473,Inhibitory Control,2
+tiger_mmlu_task,473,Language,1
+tiger_mmlu_task,473,Mental Simulation,0
+tiger_mmlu_task,473,Metacognition,2
+tiger_mmlu_task,473,Object Permanence,0
+tiger_mmlu_task,473,Perception and Pattern Recognition,2
+tiger_mmlu_task,473,Planning,2
+tiger_mmlu_task,473,Procedural Memory,3
+tiger_mmlu_task,473,Prospective Memory,0
+tiger_mmlu_task,473,Semantic Memory,2
+tiger_mmlu_task,473,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,473,Theory of Mind,0
+tiger_mmlu_task,473,Working Memory,3
+tiger_mmlu_task,473,ambiguity,5
+tiger_mmlu_task,473,factuality,1
+tiger_mmlu_task,4742,Causal Reasoning,0
+tiger_mmlu_task,4742,Cognitive Flexibility,2
+tiger_mmlu_task,4742,Emotion Perception and Empathy,0
+tiger_mmlu_task,4742,Episodic Memory,0
+tiger_mmlu_task,4742,Functional Perception,2
+tiger_mmlu_task,4742,Inhibitory Control,2
+tiger_mmlu_task,4742,Language,3
+tiger_mmlu_task,4742,Mental Simulation,0
+tiger_mmlu_task,4742,Metacognition,2
+tiger_mmlu_task,4742,Object Permanence,0
+tiger_mmlu_task,4742,Perception and Pattern Recognition,3
+tiger_mmlu_task,4742,Planning,0
+tiger_mmlu_task,4742,Procedural Memory,0
+tiger_mmlu_task,4742,Prospective Memory,0
+tiger_mmlu_task,4742,Semantic Memory,3
+tiger_mmlu_task,4742,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4742,Theory of Mind,2
+tiger_mmlu_task,4742,Working Memory,3
+tiger_mmlu_task,4742,ambiguity,5
+tiger_mmlu_task,4742,factuality,3
+tiger_mmlu_task,4777,Causal Reasoning,1
+tiger_mmlu_task,4777,Cognitive Flexibility,2
+tiger_mmlu_task,4777,Emotion Perception and Empathy,0
+tiger_mmlu_task,4777,Episodic Memory,0
+tiger_mmlu_task,4777,Functional Perception,3
+tiger_mmlu_task,4777,Inhibitory Control,2
+tiger_mmlu_task,4777,Language,2
+tiger_mmlu_task,4777,Mental Simulation,0
+tiger_mmlu_task,4777,Metacognition,2
+tiger_mmlu_task,4777,Object Permanence,0
+tiger_mmlu_task,4777,Perception and Pattern Recognition,3
+tiger_mmlu_task,4777,Planning,0
+tiger_mmlu_task,4777,Procedural Memory,0
+tiger_mmlu_task,4777,Prospective Memory,0
+tiger_mmlu_task,4777,Semantic Memory,3
+tiger_mmlu_task,4777,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4777,Theory of Mind,0
+tiger_mmlu_task,4777,Working Memory,3
+tiger_mmlu_task,4777,ambiguity,5
+tiger_mmlu_task,4777,factuality,5
+tiger_mmlu_task,4784,Causal Reasoning,0
+tiger_mmlu_task,4784,Cognitive Flexibility,0
+tiger_mmlu_task,4784,Emotion Perception and Empathy,0
+tiger_mmlu_task,4784,Episodic Memory,0
+tiger_mmlu_task,4784,Functional Perception,0
+tiger_mmlu_task,4784,Inhibitory Control,1
+tiger_mmlu_task,4784,Language,2
+tiger_mmlu_task,4784,Mental Simulation,0
+tiger_mmlu_task,4784,Metacognition,2
+tiger_mmlu_task,4784,Object Permanence,0
+tiger_mmlu_task,4784,Perception and Pattern Recognition,3
+tiger_mmlu_task,4784,Planning,0
+tiger_mmlu_task,4784,Procedural Memory,0
+tiger_mmlu_task,4784,Prospective Memory,0
+tiger_mmlu_task,4784,Semantic Memory,3
+tiger_mmlu_task,4784,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4784,Theory of Mind,0
+tiger_mmlu_task,4784,Working Memory,2
+tiger_mmlu_task,4784,ambiguity,5
+tiger_mmlu_task,4784,factuality,5
+tiger_mmlu_task,4804,Causal Reasoning,1
+tiger_mmlu_task,4804,Cognitive Flexibility,1
+tiger_mmlu_task,4804,Emotion Perception and Empathy,0
+tiger_mmlu_task,4804,Episodic Memory,0
+tiger_mmlu_task,4804,Functional Perception,2
+tiger_mmlu_task,4804,Inhibitory Control,2
+tiger_mmlu_task,4804,Language,2
+tiger_mmlu_task,4804,Mental Simulation,0
+tiger_mmlu_task,4804,Metacognition,2
+tiger_mmlu_task,4804,Object Permanence,0
+tiger_mmlu_task,4804,Perception and Pattern Recognition,1
+tiger_mmlu_task,4804,Planning,0
+tiger_mmlu_task,4804,Procedural Memory,0
+tiger_mmlu_task,4804,Prospective Memory,0
+tiger_mmlu_task,4804,Semantic Memory,3
+tiger_mmlu_task,4804,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4804,Theory of Mind,2
+tiger_mmlu_task,4804,Working Memory,2
+tiger_mmlu_task,4804,ambiguity,3
+tiger_mmlu_task,4804,factuality,2
+tiger_mmlu_task,4876,Causal Reasoning,0
+tiger_mmlu_task,4876,Cognitive Flexibility,0
+tiger_mmlu_task,4876,Emotion Perception and Empathy,0
+tiger_mmlu_task,4876,Episodic Memory,0
+tiger_mmlu_task,4876,Functional Perception,0
+tiger_mmlu_task,4876,Inhibitory Control,3
+tiger_mmlu_task,4876,Language,1
+tiger_mmlu_task,4876,Mental Simulation,0
+tiger_mmlu_task,4876,Metacognition,3
+tiger_mmlu_task,4876,Object Permanence,0
+tiger_mmlu_task,4876,Perception and Pattern Recognition,1
+tiger_mmlu_task,4876,Planning,0
+tiger_mmlu_task,4876,Procedural Memory,0
+tiger_mmlu_task,4876,Prospective Memory,0
+tiger_mmlu_task,4876,Semantic Memory,3
+tiger_mmlu_task,4876,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4876,Theory of Mind,0
+tiger_mmlu_task,4876,Working Memory,0
+tiger_mmlu_task,4876,ambiguity,5
+tiger_mmlu_task,4876,factuality,5
+tiger_mmlu_task,4901,Causal Reasoning,1
+tiger_mmlu_task,4901,Cognitive Flexibility,0
+tiger_mmlu_task,4901,Emotion Perception and Empathy,0
+tiger_mmlu_task,4901,Episodic Memory,1
+tiger_mmlu_task,4901,Functional Perception,1
+tiger_mmlu_task,4901,Inhibitory Control,1
+tiger_mmlu_task,4901,Language,1
+tiger_mmlu_task,4901,Mental Simulation,0
+tiger_mmlu_task,4901,Metacognition,1
+tiger_mmlu_task,4901,Object Permanence,0
+tiger_mmlu_task,4901,Perception and Pattern Recognition,1
+tiger_mmlu_task,4901,Planning,0
+tiger_mmlu_task,4901,Procedural Memory,0
+tiger_mmlu_task,4901,Prospective Memory,0
+tiger_mmlu_task,4901,Semantic Memory,3
+tiger_mmlu_task,4901,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4901,Theory of Mind,2
+tiger_mmlu_task,4901,Working Memory,1
+tiger_mmlu_task,4901,ambiguity,5
+tiger_mmlu_task,4901,factuality,5
+tiger_mmlu_task,4906,Causal Reasoning,0
+tiger_mmlu_task,4906,Cognitive Flexibility,0
+tiger_mmlu_task,4906,Emotion Perception and Empathy,0
+tiger_mmlu_task,4906,Episodic Memory,0
+tiger_mmlu_task,4906,Functional Perception,0
+tiger_mmlu_task,4906,Inhibitory Control,1
+tiger_mmlu_task,4906,Language,1
+tiger_mmlu_task,4906,Mental Simulation,0
+tiger_mmlu_task,4906,Metacognition,1
+tiger_mmlu_task,4906,Object Permanence,0
+tiger_mmlu_task,4906,Perception and Pattern Recognition,2
+tiger_mmlu_task,4906,Planning,0
+tiger_mmlu_task,4906,Procedural Memory,0
+tiger_mmlu_task,4906,Prospective Memory,0
+tiger_mmlu_task,4906,Semantic Memory,3
+tiger_mmlu_task,4906,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4906,Theory of Mind,0
+tiger_mmlu_task,4906,Working Memory,0
+tiger_mmlu_task,4906,ambiguity,5
+tiger_mmlu_task,4906,factuality,5
+tiger_mmlu_task,4907,Causal Reasoning,0
+tiger_mmlu_task,4907,Cognitive Flexibility,0
+tiger_mmlu_task,4907,Emotion Perception and Empathy,0
+tiger_mmlu_task,4907,Episodic Memory,0
+tiger_mmlu_task,4907,Functional Perception,0
+tiger_mmlu_task,4907,Inhibitory Control,1
+tiger_mmlu_task,4907,Language,1
+tiger_mmlu_task,4907,Mental Simulation,0
+tiger_mmlu_task,4907,Metacognition,1
+tiger_mmlu_task,4907,Object Permanence,0
+tiger_mmlu_task,4907,Perception and Pattern Recognition,0
+tiger_mmlu_task,4907,Planning,0
+tiger_mmlu_task,4907,Procedural Memory,0
+tiger_mmlu_task,4907,Prospective Memory,0
+tiger_mmlu_task,4907,Semantic Memory,3
+tiger_mmlu_task,4907,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4907,Theory of Mind,0
+tiger_mmlu_task,4907,Working Memory,1
+tiger_mmlu_task,4907,ambiguity,5
+tiger_mmlu_task,4907,factuality,5
+tiger_mmlu_task,4949,Causal Reasoning,2
+tiger_mmlu_task,4949,Cognitive Flexibility,2
+tiger_mmlu_task,4949,Emotion Perception and Empathy,0
+tiger_mmlu_task,4949,Episodic Memory,2
+tiger_mmlu_task,4949,Functional Perception,3
+tiger_mmlu_task,4949,Inhibitory Control,2
+tiger_mmlu_task,4949,Language,2
+tiger_mmlu_task,4949,Mental Simulation,0
+tiger_mmlu_task,4949,Metacognition,2
+tiger_mmlu_task,4949,Object Permanence,0
+tiger_mmlu_task,4949,Perception and Pattern Recognition,3
+tiger_mmlu_task,4949,Planning,0
+tiger_mmlu_task,4949,Procedural Memory,2
+tiger_mmlu_task,4949,Prospective Memory,0
+tiger_mmlu_task,4949,Semantic Memory,3
+tiger_mmlu_task,4949,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4949,Theory of Mind,2
+tiger_mmlu_task,4949,Working Memory,3
+tiger_mmlu_task,4949,ambiguity,4
+tiger_mmlu_task,4949,factuality,1
+tiger_mmlu_task,4993,Causal Reasoning,2
+tiger_mmlu_task,4993,Cognitive Flexibility,1
+tiger_mmlu_task,4993,Emotion Perception and Empathy,0
+tiger_mmlu_task,4993,Episodic Memory,0
+tiger_mmlu_task,4993,Functional Perception,2
+tiger_mmlu_task,4993,Inhibitory Control,3
+tiger_mmlu_task,4993,Language,3
+tiger_mmlu_task,4993,Mental Simulation,0
+tiger_mmlu_task,4993,Metacognition,2
+tiger_mmlu_task,4993,Object Permanence,0
+tiger_mmlu_task,4993,Perception and Pattern Recognition,2
+tiger_mmlu_task,4993,Planning,0
+tiger_mmlu_task,4993,Procedural Memory,0
+tiger_mmlu_task,4993,Prospective Memory,0
+tiger_mmlu_task,4993,Semantic Memory,3
+tiger_mmlu_task,4993,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,4993,Theory of Mind,2
+tiger_mmlu_task,4993,Working Memory,3
+tiger_mmlu_task,4993,ambiguity,5
+tiger_mmlu_task,4993,factuality,5
+tiger_mmlu_task,5088,Causal Reasoning,0
+tiger_mmlu_task,5088,Cognitive Flexibility,0
+tiger_mmlu_task,5088,Emotion Perception and Empathy,0
+tiger_mmlu_task,5088,Episodic Memory,0
+tiger_mmlu_task,5088,Functional Perception,0
+tiger_mmlu_task,5088,Inhibitory Control,1
+tiger_mmlu_task,5088,Language,1
+tiger_mmlu_task,5088,Mental Simulation,0
+tiger_mmlu_task,5088,Metacognition,1
+tiger_mmlu_task,5088,Object Permanence,0
+tiger_mmlu_task,5088,Perception and Pattern Recognition,0
+tiger_mmlu_task,5088,Planning,0
+tiger_mmlu_task,5088,Procedural Memory,0
+tiger_mmlu_task,5088,Prospective Memory,0
+tiger_mmlu_task,5088,Semantic Memory,2
+tiger_mmlu_task,5088,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,5088,Theory of Mind,0
+tiger_mmlu_task,5088,Working Memory,1
+tiger_mmlu_task,5088,ambiguity,5
+tiger_mmlu_task,5088,factuality,5
+tiger_mmlu_task,5136,Causal Reasoning,0
+tiger_mmlu_task,5136,Cognitive Flexibility,0
+tiger_mmlu_task,5136,Emotion Perception and Empathy,0
+tiger_mmlu_task,5136,Episodic Memory,0
+tiger_mmlu_task,5136,Functional Perception,2
+tiger_mmlu_task,5136,Inhibitory Control,2
+tiger_mmlu_task,5136,Language,2
+tiger_mmlu_task,5136,Mental Simulation,0
+tiger_mmlu_task,5136,Metacognition,2
+tiger_mmlu_task,5136,Object Permanence,0
+tiger_mmlu_task,5136,Perception and Pattern Recognition,2
+tiger_mmlu_task,5136,Planning,0
+tiger_mmlu_task,5136,Procedural Memory,0
+tiger_mmlu_task,5136,Prospective Memory,0
+tiger_mmlu_task,5136,Semantic Memory,3
+tiger_mmlu_task,5136,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,5136,Theory of Mind,0
+tiger_mmlu_task,5136,Working Memory,3
+tiger_mmlu_task,5136,ambiguity,5
+tiger_mmlu_task,5136,factuality,5
+tiger_mmlu_task,5396,Causal Reasoning,0
+tiger_mmlu_task,5396,Cognitive Flexibility,0
+tiger_mmlu_task,5396,Emotion Perception and Empathy,0
+tiger_mmlu_task,5396,Episodic Memory,0
+tiger_mmlu_task,5396,Functional Perception,0
+tiger_mmlu_task,5396,Inhibitory Control,0
+tiger_mmlu_task,5396,Language,1
+tiger_mmlu_task,5396,Mental Simulation,0
+tiger_mmlu_task,5396,Metacognition,0
+tiger_mmlu_task,5396,Object Permanence,0
+tiger_mmlu_task,5396,Perception and Pattern Recognition,0
+tiger_mmlu_task,5396,Planning,0
+tiger_mmlu_task,5396,Procedural Memory,0
+tiger_mmlu_task,5396,Prospective Memory,0
+tiger_mmlu_task,5396,Semantic Memory,2
+tiger_mmlu_task,5396,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,5396,Theory of Mind,0
+tiger_mmlu_task,5396,Working Memory,0
+tiger_mmlu_task,5396,ambiguity,5
+tiger_mmlu_task,5396,factuality,5
+tiger_mmlu_task,5434,Causal Reasoning,1
+tiger_mmlu_task,5434,Cognitive Flexibility,0
+tiger_mmlu_task,5434,Emotion Perception and Empathy,0
+tiger_mmlu_task,5434,Episodic Memory,0
+tiger_mmlu_task,5434,Functional Perception,2
+tiger_mmlu_task,5434,Inhibitory Control,2
+tiger_mmlu_task,5434,Language,3
+tiger_mmlu_task,5434,Mental Simulation,0
+tiger_mmlu_task,5434,Metacognition,2
+tiger_mmlu_task,5434,Object Permanence,0
+tiger_mmlu_task,5434,Perception and Pattern Recognition,2
+tiger_mmlu_task,5434,Planning,0
+tiger_mmlu_task,5434,Procedural Memory,0
+tiger_mmlu_task,5434,Prospective Memory,0
+tiger_mmlu_task,5434,Semantic Memory,3
+tiger_mmlu_task,5434,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,5434,Theory of Mind,0
+tiger_mmlu_task,5434,Working Memory,3
+tiger_mmlu_task,5434,ambiguity,3
+tiger_mmlu_task,5434,factuality,5
+tiger_mmlu_task,5480,Causal Reasoning,0
+tiger_mmlu_task,5480,Cognitive Flexibility,0
+tiger_mmlu_task,5480,Emotion Perception and Empathy,0
+tiger_mmlu_task,5480,Episodic Memory,0
+tiger_mmlu_task,5480,Functional Perception,2
+tiger_mmlu_task,5480,Inhibitory Control,1
+tiger_mmlu_task,5480,Language,1
+tiger_mmlu_task,5480,Mental Simulation,0
+tiger_mmlu_task,5480,Metacognition,3
+tiger_mmlu_task,5480,Object Permanence,0
+tiger_mmlu_task,5480,Perception and Pattern Recognition,2
+tiger_mmlu_task,5480,Planning,0
+tiger_mmlu_task,5480,Procedural Memory,0
+tiger_mmlu_task,5480,Prospective Memory,0
+tiger_mmlu_task,5480,Semantic Memory,3
+tiger_mmlu_task,5480,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,5480,Theory of Mind,0
+tiger_mmlu_task,5480,Working Memory,3
+tiger_mmlu_task,5480,ambiguity,5
+tiger_mmlu_task,5480,factuality,1
+tiger_mmlu_task,5492,Causal Reasoning,0
+tiger_mmlu_task,5492,Cognitive Flexibility,0
+tiger_mmlu_task,5492,Emotion Perception and Empathy,0
+tiger_mmlu_task,5492,Episodic Memory,1
+tiger_mmlu_task,5492,Functional Perception,0
+tiger_mmlu_task,5492,Inhibitory Control,1
+tiger_mmlu_task,5492,Language,2
+tiger_mmlu_task,5492,Mental Simulation,0
+tiger_mmlu_task,5492,Metacognition,2
+tiger_mmlu_task,5492,Object Permanence,0
+tiger_mmlu_task,5492,Perception and Pattern Recognition,0
+tiger_mmlu_task,5492,Planning,0
+tiger_mmlu_task,5492,Procedural Memory,0
+tiger_mmlu_task,5492,Prospective Memory,0
+tiger_mmlu_task,5492,Semantic Memory,3
+tiger_mmlu_task,5492,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,5492,Theory of Mind,0
+tiger_mmlu_task,5492,Working Memory,2
+tiger_mmlu_task,5492,ambiguity,5
+tiger_mmlu_task,5492,factuality,5
+tiger_mmlu_task,556,Causal Reasoning,0
+tiger_mmlu_task,556,Cognitive Flexibility,2
+tiger_mmlu_task,556,Emotion Perception and Empathy,0
+tiger_mmlu_task,556,Episodic Memory,0
+tiger_mmlu_task,556,Functional Perception,2
+tiger_mmlu_task,556,Inhibitory Control,1
+tiger_mmlu_task,556,Language,2
+tiger_mmlu_task,556,Mental Simulation,1
+tiger_mmlu_task,556,Metacognition,3
+tiger_mmlu_task,556,Object Permanence,0
+tiger_mmlu_task,556,Perception and Pattern Recognition,2
+tiger_mmlu_task,556,Planning,2
+tiger_mmlu_task,556,Procedural Memory,2
+tiger_mmlu_task,556,Prospective Memory,0
+tiger_mmlu_task,556,Semantic Memory,2
+tiger_mmlu_task,556,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,556,Theory of Mind,0
+tiger_mmlu_task,556,Working Memory,3
+tiger_mmlu_task,556,ambiguity,5
+tiger_mmlu_task,556,factuality,1
+tiger_mmlu_task,5874,Causal Reasoning,1
+tiger_mmlu_task,5874,Cognitive Flexibility,0
+tiger_mmlu_task,5874,Emotion Perception and Empathy,0
+tiger_mmlu_task,5874,Episodic Memory,0
+tiger_mmlu_task,5874,Functional Perception,1
+tiger_mmlu_task,5874,Inhibitory Control,1
+tiger_mmlu_task,5874,Language,1
+tiger_mmlu_task,5874,Mental Simulation,0
+tiger_mmlu_task,5874,Metacognition,1
+tiger_mmlu_task,5874,Object Permanence,0
+tiger_mmlu_task,5874,Perception and Pattern Recognition,1
+tiger_mmlu_task,5874,Planning,0
+tiger_mmlu_task,5874,Procedural Memory,0
+tiger_mmlu_task,5874,Prospective Memory,0
+tiger_mmlu_task,5874,Semantic Memory,2
+tiger_mmlu_task,5874,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,5874,Theory of Mind,0
+tiger_mmlu_task,5874,Working Memory,2
+tiger_mmlu_task,5874,ambiguity,5
+tiger_mmlu_task,5874,factuality,5
+tiger_mmlu_task,5973,Causal Reasoning,0
+tiger_mmlu_task,5973,Cognitive Flexibility,0
+tiger_mmlu_task,5973,Emotion Perception and Empathy,0
+tiger_mmlu_task,5973,Episodic Memory,0
+tiger_mmlu_task,5973,Functional Perception,1
+tiger_mmlu_task,5973,Inhibitory Control,1
+tiger_mmlu_task,5973,Language,1
+tiger_mmlu_task,5973,Mental Simulation,0
+tiger_mmlu_task,5973,Metacognition,0
+tiger_mmlu_task,5973,Object Permanence,0
+tiger_mmlu_task,5973,Perception and Pattern Recognition,1
+tiger_mmlu_task,5973,Planning,0
+tiger_mmlu_task,5973,Procedural Memory,0
+tiger_mmlu_task,5973,Prospective Memory,0
+tiger_mmlu_task,5973,Semantic Memory,2
+tiger_mmlu_task,5973,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,5973,Theory of Mind,0
+tiger_mmlu_task,5973,Working Memory,1
+tiger_mmlu_task,5973,ambiguity,5
+tiger_mmlu_task,5973,factuality,5
+tiger_mmlu_task,6035,Causal Reasoning,3
+tiger_mmlu_task,6035,Cognitive Flexibility,0
+tiger_mmlu_task,6035,Emotion Perception and Empathy,0
+tiger_mmlu_task,6035,Episodic Memory,0
+tiger_mmlu_task,6035,Functional Perception,2
+tiger_mmlu_task,6035,Inhibitory Control,3
+tiger_mmlu_task,6035,Language,2
+tiger_mmlu_task,6035,Mental Simulation,1
+tiger_mmlu_task,6035,Metacognition,2
+tiger_mmlu_task,6035,Object Permanence,0
+tiger_mmlu_task,6035,Perception and Pattern Recognition,3
+tiger_mmlu_task,6035,Planning,0
+tiger_mmlu_task,6035,Procedural Memory,0
+tiger_mmlu_task,6035,Prospective Memory,0
+tiger_mmlu_task,6035,Semantic Memory,3
+tiger_mmlu_task,6035,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6035,Theory of Mind,1
+tiger_mmlu_task,6035,Working Memory,3
+tiger_mmlu_task,6035,ambiguity,5
+tiger_mmlu_task,6035,factuality,5
+tiger_mmlu_task,6061,Causal Reasoning,1
+tiger_mmlu_task,6061,Cognitive Flexibility,0
+tiger_mmlu_task,6061,Emotion Perception and Empathy,0
+tiger_mmlu_task,6061,Episodic Memory,0
+tiger_mmlu_task,6061,Functional Perception,2
+tiger_mmlu_task,6061,Inhibitory Control,1
+tiger_mmlu_task,6061,Language,1
+tiger_mmlu_task,6061,Mental Simulation,0
+tiger_mmlu_task,6061,Metacognition,2
+tiger_mmlu_task,6061,Object Permanence,0
+tiger_mmlu_task,6061,Perception and Pattern Recognition,2
+tiger_mmlu_task,6061,Planning,0
+tiger_mmlu_task,6061,Procedural Memory,0
+tiger_mmlu_task,6061,Prospective Memory,0
+tiger_mmlu_task,6061,Semantic Memory,4
+tiger_mmlu_task,6061,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6061,Theory of Mind,0
+tiger_mmlu_task,6061,Working Memory,1
+tiger_mmlu_task,6061,ambiguity,5
+tiger_mmlu_task,6061,factuality,5
+tiger_mmlu_task,613,Causal Reasoning,0
+tiger_mmlu_task,613,Cognitive Flexibility,0
+tiger_mmlu_task,613,Emotion Perception and Empathy,0
+tiger_mmlu_task,613,Episodic Memory,0
+tiger_mmlu_task,613,Functional Perception,1
+tiger_mmlu_task,613,Inhibitory Control,1
+tiger_mmlu_task,613,Language,1
+tiger_mmlu_task,613,Mental Simulation,0
+tiger_mmlu_task,613,Metacognition,1
+tiger_mmlu_task,613,Object Permanence,0
+tiger_mmlu_task,613,Perception and Pattern Recognition,0
+tiger_mmlu_task,613,Planning,0
+tiger_mmlu_task,613,Procedural Memory,2
+tiger_mmlu_task,613,Prospective Memory,0
+tiger_mmlu_task,613,Semantic Memory,1
+tiger_mmlu_task,613,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,613,Theory of Mind,0
+tiger_mmlu_task,613,Working Memory,2
+tiger_mmlu_task,613,ambiguity,5
+tiger_mmlu_task,613,factuality,5
+tiger_mmlu_task,6209,Causal Reasoning,1
+tiger_mmlu_task,6209,Cognitive Flexibility,0
+tiger_mmlu_task,6209,Emotion Perception and Empathy,0
+tiger_mmlu_task,6209,Episodic Memory,0
+tiger_mmlu_task,6209,Functional Perception,2
+tiger_mmlu_task,6209,Inhibitory Control,2
+tiger_mmlu_task,6209,Language,2
+tiger_mmlu_task,6209,Mental Simulation,0
+tiger_mmlu_task,6209,Metacognition,2
+tiger_mmlu_task,6209,Object Permanence,0
+tiger_mmlu_task,6209,Perception and Pattern Recognition,2
+tiger_mmlu_task,6209,Planning,0
+tiger_mmlu_task,6209,Procedural Memory,0
+tiger_mmlu_task,6209,Prospective Memory,0
+tiger_mmlu_task,6209,Semantic Memory,4
+tiger_mmlu_task,6209,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6209,Theory of Mind,0
+tiger_mmlu_task,6209,Working Memory,2
+tiger_mmlu_task,6209,ambiguity,5
+tiger_mmlu_task,6209,factuality,5
+tiger_mmlu_task,6256,Causal Reasoning,1
+tiger_mmlu_task,6256,Cognitive Flexibility,0
+tiger_mmlu_task,6256,Emotion Perception and Empathy,0
+tiger_mmlu_task,6256,Episodic Memory,0
+tiger_mmlu_task,6256,Functional Perception,1
+tiger_mmlu_task,6256,Inhibitory Control,1
+tiger_mmlu_task,6256,Language,1
+tiger_mmlu_task,6256,Mental Simulation,0
+tiger_mmlu_task,6256,Metacognition,1
+tiger_mmlu_task,6256,Object Permanence,0
+tiger_mmlu_task,6256,Perception and Pattern Recognition,1
+tiger_mmlu_task,6256,Planning,0
+tiger_mmlu_task,6256,Procedural Memory,0
+tiger_mmlu_task,6256,Prospective Memory,0
+tiger_mmlu_task,6256,Semantic Memory,2
+tiger_mmlu_task,6256,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6256,Theory of Mind,0
+tiger_mmlu_task,6256,Working Memory,1
+tiger_mmlu_task,6256,ambiguity,5
+tiger_mmlu_task,6256,factuality,5
+tiger_mmlu_task,6268,Causal Reasoning,0
+tiger_mmlu_task,6268,Cognitive Flexibility,0
+tiger_mmlu_task,6268,Emotion Perception and Empathy,0
+tiger_mmlu_task,6268,Episodic Memory,1
+tiger_mmlu_task,6268,Functional Perception,0
+tiger_mmlu_task,6268,Inhibitory Control,1
+tiger_mmlu_task,6268,Language,1
+tiger_mmlu_task,6268,Mental Simulation,0
+tiger_mmlu_task,6268,Metacognition,1
+tiger_mmlu_task,6268,Object Permanence,0
+tiger_mmlu_task,6268,Perception and Pattern Recognition,0
+tiger_mmlu_task,6268,Planning,0
+tiger_mmlu_task,6268,Procedural Memory,0
+tiger_mmlu_task,6268,Prospective Memory,0
+tiger_mmlu_task,6268,Semantic Memory,3
+tiger_mmlu_task,6268,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6268,Theory of Mind,0
+tiger_mmlu_task,6268,Working Memory,1
+tiger_mmlu_task,6268,ambiguity,5
+tiger_mmlu_task,6268,factuality,5
+tiger_mmlu_task,627,Causal Reasoning,0
+tiger_mmlu_task,627,Cognitive Flexibility,0
+tiger_mmlu_task,627,Emotion Perception and Empathy,0
+tiger_mmlu_task,627,Episodic Memory,0
+tiger_mmlu_task,627,Functional Perception,1
+tiger_mmlu_task,627,Inhibitory Control,2
+tiger_mmlu_task,627,Language,1
+tiger_mmlu_task,627,Mental Simulation,0
+tiger_mmlu_task,627,Metacognition,2
+tiger_mmlu_task,627,Object Permanence,0
+tiger_mmlu_task,627,Perception and Pattern Recognition,2
+tiger_mmlu_task,627,Planning,0
+tiger_mmlu_task,627,Procedural Memory,0
+tiger_mmlu_task,627,Prospective Memory,0
+tiger_mmlu_task,627,Semantic Memory,2
+tiger_mmlu_task,627,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,627,Theory of Mind,0
+tiger_mmlu_task,627,Working Memory,2
+tiger_mmlu_task,627,ambiguity,5
+tiger_mmlu_task,627,factuality,5
+tiger_mmlu_task,6332,Causal Reasoning,0
+tiger_mmlu_task,6332,Cognitive Flexibility,0
+tiger_mmlu_task,6332,Emotion Perception and Empathy,0
+tiger_mmlu_task,6332,Episodic Memory,0
+tiger_mmlu_task,6332,Functional Perception,0
+tiger_mmlu_task,6332,Inhibitory Control,2
+tiger_mmlu_task,6332,Language,0
+tiger_mmlu_task,6332,Mental Simulation,0
+tiger_mmlu_task,6332,Metacognition,2
+tiger_mmlu_task,6332,Object Permanence,0
+tiger_mmlu_task,6332,Perception and Pattern Recognition,0
+tiger_mmlu_task,6332,Planning,1
+tiger_mmlu_task,6332,Procedural Memory,1
+tiger_mmlu_task,6332,Prospective Memory,0
+tiger_mmlu_task,6332,Semantic Memory,2
+tiger_mmlu_task,6332,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6332,Theory of Mind,0
+tiger_mmlu_task,6332,Working Memory,2
+tiger_mmlu_task,6332,ambiguity,5
+tiger_mmlu_task,6332,factuality,5
+tiger_mmlu_task,6494,Causal Reasoning,1
+tiger_mmlu_task,6494,Cognitive Flexibility,0
+tiger_mmlu_task,6494,Emotion Perception and Empathy,0
+tiger_mmlu_task,6494,Episodic Memory,0
+tiger_mmlu_task,6494,Functional Perception,2
+tiger_mmlu_task,6494,Inhibitory Control,2
+tiger_mmlu_task,6494,Language,2
+tiger_mmlu_task,6494,Mental Simulation,0
+tiger_mmlu_task,6494,Metacognition,2
+tiger_mmlu_task,6494,Object Permanence,0
+tiger_mmlu_task,6494,Perception and Pattern Recognition,3
+tiger_mmlu_task,6494,Planning,0
+tiger_mmlu_task,6494,Procedural Memory,0
+tiger_mmlu_task,6494,Prospective Memory,0
+tiger_mmlu_task,6494,Semantic Memory,4
+tiger_mmlu_task,6494,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6494,Theory of Mind,0
+tiger_mmlu_task,6494,Working Memory,0
+tiger_mmlu_task,6494,ambiguity,5
+tiger_mmlu_task,6494,factuality,5
+tiger_mmlu_task,6508,Causal Reasoning,2
+tiger_mmlu_task,6508,Cognitive Flexibility,2
+tiger_mmlu_task,6508,Emotion Perception and Empathy,3
+tiger_mmlu_task,6508,Episodic Memory,0
+tiger_mmlu_task,6508,Functional Perception,3
+tiger_mmlu_task,6508,Inhibitory Control,3
+tiger_mmlu_task,6508,Language,3
+tiger_mmlu_task,6508,Mental Simulation,1
+tiger_mmlu_task,6508,Metacognition,2
+tiger_mmlu_task,6508,Object Permanence,0
+tiger_mmlu_task,6508,Perception and Pattern Recognition,2
+tiger_mmlu_task,6508,Planning,0
+tiger_mmlu_task,6508,Procedural Memory,0
+tiger_mmlu_task,6508,Prospective Memory,0
+tiger_mmlu_task,6508,Semantic Memory,4
+tiger_mmlu_task,6508,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6508,Theory of Mind,4
+tiger_mmlu_task,6508,Working Memory,2
+tiger_mmlu_task,6508,ambiguity,5
+tiger_mmlu_task,6508,factuality,4
+tiger_mmlu_task,6539,Causal Reasoning,0
+tiger_mmlu_task,6539,Cognitive Flexibility,0
+tiger_mmlu_task,6539,Emotion Perception and Empathy,0
+tiger_mmlu_task,6539,Episodic Memory,0
+tiger_mmlu_task,6539,Functional Perception,0
+tiger_mmlu_task,6539,Inhibitory Control,1
+tiger_mmlu_task,6539,Language,1
+tiger_mmlu_task,6539,Mental Simulation,0
+tiger_mmlu_task,6539,Metacognition,0
+tiger_mmlu_task,6539,Object Permanence,0
+tiger_mmlu_task,6539,Perception and Pattern Recognition,1
+tiger_mmlu_task,6539,Planning,0
+tiger_mmlu_task,6539,Procedural Memory,0
+tiger_mmlu_task,6539,Prospective Memory,0
+tiger_mmlu_task,6539,Semantic Memory,4
+tiger_mmlu_task,6539,Spatial Reasoning and Navigation,1
+tiger_mmlu_task,6539,Theory of Mind,0
+tiger_mmlu_task,6539,Working Memory,0
+tiger_mmlu_task,6539,ambiguity,5
+tiger_mmlu_task,6539,factuality,5
+tiger_mmlu_task,6570,Causal Reasoning,0
+tiger_mmlu_task,6570,Cognitive Flexibility,0
+tiger_mmlu_task,6570,Emotion Perception and Empathy,0
+tiger_mmlu_task,6570,Episodic Memory,0
+tiger_mmlu_task,6570,Functional Perception,0
+tiger_mmlu_task,6570,Inhibitory Control,0
+tiger_mmlu_task,6570,Language,1
+tiger_mmlu_task,6570,Mental Simulation,0
+tiger_mmlu_task,6570,Metacognition,1
+tiger_mmlu_task,6570,Object Permanence,0
+tiger_mmlu_task,6570,Perception and Pattern Recognition,2
+tiger_mmlu_task,6570,Planning,0
+tiger_mmlu_task,6570,Procedural Memory,0
+tiger_mmlu_task,6570,Prospective Memory,0
+tiger_mmlu_task,6570,Semantic Memory,2
+tiger_mmlu_task,6570,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6570,Theory of Mind,0
+tiger_mmlu_task,6570,Working Memory,2
+tiger_mmlu_task,6570,ambiguity,5
+tiger_mmlu_task,6570,factuality,5
+tiger_mmlu_task,6588,Causal Reasoning,0
+tiger_mmlu_task,6588,Cognitive Flexibility,1
+tiger_mmlu_task,6588,Emotion Perception and Empathy,0
+tiger_mmlu_task,6588,Episodic Memory,0
+tiger_mmlu_task,6588,Functional Perception,2
+tiger_mmlu_task,6588,Inhibitory Control,2
+tiger_mmlu_task,6588,Language,2
+tiger_mmlu_task,6588,Mental Simulation,0
+tiger_mmlu_task,6588,Metacognition,2
+tiger_mmlu_task,6588,Object Permanence,0
+tiger_mmlu_task,6588,Perception and Pattern Recognition,1
+tiger_mmlu_task,6588,Planning,0
+tiger_mmlu_task,6588,Procedural Memory,0
+tiger_mmlu_task,6588,Prospective Memory,0
+tiger_mmlu_task,6588,Semantic Memory,4
+tiger_mmlu_task,6588,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6588,Theory of Mind,0
+tiger_mmlu_task,6588,Working Memory,0
+tiger_mmlu_task,6588,ambiguity,5
+tiger_mmlu_task,6588,factuality,5
+tiger_mmlu_task,6605,Causal Reasoning,0
+tiger_mmlu_task,6605,Cognitive Flexibility,0
+tiger_mmlu_task,6605,Emotion Perception and Empathy,0
+tiger_mmlu_task,6605,Episodic Memory,0
+tiger_mmlu_task,6605,Functional Perception,2
+tiger_mmlu_task,6605,Inhibitory Control,0
+tiger_mmlu_task,6605,Language,2
+tiger_mmlu_task,6605,Mental Simulation,0
+tiger_mmlu_task,6605,Metacognition,3
+tiger_mmlu_task,6605,Object Permanence,0
+tiger_mmlu_task,6605,Perception and Pattern Recognition,2
+tiger_mmlu_task,6605,Planning,0
+tiger_mmlu_task,6605,Procedural Memory,0
+tiger_mmlu_task,6605,Prospective Memory,0
+tiger_mmlu_task,6605,Semantic Memory,3
+tiger_mmlu_task,6605,Spatial Reasoning and Navigation,1
+tiger_mmlu_task,6605,Theory of Mind,0
+tiger_mmlu_task,6605,Working Memory,2
+tiger_mmlu_task,6605,ambiguity,5
+tiger_mmlu_task,6605,factuality,5
+tiger_mmlu_task,6639,Causal Reasoning,0
+tiger_mmlu_task,6639,Cognitive Flexibility,0
+tiger_mmlu_task,6639,Emotion Perception and Empathy,0
+tiger_mmlu_task,6639,Episodic Memory,0
+tiger_mmlu_task,6639,Functional Perception,1
+tiger_mmlu_task,6639,Inhibitory Control,1
+tiger_mmlu_task,6639,Language,1
+tiger_mmlu_task,6639,Mental Simulation,0
+tiger_mmlu_task,6639,Metacognition,2
+tiger_mmlu_task,6639,Object Permanence,0
+tiger_mmlu_task,6639,Perception and Pattern Recognition,2
+tiger_mmlu_task,6639,Planning,0
+tiger_mmlu_task,6639,Procedural Memory,0
+tiger_mmlu_task,6639,Prospective Memory,0
+tiger_mmlu_task,6639,Semantic Memory,3
+tiger_mmlu_task,6639,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6639,Theory of Mind,0
+tiger_mmlu_task,6639,Working Memory,0
+tiger_mmlu_task,6639,ambiguity,5
+tiger_mmlu_task,6639,factuality,5
+tiger_mmlu_task,6641,Causal Reasoning,1
+tiger_mmlu_task,6641,Cognitive Flexibility,0
+tiger_mmlu_task,6641,Emotion Perception and Empathy,0
+tiger_mmlu_task,6641,Episodic Memory,0
+tiger_mmlu_task,6641,Functional Perception,2
+tiger_mmlu_task,6641,Inhibitory Control,1
+tiger_mmlu_task,6641,Language,1
+tiger_mmlu_task,6641,Mental Simulation,0
+tiger_mmlu_task,6641,Metacognition,2
+tiger_mmlu_task,6641,Object Permanence,0
+tiger_mmlu_task,6641,Perception and Pattern Recognition,2
+tiger_mmlu_task,6641,Planning,0
+tiger_mmlu_task,6641,Procedural Memory,0
+tiger_mmlu_task,6641,Prospective Memory,0
+tiger_mmlu_task,6641,Semantic Memory,2
+tiger_mmlu_task,6641,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6641,Theory of Mind,0
+tiger_mmlu_task,6641,Working Memory,1
+tiger_mmlu_task,6641,ambiguity,5
+tiger_mmlu_task,6641,factuality,3
+tiger_mmlu_task,6643,Causal Reasoning,1
+tiger_mmlu_task,6643,Cognitive Flexibility,0
+tiger_mmlu_task,6643,Emotion Perception and Empathy,0
+tiger_mmlu_task,6643,Episodic Memory,0
+tiger_mmlu_task,6643,Functional Perception,1
+tiger_mmlu_task,6643,Inhibitory Control,1
+tiger_mmlu_task,6643,Language,1
+tiger_mmlu_task,6643,Mental Simulation,0
+tiger_mmlu_task,6643,Metacognition,2
+tiger_mmlu_task,6643,Object Permanence,0
+tiger_mmlu_task,6643,Perception and Pattern Recognition,2
+tiger_mmlu_task,6643,Planning,0
+tiger_mmlu_task,6643,Procedural Memory,0
+tiger_mmlu_task,6643,Prospective Memory,0
+tiger_mmlu_task,6643,Semantic Memory,3
+tiger_mmlu_task,6643,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6643,Theory of Mind,0
+tiger_mmlu_task,6643,Working Memory,2
+tiger_mmlu_task,6643,ambiguity,5
+tiger_mmlu_task,6643,factuality,5
+tiger_mmlu_task,6850,Causal Reasoning,1
+tiger_mmlu_task,6850,Cognitive Flexibility,0
+tiger_mmlu_task,6850,Emotion Perception and Empathy,0
+tiger_mmlu_task,6850,Episodic Memory,0
+tiger_mmlu_task,6850,Functional Perception,2
+tiger_mmlu_task,6850,Inhibitory Control,1
+tiger_mmlu_task,6850,Language,2
+tiger_mmlu_task,6850,Mental Simulation,0
+tiger_mmlu_task,6850,Metacognition,2
+tiger_mmlu_task,6850,Object Permanence,0
+tiger_mmlu_task,6850,Perception and Pattern Recognition,2
+tiger_mmlu_task,6850,Planning,0
+tiger_mmlu_task,6850,Procedural Memory,0
+tiger_mmlu_task,6850,Prospective Memory,0
+tiger_mmlu_task,6850,Semantic Memory,3
+tiger_mmlu_task,6850,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6850,Theory of Mind,0
+tiger_mmlu_task,6850,Working Memory,1
+tiger_mmlu_task,6850,ambiguity,5
+tiger_mmlu_task,6850,factuality,5
+tiger_mmlu_task,688,Causal Reasoning,0
+tiger_mmlu_task,688,Cognitive Flexibility,0
+tiger_mmlu_task,688,Emotion Perception and Empathy,0
+tiger_mmlu_task,688,Episodic Memory,0
+tiger_mmlu_task,688,Functional Perception,2
+tiger_mmlu_task,688,Inhibitory Control,1
+tiger_mmlu_task,688,Language,1
+tiger_mmlu_task,688,Mental Simulation,0
+tiger_mmlu_task,688,Metacognition,1
+tiger_mmlu_task,688,Object Permanence,0
+tiger_mmlu_task,688,Perception and Pattern Recognition,1
+tiger_mmlu_task,688,Planning,0
+tiger_mmlu_task,688,Procedural Memory,0
+tiger_mmlu_task,688,Prospective Memory,0
+tiger_mmlu_task,688,Semantic Memory,3
+tiger_mmlu_task,688,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,688,Theory of Mind,1
+tiger_mmlu_task,688,Working Memory,1
+tiger_mmlu_task,688,ambiguity,4
+tiger_mmlu_task,688,factuality,5
+tiger_mmlu_task,6931,Causal Reasoning,0
+tiger_mmlu_task,6931,Cognitive Flexibility,0
+tiger_mmlu_task,6931,Emotion Perception and Empathy,0
+tiger_mmlu_task,6931,Episodic Memory,0
+tiger_mmlu_task,6931,Functional Perception,0
+tiger_mmlu_task,6931,Inhibitory Control,2
+tiger_mmlu_task,6931,Language,1
+tiger_mmlu_task,6931,Mental Simulation,0
+tiger_mmlu_task,6931,Metacognition,2
+tiger_mmlu_task,6931,Object Permanence,0
+tiger_mmlu_task,6931,Perception and Pattern Recognition,2
+tiger_mmlu_task,6931,Planning,0
+tiger_mmlu_task,6931,Procedural Memory,0
+tiger_mmlu_task,6931,Prospective Memory,0
+tiger_mmlu_task,6931,Semantic Memory,3
+tiger_mmlu_task,6931,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6931,Theory of Mind,0
+tiger_mmlu_task,6931,Working Memory,1
+tiger_mmlu_task,6931,ambiguity,5
+tiger_mmlu_task,6931,factuality,1
+tiger_mmlu_task,6994,Causal Reasoning,1
+tiger_mmlu_task,6994,Cognitive Flexibility,0
+tiger_mmlu_task,6994,Emotion Perception and Empathy,0
+tiger_mmlu_task,6994,Episodic Memory,0
+tiger_mmlu_task,6994,Functional Perception,1
+tiger_mmlu_task,6994,Inhibitory Control,1
+tiger_mmlu_task,6994,Language,2
+tiger_mmlu_task,6994,Mental Simulation,0
+tiger_mmlu_task,6994,Metacognition,2
+tiger_mmlu_task,6994,Object Permanence,0
+tiger_mmlu_task,6994,Perception and Pattern Recognition,2
+tiger_mmlu_task,6994,Planning,0
+tiger_mmlu_task,6994,Procedural Memory,0
+tiger_mmlu_task,6994,Prospective Memory,0
+tiger_mmlu_task,6994,Semantic Memory,3
+tiger_mmlu_task,6994,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,6994,Theory of Mind,0
+tiger_mmlu_task,6994,Working Memory,2
+tiger_mmlu_task,6994,ambiguity,5
+tiger_mmlu_task,6994,factuality,5
+tiger_mmlu_task,7070,Causal Reasoning,0
+tiger_mmlu_task,7070,Cognitive Flexibility,0
+tiger_mmlu_task,7070,Emotion Perception and Empathy,0
+tiger_mmlu_task,7070,Episodic Memory,0
+tiger_mmlu_task,7070,Functional Perception,2
+tiger_mmlu_task,7070,Inhibitory Control,2
+tiger_mmlu_task,7070,Language,2
+tiger_mmlu_task,7070,Mental Simulation,0
+tiger_mmlu_task,7070,Metacognition,2
+tiger_mmlu_task,7070,Object Permanence,0
+tiger_mmlu_task,7070,Perception and Pattern Recognition,1
+tiger_mmlu_task,7070,Planning,0
+tiger_mmlu_task,7070,Procedural Memory,0
+tiger_mmlu_task,7070,Prospective Memory,0
+tiger_mmlu_task,7070,Semantic Memory,2
+tiger_mmlu_task,7070,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7070,Theory of Mind,0
+tiger_mmlu_task,7070,Working Memory,2
+tiger_mmlu_task,7070,ambiguity,5
+tiger_mmlu_task,7070,factuality,5
+tiger_mmlu_task,7241,Causal Reasoning,0
+tiger_mmlu_task,7241,Cognitive Flexibility,0
+tiger_mmlu_task,7241,Emotion Perception and Empathy,0
+tiger_mmlu_task,7241,Episodic Memory,0
+tiger_mmlu_task,7241,Functional Perception,1
+tiger_mmlu_task,7241,Inhibitory Control,1
+tiger_mmlu_task,7241,Language,1
+tiger_mmlu_task,7241,Mental Simulation,0
+tiger_mmlu_task,7241,Metacognition,1
+tiger_mmlu_task,7241,Object Permanence,0
+tiger_mmlu_task,7241,Perception and Pattern Recognition,1
+tiger_mmlu_task,7241,Planning,0
+tiger_mmlu_task,7241,Procedural Memory,0
+tiger_mmlu_task,7241,Prospective Memory,0
+tiger_mmlu_task,7241,Semantic Memory,2
+tiger_mmlu_task,7241,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7241,Theory of Mind,0
+tiger_mmlu_task,7241,Working Memory,0
+tiger_mmlu_task,7241,ambiguity,5
+tiger_mmlu_task,7241,factuality,5
+tiger_mmlu_task,7246,Causal Reasoning,0
+tiger_mmlu_task,7246,Cognitive Flexibility,0
+tiger_mmlu_task,7246,Emotion Perception and Empathy,0
+tiger_mmlu_task,7246,Episodic Memory,0
+tiger_mmlu_task,7246,Functional Perception,1
+tiger_mmlu_task,7246,Inhibitory Control,1
+tiger_mmlu_task,7246,Language,1
+tiger_mmlu_task,7246,Mental Simulation,0
+tiger_mmlu_task,7246,Metacognition,2
+tiger_mmlu_task,7246,Object Permanence,0
+tiger_mmlu_task,7246,Perception and Pattern Recognition,1
+tiger_mmlu_task,7246,Planning,0
+tiger_mmlu_task,7246,Procedural Memory,0
+tiger_mmlu_task,7246,Prospective Memory,0
+tiger_mmlu_task,7246,Semantic Memory,3
+tiger_mmlu_task,7246,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7246,Theory of Mind,0
+tiger_mmlu_task,7246,Working Memory,0
+tiger_mmlu_task,7246,ambiguity,5
+tiger_mmlu_task,7246,factuality,5
+tiger_mmlu_task,7260,Causal Reasoning,1
+tiger_mmlu_task,7260,Cognitive Flexibility,2
+tiger_mmlu_task,7260,Emotion Perception and Empathy,0
+tiger_mmlu_task,7260,Episodic Memory,0
+tiger_mmlu_task,7260,Functional Perception,2
+tiger_mmlu_task,7260,Inhibitory Control,2
+tiger_mmlu_task,7260,Language,2
+tiger_mmlu_task,7260,Mental Simulation,1
+tiger_mmlu_task,7260,Metacognition,2
+tiger_mmlu_task,7260,Object Permanence,0
+tiger_mmlu_task,7260,Perception and Pattern Recognition,2
+tiger_mmlu_task,7260,Planning,0
+tiger_mmlu_task,7260,Procedural Memory,1
+tiger_mmlu_task,7260,Prospective Memory,0
+tiger_mmlu_task,7260,Semantic Memory,3
+tiger_mmlu_task,7260,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7260,Theory of Mind,0
+tiger_mmlu_task,7260,Working Memory,3
+tiger_mmlu_task,7260,ambiguity,5
+tiger_mmlu_task,7260,factuality,5
+tiger_mmlu_task,7279,Causal Reasoning,1
+tiger_mmlu_task,7279,Cognitive Flexibility,0
+tiger_mmlu_task,7279,Emotion Perception and Empathy,0
+tiger_mmlu_task,7279,Episodic Memory,0
+tiger_mmlu_task,7279,Functional Perception,2
+tiger_mmlu_task,7279,Inhibitory Control,2
+tiger_mmlu_task,7279,Language,1
+tiger_mmlu_task,7279,Mental Simulation,0
+tiger_mmlu_task,7279,Metacognition,2
+tiger_mmlu_task,7279,Object Permanence,0
+tiger_mmlu_task,7279,Perception and Pattern Recognition,1
+tiger_mmlu_task,7279,Planning,0
+tiger_mmlu_task,7279,Procedural Memory,0
+tiger_mmlu_task,7279,Prospective Memory,0
+tiger_mmlu_task,7279,Semantic Memory,3
+tiger_mmlu_task,7279,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7279,Theory of Mind,0
+tiger_mmlu_task,7279,Working Memory,2
+tiger_mmlu_task,7279,ambiguity,5
+tiger_mmlu_task,7279,factuality,5
+tiger_mmlu_task,7407,Causal Reasoning,1
+tiger_mmlu_task,7407,Cognitive Flexibility,0
+tiger_mmlu_task,7407,Emotion Perception and Empathy,0
+tiger_mmlu_task,7407,Episodic Memory,0
+tiger_mmlu_task,7407,Functional Perception,2
+tiger_mmlu_task,7407,Inhibitory Control,0
+tiger_mmlu_task,7407,Language,3
+tiger_mmlu_task,7407,Mental Simulation,0
+tiger_mmlu_task,7407,Metacognition,1
+tiger_mmlu_task,7407,Object Permanence,0
+tiger_mmlu_task,7407,Perception and Pattern Recognition,2
+tiger_mmlu_task,7407,Planning,0
+tiger_mmlu_task,7407,Procedural Memory,0
+tiger_mmlu_task,7407,Prospective Memory,0
+tiger_mmlu_task,7407,Semantic Memory,2
+tiger_mmlu_task,7407,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7407,Theory of Mind,0
+tiger_mmlu_task,7407,Working Memory,2
+tiger_mmlu_task,7407,ambiguity,5
+tiger_mmlu_task,7407,factuality,5
+tiger_mmlu_task,7490,Causal Reasoning,1
+tiger_mmlu_task,7490,Cognitive Flexibility,0
+tiger_mmlu_task,7490,Emotion Perception and Empathy,0
+tiger_mmlu_task,7490,Episodic Memory,0
+tiger_mmlu_task,7490,Functional Perception,2
+tiger_mmlu_task,7490,Inhibitory Control,1
+tiger_mmlu_task,7490,Language,2
+tiger_mmlu_task,7490,Mental Simulation,0
+tiger_mmlu_task,7490,Metacognition,2
+tiger_mmlu_task,7490,Object Permanence,0
+tiger_mmlu_task,7490,Perception and Pattern Recognition,2
+tiger_mmlu_task,7490,Planning,0
+tiger_mmlu_task,7490,Procedural Memory,0
+tiger_mmlu_task,7490,Prospective Memory,0
+tiger_mmlu_task,7490,Semantic Memory,3
+tiger_mmlu_task,7490,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7490,Theory of Mind,0
+tiger_mmlu_task,7490,Working Memory,2
+tiger_mmlu_task,7490,ambiguity,5
+tiger_mmlu_task,7490,factuality,5
+tiger_mmlu_task,7497,Causal Reasoning,0
+tiger_mmlu_task,7497,Cognitive Flexibility,0
+tiger_mmlu_task,7497,Emotion Perception and Empathy,0
+tiger_mmlu_task,7497,Episodic Memory,0
+tiger_mmlu_task,7497,Functional Perception,2
+tiger_mmlu_task,7497,Inhibitory Control,2
+tiger_mmlu_task,7497,Language,1
+tiger_mmlu_task,7497,Mental Simulation,0
+tiger_mmlu_task,7497,Metacognition,2
+tiger_mmlu_task,7497,Object Permanence,0
+tiger_mmlu_task,7497,Perception and Pattern Recognition,2
+tiger_mmlu_task,7497,Planning,0
+tiger_mmlu_task,7497,Procedural Memory,0
+tiger_mmlu_task,7497,Prospective Memory,0
+tiger_mmlu_task,7497,Semantic Memory,4
+tiger_mmlu_task,7497,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7497,Theory of Mind,2
+tiger_mmlu_task,7497,Working Memory,2
+tiger_mmlu_task,7497,ambiguity,5
+tiger_mmlu_task,7497,factuality,5
+tiger_mmlu_task,7511,Causal Reasoning,0
+tiger_mmlu_task,7511,Cognitive Flexibility,0
+tiger_mmlu_task,7511,Emotion Perception and Empathy,0
+tiger_mmlu_task,7511,Episodic Memory,0
+tiger_mmlu_task,7511,Functional Perception,2
+tiger_mmlu_task,7511,Inhibitory Control,2
+tiger_mmlu_task,7511,Language,1
+tiger_mmlu_task,7511,Mental Simulation,0
+tiger_mmlu_task,7511,Metacognition,3
+tiger_mmlu_task,7511,Object Permanence,0
+tiger_mmlu_task,7511,Perception and Pattern Recognition,2
+tiger_mmlu_task,7511,Planning,1
+tiger_mmlu_task,7511,Procedural Memory,3
+tiger_mmlu_task,7511,Prospective Memory,0
+tiger_mmlu_task,7511,Semantic Memory,3
+tiger_mmlu_task,7511,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7511,Theory of Mind,0
+tiger_mmlu_task,7511,Working Memory,2
+tiger_mmlu_task,7511,ambiguity,5
+tiger_mmlu_task,7511,factuality,5
+tiger_mmlu_task,7519,Causal Reasoning,1
+tiger_mmlu_task,7519,Cognitive Flexibility,0
+tiger_mmlu_task,7519,Emotion Perception and Empathy,0
+tiger_mmlu_task,7519,Episodic Memory,0
+tiger_mmlu_task,7519,Functional Perception,1
+tiger_mmlu_task,7519,Inhibitory Control,1
+tiger_mmlu_task,7519,Language,1
+tiger_mmlu_task,7519,Mental Simulation,1
+tiger_mmlu_task,7519,Metacognition,2
+tiger_mmlu_task,7519,Object Permanence,0
+tiger_mmlu_task,7519,Perception and Pattern Recognition,2
+tiger_mmlu_task,7519,Planning,0
+tiger_mmlu_task,7519,Procedural Memory,0
+tiger_mmlu_task,7519,Prospective Memory,0
+tiger_mmlu_task,7519,Semantic Memory,3
+tiger_mmlu_task,7519,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7519,Theory of Mind,0
+tiger_mmlu_task,7519,Working Memory,3
+tiger_mmlu_task,7519,ambiguity,5
+tiger_mmlu_task,7519,factuality,5
+tiger_mmlu_task,754,Causal Reasoning,0
+tiger_mmlu_task,754,Cognitive Flexibility,0
+tiger_mmlu_task,754,Emotion Perception and Empathy,0
+tiger_mmlu_task,754,Episodic Memory,1
+tiger_mmlu_task,754,Functional Perception,0
+tiger_mmlu_task,754,Inhibitory Control,1
+tiger_mmlu_task,754,Language,1
+tiger_mmlu_task,754,Mental Simulation,0
+tiger_mmlu_task,754,Metacognition,1
+tiger_mmlu_task,754,Object Permanence,0
+tiger_mmlu_task,754,Perception and Pattern Recognition,1
+tiger_mmlu_task,754,Planning,0
+tiger_mmlu_task,754,Procedural Memory,0
+tiger_mmlu_task,754,Prospective Memory,0
+tiger_mmlu_task,754,Semantic Memory,2
+tiger_mmlu_task,754,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,754,Theory of Mind,0
+tiger_mmlu_task,754,Working Memory,2
+tiger_mmlu_task,754,ambiguity,5
+tiger_mmlu_task,754,factuality,5
+tiger_mmlu_task,7562,Causal Reasoning,1
+tiger_mmlu_task,7562,Cognitive Flexibility,0
+tiger_mmlu_task,7562,Emotion Perception and Empathy,0
+tiger_mmlu_task,7562,Episodic Memory,0
+tiger_mmlu_task,7562,Functional Perception,2
+tiger_mmlu_task,7562,Inhibitory Control,2
+tiger_mmlu_task,7562,Language,1
+tiger_mmlu_task,7562,Mental Simulation,0
+tiger_mmlu_task,7562,Metacognition,1
+tiger_mmlu_task,7562,Object Permanence,0
+tiger_mmlu_task,7562,Perception and Pattern Recognition,2
+tiger_mmlu_task,7562,Planning,0
+tiger_mmlu_task,7562,Procedural Memory,0
+tiger_mmlu_task,7562,Prospective Memory,0
+tiger_mmlu_task,7562,Semantic Memory,4
+tiger_mmlu_task,7562,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7562,Theory of Mind,0
+tiger_mmlu_task,7562,Working Memory,0
+tiger_mmlu_task,7562,ambiguity,5
+tiger_mmlu_task,7562,factuality,5
+tiger_mmlu_task,7648,Causal Reasoning,1
+tiger_mmlu_task,7648,Cognitive Flexibility,1
+tiger_mmlu_task,7648,Emotion Perception and Empathy,0
+tiger_mmlu_task,7648,Episodic Memory,0
+tiger_mmlu_task,7648,Functional Perception,2
+tiger_mmlu_task,7648,Inhibitory Control,2
+tiger_mmlu_task,7648,Language,2
+tiger_mmlu_task,7648,Mental Simulation,2
+tiger_mmlu_task,7648,Metacognition,3
+tiger_mmlu_task,7648,Object Permanence,0
+tiger_mmlu_task,7648,Perception and Pattern Recognition,2
+tiger_mmlu_task,7648,Planning,0
+tiger_mmlu_task,7648,Procedural Memory,0
+tiger_mmlu_task,7648,Prospective Memory,0
+tiger_mmlu_task,7648,Semantic Memory,3
+tiger_mmlu_task,7648,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7648,Theory of Mind,0
+tiger_mmlu_task,7648,Working Memory,3
+tiger_mmlu_task,7648,ambiguity,5
+tiger_mmlu_task,7648,factuality,5
+tiger_mmlu_task,7730,Causal Reasoning,0
+tiger_mmlu_task,7730,Cognitive Flexibility,0
+tiger_mmlu_task,7730,Emotion Perception and Empathy,0
+tiger_mmlu_task,7730,Episodic Memory,0
+tiger_mmlu_task,7730,Functional Perception,0
+tiger_mmlu_task,7730,Inhibitory Control,2
+tiger_mmlu_task,7730,Language,1
+tiger_mmlu_task,7730,Mental Simulation,0
+tiger_mmlu_task,7730,Metacognition,3
+tiger_mmlu_task,7730,Object Permanence,0
+tiger_mmlu_task,7730,Perception and Pattern Recognition,3
+tiger_mmlu_task,7730,Planning,1
+tiger_mmlu_task,7730,Procedural Memory,3
+tiger_mmlu_task,7730,Prospective Memory,0
+tiger_mmlu_task,7730,Semantic Memory,3
+tiger_mmlu_task,7730,Spatial Reasoning and Navigation,1
+tiger_mmlu_task,7730,Theory of Mind,0
+tiger_mmlu_task,7730,Working Memory,3
+tiger_mmlu_task,7730,ambiguity,5
+tiger_mmlu_task,7730,factuality,1
+tiger_mmlu_task,7737,Causal Reasoning,0
+tiger_mmlu_task,7737,Cognitive Flexibility,3
+tiger_mmlu_task,7737,Emotion Perception and Empathy,0
+tiger_mmlu_task,7737,Episodic Memory,0
+tiger_mmlu_task,7737,Functional Perception,3
+tiger_mmlu_task,7737,Inhibitory Control,3
+tiger_mmlu_task,7737,Language,1
+tiger_mmlu_task,7737,Mental Simulation,2
+tiger_mmlu_task,7737,Metacognition,3
+tiger_mmlu_task,7737,Object Permanence,0
+tiger_mmlu_task,7737,Perception and Pattern Recognition,3
+tiger_mmlu_task,7737,Planning,2
+tiger_mmlu_task,7737,Procedural Memory,3
+tiger_mmlu_task,7737,Prospective Memory,0
+tiger_mmlu_task,7737,Semantic Memory,3
+tiger_mmlu_task,7737,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7737,Theory of Mind,0
+tiger_mmlu_task,7737,Working Memory,3
+tiger_mmlu_task,7737,ambiguity,5
+tiger_mmlu_task,7737,factuality,4
+tiger_mmlu_task,7771,Causal Reasoning,0
+tiger_mmlu_task,7771,Cognitive Flexibility,0
+tiger_mmlu_task,7771,Emotion Perception and Empathy,0
+tiger_mmlu_task,7771,Episodic Memory,0
+tiger_mmlu_task,7771,Functional Perception,0
+tiger_mmlu_task,7771,Inhibitory Control,1
+tiger_mmlu_task,7771,Language,1
+tiger_mmlu_task,7771,Mental Simulation,2
+tiger_mmlu_task,7771,Metacognition,1
+tiger_mmlu_task,7771,Object Permanence,0
+tiger_mmlu_task,7771,Perception and Pattern Recognition,2
+tiger_mmlu_task,7771,Planning,1
+tiger_mmlu_task,7771,Procedural Memory,2
+tiger_mmlu_task,7771,Prospective Memory,0
+tiger_mmlu_task,7771,Semantic Memory,2
+tiger_mmlu_task,7771,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7771,Theory of Mind,0
+tiger_mmlu_task,7771,Working Memory,2
+tiger_mmlu_task,7771,ambiguity,5
+tiger_mmlu_task,7771,factuality,5
+tiger_mmlu_task,7793,Causal Reasoning,2
+tiger_mmlu_task,7793,Cognitive Flexibility,0
+tiger_mmlu_task,7793,Emotion Perception and Empathy,0
+tiger_mmlu_task,7793,Episodic Memory,0
+tiger_mmlu_task,7793,Functional Perception,2
+tiger_mmlu_task,7793,Inhibitory Control,1
+tiger_mmlu_task,7793,Language,1
+tiger_mmlu_task,7793,Mental Simulation,0
+tiger_mmlu_task,7793,Metacognition,2
+tiger_mmlu_task,7793,Object Permanence,0
+tiger_mmlu_task,7793,Perception and Pattern Recognition,2
+tiger_mmlu_task,7793,Planning,1
+tiger_mmlu_task,7793,Procedural Memory,0
+tiger_mmlu_task,7793,Prospective Memory,0
+tiger_mmlu_task,7793,Semantic Memory,3
+tiger_mmlu_task,7793,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7793,Theory of Mind,0
+tiger_mmlu_task,7793,Working Memory,1
+tiger_mmlu_task,7793,ambiguity,5
+tiger_mmlu_task,7793,factuality,5
+tiger_mmlu_task,7804,Causal Reasoning,2
+tiger_mmlu_task,7804,Cognitive Flexibility,3
+tiger_mmlu_task,7804,Emotion Perception and Empathy,0
+tiger_mmlu_task,7804,Episodic Memory,0
+tiger_mmlu_task,7804,Functional Perception,2
+tiger_mmlu_task,7804,Inhibitory Control,2
+tiger_mmlu_task,7804,Language,3
+tiger_mmlu_task,7804,Mental Simulation,0
+tiger_mmlu_task,7804,Metacognition,2
+tiger_mmlu_task,7804,Object Permanence,0
+tiger_mmlu_task,7804,Perception and Pattern Recognition,3
+tiger_mmlu_task,7804,Planning,1
+tiger_mmlu_task,7804,Procedural Memory,3
+tiger_mmlu_task,7804,Prospective Memory,0
+tiger_mmlu_task,7804,Semantic Memory,3
+tiger_mmlu_task,7804,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7804,Theory of Mind,0
+tiger_mmlu_task,7804,Working Memory,3
+tiger_mmlu_task,7804,ambiguity,5
+tiger_mmlu_task,7804,factuality,5
+tiger_mmlu_task,7807,Causal Reasoning,0
+tiger_mmlu_task,7807,Cognitive Flexibility,0
+tiger_mmlu_task,7807,Emotion Perception and Empathy,0
+tiger_mmlu_task,7807,Episodic Memory,0
+tiger_mmlu_task,7807,Functional Perception,0
+tiger_mmlu_task,7807,Inhibitory Control,1
+tiger_mmlu_task,7807,Language,0
+tiger_mmlu_task,7807,Mental Simulation,0
+tiger_mmlu_task,7807,Metacognition,0
+tiger_mmlu_task,7807,Object Permanence,0
+tiger_mmlu_task,7807,Perception and Pattern Recognition,1
+tiger_mmlu_task,7807,Planning,0
+tiger_mmlu_task,7807,Procedural Memory,1
+tiger_mmlu_task,7807,Prospective Memory,0
+tiger_mmlu_task,7807,Semantic Memory,1
+tiger_mmlu_task,7807,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7807,Theory of Mind,0
+tiger_mmlu_task,7807,Working Memory,1
+tiger_mmlu_task,7807,ambiguity,5
+tiger_mmlu_task,7807,factuality,5
+tiger_mmlu_task,783,Causal Reasoning,0
+tiger_mmlu_task,783,Cognitive Flexibility,0
+tiger_mmlu_task,783,Emotion Perception and Empathy,0
+tiger_mmlu_task,783,Episodic Memory,0
+tiger_mmlu_task,783,Functional Perception,1
+tiger_mmlu_task,783,Inhibitory Control,1
+tiger_mmlu_task,783,Language,2
+tiger_mmlu_task,783,Mental Simulation,2
+tiger_mmlu_task,783,Metacognition,1
+tiger_mmlu_task,783,Object Permanence,0
+tiger_mmlu_task,783,Perception and Pattern Recognition,1
+tiger_mmlu_task,783,Planning,1
+tiger_mmlu_task,783,Procedural Memory,2
+tiger_mmlu_task,783,Prospective Memory,0
+tiger_mmlu_task,783,Semantic Memory,1
+tiger_mmlu_task,783,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,783,Theory of Mind,0
+tiger_mmlu_task,783,Working Memory,2
+tiger_mmlu_task,783,ambiguity,5
+tiger_mmlu_task,783,factuality,1
+tiger_mmlu_task,7847,Causal Reasoning,0
+tiger_mmlu_task,7847,Cognitive Flexibility,0
+tiger_mmlu_task,7847,Emotion Perception and Empathy,0
+tiger_mmlu_task,7847,Episodic Memory,0
+tiger_mmlu_task,7847,Functional Perception,0
+tiger_mmlu_task,7847,Inhibitory Control,1
+tiger_mmlu_task,7847,Language,1
+tiger_mmlu_task,7847,Mental Simulation,0
+tiger_mmlu_task,7847,Metacognition,1
+tiger_mmlu_task,7847,Object Permanence,0
+tiger_mmlu_task,7847,Perception and Pattern Recognition,0
+tiger_mmlu_task,7847,Planning,1
+tiger_mmlu_task,7847,Procedural Memory,2
+tiger_mmlu_task,7847,Prospective Memory,0
+tiger_mmlu_task,7847,Semantic Memory,2
+tiger_mmlu_task,7847,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7847,Theory of Mind,0
+tiger_mmlu_task,7847,Working Memory,1
+tiger_mmlu_task,7847,ambiguity,5
+tiger_mmlu_task,7847,factuality,5
+tiger_mmlu_task,7853,Causal Reasoning,0
+tiger_mmlu_task,7853,Cognitive Flexibility,1
+tiger_mmlu_task,7853,Emotion Perception and Empathy,0
+tiger_mmlu_task,7853,Episodic Memory,0
+tiger_mmlu_task,7853,Functional Perception,0
+tiger_mmlu_task,7853,Inhibitory Control,2
+tiger_mmlu_task,7853,Language,1
+tiger_mmlu_task,7853,Mental Simulation,0
+tiger_mmlu_task,7853,Metacognition,2
+tiger_mmlu_task,7853,Object Permanence,0
+tiger_mmlu_task,7853,Perception and Pattern Recognition,2
+tiger_mmlu_task,7853,Planning,2
+tiger_mmlu_task,7853,Procedural Memory,3
+tiger_mmlu_task,7853,Prospective Memory,0
+tiger_mmlu_task,7853,Semantic Memory,2
+tiger_mmlu_task,7853,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7853,Theory of Mind,0
+tiger_mmlu_task,7853,Working Memory,3
+tiger_mmlu_task,7853,ambiguity,5
+tiger_mmlu_task,7853,factuality,5
+tiger_mmlu_task,7876,Causal Reasoning,0
+tiger_mmlu_task,7876,Cognitive Flexibility,4
+tiger_mmlu_task,7876,Emotion Perception and Empathy,0
+tiger_mmlu_task,7876,Episodic Memory,0
+tiger_mmlu_task,7876,Functional Perception,3
+tiger_mmlu_task,7876,Inhibitory Control,2
+tiger_mmlu_task,7876,Language,2
+tiger_mmlu_task,7876,Mental Simulation,0
+tiger_mmlu_task,7876,Metacognition,3
+tiger_mmlu_task,7876,Object Permanence,0
+tiger_mmlu_task,7876,Perception and Pattern Recognition,3
+tiger_mmlu_task,7876,Planning,2
+tiger_mmlu_task,7876,Procedural Memory,3
+tiger_mmlu_task,7876,Prospective Memory,0
+tiger_mmlu_task,7876,Semantic Memory,3
+tiger_mmlu_task,7876,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7876,Theory of Mind,0
+tiger_mmlu_task,7876,Working Memory,3
+tiger_mmlu_task,7876,ambiguity,5
+tiger_mmlu_task,7876,factuality,5
+tiger_mmlu_task,791,Causal Reasoning,2
+tiger_mmlu_task,791,Cognitive Flexibility,1
+tiger_mmlu_task,791,Emotion Perception and Empathy,0
+tiger_mmlu_task,791,Episodic Memory,0
+tiger_mmlu_task,791,Functional Perception,1
+tiger_mmlu_task,791,Inhibitory Control,1
+tiger_mmlu_task,791,Language,1
+tiger_mmlu_task,791,Mental Simulation,2
+tiger_mmlu_task,791,Metacognition,2
+tiger_mmlu_task,791,Object Permanence,0
+tiger_mmlu_task,791,Perception and Pattern Recognition,2
+tiger_mmlu_task,791,Planning,2
+tiger_mmlu_task,791,Procedural Memory,3
+tiger_mmlu_task,791,Prospective Memory,0
+tiger_mmlu_task,791,Semantic Memory,2
+tiger_mmlu_task,791,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,791,Theory of Mind,0
+tiger_mmlu_task,791,Working Memory,4
+tiger_mmlu_task,791,ambiguity,5
+tiger_mmlu_task,791,factuality,5
+tiger_mmlu_task,7964,Causal Reasoning,0
+tiger_mmlu_task,7964,Cognitive Flexibility,0
+tiger_mmlu_task,7964,Emotion Perception and Empathy,0
+tiger_mmlu_task,7964,Episodic Memory,0
+tiger_mmlu_task,7964,Functional Perception,0
+tiger_mmlu_task,7964,Inhibitory Control,3
+tiger_mmlu_task,7964,Language,1
+tiger_mmlu_task,7964,Mental Simulation,0
+tiger_mmlu_task,7964,Metacognition,3
+tiger_mmlu_task,7964,Object Permanence,0
+tiger_mmlu_task,7964,Perception and Pattern Recognition,1
+tiger_mmlu_task,7964,Planning,2
+tiger_mmlu_task,7964,Procedural Memory,3
+tiger_mmlu_task,7964,Prospective Memory,0
+tiger_mmlu_task,7964,Semantic Memory,4
+tiger_mmlu_task,7964,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,7964,Theory of Mind,0
+tiger_mmlu_task,7964,Working Memory,2
+tiger_mmlu_task,7964,ambiguity,4
+tiger_mmlu_task,7964,factuality,4
+tiger_mmlu_task,8024,Causal Reasoning,0
+tiger_mmlu_task,8024,Cognitive Flexibility,0
+tiger_mmlu_task,8024,Emotion Perception and Empathy,0
+tiger_mmlu_task,8024,Episodic Memory,0
+tiger_mmlu_task,8024,Functional Perception,0
+tiger_mmlu_task,8024,Inhibitory Control,1
+tiger_mmlu_task,8024,Language,0
+tiger_mmlu_task,8024,Mental Simulation,0
+tiger_mmlu_task,8024,Metacognition,1
+tiger_mmlu_task,8024,Object Permanence,0
+tiger_mmlu_task,8024,Perception and Pattern Recognition,0
+tiger_mmlu_task,8024,Planning,1
+tiger_mmlu_task,8024,Procedural Memory,2
+tiger_mmlu_task,8024,Prospective Memory,0
+tiger_mmlu_task,8024,Semantic Memory,2
+tiger_mmlu_task,8024,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8024,Theory of Mind,0
+tiger_mmlu_task,8024,Working Memory,2
+tiger_mmlu_task,8024,ambiguity,5
+tiger_mmlu_task,8024,factuality,5
+tiger_mmlu_task,8147,Causal Reasoning,1
+tiger_mmlu_task,8147,Cognitive Flexibility,1
+tiger_mmlu_task,8147,Emotion Perception and Empathy,0
+tiger_mmlu_task,8147,Episodic Memory,0
+tiger_mmlu_task,8147,Functional Perception,1
+tiger_mmlu_task,8147,Inhibitory Control,2
+tiger_mmlu_task,8147,Language,1
+tiger_mmlu_task,8147,Mental Simulation,1
+tiger_mmlu_task,8147,Metacognition,2
+tiger_mmlu_task,8147,Object Permanence,0
+tiger_mmlu_task,8147,Perception and Pattern Recognition,2
+tiger_mmlu_task,8147,Planning,1
+tiger_mmlu_task,8147,Procedural Memory,2
+tiger_mmlu_task,8147,Prospective Memory,0
+tiger_mmlu_task,8147,Semantic Memory,2
+tiger_mmlu_task,8147,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8147,Theory of Mind,0
+tiger_mmlu_task,8147,Working Memory,2
+tiger_mmlu_task,8147,ambiguity,5
+tiger_mmlu_task,8147,factuality,5
+tiger_mmlu_task,8266,Causal Reasoning,0
+tiger_mmlu_task,8266,Cognitive Flexibility,0
+tiger_mmlu_task,8266,Emotion Perception and Empathy,0
+tiger_mmlu_task,8266,Episodic Memory,0
+tiger_mmlu_task,8266,Functional Perception,1
+tiger_mmlu_task,8266,Inhibitory Control,1
+tiger_mmlu_task,8266,Language,1
+tiger_mmlu_task,8266,Mental Simulation,0
+tiger_mmlu_task,8266,Metacognition,1
+tiger_mmlu_task,8266,Object Permanence,0
+tiger_mmlu_task,8266,Perception and Pattern Recognition,1
+tiger_mmlu_task,8266,Planning,0
+tiger_mmlu_task,8266,Procedural Memory,2
+tiger_mmlu_task,8266,Prospective Memory,0
+tiger_mmlu_task,8266,Semantic Memory,2
+tiger_mmlu_task,8266,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8266,Theory of Mind,0
+tiger_mmlu_task,8266,Working Memory,1
+tiger_mmlu_task,8266,ambiguity,5
+tiger_mmlu_task,8266,factuality,5
+tiger_mmlu_task,8317,Causal Reasoning,0
+tiger_mmlu_task,8317,Cognitive Flexibility,2
+tiger_mmlu_task,8317,Emotion Perception and Empathy,0
+tiger_mmlu_task,8317,Episodic Memory,0
+tiger_mmlu_task,8317,Functional Perception,1
+tiger_mmlu_task,8317,Inhibitory Control,2
+tiger_mmlu_task,8317,Language,1
+tiger_mmlu_task,8317,Mental Simulation,0
+tiger_mmlu_task,8317,Metacognition,4
+tiger_mmlu_task,8317,Object Permanence,0
+tiger_mmlu_task,8317,Perception and Pattern Recognition,4
+tiger_mmlu_task,8317,Planning,2
+tiger_mmlu_task,8317,Procedural Memory,3
+tiger_mmlu_task,8317,Prospective Memory,0
+tiger_mmlu_task,8317,Semantic Memory,3
+tiger_mmlu_task,8317,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8317,Theory of Mind,0
+tiger_mmlu_task,8317,Working Memory,4
+tiger_mmlu_task,8317,ambiguity,5
+tiger_mmlu_task,8317,factuality,5
+tiger_mmlu_task,8369,Causal Reasoning,0
+tiger_mmlu_task,8369,Cognitive Flexibility,1
+tiger_mmlu_task,8369,Emotion Perception and Empathy,0
+tiger_mmlu_task,8369,Episodic Memory,0
+tiger_mmlu_task,8369,Functional Perception,2
+tiger_mmlu_task,8369,Inhibitory Control,2
+tiger_mmlu_task,8369,Language,1
+tiger_mmlu_task,8369,Mental Simulation,0
+tiger_mmlu_task,8369,Metacognition,2
+tiger_mmlu_task,8369,Object Permanence,0
+tiger_mmlu_task,8369,Perception and Pattern Recognition,2
+tiger_mmlu_task,8369,Planning,0
+tiger_mmlu_task,8369,Procedural Memory,2
+tiger_mmlu_task,8369,Prospective Memory,0
+tiger_mmlu_task,8369,Semantic Memory,4
+tiger_mmlu_task,8369,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8369,Theory of Mind,0
+tiger_mmlu_task,8369,Working Memory,2
+tiger_mmlu_task,8369,ambiguity,5
+tiger_mmlu_task,8369,factuality,5
+tiger_mmlu_task,8486,Causal Reasoning,0
+tiger_mmlu_task,8486,Cognitive Flexibility,0
+tiger_mmlu_task,8486,Emotion Perception and Empathy,0
+tiger_mmlu_task,8486,Episodic Memory,0
+tiger_mmlu_task,8486,Functional Perception,0
+tiger_mmlu_task,8486,Inhibitory Control,1
+tiger_mmlu_task,8486,Language,0
+tiger_mmlu_task,8486,Mental Simulation,0
+tiger_mmlu_task,8486,Metacognition,1
+tiger_mmlu_task,8486,Object Permanence,0
+tiger_mmlu_task,8486,Perception and Pattern Recognition,0
+tiger_mmlu_task,8486,Planning,0
+tiger_mmlu_task,8486,Procedural Memory,2
+tiger_mmlu_task,8486,Prospective Memory,0
+tiger_mmlu_task,8486,Semantic Memory,1
+tiger_mmlu_task,8486,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8486,Theory of Mind,0
+tiger_mmlu_task,8486,Working Memory,1
+tiger_mmlu_task,8486,ambiguity,5
+tiger_mmlu_task,8486,factuality,5
+tiger_mmlu_task,854,Causal Reasoning,0
+tiger_mmlu_task,854,Cognitive Flexibility,0
+tiger_mmlu_task,854,Emotion Perception and Empathy,0
+tiger_mmlu_task,854,Episodic Memory,0
+tiger_mmlu_task,854,Functional Perception,0
+tiger_mmlu_task,854,Inhibitory Control,1
+tiger_mmlu_task,854,Language,1
+tiger_mmlu_task,854,Mental Simulation,0
+tiger_mmlu_task,854,Metacognition,1
+tiger_mmlu_task,854,Object Permanence,0
+tiger_mmlu_task,854,Perception and Pattern Recognition,0
+tiger_mmlu_task,854,Planning,0
+tiger_mmlu_task,854,Procedural Memory,1
+tiger_mmlu_task,854,Prospective Memory,0
+tiger_mmlu_task,854,Semantic Memory,1
+tiger_mmlu_task,854,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,854,Theory of Mind,0
+tiger_mmlu_task,854,Working Memory,1
+tiger_mmlu_task,854,ambiguity,5
+tiger_mmlu_task,854,factuality,5
+tiger_mmlu_task,8638,Causal Reasoning,1
+tiger_mmlu_task,8638,Cognitive Flexibility,0
+tiger_mmlu_task,8638,Emotion Perception and Empathy,0
+tiger_mmlu_task,8638,Episodic Memory,0
+tiger_mmlu_task,8638,Functional Perception,2
+tiger_mmlu_task,8638,Inhibitory Control,2
+tiger_mmlu_task,8638,Language,3
+tiger_mmlu_task,8638,Mental Simulation,1
+tiger_mmlu_task,8638,Metacognition,3
+tiger_mmlu_task,8638,Object Permanence,0
+tiger_mmlu_task,8638,Perception and Pattern Recognition,3
+tiger_mmlu_task,8638,Planning,2
+tiger_mmlu_task,8638,Procedural Memory,3
+tiger_mmlu_task,8638,Prospective Memory,0
+tiger_mmlu_task,8638,Semantic Memory,4
+tiger_mmlu_task,8638,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8638,Theory of Mind,0
+tiger_mmlu_task,8638,Working Memory,3
+tiger_mmlu_task,8638,ambiguity,5
+tiger_mmlu_task,8638,factuality,4
+tiger_mmlu_task,8676,Causal Reasoning,0
+tiger_mmlu_task,8676,Cognitive Flexibility,0
+tiger_mmlu_task,8676,Emotion Perception and Empathy,0
+tiger_mmlu_task,8676,Episodic Memory,0
+tiger_mmlu_task,8676,Functional Perception,1
+tiger_mmlu_task,8676,Inhibitory Control,1
+tiger_mmlu_task,8676,Language,1
+tiger_mmlu_task,8676,Mental Simulation,0
+tiger_mmlu_task,8676,Metacognition,0
+tiger_mmlu_task,8676,Object Permanence,0
+tiger_mmlu_task,8676,Perception and Pattern Recognition,1
+tiger_mmlu_task,8676,Planning,0
+tiger_mmlu_task,8676,Procedural Memory,1
+tiger_mmlu_task,8676,Prospective Memory,0
+tiger_mmlu_task,8676,Semantic Memory,1
+tiger_mmlu_task,8676,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8676,Theory of Mind,0
+tiger_mmlu_task,8676,Working Memory,1
+tiger_mmlu_task,8676,ambiguity,5
+tiger_mmlu_task,8676,factuality,5
+tiger_mmlu_task,8719,Causal Reasoning,0
+tiger_mmlu_task,8719,Cognitive Flexibility,3
+tiger_mmlu_task,8719,Emotion Perception and Empathy,0
+tiger_mmlu_task,8719,Episodic Memory,0
+tiger_mmlu_task,8719,Functional Perception,0
+tiger_mmlu_task,8719,Inhibitory Control,2
+tiger_mmlu_task,8719,Language,2
+tiger_mmlu_task,8719,Mental Simulation,0
+tiger_mmlu_task,8719,Metacognition,2
+tiger_mmlu_task,8719,Object Permanence,0
+tiger_mmlu_task,8719,Perception and Pattern Recognition,2
+tiger_mmlu_task,8719,Planning,2
+tiger_mmlu_task,8719,Procedural Memory,2
+tiger_mmlu_task,8719,Prospective Memory,0
+tiger_mmlu_task,8719,Semantic Memory,3
+tiger_mmlu_task,8719,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8719,Theory of Mind,0
+tiger_mmlu_task,8719,Working Memory,3
+tiger_mmlu_task,8719,ambiguity,5
+tiger_mmlu_task,8719,factuality,5
+tiger_mmlu_task,8746,Causal Reasoning,0
+tiger_mmlu_task,8746,Cognitive Flexibility,2
+tiger_mmlu_task,8746,Emotion Perception and Empathy,0
+tiger_mmlu_task,8746,Episodic Memory,0
+tiger_mmlu_task,8746,Functional Perception,0
+tiger_mmlu_task,8746,Inhibitory Control,2
+tiger_mmlu_task,8746,Language,0
+tiger_mmlu_task,8746,Mental Simulation,0
+tiger_mmlu_task,8746,Metacognition,2
+tiger_mmlu_task,8746,Object Permanence,0
+tiger_mmlu_task,8746,Perception and Pattern Recognition,2
+tiger_mmlu_task,8746,Planning,0
+tiger_mmlu_task,8746,Procedural Memory,2
+tiger_mmlu_task,8746,Prospective Memory,0
+tiger_mmlu_task,8746,Semantic Memory,2
+tiger_mmlu_task,8746,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8746,Theory of Mind,0
+tiger_mmlu_task,8746,Working Memory,1
+tiger_mmlu_task,8746,ambiguity,5
+tiger_mmlu_task,8746,factuality,1
+tiger_mmlu_task,8787,Causal Reasoning,1
+tiger_mmlu_task,8787,Cognitive Flexibility,0
+tiger_mmlu_task,8787,Emotion Perception and Empathy,0
+tiger_mmlu_task,8787,Episodic Memory,0
+tiger_mmlu_task,8787,Functional Perception,1
+tiger_mmlu_task,8787,Inhibitory Control,1
+tiger_mmlu_task,8787,Language,2
+tiger_mmlu_task,8787,Mental Simulation,0
+tiger_mmlu_task,8787,Metacognition,2
+tiger_mmlu_task,8787,Object Permanence,0
+tiger_mmlu_task,8787,Perception and Pattern Recognition,1
+tiger_mmlu_task,8787,Planning,0
+tiger_mmlu_task,8787,Procedural Memory,1
+tiger_mmlu_task,8787,Prospective Memory,0
+tiger_mmlu_task,8787,Semantic Memory,1
+tiger_mmlu_task,8787,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8787,Theory of Mind,0
+tiger_mmlu_task,8787,Working Memory,2
+tiger_mmlu_task,8787,ambiguity,5
+tiger_mmlu_task,8787,factuality,5
+tiger_mmlu_task,8802,Causal Reasoning,0
+tiger_mmlu_task,8802,Cognitive Flexibility,0
+tiger_mmlu_task,8802,Emotion Perception and Empathy,0
+tiger_mmlu_task,8802,Episodic Memory,0
+tiger_mmlu_task,8802,Functional Perception,0
+tiger_mmlu_task,8802,Inhibitory Control,0
+tiger_mmlu_task,8802,Language,1
+tiger_mmlu_task,8802,Mental Simulation,0
+tiger_mmlu_task,8802,Metacognition,1
+tiger_mmlu_task,8802,Object Permanence,0
+tiger_mmlu_task,8802,Perception and Pattern Recognition,0
+tiger_mmlu_task,8802,Planning,0
+tiger_mmlu_task,8802,Procedural Memory,1
+tiger_mmlu_task,8802,Prospective Memory,0
+tiger_mmlu_task,8802,Semantic Memory,1
+tiger_mmlu_task,8802,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8802,Theory of Mind,0
+tiger_mmlu_task,8802,Working Memory,2
+tiger_mmlu_task,8802,ambiguity,5
+tiger_mmlu_task,8802,factuality,5
+tiger_mmlu_task,8895,Causal Reasoning,0
+tiger_mmlu_task,8895,Cognitive Flexibility,0
+tiger_mmlu_task,8895,Emotion Perception and Empathy,0
+tiger_mmlu_task,8895,Episodic Memory,0
+tiger_mmlu_task,8895,Functional Perception,0
+tiger_mmlu_task,8895,Inhibitory Control,0
+tiger_mmlu_task,8895,Language,1
+tiger_mmlu_task,8895,Mental Simulation,0
+tiger_mmlu_task,8895,Metacognition,1
+tiger_mmlu_task,8895,Object Permanence,0
+tiger_mmlu_task,8895,Perception and Pattern Recognition,1
+tiger_mmlu_task,8895,Planning,0
+tiger_mmlu_task,8895,Procedural Memory,2
+tiger_mmlu_task,8895,Prospective Memory,0
+tiger_mmlu_task,8895,Semantic Memory,1
+tiger_mmlu_task,8895,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8895,Theory of Mind,0
+tiger_mmlu_task,8895,Working Memory,2
+tiger_mmlu_task,8895,ambiguity,5
+tiger_mmlu_task,8895,factuality,5
+tiger_mmlu_task,8930,Causal Reasoning,0
+tiger_mmlu_task,8930,Cognitive Flexibility,0
+tiger_mmlu_task,8930,Emotion Perception and Empathy,0
+tiger_mmlu_task,8930,Episodic Memory,0
+tiger_mmlu_task,8930,Functional Perception,2
+tiger_mmlu_task,8930,Inhibitory Control,2
+tiger_mmlu_task,8930,Language,3
+tiger_mmlu_task,8930,Mental Simulation,0
+tiger_mmlu_task,8930,Metacognition,3
+tiger_mmlu_task,8930,Object Permanence,0
+tiger_mmlu_task,8930,Perception and Pattern Recognition,2
+tiger_mmlu_task,8930,Planning,2
+tiger_mmlu_task,8930,Procedural Memory,3
+tiger_mmlu_task,8930,Prospective Memory,0
+tiger_mmlu_task,8930,Semantic Memory,4
+tiger_mmlu_task,8930,Spatial Reasoning and Navigation,2
+tiger_mmlu_task,8930,Theory of Mind,0
+tiger_mmlu_task,8930,Working Memory,3
+tiger_mmlu_task,8930,ambiguity,5
+tiger_mmlu_task,8930,factuality,5
+tiger_mmlu_task,8955,Causal Reasoning,0
+tiger_mmlu_task,8955,Cognitive Flexibility,2
+tiger_mmlu_task,8955,Emotion Perception and Empathy,0
+tiger_mmlu_task,8955,Episodic Memory,0
+tiger_mmlu_task,8955,Functional Perception,0
+tiger_mmlu_task,8955,Inhibitory Control,1
+tiger_mmlu_task,8955,Language,1
+tiger_mmlu_task,8955,Mental Simulation,0
+tiger_mmlu_task,8955,Metacognition,1
+tiger_mmlu_task,8955,Object Permanence,0
+tiger_mmlu_task,8955,Perception and Pattern Recognition,3
+tiger_mmlu_task,8955,Planning,0
+tiger_mmlu_task,8955,Procedural Memory,3
+tiger_mmlu_task,8955,Prospective Memory,0
+tiger_mmlu_task,8955,Semantic Memory,3
+tiger_mmlu_task,8955,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,8955,Theory of Mind,0
+tiger_mmlu_task,8955,Working Memory,2
+tiger_mmlu_task,8955,ambiguity,5
+tiger_mmlu_task,8955,factuality,1
+tiger_mmlu_task,9030,Causal Reasoning,0
+tiger_mmlu_task,9030,Cognitive Flexibility,3
+tiger_mmlu_task,9030,Emotion Perception and Empathy,0
+tiger_mmlu_task,9030,Episodic Memory,0
+tiger_mmlu_task,9030,Functional Perception,2
+tiger_mmlu_task,9030,Inhibitory Control,2
+tiger_mmlu_task,9030,Language,1
+tiger_mmlu_task,9030,Mental Simulation,0
+tiger_mmlu_task,9030,Metacognition,2
+tiger_mmlu_task,9030,Object Permanence,0
+tiger_mmlu_task,9030,Perception and Pattern Recognition,3
+tiger_mmlu_task,9030,Planning,2
+tiger_mmlu_task,9030,Procedural Memory,3
+tiger_mmlu_task,9030,Prospective Memory,0
+tiger_mmlu_task,9030,Semantic Memory,3
+tiger_mmlu_task,9030,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,9030,Theory of Mind,0
+tiger_mmlu_task,9030,Working Memory,3
+tiger_mmlu_task,9030,ambiguity,5
+tiger_mmlu_task,9030,factuality,5
+tiger_mmlu_task,9350,Causal Reasoning,2
+tiger_mmlu_task,9350,Cognitive Flexibility,0
+tiger_mmlu_task,9350,Emotion Perception and Empathy,0
+tiger_mmlu_task,9350,Episodic Memory,0
+tiger_mmlu_task,9350,Functional Perception,3
+tiger_mmlu_task,9350,Inhibitory Control,2
+tiger_mmlu_task,9350,Language,1
+tiger_mmlu_task,9350,Mental Simulation,1
+tiger_mmlu_task,9350,Metacognition,2
+tiger_mmlu_task,9350,Object Permanence,0
+tiger_mmlu_task,9350,Perception and Pattern Recognition,3
+tiger_mmlu_task,9350,Planning,0
+tiger_mmlu_task,9350,Procedural Memory,2
+tiger_mmlu_task,9350,Prospective Memory,0
+tiger_mmlu_task,9350,Semantic Memory,4
+tiger_mmlu_task,9350,Spatial Reasoning and Navigation,1
+tiger_mmlu_task,9350,Theory of Mind,0
+tiger_mmlu_task,9350,Working Memory,3
+tiger_mmlu_task,9350,ambiguity,5
+tiger_mmlu_task,9350,factuality,5
+tiger_mmlu_task,9571,Causal Reasoning,0
+tiger_mmlu_task,9571,Cognitive Flexibility,0
+tiger_mmlu_task,9571,Emotion Perception and Empathy,0
+tiger_mmlu_task,9571,Episodic Memory,0
+tiger_mmlu_task,9571,Functional Perception,3
+tiger_mmlu_task,9571,Inhibitory Control,2
+tiger_mmlu_task,9571,Language,1
+tiger_mmlu_task,9571,Mental Simulation,0
+tiger_mmlu_task,9571,Metacognition,3
+tiger_mmlu_task,9571,Object Permanence,0
+tiger_mmlu_task,9571,Perception and Pattern Recognition,2
+tiger_mmlu_task,9571,Planning,1
+tiger_mmlu_task,9571,Procedural Memory,2
+tiger_mmlu_task,9571,Prospective Memory,0
+tiger_mmlu_task,9571,Semantic Memory,3
+tiger_mmlu_task,9571,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,9571,Theory of Mind,0
+tiger_mmlu_task,9571,Working Memory,3
+tiger_mmlu_task,9571,ambiguity,5
+tiger_mmlu_task,9571,factuality,5
+tiger_mmlu_task,9648,Causal Reasoning,0
+tiger_mmlu_task,9648,Cognitive Flexibility,0
+tiger_mmlu_task,9648,Emotion Perception and Empathy,0
+tiger_mmlu_task,9648,Episodic Memory,0
+tiger_mmlu_task,9648,Functional Perception,2
+tiger_mmlu_task,9648,Inhibitory Control,2
+tiger_mmlu_task,9648,Language,1
+tiger_mmlu_task,9648,Mental Simulation,0
+tiger_mmlu_task,9648,Metacognition,2
+tiger_mmlu_task,9648,Object Permanence,0
+tiger_mmlu_task,9648,Perception and Pattern Recognition,3
+tiger_mmlu_task,9648,Planning,1
+tiger_mmlu_task,9648,Procedural Memory,2
+tiger_mmlu_task,9648,Prospective Memory,0
+tiger_mmlu_task,9648,Semantic Memory,3
+tiger_mmlu_task,9648,Spatial Reasoning and Navigation,1
+tiger_mmlu_task,9648,Theory of Mind,0
+tiger_mmlu_task,9648,Working Memory,3
+tiger_mmlu_task,9648,ambiguity,5
+tiger_mmlu_task,9648,factuality,5
+tiger_mmlu_task,9735,Causal Reasoning,1
+tiger_mmlu_task,9735,Cognitive Flexibility,0
+tiger_mmlu_task,9735,Emotion Perception and Empathy,0
+tiger_mmlu_task,9735,Episodic Memory,0
+tiger_mmlu_task,9735,Functional Perception,1
+tiger_mmlu_task,9735,Inhibitory Control,1
+tiger_mmlu_task,9735,Language,1
+tiger_mmlu_task,9735,Mental Simulation,0
+tiger_mmlu_task,9735,Metacognition,0
+tiger_mmlu_task,9735,Object Permanence,0
+tiger_mmlu_task,9735,Perception and Pattern Recognition,1
+tiger_mmlu_task,9735,Planning,0
+tiger_mmlu_task,9735,Procedural Memory,1
+tiger_mmlu_task,9735,Prospective Memory,0
+tiger_mmlu_task,9735,Semantic Memory,2
+tiger_mmlu_task,9735,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,9735,Theory of Mind,0
+tiger_mmlu_task,9735,Working Memory,2
+tiger_mmlu_task,9735,ambiguity,5
+tiger_mmlu_task,9735,factuality,5
+tiger_mmlu_task,9779,Causal Reasoning,0
+tiger_mmlu_task,9779,Cognitive Flexibility,0
+tiger_mmlu_task,9779,Emotion Perception and Empathy,0
+tiger_mmlu_task,9779,Episodic Memory,0
+tiger_mmlu_task,9779,Functional Perception,1
+tiger_mmlu_task,9779,Inhibitory Control,1
+tiger_mmlu_task,9779,Language,1
+tiger_mmlu_task,9779,Mental Simulation,0
+tiger_mmlu_task,9779,Metacognition,1
+tiger_mmlu_task,9779,Object Permanence,0
+tiger_mmlu_task,9779,Perception and Pattern Recognition,1
+tiger_mmlu_task,9779,Planning,0
+tiger_mmlu_task,9779,Procedural Memory,1
+tiger_mmlu_task,9779,Prospective Memory,0
+tiger_mmlu_task,9779,Semantic Memory,2
+tiger_mmlu_task,9779,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,9779,Theory of Mind,0
+tiger_mmlu_task,9779,Working Memory,2
+tiger_mmlu_task,9779,ambiguity,5
+tiger_mmlu_task,9779,factuality,5
+tiger_mmlu_task,9795,Causal Reasoning,1
+tiger_mmlu_task,9795,Cognitive Flexibility,0
+tiger_mmlu_task,9795,Emotion Perception and Empathy,0
+tiger_mmlu_task,9795,Episodic Memory,0
+tiger_mmlu_task,9795,Functional Perception,2
+tiger_mmlu_task,9795,Inhibitory Control,2
+tiger_mmlu_task,9795,Language,1
+tiger_mmlu_task,9795,Mental Simulation,1
+tiger_mmlu_task,9795,Metacognition,1
+tiger_mmlu_task,9795,Object Permanence,0
+tiger_mmlu_task,9795,Perception and Pattern Recognition,0
+tiger_mmlu_task,9795,Planning,0
+tiger_mmlu_task,9795,Procedural Memory,2
+tiger_mmlu_task,9795,Prospective Memory,0
+tiger_mmlu_task,9795,Semantic Memory,2
+tiger_mmlu_task,9795,Spatial Reasoning and Navigation,0
+tiger_mmlu_task,9795,Theory of Mind,0
+tiger_mmlu_task,9795,Working Memory,2
+tiger_mmlu_task,9795,ambiguity,5
+tiger_mmlu_task,9795,factuality,5
