@@ -127,7 +127,7 @@ def get_task_name(task_file: str) -> str:
     return os.path.basename(os.path.dirname(task_file))
 
 
-def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = False, num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = "") -> bool:
+def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = False, num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = "", message_limit: Optional[int] = None) -> bool:
     """
     Run a single task file and return True if successful.
 
@@ -152,12 +152,18 @@ def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = Fals
     module_name = os.path.splitext(os.path.basename(task_file))[0]
     import_cmd = f"import sys; sys.path.insert(0, '.'); from {module_name} import annotate; annotate({num_samples}, '{mode}', '{model}', '{timestamp}')"
 
+    env = os.environ.copy()
+    if message_limit is not None:
+        env["ANNOTATION_MESSAGE_LIMIT"] = str(message_limit)
+
     try:
         if verbose:
             # Direct terminal pass-through - let Inspect AI write directly to terminal
             process = subprocess.Popen(
                 [sys.executable, "-c", import_cmd],
-                cwd=os.path.dirname(task_file)
+                cwd=os.path.dirname(task_file),
+                stdin=subprocess.DEVNULL,
+                env=env,
             )
 
             # Handle timeout manually by polling
@@ -176,7 +182,9 @@ def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = Fals
                 capture_output=True,
                 text=True,
                 timeout=timeout,
-                cwd=os.path.dirname(task_file)
+                cwd=os.path.dirname(task_file),
+                stdin=subprocess.DEVNULL,
+                env=env,
             )
             return_code = result.returncode
 
@@ -234,8 +242,8 @@ Examples:
     )
     parser.add_argument(
         "--evaluations-dir",
-        default="Evaluations",
-        help="Directory containing evaluation tasks (default: Evaluations)"
+        default="Annotated_Benchmarks",
+        help="Directory containing evaluation tasks (default: Annotated_Benchmarks)"
     )
     parser.add_argument(
         "--dry-run",
@@ -257,6 +265,13 @@ Examples:
         "--model",
         default=DEFAULT_MODEL,
         help=f"Model to use for annotation (default: {DEFAULT_MODEL})"
+    )
+    parser.add_argument(
+        "--message-limit",
+        type=int,
+        default=None,
+        help="Message limit per sample for the annotation agent. "
+             "Useful for testing with mock models (e.g., --message-limit 3)."
     )
 
     args = parser.parse_args()
@@ -313,7 +328,8 @@ Examples:
 
     timeout_msg = f" with {args.timeout}s timeout per task" if args.timeout else ""
     print(f"\nStarting annotation tasks{timeout_msg}...")
-    print(f"Model: {args.model}, Timestamp: {timestamp}\n")
+    limit_msg = f", Message limit: {args.message_limit}" if args.message_limit else ""
+    print(f"Model: {args.model}, Timestamp: {timestamp}{limit_msg}\n")
 
     # Run tasks
     successful = 0
@@ -324,7 +340,7 @@ Examples:
         target_samples = get_target_sample_count(task_name, allocations)
         print(f"[{i}/{len(filtered_tasks)}] Running {task_name}")
 
-        if run_task(task_file, args.timeout, args.verbose, target_samples, args.mode, args.model, timestamp):
+        if run_task(task_file, args.timeout, args.verbose, target_samples, args.mode, args.model, timestamp, args.message_limit):
             successful += 1
         else:
             failed += 1

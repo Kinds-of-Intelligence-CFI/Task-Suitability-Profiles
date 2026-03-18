@@ -195,16 +195,26 @@ def extract_annotations(log: EvalLog, output_file: str, mode: str = "overwrite")
 @task
 def annotate_task(
     task_dataset: Dataset,
+    message_limit: int | None = None,
 ):
     assert task_dataset is not None
+
+    if message_limit is None:
+        env_limit = os.environ.get("ANNOTATION_MESSAGE_LIMIT")
+        if env_limit is not None:
+            message_limit = int(env_limit)
+
     rubric_data = json.load(open(
         os.path.join(Path(__file__).parent, "./rubric.json"), "r"))
-    # now combine rubrics and samples in the template 
+    # now combine rubrics and samples in the template
     annotation_dataset = combine_dataset(task_dataset, rubric_data)
 
     return Task(
         dataset=annotation_dataset,
-        solver=annotation_agent(init=system_message(DEFAULT_SYSTEM_MESSAGE)),
+        solver=annotation_agent(
+            init=system_message(DEFAULT_SYSTEM_MESSAGE),
+            message_limit=message_limit,
+        ),
     )
 
 

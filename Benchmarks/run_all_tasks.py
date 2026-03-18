@@ -11,103 +11,103 @@ Usage:
 import argparse
 import subprocess
 import sys
-from datetime import date
+from datetime import datetime
 from pathlib import Path
 
-from extract_logs_to_csv import logs_to_csv
+from .extract_logs_to_csv import logs_to_csv
 
 
 TASKS = {
     "agieval_mcq_task": {
-        "file": "Annotated_Benchmarks/AGIEval/agieval_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/AGIEval/agieval_task.py",
         "function": "agieval_mcq_task",
     },
     "bigbenchhard_task": {
-        "file": "Annotated_Benchmarks/BigBenchHard/bigbenchhard_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/BigBenchHard/bigbenchhard_task.py",
         "function": "bigbenchhard_task",
     },
     "bigtom_task": {
-        "file": "Annotated_Benchmarks/BigToM/bigtom_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/BigToM/bigtom_task.py",
         "function": "bigtom_task",
     },
     "cause_and_effect_task": {
-        "file": "Annotated_Benchmarks/Cause_and_Effect/cause_and_effect_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/Cause_and_Effect/cause_and_effect_task.py",
         "function": "cause_and_effect_task",
     },
     "coqa_task": {
-        "file": "Annotated_Benchmarks/CoQA/coqa_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/CoQA/coqa_task.py",
         "function": "coqa_task",
     },
     "decompose_task": {
-        "file": "Annotated_Benchmarks/LLM_BabyBench/llm_babybench_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/LLM_BabyBench/llm_babybench_task.py",
         "function": "decompose_task",
     },
     "emobench_task": {
-        "file": "Annotated_Benchmarks/EmoBench/emobench_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/EmoBench/emobench_task.py",
         "function": "emobench_task",
     },
     "evaluating_information_essentiality_task": {
-        "file": "Annotated_Benchmarks/Evaluating_Information_Essentiality/evaluating_information_essentiality_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/Evaluating_Information_Essentiality/evaluating_information_essentiality_task.py",
         "function": "evaluating_information_essentiality_task",
     },
     "ewok_task": {
-        "file": "Annotated_Benchmarks/EWoK/ewok_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/EWoK/ewok_task.py",
         "function": "ewok_task",
     },
     "fantasy_reasoning_task": {
-        "file": "Annotated_Benchmarks/Fantasy_Reasoning/fantasy_reasoning_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/Fantasy_Reasoning/fantasy_reasoning_task.py",
         "function": "fantasy_reasoning_task",
     },
     "fantom_task": {
-        "file": "Annotated_Benchmarks/Fantom/fantom_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/Fantom/fantom_task.py",
         "function": "fantom_task",
     },
     "intuit_task": {
-        "file": "Annotated_Benchmarks/INTUIT/intuit_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/INTUIT/intuit_task.py",
         "function": "intuit_task",
     },
     "known_unknowns_task": {
-        "file": "Annotated_Benchmarks/Known_Unknowns/known_unknown_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/Known_Unknowns/known_unknown_task.py",
         "function": "known_unknowns_task",
     },
     "macgyver_task": {
-        "file": "Annotated_Benchmarks/MacGyver/macgyver_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/MacGyver/macgyver_task.py",
         "function": "macgyver_task",
     },
     "metamedqa_task": {
-        "file": "Annotated_Benchmarks/MetaMedQA/metamedqa_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/MetaMedQA/metamedqa_task.py",
         "function": "metamedqa_task",
     },
     "opentom_task": {
-        "file": "Annotated_Benchmarks/OpenTOM/opentom_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/OpenTOM/opentom_task.py",
         "function": "opentom_task",
     },
     "plan_bench_task": {
-        "file": "Annotated_Benchmarks/Plan_Bench/plan_bench_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/Plan_Bench/plan_bench_task.py",
         "function": "plan_bench_task",
     },
     "plan_task": {
-        "file": "Annotated_Benchmarks/LLM_BabyBench/llm_babybench_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/LLM_BabyBench/llm_babybench_task.py",
         "function": "plan_task",
     },
     "predict_task": {
-        "file": "Annotated_Benchmarks/LLM_BabyBench/llm_babybench_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/LLM_BabyBench/llm_babybench_task.py",
         "function": "predict_task",
     },
     "socialnorm_task": {
-        "file": "Annotated_Benchmarks/SocialNorm/socialnorm_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/SocialNorm/socialnorm_task.py",
         "function": "socialnorm_task",
     },
     "stepgame_task": {
-        "file": "Annotated_Benchmarks/StepGame/stepgame_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/StepGame/stepgame_task.py",
         "function": "stepgame_task",
     },
     "text_navigation_task": {
-        "file": "Annotated_Benchmarks/Text_Navigation/text_navigation_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/Text_Navigation/text_navigation_task.py",
         "function": "text_navigation_task",
     },
     "tiger_mmlu_task": {
-        "file": "Annotated_Benchmarks/Tiger_MMLU/tiger_mmlu_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/Tiger_MMLU/tiger_mmlu_task.py",
         "function": "tiger_mmlu_task",
     },
 }
@@ -126,8 +126,8 @@ def sanitize_model_name(model: str) -> str:
 def create_output_dir(model: str, output_dir: str) -> Path:
     """Create and return the output directory for logs."""
     sanitized_model = sanitize_model_name(model)
-    today = date.today().isoformat()
-    log_dir = Path(output_dir) / sanitized_model / today
+    timestamp = datetime.now().strftime("%Y-%m-%dT%H-%M-%S")
+    log_dir = Path(output_dir) / sanitized_model / timestamp
     log_dir.mkdir(parents=True, exist_ok=True)
     return log_dir
 

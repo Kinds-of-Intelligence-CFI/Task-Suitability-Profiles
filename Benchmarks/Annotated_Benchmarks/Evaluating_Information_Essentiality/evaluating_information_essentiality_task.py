@@ -44,7 +44,7 @@ def record_to_sample(record: Dict[str, Any], dataset_path: str, id : int = 0) ->
     target = chr(ord('A') + correct_index)
     sample = Sample(
         id=id,
-        input= f"Identify statements that are essential to answer a question: {record["input"]}",
+        input= f"Identify statements that are essential to answer a question: {record['input']}",
         choices=record["target_scores"].keys(),
         target=target,
         )
