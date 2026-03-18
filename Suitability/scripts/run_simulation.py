@@ -10,18 +10,14 @@ Usage:
 """
 
 import argparse
-import sys
 from pathlib import Path
-
-# Add src to path
-sys.path.insert(0, str(Path(__file__).parent.parent))
 
 import pandas as pd
 import numpy as np
 
-from src.core.capabilities import standardize_capability_names, validate_capability_alignment
-from src.utils.io import load_abilities, load_annotations
-from src.pipeline.simulation import create_simulated_data
+from Suitability.src.core.capabilities import standardize_capability_names, validate_capability_alignment
+from Suitability.src.utils.io import load_abilities, load_annotations
+from Suitability.src.pipeline.simulation import create_simulated_data
 
 
 def main():

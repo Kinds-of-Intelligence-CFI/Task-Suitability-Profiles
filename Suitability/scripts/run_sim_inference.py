@@ -35,15 +35,13 @@ import pytensor  # noqa: F401 — triggers the cl probe; suppress its stderr out
 sys.stderr = _old_stderr
 del _old_stderr
 
-sys.path.insert(0, str(Path(__file__).parent.parent))
-
 import numpy as np
 import pandas as pd
 
-from src.core.capabilities import validate_capability_alignment
-from src.utils.io import load_abilities, load_annotations
-from src.pipeline.simulation import create_simulated_data
-from src.pipeline.inference import run_inference_batch
+from Suitability.src.core.capabilities import validate_capability_alignment
+from Suitability.src.utils.io import load_abilities, load_annotations
+from Suitability.src.pipeline.simulation import create_simulated_data
+from Suitability.src.pipeline.inference import run_inference_batch
 
 
 def print_recovery_table(C_df: pd.DataFrame, results: dict, capability_cols: list):

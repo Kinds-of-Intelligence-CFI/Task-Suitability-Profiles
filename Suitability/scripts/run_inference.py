@@ -24,15 +24,12 @@ import argparse
 import sys
 from pathlib import Path
 
-# Add src to path
-sys.path.insert(0, str(Path(__file__).parent.parent))
-
 import pandas as pd
 import numpy as np
 
-from src.core.capabilities import standardize_capability_names, validate_capability_alignment, resolve_capability_filter
-from src.utils.io import load_abilities, load_annotations, load_performance_data
-from src.pipeline.inference import run_inference, run_inference_batch
+from Suitability.src.core.capabilities import standardize_capability_names, validate_capability_alignment, resolve_capability_filter
+from Suitability.src.utils.io import load_abilities, load_annotations, load_performance_data
+from Suitability.src.pipeline.inference import run_inference, run_inference_batch
 
 
 def main():

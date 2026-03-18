@@ -38,13 +38,11 @@ import argparse
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).parent.parent))
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from src.pipeline.questionnaire import (
+from Suitability.src.pipeline.questionnaire import (
     load_questionnaire_data,
     apply_quality_control,
     build_ability_matrix,
@@ -55,7 +53,7 @@ from src.pipeline.questionnaire import (
     get_participant_stats,
     DOMAIN_INFO,
 )
-from src.utils.io import save_ability_matrix
+from Suitability.src.utils.io import save_ability_matrix
 
 
 def plot_ability_matrix(

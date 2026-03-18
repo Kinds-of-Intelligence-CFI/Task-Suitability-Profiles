@@ -16,21 +16,18 @@ import argparse
 import sys
 from pathlib import Path
 
-# Add src to path
-sys.path.insert(0, str(Path(__file__).parent.parent))
-
 import pandas as pd
 import numpy as np
 
-from src.core.capabilities import standardize_capability_names
-from src.core.model import collect_capability_means, compute_capability_coverage
-from src.core.visualization import (
+from Suitability.src.core.capabilities import standardize_capability_names
+from Suitability.src.core.model import collect_capability_means, compute_capability_coverage
+from Suitability.src.core.visualization import (
     plot_radar_capabilities,
     plot_demand_distribution,
     plot_icc_curve,
     plot_forest,
 )
-from src.utils.io import load_abilities, load_annotations, load_agent_idata
+from Suitability.src.utils.io import load_abilities, load_annotations, load_agent_idata
 
 
 def main():

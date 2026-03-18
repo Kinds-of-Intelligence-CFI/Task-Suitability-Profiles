@@ -15,19 +15,15 @@ Usage:
 
 import argparse
 import sys
-from pathlib import Path
-
-# Add src to path
-sys.path.insert(0, str(Path(__file__).parent.parent))
 
 import pandas as pd
 import numpy as np
 
-from src.core.capabilities import standardize_capability_names, validate_capability_alignment
-from src.core.model import collect_capability_means
-from src.core.visualization import plot_radar_capabilities, plot_suitability_scores
-from src.utils.io import load_abilities, load_tasks, load_ability_matrix, load_agent_idata
-from src.pipeline.suitability import score_all_tasks
+from Suitability.src.core.capabilities import standardize_capability_names, validate_capability_alignment
+from Suitability.src.core.model import collect_capability_means
+from Suitability.src.core.visualization import plot_radar_capabilities, plot_suitability_scores
+from Suitability.src.utils.io import load_abilities, load_tasks, load_ability_matrix, load_agent_idata
+from Suitability.src.pipeline.suitability import score_all_tasks
 
 
 def main():

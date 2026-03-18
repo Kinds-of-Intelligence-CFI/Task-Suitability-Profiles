@@ -5,10 +5,7 @@ Generate suitability score plots for gpt-4o-mini across all domain-specific abil
 Loads each inference result once and iterates through all domain matrices.
 """
 
-import sys
 from pathlib import Path
-
-sys.path.insert(0, str(Path(__file__).parent.parent))
 
 import matplotlib
 matplotlib.use("Agg")
@@ -17,10 +14,10 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-from src.core.model import collect_capability_means
-from src.core.visualization import plot_suitability_scores
-from src.utils.io import load_abilities, load_tasks, load_ability_matrix, load_agent_idata
-from src.pipeline.suitability import score_all_tasks
+from Suitability.src.core.model import collect_capability_means
+from Suitability.src.core.visualization import plot_suitability_scores
+from Suitability.src.utils.io import load_abilities, load_tasks, load_ability_matrix, load_agent_idata
+from Suitability.src.pipeline.suitability import score_all_tasks
 
 # Configuration
 AGENT = "gpt-4o-mini"
@@ -73,7 +70,7 @@ def main():
             continue
 
         if model_capability_cols is None:
-            from src.utils.io import load_annotations
+            from Suitability.src.utils.io import load_annotations
             _, model_capability_cols, _ = load_annotations("data/processed/annotations.csv")
 
         # Generate suitability for each domain
@@ -126,7 +123,7 @@ def main():
             continue
 
         if model_capability_cols is None:
-            from src.utils.io import load_annotations
+            from Suitability.src.utils.io import load_annotations
             _, model_capability_cols, _ = load_annotations("data/processed/annotations.csv")
 
         # Collect mean suitability per domain

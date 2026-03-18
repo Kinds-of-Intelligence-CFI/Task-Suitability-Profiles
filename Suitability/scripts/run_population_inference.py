@@ -30,20 +30,17 @@ Performance CSV format:
 """
 
 import argparse
-import sys
 from pathlib import Path
-
-sys.path.insert(0, str(Path(__file__).parent.parent))
 
 import numpy as np
 import pandas as pd
 import arviz as az
 
-from src.utils.io import load_annotations, load_abilities, load_population_idata
-from src.pipeline.inference import run_population_inference
-from src.core.model import extract_population_capability_samples
-from src.core.visualization import plot_radar_capabilities
-from src.core.model import collect_capability_means
+from Suitability.src.utils.io import load_annotations, load_abilities, load_population_idata
+from Suitability.src.pipeline.inference import run_population_inference
+from Suitability.src.core.model import extract_population_capability_samples
+from Suitability.src.core.visualization import plot_radar_capabilities
+from Suitability.src.core.model import collect_capability_means
 
 
 def load_human_performance(
