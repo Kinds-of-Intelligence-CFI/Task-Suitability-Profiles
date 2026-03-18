@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "arviz>=0.23.4",
+    "datasets>=4.8.2",
     "dill>=0.4.1",
     "gymnasium>=1.2.3",
     "inspect-ai>=0.3.197",
