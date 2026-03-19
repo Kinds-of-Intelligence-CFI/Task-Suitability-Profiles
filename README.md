@@ -53,5 +53,35 @@ uv run -m Benchmarks.run_all_tasks --model <model name here>
 This will produce a single large csv containing the score the model got on each sample in the benchmarks and is saved to the `./logs/` folder by default, we have again included some results we collected from `openai/gpt-4o-mini` if you don't wish to run the evaluation yourself. There are more options available including all inspect ai arguments but more detail can be found in the other readmes.
 
 ### calculate capability profiles
+Now that we have the data on the models performance plus the annotations for what capabilities are required for each sample we can combine them to produce a capability profile for the model. To do this we can run the following command:
+```bash
+python -m Suitability.scripts.run_inference --mode llm --results <path to results file> --annotations <path to annotations file> --output <path to output folder> --agent-name <the name for this agent>
+# or 
+uv -m Suitability.scripts.run_inference --mode llm --results <path to results file> --annotations <path to annotations file> --output <path to output folder> --agent-name <the name for this agent>
+```
+We have included the results we collected from gpt-4o-mini and the annoations of each benchmark by gpt-4o at `./Suitability/data/raw/gpt-4o-mini_results.csv` and `./Suitability/data/processed/annotations.csv` respectively. However, you can use your own annotations or resutls collected from the previous sections if you wish. This will produce a folder containing the capabilitiy profile for the evaluated model which can be visualised into graphs using the following command:
+```bash
+python -m Suitability.scripts.visualize_profiles --agents <list of agent names> --idata <path to capability profiles> --output <path to save the figures to>
+# or
+uv run -m Suitability.scripts.visualize_profiles --agents <list of agent names> --idata <path to capability profiles> --output <path to save the figures to>
+```
+
+Generating the capability profiles can take a long time to run and so we have included the results from gpt-4o-mini in the folder `./Suitability/data/results` for you to use without having to run the inference yourself.
 
 ### calculate suitability
+Now that we have generated the capability profiles we can calculate how suitable a given model would be to a specific task or role. We also need an ability matrix containing the infomation about which capabilites are needed for a given role or task, we have again included a set ability matricies for you to use at `./Suitability/data/processed/ability_matrix_<domain>.csv` which contains the abilities for a variety of positions.
+```bash
+python -m Suitability.scripts.run_suitability --agents <list of agent names> --idata-base <path to capability profiles> --ability-matrix <Path to ability matrix>
+# or
+uv run -m Suitability.scripts.run_suitability --agents <list of agent names> --idata-base <path to capability profiles> --ability-matrix <Path to ability matrix> 
+# results are saved to Suitability/data/results/ by default
+```
+
+If you wish to produce your own ability matrix for a given role you can use the following command:
+```bash
+python -m Suitability.scripts.build_ability_matrix --companies <path to csv containing company data> --online <path to csv containing data collected online> --output <path to save ability matrix csv to>
+# or
+uv run -m Suitability.scripts.build_ability_matrix --companies <path to csv containing company data> --online <path to csv containing data collected online> --output <path to save ability matrix csv to>
+```
+We collcted data from both individual companies as well as online questionaires. we cannot include that data here but if you wish to collect your own data and use it to build an ability matrix please use the format used in the template at `./Suitability/data/raw/questionaire_template.csv`
+
