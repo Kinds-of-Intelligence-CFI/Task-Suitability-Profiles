@@ -7,6 +7,7 @@ import os
 import csv
 from pathlib import Path
 from typing import Any, Optional, Set
+import numpy as np
 from inspect_ai import Task, task, eval
 from inspect_ai.dataset import MemoryDataset, Sample
 from inspect_ai.scorer import Score, Scorer, Target, accuracy, scorer, stderr, stderr
@@ -61,7 +62,8 @@ def step_tool(state: TaskState, instance: str | None = None) -> Tool:
         # get the state of the current environment 
         maze_state = store_as(MazeStateModel, instance=instance)
         if maze_state.maze is None:
-            maze_state.maze = maze_game(map_width=15) # this should pull from the sample state
+            np.random.seed(state.sample_id)
+            maze_state.maze = maze_game(map_width=15)
 
         # parse the action
         action_lower = action.lower()
@@ -101,15 +103,17 @@ def message_limit_scorer() -> Scorer:
 
 @task
 def text_navigation_task() -> Task:
-    samples = [Sample(input="You enter a wicked maze.  As the (P)layer, you seek the (m)cguffin.  Find it, if you dare.  If you seek help, simply ask for it. Take the none action to get started.", id=i) for i in range(DEFAULT_NUM_SAMPLES)]
-    dataset = MemoryDataset(samples, name="text_navigation")
+    input_text = "You enter a wicked maze.  As the (P)layer, you seek the (m)cguffin.  Find it, if you dare.  If you seek help, simply ask for it. Take the none action to get started."
 
-    # Filter dataset to only include annotated samples
     annotation_csv_path = os.path.join(Path(__file__).parent, "text_navigation_annotations.csv")
     annotated_ids = get_annotated_sample_ids(annotation_csv_path)
 
     if annotated_ids:
-        dataset = dataset.filter(lambda sample: sample.id in annotated_ids)
+        samples = [Sample(input=input_text, id=i) for i in sorted(annotated_ids)]
+    else:
+        samples = [Sample(input=input_text, id=i) for i in range(DEFAULT_NUM_SAMPLES)]
+
+    dataset = MemoryDataset(samples, name="text_navigation")
 
     return Task(dataset=dataset,
                 solver=[
@@ -148,6 +152,7 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", mo
     samples = []
     for i in range(num_samples):
         input = "You enter a wicked maze.  As the (P)layer, you seek the (m)cguffin.  Find it, if you dare.  If you seek help, simply ask for it. Take the none action to get started."
+        np.random.seed(start_id + i)
         maze = maze_game(map_width=15)
         input += f"\n{maze.pretty_state()}"
         samples.append(Sample(input=input, id=start_id + i))
