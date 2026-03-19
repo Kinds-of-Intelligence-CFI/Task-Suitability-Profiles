@@ -210,3 +210,4 @@ logs/
 # Versioned annotation outputs
 Benchmarks/Annotated_Benchmarks/**/annotations/
 Benchmarks/Annotations/combined_outputs/
+/Suitability/data/results
