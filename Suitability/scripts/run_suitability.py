@@ -14,6 +14,7 @@ Usage:
 """
 
 import argparse
+from pathlib import Path
 import sys
 
 import pandas as pd
@@ -41,12 +42,12 @@ def main():
     )
     parser.add_argument(
         "--abilities",
-        default="config/abilities.csv",
+        default=Path(__file__).parent.parent / "config" / "abilities.csv",
         help="Path to abilities definition file",
     )
     parser.add_argument(
         "--tasks",
-        default="config/tasks.csv",
+        default=Path(__file__).parent.parent / "config" / "tasks.csv",
         help="Path to tasks definition file",
     )
     parser.add_argument(
@@ -56,12 +57,12 @@ def main():
     )
     parser.add_argument(
         "--output",
-        default="figures/suitability_scores.png",
+        default=Path(__file__).parent.parent / "data" / "results" / "figures" / "suitability_scores.png",
         help="Output path for suitability plot",
     )
     parser.add_argument(
         "--radar-output",
-        default="figures/capability_radar.png",
+        default=Path(__file__).parent.parent / "data" / "results" / "figures" / "capability_radar.png",
         help="Output path for radar plot",
     )
     parser.add_argument(

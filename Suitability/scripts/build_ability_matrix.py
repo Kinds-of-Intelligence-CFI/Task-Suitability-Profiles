@@ -98,12 +98,12 @@ def main():
     # Reference data
     parser.add_argument(
         "--tasks",
-        default="config/tasks.csv",
+        default=Path(__file__).parent.parent / "config" / "tasks.csv",
         help="Path to tasks definition CSV",
     )
     parser.add_argument(
         "--abilities",
-        default="config/abilities.csv",
+        default=Path(__file__).parent.parent / "config" / "abilities.csv",
         help="Path to abilities definition CSV",
     )
     parser.add_argument(

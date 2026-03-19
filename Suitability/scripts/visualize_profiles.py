@@ -45,7 +45,7 @@ def main():
     )
     parser.add_argument(
         "--abilities",
-        default="config/abilities.csv",
+        default=Path(__file__).parent.parent / "config" / "abilities.csv",
         help="Path to abilities definition file",
     )
     parser.add_argument(
