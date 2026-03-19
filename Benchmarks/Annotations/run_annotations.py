@@ -19,7 +19,7 @@ from pathlib import Path
 from typing import List, Optional
 
 from Benchmarks.Annotations.convert_rubrics import convert_rubrics_to_json
-from Benchmarks.Annotations.annotate_tasks import DEFAULT_MODEL
+from Benchmarks.Annotations.annotate_tasks import DEFAULT_MODEL, combine_annotations, sanitize_model_name
 
 DEFAULT_NUM_SAMPLES = 10
 
@@ -273,6 +273,11 @@ Examples:
         help="Message limit per sample for the annotation agent. "
              "Useful for testing with mock models (e.g., --message-limit 3)."
     )
+    parser.add_argument(
+        "--skip-combine",
+        action="store_true",
+        help="Skip producing the combined wide-format annotations CSV after the run"
+    )
 
     args = parser.parse_args()
 
@@ -353,6 +358,22 @@ Examples:
     print(f"Successful: {successful}")
     print(f"Failed: {failed}")
     print(f"Total: {len(filtered_tasks)}")
+
+    # Combine annotations into a single wide-format CSV
+    if not args.skip_combine:
+        safe_model = sanitize_model_name(args.model)
+        combined_output = os.path.join(
+            Path(__file__).parent,
+            "combined_outputs",
+            f"{safe_model}_{timestamp}.csv",
+        )
+        print(f"\nCombining annotations into wide format...")
+        evaluations_path = os.path.join(script_dir, args.evaluations_dir)
+        result_path = combine_annotations(evaluations_path, combined_output)
+        if result_path:
+            print(f"Combined annotations written to: {result_path}")
+        else:
+            print("No annotation data found to combine.")
 
     return 0 if failed == 0 else 1
 

@@ -4,6 +4,8 @@
 import json
 import os
 import csv
+import glob
+from collections import defaultdict
 from pathlib import Path
 from inspect_ai import Task, task
 from inspect_ai.dataset import Dataset, MemoryDataset, Sample
@@ -189,6 +191,85 @@ def extract_annotations(log: EvalLog, output_file: str, mode: str = "overwrite")
     else:
         raise ValueError(f"Invalid mode: {mode}. Must be 'overwrite' or 'append'")
 
+
+def combine_annotations(evaluations_dir: str, output_path: str) -> str | None:
+    """Combine per-benchmark long-format annotation CSVs into one wide-format CSV.
+
+    Args:
+        evaluations_dir: Path to the directory containing benchmark subdirectories
+            (e.g. 'Benchmarks/Annotated_Benchmarks').
+        output_path: Where to write the combined wide-format CSV.
+
+    Returns:
+        The output_path on success, or None if no annotation data was found.
+    """
+    rubric_file = os.path.join(Path(__file__).parent, "rubric.json")
+    with open(rubric_file, "r") as f:
+        rubric_data = json.load(f)
+    capability_columns = [entry["dimension"] for entry in rubric_data]
+
+    # Discover annotation CSVs and group by parent directory
+    pattern = os.path.join(evaluations_dir, "**", "*_annotations.csv")
+    csv_files = glob.glob(pattern, recursive=True)
+    if not csv_files:
+        return None
+
+    # Group CSVs by their immediate parent directory
+    dir_to_csvs: dict[str, list[str]] = defaultdict(list)
+    for csv_file in csv_files:
+        parent = os.path.basename(os.path.dirname(csv_file))
+        dir_to_csvs[parent].append(csv_file)
+
+    # Build dataset name mapping
+    def dataset_name_for(csv_path: str, parent_dir: str, sibling_count: int) -> str:
+        basename = os.path.splitext(os.path.basename(csv_path))[0]  # e.g. agieval_freeform_annotations
+        basename = basename.removesuffix("_annotations")  # e.g. agieval_freeform
+        if sibling_count == 1:
+            return parent_dir
+        # Multi-CSV directory: strip the lowercased dir name prefix to get the suffix
+        prefix = parent_dir.lower() + "_"
+        if basename.startswith(prefix):
+            suffix = basename[len(prefix):]
+        else:
+            suffix = basename
+        return f"{parent_dir}_{suffix}"
+
+    # Read all CSVs and pivot to wide format
+    # Key: (dataset_name, sample_id) -> {dimension: score}
+    rows: dict[tuple[str, str], dict[str, str]] = {}
+    skip_dimensions = {"ambiguity", "factuality"}
+
+    for parent_dir, csv_paths in sorted(dir_to_csvs.items()):
+        sibling_count = len(csv_paths)
+        for csv_path in sorted(csv_paths):
+            ds_name = dataset_name_for(csv_path, parent_dir, sibling_count)
+            with open(csv_path, "r", newline="", encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    dimension = row.get("dimension", "")
+                    if dimension.lower() in skip_dimensions:
+                        continue
+                    sample_id = row.get("sample id", "")
+                    score = row.get("score", "")
+                    key = (ds_name, sample_id)
+                    if key not in rows:
+                        rows[key] = {}
+                    rows[key][dimension] = score
+
+    if not rows:
+        return None
+
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+    with open(output_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["dataset name", "sample id"] + capability_columns)
+        for (ds_name, sample_id) in sorted(rows.keys()):
+            dim_scores = rows[(ds_name, sample_id)]
+            row_values = [dim_scores.get(col, "") for col in capability_columns]
+            writer.writerow([ds_name, sample_id] + row_values)
+
+    return output_path
 
 
 
