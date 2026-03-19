@@ -18,9 +18,17 @@ from .extract_logs_to_csv import logs_to_csv
 
 
 TASKS = {
+    "abstract_narrative_understanding_task": {
+        "file": "Benchmarks/Annotated_Benchmarks/Abstract_Narrative_Understanding/abstract_narrartive_understanding_task.py",
+        "function": "abstract_narrative_understanding_task",
+    },
     "agieval_mcq_task": {
         "file": "Benchmarks/Annotated_Benchmarks/AGIEval/agieval_task.py",
         "function": "agieval_mcq_task",
+    },
+    "agieval_freeform_task": {
+        "file": "Benchmarks/Annotated_Benchmarks/AGIEval/agieval_task.py",
+        "function": "agieval_freeform_task",
     },
     "bigbenchhard_task": {
         "file": "Benchmarks/Annotated_Benchmarks/BigBenchHard/bigbenchhard_task.py",
