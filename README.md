@@ -41,7 +41,7 @@ pip install -e .
 # for uv
 uv sync 
 ```
-If you wish to run any of the language models using an api you will need to set the api key for that model, this is provider dependent but generally will look something like.
+If you wish to run any AI systems using an API you will need to set the API key for that model, this is provider dependent but generally will look something like.
 ```bash
 export OPENAI_API_KEY=<your api key here>
 ``` 
