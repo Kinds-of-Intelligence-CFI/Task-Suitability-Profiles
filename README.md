@@ -48,7 +48,7 @@ export OPENAI_API_KEY=<your api key here>
 alternatively you can create a `.env` file in the root of this repo and set the api keys in there
 
 ### annotate benchmarks
-To create a set of annotations for the benchmark we have included a script that will evaluate each item in the benchmarks according to the rubrics specified in the rubrics folder. To create the annotations run the following command:
+To annotate benchmarks, we have included a script that will evaluate each item in the benchmarks according to the rubrics specified in the rubrics folder. To create the annotations run the following command:
 
 ```bash
 python -m Benchmarks.Annotations.run_annotations --model <model name here> 
