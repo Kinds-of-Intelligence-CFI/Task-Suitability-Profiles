@@ -26,7 +26,7 @@ This README focuses on helping you get started and walks through a complete work
 ## Getting started
 
 ### setup
-The first step in setting up this repo is to create a virtual environment either using `venv` or `uv`.
+The first step is to create a virtual environment either using `venv` or `uv`.
 ```bash
 # for venv
 python -m venv .venv
