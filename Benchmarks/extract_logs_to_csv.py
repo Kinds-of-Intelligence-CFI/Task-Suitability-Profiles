@@ -14,6 +14,34 @@ from pathlib import Path
 
 from inspect_ai.log import read_eval_log, EvalLog, EvalSample
 
+TASK_TO_DATASET = {
+    "abstract_narrative_understanding_task": "abstract_narrative_understanding",
+    "agieval_freeform_task": "AGIEval_freeform",
+    "agieval_mcq_task": "AGIEval_mcq",
+    "bigbenchhard_task": "BigBenchHard",
+    "bigtom_task": "BigToM",
+    "cause_and_effect_task": "Cause_and_Effect",
+    "coqa_task": "CoQA",
+    "decompose_task": "LLM_BabyBench_decompose",
+    "emobench_task": "EmoBench",
+    "evaluating_information_essentiality_task": "Evaluating_Information_Essentiality",
+    "ewok_task": "EWoK",
+    "fantasy_reasoning_task": "Fantasy_Reasoning",
+    "fantom_task": "Fantom",
+    "intuit_task": "INTUIT",
+    "known_unknowns_task": "Known_Unknowns",
+    "macgyver_task": "MacGyver",
+    "metamedqa_task": "MetaMedQA",
+    "opentom_task": "OpenTOM",
+    "plan_bench_task": "Plan_Bench",
+    "plan_task": "LLM_BabyBench_plan",
+    "predict_task": "LLM_BabyBench_predict",
+    "socialnorm_task": "SocialNorm",
+    "stepgame_task": "StepGame",
+    "text_navigation_task": "Text_Navigation",
+    "tiger_mmlu_task": "Tiger_MMLU",
+}
+
 
 def sanitize_for_csv(data: dict | None) -> str:
     """Convert metadata dict to JSON string with commas replaced by semicolons."""
@@ -55,6 +83,7 @@ def extract_log_to_rows(log: EvalLog) -> list[dict]:
             "sample_id": sample.id,
             "score": get_primary_score(sample),
             "metadata": sanitize_for_csv(sample.metadata),
+            "dataset_name": TASK_TO_DATASET.get(task_name, ""),
         }
         rows.append(row)
 
@@ -99,7 +128,7 @@ def logs_to_csv(log_paths: list[str], output_path: str) -> None:
 
     with open(output_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
-            f, fieldnames=["task_name", "sample_id", "score", "metadata"]
+            f, fieldnames=["task_name", "sample_id", "score", "metadata", "dataset_name"]
         )
         writer.writeheader()
         writer.writerows(all_rows)
