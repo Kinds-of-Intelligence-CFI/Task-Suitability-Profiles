@@ -45,7 +45,18 @@ If you wish to run any AI systems using an API you will need to set the API key 
 ```bash
 export OPENAI_API_KEY=<your api key here>
 ``` 
-alternatively you can create a `.env` file in the root of this repo and set the api keys in there
+alternatively you can create a `.env` file in the root of this repo and set the api keys in there.
+
+Finally, You will need to download the dataset file for the `INTUIT` dataset from [here](https://github.com/Kinds-of-Intelligence-CFI/VIGNET) and you will need to sign in to or create a hugging face account and accept the terms of use for the datasets:
+https://huggingface.co/datasets/ZhengyanShi/StepGame
+https://huggingface.co/datasets/NEWTONReasoning/NEWTON 
+https://huggingface.co/datasets/ewok-core/ewok-core-1.0 
+https://huggingface.co/datasets/salem-mbzuai/LLM-BabyBench
+https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
+https://huggingface.co/datasets/deepmind/narrativeqa
+https://huggingface.co/datasets/maximegmd/MetaMedQA
+https://huggingface.co/datasets/socialnormdataset/social
+
 
 ### annotate benchmarks
 To annotate benchmarks, we have included a script that will evaluate each item in the benchmarks according to the rubrics specified in the rubrics folder. To create the annotations run the following command:
