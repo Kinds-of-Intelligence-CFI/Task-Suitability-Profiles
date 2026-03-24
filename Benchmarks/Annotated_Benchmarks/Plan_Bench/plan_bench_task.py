@@ -255,7 +255,7 @@ def ppdl_extractor_scorer(model: list[str | Model] | str | Model | None = None) 
         output = ""
         for answer in state.output.choices:
             
-            output += answer.message.content + "\n"
+            output += answer.message.text + "\n"
         # query the model for the score
         converted_plan = await model.generate([
             ChatMessageUser(content=
@@ -263,7 +263,7 @@ def ppdl_extractor_scorer(model: list[str | Model] | str | Model | None = None) 
                         )
                     ]
                 )
-        content = converted_plan.choices[0].message.content
+        content = converted_plan.choices[0].message.text
         if content in target.text:
             return Score(value=1.0, explanation=f"original text: {output}\nconverted plan: {content}\ntarget: {target.text}")
         else:
