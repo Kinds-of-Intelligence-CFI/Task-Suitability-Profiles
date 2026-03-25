@@ -192,7 +192,7 @@ def extract_annotations(log: EvalLog, output_file: str, mode: str = "overwrite")
         raise ValueError(f"Invalid mode: {mode}. Must be 'overwrite' or 'append'")
 
 
-def combine_annotations(evaluations_dir: str, output_path: str) -> str | None:
+def combine_annotations(evaluations_dir: str, output_path: str, exclude_datasets: set[str] | None = None) -> str | None:
     """Combine per-benchmark long-format annotation CSVs into one wide-format CSV.
 
     Args:
@@ -240,6 +240,8 @@ def combine_annotations(evaluations_dir: str, output_path: str) -> str | None:
     skip_dimensions = {"ambiguity", "factuality"}
 
     for parent_dir, csv_paths in sorted(dir_to_csvs.items()):
+        if exclude_datasets and parent_dir in exclude_datasets:
+            continue
         sibling_count = len(csv_paths)
         for csv_path in sorted(csv_paths):
             ds_name = dataset_name_for(csv_path, parent_dir, sibling_count)
