@@ -1,4 +1,4 @@
-"""Clear specific columns in a CSV file while preserving headers.
+"""A Script to clear out specific columns of a csv file, used to redact any person information from the questionaire results.
 
 Usage:
     uv run python Suitability/scripts/clear_csv_columns.py path/to/data.csv
