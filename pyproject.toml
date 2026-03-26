@@ -8,6 +8,7 @@ dependencies = [
     "arviz>=0.23.4",
     "datasets>=4.8.2",
     "dill>=0.4.1",
+    "google-genai>=1.68.0",
     "gymnasium>=1.2.3",
     "inspect-ai>=0.3.197",
     "matplotlib>=3.10.8",
