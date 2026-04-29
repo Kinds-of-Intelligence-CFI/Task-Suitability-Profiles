@@ -8,30 +8,30 @@ by data source (companies/online) and domain.
 
 Usage:
     # Build matrix from all data
-    python scripts/build_ability_matrix.py \
-        --companies questionnaire/Future_of_skills_companies_20260112.csv \
-        --online questionnaire/Future_of_skills_online_20260112.csv \
-        --output data/processed/ability_matrix_all.csv
+    python -m Suitability.scripts.build_ability_matrix \
+        --companies Suitability/data/raw/company_data.csv \
+        --online Suitability/data/raw/online_data.csv \
+        --output Suitability/data/processed/ability_matrix_all.csv
 
     # Build matrix for specific domain
-    python scripts/build_ability_matrix.py \
-        --companies questionnaire/Future_of_skills_companies_20260112.csv \
-        --online questionnaire/Future_of_skills_online_20260112.csv \
+    python -m Suitability.scripts.build_ability_matrix \
+        --companies Suitability/data/raw/company_data.csv \
+        --online Suitability/data/raw/online_data.csv \
         --domain 3 \
-        --output data/processed/ability_matrix_NDP.csv
+        --output Suitability/data/processed/ability_matrix_NDP.csv
 
     # Build matrix from online participants only
-    python scripts/build_ability_matrix.py \
-        --online questionnaire/Future_of_skills_online_20260112.csv \
+    python -m Suitability.scripts.build_ability_matrix \
+        --online Suitability/data/raw/online_data.csv \
         --source online \
-        --output data/processed/ability_matrix_online.csv
+        --output Suitability/data/processed/ability_matrix_online.csv
 
     # Build matrices for all domains
-    python scripts/build_ability_matrix.py \
-        --companies questionnaire/Future_of_skills_companies_20260112.csv \
-        --online questionnaire/Future_of_skills_online_20260112.csv \
+    python -m Suitability.scripts.build_ability_matrix \
+        --companies Suitability/data/raw/company_data.csv \
+        --online Suitability/data/raw/online_data.csv \
         --all-domains \
-        --output data/processed/ability_matrix
+        --output Suitability/data/processed/ability_matrix
 """
 
 import argparse

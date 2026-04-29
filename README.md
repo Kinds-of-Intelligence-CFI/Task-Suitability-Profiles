@@ -47,29 +47,21 @@ export OPENAI_API_KEY=<your api key here>
 ``` 
 alternatively you can create a `.env` file in the root of this repo and set the api keys in there.
 
-Finally, You will need to download the dataset file for the `INTUIT` dataset from [here](https://github.com/Kinds-of-Intelligence-CFI/VIGNET) and you will need to sign in to or create a hugging face account and accept the terms of use for the datasets:
-https://huggingface.co/datasets/ZhengyanShi/StepGame
-https://huggingface.co/datasets/NEWTONReasoning/NEWTON 
-https://huggingface.co/datasets/ewok-core/ewok-core-1.0 
-https://huggingface.co/datasets/salem-mbzuai/LLM-BabyBench
-https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro
-https://huggingface.co/datasets/deepmind/narrativeqa
-https://huggingface.co/datasets/maximegmd/MetaMedQA
-https://huggingface.co/datasets/socialnormdataset/social
-
+Some benchmarks require downloading datasets from Hugging Face or GitHub. See the [Benchmarks README](Benchmarks/README.md#dataset-access) for the full list and instructions.
 
 ### annotate benchmarks
-To annotate benchmarks, we have included a script that will evaluate each item in the benchmarks according to the rubrics specified in the rubrics folder. To create the annotations run the following command:
+Following recent work (see https://arxiv.org/abs/2503.06378), we use a Large Language Model (LLM) annotator to rate benchmark items according to their cognitive demands as specified by rubrics crafted by domain experts.
+
+We have selected relevant benchmarks for the cognitive capabilities we are evaluating, and have completed a full annotation run of these benchmarks using `openai/gpt-4o` (annotations.csv)
+
+To perform your own annotations run:
 
 ```bash
 python -m Benchmarks.Annotations.run_annotations --model <model name here> 
 # or
 uv run -m Benchmarks.Annotations.run_annotations --model <model name here> 
 ```
-This can take a long time to run and cost alot of tokens as each item in the benchmarks must be processed one per dimension in the rubric. To help with this we have included the results from an annotation run by `openai/gpt-4o` as the annotations csv file in the root of each task directory, new annotations will be created in a subfolder of each task directory.
-
-There are many more options to control the annotation process but they have been set to reasonable defaults, if you want more information look at the other readmes in the subfolders of this repo.
-
+Further information regarding benchmark annotation is contained in the subfolder readme.
 
 ### evaluate models
 Once you have created an annotation or chosen to use the provided default annotations you can start evaluating a model you are interested in. You can manually run any benchmark in the project but we have included a script that will run them for you. To evaluate a model on each of the benchmarks run the following command:
@@ -111,5 +103,5 @@ python -m Suitability.scripts.build_ability_matrix --companies <path to csv cont
 # or
 uv run -m Suitability.scripts.build_ability_matrix --companies <path to csv containing company data> --online <path to csv containing data collected online> --output <path to save ability matrix csv to>
 ```
-We collected data from both individual companies as well as online questionnaires. we cannot include that data here but if you wish to collect your own data and use it to build an ability matrix please use the format used in the template at `./Suitability/data/raw/questionaire_template.csv`
+To collect your own task demand data, use the questionnaire template at `./Suitability/data/raw/questionaire_template.csv`. The Qualtrics survey file (`Future_of_Skills_Questionnaire.qsf`) and the accompanying interview script (`Interview script.pdf`) are included in this repository if you wish to run your own data collection.
 
