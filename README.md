@@ -1,6 +1,6 @@
 # Task Suitability Profiles
 
-This repo contains the code for assessing the suitability of AI systems are for tasks and roles in the workforce. It provides a pipeline to:
+This repo contains the code for assessing the suitability of AI systems for tasks and roles in the workforce. It provides a pipeline to:
 
 1. Annotate benchmarks using capability-based profiling.  
 2. Evaluate the performance of a chosen AI system on these benchmarks.  
