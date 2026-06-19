@@ -271,11 +271,17 @@ def fit_agent(
     Returns:
         Tuple of (InferenceData, Model)
     """
-    Y = performance_df.loc[agent_name, item_index].to_numpy(int)
+    Y_raw = performance_df.loc[agent_name, item_index].to_numpy(float)
+    valid = ~np.isnan(Y_raw)
+    if not valid.all():
+        n_dropped = (~valid).sum()
+        print(f"    Warning: dropping {n_dropped} items with NaN scores for {agent_name}")
+    Y = Y_raw[valid].astype(int)
+    D_fit = demand_matrix[valid]
 
     model = build_capability_model(
         Y=Y,
-        D=demand_matrix,
+        D=D_fit,
         lam=lam,
         mu_c=model_kwargs.get("mu_c", 3.0),
         sigma_c=model_kwargs.get("sigma_c", 1.0),

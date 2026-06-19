@@ -106,7 +106,7 @@ def compute_suitability_scores(
     demand_df: pd.DataFrame,
     task: str,
     draws_cap: int = 2000,
-    use_ratio: bool = False,
+    use_ratio: bool = True,
     weight_uncertainty: Optional[str] = None,
     kappa: float = 200.0,
     power_param: float = 2.0,
@@ -122,7 +122,7 @@ def compute_suitability_scores(
         demand_df: DataFrame with tasks as rows, capabilities as columns
         task: Task name (row in demand_df)
         draws_cap: Number of posterior draws to use
-        use_ratio: If True, exponentiate capabilities (use theta instead of c)
+        use_ratio: If True (default), exponentiate capabilities (use theta instead of c)
         weight_uncertainty: If "dirichlet", sample weights from Dirichlet
         kappa: Concentration parameter for Dirichlet sampling
         power_param: Power for aggregation (1=arithmetic, 2=quadratic mean)
@@ -204,7 +204,7 @@ def score_all_tasks(
     demand_df: pd.DataFrame,
     tasks: Optional[List[str]] = None,
     draws_cap: int = 2000,
-    use_ratio: bool = False,
+    use_ratio: bool = True,
     weight_uncertainty: str = "dirichlet",
     kappa: float = 300.0,
     power_param: float = 2.0,
@@ -221,7 +221,7 @@ def score_all_tasks(
         demand_df: DataFrame with tasks as rows, capabilities as columns
         tasks: List of tasks to score (default: all rows in demand_df)
         draws_cap: Number of posterior draws to use
-        use_ratio: If True, use exponentiated capabilities
+        use_ratio: If True (default), use exponentiated capabilities
         weight_uncertainty: Uncertainty method for weights
         kappa: Concentration parameter for Dirichlet
         power_param: Power for aggregation

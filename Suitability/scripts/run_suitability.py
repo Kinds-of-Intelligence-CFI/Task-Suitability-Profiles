@@ -68,13 +68,13 @@ def main():
     parser.add_argument(
         "--power",
         type=float,
-        default=1.5,
+        default=0.5,
         help="Power parameter for aggregation",
     )
     parser.add_argument(
         "--kappa",
         type=float,
-        default=300.0,
+        default=500.0,
         help="Dirichlet concentration parameter",
     )
     parser.add_argument(
@@ -94,8 +94,10 @@ def main():
     )
     parser.add_argument(
         "--use-ratio",
-        action="store_true",
-        help="Use ratio-scale capabilities (theta = exp(c)) instead of log-scale. Required for negative power values.",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Use ratio-scale capabilities (theta = exp(c)) instead of log-scale "
+             "(default: True; pass --no-use-ratio to score on log-scale c).",
     )
     parser.add_argument(
         "--no-show",

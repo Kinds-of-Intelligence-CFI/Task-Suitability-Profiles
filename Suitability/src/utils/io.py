@@ -360,6 +360,15 @@ def load_performance_data(
     )
     results_df = pd.read_csv(results_path)
 
+    # Deduplicate results: keep the row with a valid score if one exists, else first occurrence
+    n_before = len(results_df)
+    results_df = results_df.sort_values(score_col, na_position="last").drop_duplicates(
+        subset=["dataset_name", "sample_id"], keep="first"
+    )
+    n_dropped = n_before - len(results_df)
+    if n_dropped > 0:
+        print(f"    Note: dropped {n_dropped} duplicate result rows (kept highest score per item)")
+
     # Merge on identifiers
     merged = annotations_df.merge(
         results_df,
