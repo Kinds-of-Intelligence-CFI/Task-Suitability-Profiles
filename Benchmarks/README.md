@@ -95,6 +95,62 @@ To preview which tasks would run without executing them:
 python -m Benchmarks.run_all_tasks --model openai/gpt-4o --dry-run
 ```
 
+## Benchmarking Local Model Speed
+
+Local Hugging Face models run through Inspect's `hf/` provider (transformers) or
+`vllm/` provider, so no task changes are needed -- only the model string changes and
+the backend must be installed. The runner can also measure throughput and peak memory.
+
+### Install
+
+The inference backends (`transformers` for `hf/`, `vllm` for `vllm/`) ship as part of
+the main dependencies, so a normal `uv sync` installs them. Note that `vllm` requires a
+CUDA GPU, so on a CPU/Apple-MPS laptop use only the `hf/` provider.
+
+```bash
+uv sync
+```
+
+### Run with timing
+
+Pass `--timing` to sample peak RAM/VRAM during each eval and extract throughput. Pin
+`--limit` and `--max-tokens` so each machine does the same amount of work:
+
+```bash
+# Laptop (transformers, sequential for clean per-sample numbers)
+uv run -m Benchmarks.run_all_tasks --model hf/Qwen/Qwen2.5-1.5B-Instruct \
+  --include coqa_task tiger_mmlu_task --limit 50 \
+  --max-connections 1 --max-tokens 256 --timing -M device=mps
+
+# Server (vLLM, concurrent for realistic throughput)
+uv run -m Benchmarks.run_all_tasks --model vllm/Qwen/Qwen2.5-1.5B-Instruct \
+  --include coqa_task tiger_mmlu_task --limit 50 \
+  --max-tokens 256 --timing -M gpu_memory_utilization=0.9
+```
+
+`-M` passes model arguments through to the provider (e.g. `device`, `gpu_memory_utilization`).
+
+### Outputs
+
+In addition to the usual `results.csv`, `--timing` writes to the log directory:
+
+- `timing_summary.csv` -- one row per task: `eval_wall_seconds`, `total_output_tokens`,
+  `aggregate_tokens_per_sec`, plus mean/p50/p95 of per-sample tokens/sec and working time.
+- `timing_per_sample.csv` -- per-sample `total_time`, `working_time`, token counts, and
+  `output_tokens_per_sec`.
+- `memory.csv` -- per-task `peak_ram_mb` and `peak_vram_mb` (VRAM is blank without an
+  NVIDIA GPU; RAM requires `psutil`, included in the `local` extra).
+
+### Fairness caveats
+
+- Use **`aggregate_tokens_per_sec`** (total output tokens over the eval wall-clock) for
+  cross-machine comparison. Under vLLM batching the per-sample `working_time` windows
+  overlap, so the per-sample tokens/sec stats are only meaningful with
+  `--max-connections 1` (sequential).
+- `--max-tokens` caps generation length so throughput is not dominated by some samples
+  happening to generate much longer outputs than others.
+- VRAM is sampled per-process via `nvidia-smi`; close other GPU jobs for clean numbers.
+
 ## Adding a New Benchmark
 
 ### 1. Create the benchmark directory
