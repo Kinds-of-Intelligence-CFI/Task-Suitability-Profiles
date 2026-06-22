@@ -24,7 +24,16 @@ dependencies = [
     "scipy>=1.15.3",
     "seaborn>=0.13.2",
     "typing-extensions>=4.15.0",
+    "torch",
+    "transformers",
+    "accelerate",
+    "psutil",
 ]
 
 [tool.setuptools.packages.find]
 include = ["Benchmarks*", "Suitability*"]
+
+[dependency-groups]
+vllm = [
+    "vllm>=0.23.0",
+]
