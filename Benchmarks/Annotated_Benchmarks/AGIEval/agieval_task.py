@@ -9,7 +9,7 @@ from inspect_ai.scorer import choice, model_graded_qa
 from inspect_ai.solver import Choices, basic_agent, multiple_choice
 from inspect_ai._util.answer import answer_character, answer_index
 
-from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations, versioned_output_path, DEFAULT_MODEL
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations, versioned_output_path, DEFAULT_MODEL, target_ids_from_csv, run_annotation_eval
 from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 SINGLE_ANSWER_TEMPLATE_COT = r"""
@@ -154,36 +154,28 @@ def convert_input_to_string(dataset: Dataset) -> Dataset:
 
     return dataset
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = ""):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = "", sample_fraction: float = 1.0):
     dataset_dir = os.path.join(Path(__file__).parent, "v1_1")
     output_path_mcq = os.path.join(Path(__file__).parent, "agieval_mcq_annotations.csv")
     dataset_mcq = custom_loader(dataset_dir=dataset_dir, mcq=True)
     dataset_mcq = convert_input_to_string(dataset_mcq)
 
-    # Shuffle dataset for reproducibility FIRST
-    dataset_mcq.shuffle(42)
+    target_ids_mcq = target_ids_from_csv(
+        output_path_mcq,
+        num_samples=num_samples if sample_fraction < 1.0 else None,
+    )
 
-    if mode == "append":
-        already_annotated_ids = get_annotated_sample_ids(output_path_mcq)
-        if already_annotated_ids:
-            dataset_mcq = dataset_mcq.filter(lambda sample: sample.id not in already_annotated_ids)
-        # Calculate remaining samples needed
-        remaining_samples = len(dataset_mcq)
-        if remaining_samples <= 0:
-            print(f"All MCQ samples already annotated. Skipping MCQ annotation.")
-        else:
-            # Take only what we need
-            dataset_mcq = dataset_mcq[:min(num_samples, remaining_samples)]
-            annotation_task = annotate_task(dataset_mcq)
-            log = eval(annotation_task, model=model)
-            mcq_out = versioned_output_path(output_path_mcq, model, timestamp) if timestamp else output_path_mcq
-            extract_annotations(log[0], mcq_out, "overwrite" if timestamp else mode)
+    mcq_out = versioned_output_path(output_path_mcq, model, timestamp) if timestamp else output_path_mcq
+    if mode == "append" and os.path.exists(mcq_out):
+        already_done = {str(sid) for sid in get_annotated_sample_ids(mcq_out)}
+        target_ids_mcq = target_ids_mcq - already_done
+
+    if not target_ids_mcq:
+        print("All MCQ samples already annotated. Skipping MCQ annotation.")
     else:
-        # Overwrite mode - take first num_samples after shuffle
-        dataset_mcq = dataset_mcq[:num_samples]
+        dataset_mcq = dataset_mcq.filter(lambda sample: str(sample.id) in target_ids_mcq)
         annotation_task = annotate_task(dataset_mcq)
-        log = eval(annotation_task, model=model)
-        mcq_out = versioned_output_path(output_path_mcq, model, timestamp) if timestamp else output_path_mcq
+        log = run_annotation_eval(annotation_task, model=model)
         extract_annotations(log[0], mcq_out, "overwrite" if timestamp else mode)
 
 
@@ -191,28 +183,23 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", mo
     dataset_freeform = custom_loader(dataset_dir=dataset_dir, mcq=False)
     dataset_freeform = convert_input_to_string(dataset_freeform)
 
-    # Shuffle dataset for reproducibility FIRST
-    dataset_freeform.shuffle(42)
+    target_ids_freeform = target_ids_from_csv(
+        output_path_freeform,
+        num_samples=num_samples if sample_fraction < 1.0 else None,
+    )
 
-    if mode == "append":
-        already_annotated_ids_freeform = get_annotated_sample_ids(output_path_freeform)
-        if already_annotated_ids_freeform:
-            dataset_freeform = dataset_freeform.filter(lambda sample: sample.id not in already_annotated_ids_freeform)
-        # Calculate remaining samples needed
-        remaining_samples_freeform = len(dataset_freeform)
-        if remaining_samples_freeform <= 0:
-            print(f"All freeform samples already annotated. Skipping freeform annotation.")
-            return
-        else:
-            # Take only what we need
-            dataset_freeform = dataset_freeform[:min(num_samples, remaining_samples_freeform)]
-    else:
-        # Overwrite mode - take first num_samples after shuffle
-        dataset_freeform = dataset_freeform[:num_samples]
-
-    annotation_task = annotate_task(dataset_freeform)
-    log = eval(annotation_task, model=model)
     freeform_out = versioned_output_path(output_path_freeform, model, timestamp) if timestamp else output_path_freeform
+    if mode == "append" and os.path.exists(freeform_out):
+        already_done = {str(sid) for sid in get_annotated_sample_ids(freeform_out)}
+        target_ids_freeform = target_ids_freeform - already_done
+
+    if not target_ids_freeform:
+        print("All freeform samples already annotated. Skipping freeform annotation.")
+        return
+
+    dataset_freeform = dataset_freeform.filter(lambda sample: str(sample.id) in target_ids_freeform)
+    annotation_task = annotate_task(dataset_freeform)
+    log = run_annotation_eval(annotation_task, model=model)
     extract_annotations(log[0], freeform_out, "overwrite" if timestamp else mode)
 
 

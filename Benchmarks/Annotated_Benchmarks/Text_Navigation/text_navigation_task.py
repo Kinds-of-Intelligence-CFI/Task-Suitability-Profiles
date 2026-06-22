@@ -16,7 +16,7 @@ from inspect_ai.tool import Tool, tool
 from inspect_ai.util import StoreModel, message_limit, store_as
 from pydantic import Field
 
-from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations, versioned_output_path, DEFAULT_MODEL
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations, versioned_output_path, DEFAULT_MODEL, target_ids_from_csv, run_annotation_eval
 from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 from Benchmarks.Annotated_Benchmarks.Text_Navigation.maze import maze_game
 
@@ -127,40 +127,35 @@ def text_navigation_task() -> Task:
 
 
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = ""):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = "", sample_fraction: float = 1.0):
     output_path = os.path.join(Path(__file__).parent, "text_navigation_annotations.csv")
 
+    target_ids = {int(sid) for sid in target_ids_from_csv(
+        output_path,
+        num_samples=num_samples if sample_fraction < 1.0 else None,
+    )}
+
     if mode == "append":
-        # Get already annotated sample IDs
-        already_annotated_ids = get_annotated_sample_ids(output_path)
-
-        # Calculate remaining samples needed
-        remaining_samples = min(num_samples, num_samples - len(already_annotated_ids))
-
-        # Only proceed if there are remaining samples to annotate
-        if remaining_samples <= 0:
-            print(f"All {len(already_annotated_ids)} samples already annotated. Nothing to do.")
+        resume_path = versioned_output_path(output_path, model, timestamp) if timestamp else output_path
+        if os.path.exists(resume_path):
+            already_done = get_annotated_sample_ids(resume_path)
+            target_ids = target_ids - already_done
+        if not target_ids:
+            print(f"All target samples already annotated for this task.")
             return
 
-        # Start ID from highest existing ID + 1
-        start_id = max(already_annotated_ids) + 1 if already_annotated_ids else 0
-        num_samples = remaining_samples
-    else:
-        start_id = 0
-
-    # make a dataset manually
     samples = []
-    for i in range(num_samples):
+    for sid in sorted(target_ids):
         input = "You enter a wicked maze.  As the (P)layer, you seek the (m)cguffin.  Find it, if you dare.  If you seek help, simply ask for it. Take the none action to get started."
-        np.random.seed(start_id + i)
+        np.random.seed(sid)
         maze = maze_game(map_width=15)
         input += f"\n{maze.pretty_state()}"
-        samples.append(Sample(input=input, id=start_id + i))
+        samples.append(Sample(input=input, id=sid))
 
     dataset = MemoryDataset(samples=samples, name="text_navigation")
 
     annotation_task = annotate_task(dataset)
-    log = eval(annotation_task, model=model)
+    log = run_annotation_eval(annotation_task, model=model)
     if timestamp:
         output_path = versioned_output_path(output_path, model, timestamp)
     extract_annotations(log[0], output_path, "overwrite" if timestamp else mode)

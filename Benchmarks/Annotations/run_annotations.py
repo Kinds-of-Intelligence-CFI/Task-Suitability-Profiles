@@ -10,6 +10,7 @@ to a CSV file in its respective directory.
 import argparse
 import glob
 import json
+import math
 import os
 import subprocess
 import sys
@@ -127,7 +128,7 @@ def get_task_name(task_file: str) -> str:
     return os.path.basename(os.path.dirname(task_file))
 
 
-def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = False, num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = "", message_limit: Optional[int] = None) -> bool:
+def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = False, num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = "", message_limit: Optional[int] = None, sample_fraction: float = 1.0) -> bool:
     """
     Run a single task file and return True if successful.
 
@@ -139,6 +140,9 @@ def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = Fals
         mode: Annotation mode - "overwrite" or "append"
         model: Model to use for annotation
         timestamp: Shared timestamp for this annotation run
+        sample_fraction: When < 1.0, annotate() picks a deterministic
+            subset of the canonical annotation CSV's IDs instead of
+            shuffle-and-take.
 
     Returns:
         True if the task completed successfully, False otherwise
@@ -150,7 +154,12 @@ def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = Fals
 
     # Create the command to import the module and call annotate()
     module_name = os.path.splitext(os.path.basename(task_file))[0]
-    import_cmd = f"import sys; sys.path.insert(0, '.'); from {module_name} import annotate; annotate({num_samples}, '{mode}', '{model}', '{timestamp}')"
+    import_cmd = (
+        f"import sys; sys.path.insert(0, '.'); "
+        f"from {module_name} import annotate; "
+        f"annotate({num_samples}, '{mode}', '{model}', '{timestamp}', "
+        f"sample_fraction={sample_fraction})"
+    )
 
     env = os.environ.copy()
     if message_limit is not None:
@@ -284,8 +293,29 @@ Examples:
         action="store_true",
         help="Skip producing the combined wide-format annotations CSV after the run"
     )
+    parser.add_argument(
+        "--timestamp",
+        default=None,
+        help="Reuse an existing run timestamp instead of generating a new one. "
+             "Pass the exact timestamp token from existing output filenames "
+             "(e.g. '20260317_143022', or 'frac0.05_20260317_143022' for a "
+             "fractional run). Re-running with the same timestamp resumes that run: "
+             "completed benchmarks are skipped (with --mode append) and the final "
+             "combine step merges previously-written CSVs with new ones."
+    )
+    parser.add_argument(
+        "--sample-fraction",
+        type=float,
+        default=1.0,
+        help="Run on a fraction of each task's allocated samples (0 < f <= 1.0). "
+             "E.g. 0.05 runs the first 5%% of each task's allocation. "
+             "Same shuffle seed across runs guarantees an identical subset."
+    )
 
     args = parser.parse_args()
+
+    if not (0.0 < args.sample_fraction <= 1.0):
+        parser.error("--sample-fraction must be in (0.0, 1.0]")
 
     # make sure to update the rubric json file first
     convert_rubrics_to_json(os.path.join(Path(__file__).parent, "rubric_files"), os.path.join(Path(__file__).parent, "rubric.json"))
@@ -328,19 +358,30 @@ Examples:
     print(f"Found {len(filtered_tasks)} task(s) to run:")
     for task_file in filtered_tasks:
         task_name = get_task_name(task_file)
-        print(f"  - {task_name}")
+        full_target = get_target_sample_count(task_name, allocations)
+        scaled = max(1, math.ceil(full_target * args.sample_fraction))
+        print(f"  - {task_name}  ({scaled}/{full_target} samples)")
 
     if args.dry_run:
         print("\nDry run complete. Use --help for more options.")
         return 0
 
-    # Generate a single timestamp shared across all tasks in this run
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    # Reuse a supplied timestamp (resume) or generate a fresh one for this run.
+    # A supplied timestamp is used verbatim, bypassing the frac{f}_ prefixing.
+    if args.timestamp:
+        timestamp = args.timestamp
+    else:
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        if args.sample_fraction < 1.0:
+            # Tag with fraction so partial runs don't collide with full-run filenames
+            timestamp = f"frac{args.sample_fraction}_{timestamp}"
 
     timeout_msg = f" with {args.timeout}s timeout per task" if args.timeout else ""
     print(f"\nStarting annotation tasks{timeout_msg}...")
     limit_msg = f", Message limit: {args.message_limit}" if args.message_limit else ""
-    print(f"Model: {args.model}, Timestamp: {timestamp}{limit_msg}\n")
+    frac_msg = f", Sample fraction: {args.sample_fraction}" if args.sample_fraction < 1.0 else ""
+    resume_msg = " (resuming)" if args.timestamp else ""
+    print(f"Model: {args.model}, Timestamp: {timestamp}{resume_msg}{limit_msg}{frac_msg}\n")
 
     # Run tasks
     successful = 0
@@ -348,10 +389,11 @@ Examples:
 
     for i, task_file in enumerate(filtered_tasks, 1):
         task_name = get_task_name(task_file)
-        target_samples = get_target_sample_count(task_name, allocations)
+        full_target = get_target_sample_count(task_name, allocations)
+        target_samples = max(1, math.ceil(full_target * args.sample_fraction))
         print(f"[{i}/{len(filtered_tasks)}] Running {task_name}")
 
-        if run_task(task_file, args.timeout, args.verbose, target_samples, args.mode, args.model, timestamp, args.message_limit):
+        if run_task(task_file, args.timeout, args.verbose, target_samples, args.mode, args.model, timestamp, args.message_limit, args.sample_fraction):
             successful += 1
         else:
             failed += 1
@@ -375,7 +417,12 @@ Examples:
         )
         print(f"\nCombining annotations into wide format...")
         evaluations_path = os.path.join(script_dir, args.evaluations_dir)
-        result_path = combine_annotations(evaluations_path, combined_output)
+        result_path = combine_annotations(
+            evaluations_path,
+            combined_output,
+            model=args.model,
+            timestamp=timestamp,
+        )
         if result_path:
             print(f"Combined annotations written to: {result_path}")
         else:

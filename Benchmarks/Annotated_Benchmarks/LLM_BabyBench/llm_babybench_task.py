@@ -8,7 +8,7 @@ from inspect_ai.scorer import Score, Scorer, Target, accuracy, choice, includes,
 from inspect_ai.solver import Choices, TaskState, basic_agent, generate, multiple_choice
 from inspect_ai._util.answer import answer_character
 
-from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations, versioned_output_path, DEFAULT_MODEL
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations, versioned_output_path, DEFAULT_MODEL, target_ids_from_csv, run_annotation_eval
 from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 from Benchmarks.Annotated_Benchmarks.LLM_BabyBench.decompose import DecomposeEvaluator
 from Benchmarks.Annotated_Benchmarks.LLM_BabyBench.plan import PlanEvaluator
@@ -198,7 +198,7 @@ def decompose_task() -> Task:
                 )
 
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = ""):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = "", sample_fraction: float = 1.0):
     # Annotate predict task
     output_path_predict = os.path.join(Path(__file__).parent, "llm_babybench_predict_annotations.csv")
     dataset_predict = hf_dataset("salem-mbzuai/LLM-BabyBench",
@@ -207,30 +207,22 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", mo
                                  sample_fields=predict_record_to_sample
                                  )
 
-    # Shuffle dataset for reproducibility FIRST
-    dataset_predict.shuffle(42)
+    target_ids_predict = target_ids_from_csv(
+        output_path_predict,
+        num_samples=num_samples if sample_fraction < 1.0 else None,
+    )
 
-    if mode == "append":
-        already_annotated_ids = get_annotated_sample_ids(output_path_predict)
-        if already_annotated_ids:
-            dataset_predict = dataset_predict.filter(lambda sample: sample.id not in already_annotated_ids)
-        # Calculate remaining samples needed
-        remaining_samples = len(dataset_predict)
-        if remaining_samples <= 0:
-            print(f"All predict samples already annotated. Skipping predict annotation.")
-        else:
-            # Take only what we need
-            dataset_predict = dataset_predict[:min(num_samples, remaining_samples)]
-            annotation_task = annotate_task(dataset_predict)
-            log = eval(annotation_task, model=model)
-            predict_out = versioned_output_path(output_path_predict, model, timestamp) if timestamp else output_path_predict
-            extract_annotations(log[0], predict_out, "overwrite" if timestamp else mode)
+    predict_out = versioned_output_path(output_path_predict, model, timestamp) if timestamp else output_path_predict
+    if mode == "append" and os.path.exists(predict_out):
+        already_done = {str(sid) for sid in get_annotated_sample_ids(predict_out)}
+        target_ids_predict = target_ids_predict - already_done
+
+    if not target_ids_predict:
+        print("All predict samples already annotated. Skipping predict annotation.")
     else:
-        # Overwrite mode - take first num_samples after shuffle
-        dataset_predict = dataset_predict[:num_samples]
+        dataset_predict = dataset_predict.filter(lambda sample: str(sample.id) in target_ids_predict)
         annotation_task = annotate_task(dataset_predict)
-        log = eval(annotation_task, model=model)
-        predict_out = versioned_output_path(output_path_predict, model, timestamp) if timestamp else output_path_predict
+        log = run_annotation_eval(annotation_task, model=model)
         extract_annotations(log[0], predict_out, "overwrite" if timestamp else mode)
 
     # Annotate plan task
@@ -241,30 +233,22 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", mo
                               sample_fields=plan_record_to_sample
                               )
 
-    # Shuffle dataset for reproducibility FIRST
-    dataset_plan.shuffle(42)
+    target_ids_plan = target_ids_from_csv(
+        output_path_plan,
+        num_samples=num_samples if sample_fraction < 1.0 else None,
+    )
 
-    if mode == "append":
-        already_annotated_ids_plan = get_annotated_sample_ids(output_path_plan)
-        if already_annotated_ids_plan:
-            dataset_plan = dataset_plan.filter(lambda sample: sample.id not in already_annotated_ids_plan)
-        # Calculate remaining samples needed
-        remaining_samples_plan = len(dataset_plan)
-        if remaining_samples_plan <= 0:
-            print(f"All plan samples already annotated. Skipping plan annotation.")
-        else:
-            # Take only what we need
-            dataset_plan = dataset_plan[:min(num_samples, remaining_samples_plan)]
-            annotation_task = annotate_task(dataset_plan)
-            log = eval(annotation_task, model=model)
-            plan_out = versioned_output_path(output_path_plan, model, timestamp) if timestamp else output_path_plan
-            extract_annotations(log[0], plan_out, "overwrite" if timestamp else mode)
+    plan_out = versioned_output_path(output_path_plan, model, timestamp) if timestamp else output_path_plan
+    if mode == "append" and os.path.exists(plan_out):
+        already_done = {str(sid) for sid in get_annotated_sample_ids(plan_out)}
+        target_ids_plan = target_ids_plan - already_done
+
+    if not target_ids_plan:
+        print("All plan samples already annotated. Skipping plan annotation.")
     else:
-        # Overwrite mode - take first num_samples after shuffle
-        dataset_plan = dataset_plan[:num_samples]
+        dataset_plan = dataset_plan.filter(lambda sample: str(sample.id) in target_ids_plan)
         annotation_task = annotate_task(dataset_plan)
-        log = eval(annotation_task, model=model)
-        plan_out = versioned_output_path(output_path_plan, model, timestamp) if timestamp else output_path_plan
+        log = run_annotation_eval(annotation_task, model=model)
         extract_annotations(log[0], plan_out, "overwrite" if timestamp else mode)
 
     # Annotate decompose task
@@ -275,30 +259,22 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", mo
                                    sample_fields=decompose_record_to_sample
                                    )
 
-    # Shuffle dataset for reproducibility FIRST
-    dataset_decompose.shuffle(42)
+    target_ids_decompose = target_ids_from_csv(
+        output_path_decompose,
+        num_samples=num_samples if sample_fraction < 1.0 else None,
+    )
 
-    if mode == "append":
-        already_annotated_ids_decompose = get_annotated_sample_ids(output_path_decompose)
-        if already_annotated_ids_decompose:
-            dataset_decompose = dataset_decompose.filter(lambda sample: sample.id not in already_annotated_ids_decompose)
-        # Calculate remaining samples needed
-        remaining_samples_decompose = len(dataset_decompose)
-        if remaining_samples_decompose <= 0:
-            print(f"All decompose samples already annotated. Skipping decompose annotation.")
-        else:
-            # Take only what we need
-            dataset_decompose = dataset_decompose[:min(num_samples, remaining_samples_decompose)]
-            annotation_task = annotate_task(dataset_decompose)
-            log = eval(annotation_task, model=model)
-            decompose_out = versioned_output_path(output_path_decompose, model, timestamp) if timestamp else output_path_decompose
-            extract_annotations(log[0], decompose_out, "overwrite" if timestamp else mode)
+    decompose_out = versioned_output_path(output_path_decompose, model, timestamp) if timestamp else output_path_decompose
+    if mode == "append" and os.path.exists(decompose_out):
+        already_done = {str(sid) for sid in get_annotated_sample_ids(decompose_out)}
+        target_ids_decompose = target_ids_decompose - already_done
+
+    if not target_ids_decompose:
+        print("All decompose samples already annotated. Skipping decompose annotation.")
     else:
-        # Overwrite mode - take first num_samples after shuffle
-        dataset_decompose = dataset_decompose[:num_samples]
+        dataset_decompose = dataset_decompose.filter(lambda sample: str(sample.id) in target_ids_decompose)
         annotation_task = annotate_task(dataset_decompose)
-        log = eval(annotation_task, model=model)
-        decompose_out = versioned_output_path(output_path_decompose, model, timestamp) if timestamp else output_path_decompose
+        log = run_annotation_eval(annotation_task, model=model)
         extract_annotations(log[0], decompose_out, "overwrite" if timestamp else mode)
 
 

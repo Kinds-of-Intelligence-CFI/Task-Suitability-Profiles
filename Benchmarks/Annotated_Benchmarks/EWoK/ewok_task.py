@@ -8,7 +8,7 @@ from inspect_ai.scorer import choice, includes
 from inspect_ai.solver import Choices, basic_agent, multiple_choice
 from inspect_ai._util.answer import answer_character
 
-from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations, versioned_output_path, DEFAULT_MODEL
+from Benchmarks.Annotations.annotate_tasks import annotate_task, extract_annotations, versioned_output_path, DEFAULT_MODEL, target_ids_from_csv, run_annotation_eval
 from Benchmarks.Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 current_hashes = []
@@ -125,33 +125,31 @@ def ewok_task() -> Task:
                 solver=basic_agent(),
         )
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = ""):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite", model: str = DEFAULT_MODEL, timestamp: str = "", sample_fraction: float = 1.0):
     dataset = hf_dataset("ewok-core/ewok-core-1.0",
         split="test",
         sample_fields=record_to_sample,
     )
     output_path = os.path.join(Path(__file__).parent, "ewok_annotations.csv")
 
-    # Shuffle dataset for reproducibility FIRST
-    dataset.shuffle(42)
+    target_ids = target_ids_from_csv(
+        output_path,
+        num_samples=num_samples if sample_fraction < 1.0 else None,
+    )
 
     if mode == "append":
-        already_annotated_ids = get_annotated_sample_ids(output_path)
-        if already_annotated_ids:
-            dataset = dataset.filter(lambda sample: sample.id not in already_annotated_ids)
-        # Calculate remaining samples needed
-        remaining_samples = len(dataset)
-        if remaining_samples <= 0:
-            print(f"All samples already annotated for this task.")
+        resume_path = versioned_output_path(output_path, model, timestamp) if timestamp else output_path
+        if os.path.exists(resume_path):
+            already_done = {str(sid) for sid in get_annotated_sample_ids(resume_path)}
+            target_ids = target_ids - already_done
+        if not target_ids:
+            print(f"All target samples already annotated for this task.")
             return
-        # Take only what we need
-        dataset = dataset[:min(num_samples, remaining_samples)]
-    else:
-        # Overwrite mode - take first num_samples after shuffle
-        dataset = dataset[:num_samples]
+
+    dataset = dataset.filter(lambda sample: str(sample.id) in target_ids)
 
     annotation_task = annotate_task(dataset)
-    log = eval(annotation_task, model=model)
+    log = run_annotation_eval(annotation_task, model=model)
     if timestamp:
         output_path = versioned_output_path(output_path, model, timestamp)
     extract_annotations(log[0], output_path, "overwrite" if timestamp else mode)
