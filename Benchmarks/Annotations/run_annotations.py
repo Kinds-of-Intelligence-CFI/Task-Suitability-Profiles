@@ -158,23 +158,29 @@ def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = Fals
 
     try:
         if verbose:
-            # Direct terminal pass-through - let Inspect AI write directly to terminal
-            process = subprocess.Popen(
-                [sys.executable, "-c", import_cmd],
-                cwd=os.path.dirname(task_file),
-                stdin=subprocess.DEVNULL,
-                env=env,
-            )
-
-            # Handle timeout manually by polling
-            while process.poll() is None:
-                if timeout and (time.time() - start_time) > timeout:
+            # terminal pass-through Inspect AI
+            if timeout is None:
+                return_code = subprocess.call(
+                    [sys.executable, "-c", import_cmd],
+                    cwd=os.path.dirname(task_file),
+                    env=env,
+                )
+            else:
+                process = subprocess.Popen(
+                    [sys.executable, "-c", import_cmd],
+                    cwd=os.path.dirname(task_file),
+                    env=env,
+                )
+                try:
+                    return_code = process.wait(timeout=timeout)
+                except subprocess.TimeoutExpired:
                     process.terminate()
+                    try:
+                        process.wait(timeout=5)
+                    except subprocess.TimeoutExpired:
+                        process.kill()
                     print(f"\n[{task_name}] Timeout after {timeout}s")
                     return False
-                time.sleep(0.1)  # Small sleep to avoid busy waiting
-
-            return_code = process.returncode
         else:
             # Use run() for captured output (current behavior)
             result = subprocess.run(
