@@ -45,7 +45,7 @@ TASKS = {
         "function": "cause_and_effect_task",
     },
     "coqa_task": {
-        "file": "Benchmarks/Annotated_Benchmarks/CoQA/coqa_task.py",
+        "file": "Benchmarks/Annotated_Benchmarks/CoQA/CoQA_task.py",
         "function": "coqa_task",
     },
     "decompose_task": {
