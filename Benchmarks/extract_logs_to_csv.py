@@ -15,7 +15,7 @@ from pathlib import Path
 from inspect_ai.log import read_eval_log, EvalLog, EvalSample
 
 TASK_TO_DATASET = {
-    "abstract_narrative_understanding_task": "abstract_narrative_understanding",
+    "abstract_narrative_understanding_task": "Abstract_Narrative_Understanding",
     "agieval_freeform_task": "AGIEval_freeform",
     "agieval_mcq_task": "AGIEval_mcq",
     "bigbenchhard_task": "BigBenchHard",
